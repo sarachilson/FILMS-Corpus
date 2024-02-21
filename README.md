@@ -5,7 +5,7 @@ The basis for LSWFC is [OpenSubtitles corpus](https://opus.nlpl.eu/OpenSubtitles
 LSWFC also provides a shortened version of the data containing the IPA information from the [Wikipron corpus](https://github.com/CUNY-CL/wikipron/tree/master/data/scrape/tsv).
 
 If you use the LSWFC corpus in your research, please cite the following article:
-Sara Chilson, Xenia Schmalz, Elizaveta Sineva (2023). _[Some article name](link)_. Behavior Research Methods, 56(7), pages.
+Sara Chilson, Elizaveta Sineva, Xenia Schmalz (2024). _[Some article name](link)_. Behavior Research Methods, ##(#), pages.
 
 
 ## Data

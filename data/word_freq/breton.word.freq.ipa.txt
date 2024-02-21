@@ -1,0 +1,309 @@
+Rank	Word	Frequency	Frequency per million	Zipf value	IPA
+1	ket	2603	24526.9863	7.3896	k e  |  k e d
+2	eo	2117	19947.6104	7.2999	e w
+3	eus	1132	10666.3651	7.028	ø s
+4	petra	906	8536.8611	6.9313	p e t ʁ a
+5	gant	864	8141.1126	6.9107	ɡ ã n t
+6	mat	598	5634.7053	6.7509	m aː d
+7	amañ	454	4277.8532	6.6312	ã mː ã
+8	mont	452	4259.008	6.6293	m ɔ̃ n t
+9	bezañ	393	3703.0755	6.5686	b e z ɑ̃
+10	met	385	3627.6949	6.5596	m ɛ d
+11	out	341	3213.1012	6.5069	u t
+12	gwir	289	2723.1268	6.4351	ɡ w i ʁ
+13	re	264	2487.5622	6.3958	ʁ eː
+14	all	263	2478.1396	6.3941	a lː
+15	ebet	259	2440.4493	6.3875	e b ɛ d
+16	piv	258	2431.0267	6.3858	p i w
+17	unan	230	2167.1943	6.3359	ỹː n ã n
+18	pelec'h	199	1875.0942	6.273	p e l ɛː x
+19	holl	191	1799.7136	6.2552	ɔ l
+19	setu	191	1799.7136	6.2552	s e t y
+20	paotr	168	1582.9941	6.1995	p ɔː t ʁ
+21	ivez	147	1385.1199	6.1415	i v e
+22	bremañ	131	1234.3585	6.0914	b ʁ e m ɑ̃
+23	bennak	125	1177.823	6.0711	b ɛ n aː k
+24	den	120	1130.7101	6.0534	d ẽː n
+25	sell	118	1111.8649	6.0461	s ɛ l
+26	trugarez	113	1064.752	6.0272	t ʁ y ɡ a ʁ e
+27	dont	106	998.7939	5.9995	d ɔ̃ n t
+28	komz	103	970.5262	5.987	k ɔ̃ m s
+29	nann	99	932.8358	5.9698	n ã n
+30	hep	98	923.4132	5.9654	h e p
+31	laouen	96	904.5681	5.9564	l ɔ wː ɛ n
+32	tud	94	885.7229	5.9473	t yː d
+33	anv	86	810.3422	5.9087	ɑ̃ n o
+34	penn	82	772.6519	5.888	p ɛ̃ n
+35	lakaat	81	763.2293	5.8827	l a k ɑː t
+36	mamm	79	744.3841	5.8718	m ã mː
+37	aon	74	697.2712	5.8434	ã w n  |  ɔ̃ n
+38	aze	73	687.8486	5.8375	ɑː z e
+39	soudarded	70	659.5809	5.8193	s u d a r d e t
+40	salud	69	650.1583	5.813	s ɑː l y t
+41	c'hwi	68	640.7357	5.8067	f i  |  χ w i
+42	soudard	66	621.8905	5.7937	s uː d a r t
+43	buhez	56	527.6647	5.7224	b y ɛ
+44	tan	54	508.8195	5.7066	t ãː n
+45	bras	53	499.397	5.6984	b ʁ a z
+45	reiñ	53	499.397	5.6984	r ɛ ĩ
+46	deiz	52	489.9744	5.6902	d eː  |  d ɛ j  |  d ɛ j s
+46	kalz	52	489.9744	5.6902	k a l s
+46	nevez	52	489.9744	5.6902	n e v e
+47	devezh	50	471.1292	5.6731	d eː v ɛ s
+48	kentañ	48	452.284	5.6554	k ɛ̃ n t ɑ̃
+49	goulenn	44	414.5937	5.6176	ɡ uː l ɛ n
+50	noz	43	405.1711	5.6076	n oː s
+51	bloaz	38	358.0582	5.554	b l eː  |  b l w ɑː  |  b l w ɑː s
+51	div	38	358.0582	5.554	d i w
+52	dindan	37	348.6356	5.5424	d ɪ̃ n d ɑ̃ n
+52	skuizh	37	348.6356	5.5424	s k ɥ iː s
+53	hent	36	339.213	5.5305	h ɛ̃ n d
+54	bevañ	35	329.7904	5.5182	b e v ɑ̃
+54	kozh	35	329.7904	5.5182	k oː s
+54	kudenn	35	329.7904	5.5182	k yː d ɛ n
+55	adarre	34	320.3679	5.5056	a d a ʁ e
+56	azen	33	310.9453	5.4927	ɑː z ɛ n
+56	dec'h	33	310.9453	5.4927	d ɛː x
+57	boued	31	292.1001	5.4655	b w eː t
+57	lous	31	292.1001	5.4655	l uː s
+58	tad	30	282.6775	5.4513	t ɑː t
+59	aes	28	263.8324	5.4213	ɛ z
+59	tomm	28	263.8324	5.4213	t ɔ mː
+60	breur	27	254.4098	5.4055	b r øː r
+61	etre	26	244.9872	5.3891	e t r e
+61	istor	26	244.9872	5.3891	i s t o ʁ
+61	warc'hoazh	26	244.9872	5.3891	w a r ɣ w ɑː s
+62	fiziañs	25	235.5646	5.3721	f i z j ɑ̃ z
+62	pellgomz	25	235.5646	5.3721	p ɛ l ɡ ɔ̃ m s
+63	dour	24	226.142	5.3544	d uː r
+63	du	24	226.142	5.3544	d yː
+64	gwaz	23	216.7194	5.3359	ɡ w aː  |  ɡ w aː s
+64	spered	23	216.7194	5.3359	s p e ʁ ɛ d
+65	c'hwec'h	22	207.2968	5.3166	x w ɛ x
+65	diaes	22	207.2968	5.3166	d iː ɛ s
+65	digor	22	207.2968	5.3166	d i ɡ o ʁ
+65	douar	22	207.2968	5.3166	d uː a r
+65	pemp	22	207.2968	5.3166	p ɛ m p  |  p ɛ̃ m p
+65	sac'h	22	207.2968	5.3166	s aː x
+66	el	21	197.8743	5.2964	ɛ l
+67	evañ	20	188.4517	5.2752	e v ɑ̃
+67	kaer	20	188.4517	5.2752	k ɛː r
+67	kousket	20	188.4517	5.2752	k u s k ɛ t
+68	beleg	19	179.0291	5.2529	b ɛː l e k
+68	diwelus	19	179.0291	5.2529	d i ɥ eː l y s
+68	drouk	19	179.0291	5.2529	d r uː k
+68	ger	19	179.0291	5.2529	ɡ eː r
+68	karout	19	179.0291	5.2529	k ɑː r u t
+68	moal	19	179.0291	5.2529	m w ɑː l
+69	loen	18	169.6065	5.2294	l w ẽː n
+69	sigaretenn	18	169.6065	5.2294	s i ɡ a r e tː ɛ n
+69	taol	18	169.6065	5.2294	t a w l  |  t ɔː l
+70	biken	17	160.1839	5.2046	b i k ɛ̃ n
+70	breudeur	17	160.1839	5.2046	b r øː d œ r
+70	kalon	17	160.1839	5.2046	k a l õ n  |  k ɑː l ɔ̃ n
+70	skol	17	160.1839	5.2046	s k oː l  |  s k ɔː l
+71	stêr	16	150.7613	5.1783	s t ɛː r
+72	disheñvel	15	141.3388	5.1503	d i s ẽː v ɛ l
+72	dorn	15	141.3388	5.1503	d ɔ r n
+72	hanter	15	141.3388	5.1503	h ɑ̃ n t ɛ ʁ
+73	daouarn	14	131.9162	5.1203	d ɔ wː a r n
+73	debriñ	14	131.9162	5.1203	d e b ʁ ɪ̃
+73	goulennoù	14	131.9162	5.1203	ɡ u l ɛ nː u
+73	gwad	14	131.9162	5.1203	ɡ w aː t
+73	sizhun	14	131.9162	5.1203	s iː z ỹ n
+73	stad	14	131.9162	5.1203	s t a d
+74	yec'hed	13	122.4936	5.0881	j eː ɣ ɛ t
+75	heñvel	12	113.071	5.0534	h ẽː v ɛ l
+76	butun	11	103.6484	5.0156	b y tː y n
+76	deskiñ	11	103.6484	5.0156	d ɛ s k ɪ̃
+76	gwelout	11	103.6484	5.0156	ɡ w e l u d
+76	kinnig	11	103.6484	5.0156	k ĩ n i k
+76	laezh	11	103.6484	5.0156	l ɛː s
+77	alies	10	94.2258	4.9742	a l iː e s
+77	doujañs	10	94.2258	4.9742	d u ʒ ɑ̃ z
+77	emglev	10	94.2258	4.9742	ẽ m ɡ l ɛ w
+77	fri	10	94.2258	4.9742	f r iː
+77	kêr	10	94.2258	4.9742	k ɛː r
+77	meur	10	94.2258	4.9742	m ø ʁ
+77	tev	10	94.2258	4.9742	t e w
+78	daoulagad	9	84.8033	4.9284	d a ʊ l a ɡ a t
+78	gar	9	84.8033	4.9284	ɡ ɑː r
+78	glas	9	84.8033	4.9284	ɡ l ɑː s
+78	gouel	9	84.8033	4.9284	ɡ w ɛ l
+78	maout	9	84.8033	4.9284	m ɔ w t
+78	mezv	9	84.8033	4.9284	m ɛ z w
+78	norzh	9	84.8033	4.9284	n ɔ r s
+78	post	9	84.8033	4.9284	p o s t
+78	speredek	9	84.8033	4.9284	s p e r eː d e k
+79	bemdez	8	75.3807	4.8773	b ɛ̃ m d e
+79	bier	8	75.3807	4.8773	b iː ɛ r
+79	keloù	8	75.3807	4.8773	k ɛː l u
+79	levr	8	75.3807	4.8773	l e w r  |  l eː v ə r
+79	londrez	8	75.3807	4.8773	l ɔ̃ n d r e s  |  l ɔ̃ n d r ə s
+79	nerzh	8	75.3807	4.8773	n ɛ ʁ s
+79	skeudenn	8	75.3807	4.8773	s k ø d ɛ̃ n
+79	startijenn	8	75.3807	4.8773	s t a r t iː ʒ ɛ n
+79	touellañ	8	75.3807	4.8773	t w ɛ lː ã
+80	anvioù	7	65.9581	4.8193	ɑ̃ n v i ɔ ʊ
+80	devezhioù	7	65.9581	4.8193	d e v e z j ɔ ʊ
+80	gerioù	7	65.9581	4.8193	ɡ e ʁ j ɔ ʊ
+80	gwin	7	65.9581	4.8193	ɡ w ɪ̃ n
+80	kaz	7	65.9581	4.8193	k ɑː s
+80	livañ	7	65.9581	4.8193	l iː v ã
+80	oabl	7	65.9581	4.8193	w ɑː p l
+80	skiant	7	65.9581	4.8193	s k iː ã n t
+80	uhel	7	65.9581	4.8193	y ɛ l
+81	brezhonek	6	56.5355	4.7523	b r e z ɔ̃ː n e k
+81	divskouarn	6	56.5355	4.7523	d i v s k w a ʁ n
+81	douaroù	6	56.5355	4.7523	d u aː ʁ ɔ ʊ
+81	eilenn	6	56.5355	4.7523	ɛ j l ɛ n
+81	frouezh	6	56.5355	4.7523	f ʁ w ɛ s
+81	gall	6	56.5355	4.7523	ɡ a lː
+81	gwez	6	56.5355	4.7523	ɡ w e
+81	here	6	56.5355	4.7523	h e ʁ e
+81	kengred	6	56.5355	4.7523	k ɛ n ɡ r e d
+81	marc'h	6	56.5355	4.7523	m a ʁ χ
+81	saout	6	56.5355	4.7523	s a ʊ d  |  s ɔ w t
+81	siwazh	6	56.5355	4.7523	s i wː a s
+81	skinwel	6	56.5355	4.7523	s k ĩ n ɥ e l
+81	speredoù	6	56.5355	4.7523	s p e ʁ e d ɔ ʊ
+81	teir	6	56.5355	4.7523	t e i ʁ
+82	c'hoarier	5	47.1129	4.6731	x w a r iː ɛ r
+82	chadenn	5	47.1129	4.6731	ʃ ɑː d ɛ n
+82	kein	5	47.1129	4.6731	k ɛ j n
+82	lagad	5	47.1129	4.6731	l a ɡ a t
+82	lapin	5	47.1129	4.6731	l a p ɪ n
+82	loened	5	47.1129	4.6731	l o e n ɛ t
+82	louzañ	5	47.1129	4.6731	l uː z ã
+82	naet	5	47.1129	4.6731	n ɛː t
+82	pemoc'h	5	47.1129	4.6731	p e m o x
+82	savadur	5	47.1129	4.6731	s a v ɑː d y r
+82	skeudennoù	5	47.1129	4.6731	s k ø d ɛ n ɔ ʊ
+83	amezeg	4	37.6903	4.5762	ã m eː z e k
+83	avel	4	37.6903	4.5762	ɑː v ɛ l  |  ɑː w ɛ l
+83	bara	4	37.6903	4.5762	b ɑː r a
+83	bazh	4	37.6903	4.5762	b ɑː s
+83	deviñ	4	37.6903	4.5762	d eː v ĩ
+83	ebeul	4	37.6903	4.5762	e b ø l
+83	eontred	4	37.6903	4.5762	ẽ w n t ʁ ɛ t
+83	genver	4	37.6903	4.5762	ɡ ɛ n v ɛ r  |  ɡ ẽ n v ɛ r
+83	gwengolo	4	37.6903	4.5762	ɡ w ɛ n ɡ oː l o
+83	kartenn	4	37.6903	4.5762	k a r t ɛ n
+83	kenavo	4	37.6903	4.5762	k e n a v oː
+83	koshaat	4	37.6903	4.5762	k o s ɑː t
+83	laou	4	37.6903	4.5762	l ɔ w
+83	munut	4	37.6903	4.5762	m ỹː n y t
+83	nav	4	37.6903	4.5762	n a w
+83	pariz	4	37.6903	4.5762	p ɑː r i s
+83	peder	4	37.6903	4.5762	p e d ɛ ʁ
+83	ster	4	37.6903	4.5762	s t eː r
+83	stumm	4	37.6903	4.5762	s t ỹ mː
+84	brec'h	3	28.2678	4.4513	b r eː x
+84	disoc'h	3	28.2678	4.4513	d iː z ɔ x
+84	gwreg	3	28.2678	4.4513	ɡ w r eː k
+84	ivinoù	3	28.2678	4.4513	i v iː n u
+84	iwerzhon	3	28.2678	4.4513	i w ɛ ʁ z ɔ̃ n
+84	kambr	3	28.2678	4.4513	k ã m p r
+84	kar	3	28.2678	4.4513	k ɑː r
+84	kroaz	3	28.2678	4.4513	k r w ɑː s
+84	mammoù	3	28.2678	4.4513	m ã mː u
+84	mil	3	28.2678	4.4513	m iː l
+84	mor	3	28.2678	4.4513	m oː r
+84	naer	3	28.2678	4.4513	n a ɛ r  |  n ɛː r
+84	pounner	3	28.2678	4.4513	p u n ɛ ʁ
+84	santel	3	28.2678	4.4513	s ã n t ɛ l
+84	strizh	3	28.2678	4.4513	s t r iː s
+84	sukr	3	28.2678	4.4513	s y k r
+85	abardaez	2	18.8452	4.2752	a b a r d a ɛ s
+85	aer	2	18.8452	4.2752	ɛ ʁ
+85	aour	2	18.8452	4.2752	a w ʁ  |  ɔ w r
+85	arz	2	18.8452	4.2752	a r s
+85	avaloù	2	18.8452	4.2752	a v ɑː l u
+85	avu	2	18.8452	4.2752	ɑː v y
+85	banniel	2	18.8452	4.2752	b a n j ɛ l
+85	c'hwevrer	2	18.8452	4.2752	x w e v r ɛ r
+85	deizioù	2	18.8452	4.2752	d ɛ j z j ɔ ʊ
+85	delwenn	2	18.8452	4.2752	d ɛ l ɥ ɛ n
+85	digwener	2	18.8452	4.2752	d i ɡ ɥ ẽː n ɛ r
+85	doujañ	2	18.8452	4.2752	d u ʒ ɑ̃
+85	ebrel	2	18.8452	4.2752	e b r ɛ l
+85	eontr	2	18.8452	4.2752	ẽ w n t ʁ
+85	erer	2	18.8452	4.2752	eː ʁ ɛ ʁ
+85	eskern	2	18.8452	4.2752	ɛ s k ɛ ʁ n
+85	eskob	2	18.8452	4.2752	ɛ s k o p
+85	eurier	2	18.8452	4.2752	ø ʁ j ɛ ʁ
+85	gouere	2	18.8452	4.2752	ɡ w e ʁ e
+85	kentel	2	18.8452	4.2752	k ɛ̃ n t ɛ l
+85	kerent	2	18.8452	4.2752	k eː ʁ ɛ̃ n t
+85	kerzu	2	18.8452	4.2752	k ɛ ʁ z y
+85	koad	2	18.8452	4.2752	k w ɑː t
+85	kraoñ	2	18.8452	4.2752	k ʁ ɔ̃
+85	lern	2	18.8452	4.2752	l ɛ ʁ n
+85	leue	2	18.8452	4.2752	l ø e
+85	marc'had	2	18.8452	4.2752	m a r ɣ a t
+85	martolod	2	18.8452	4.2752	m a ʁ t o l o t
+85	meurzh	2	18.8452	4.2752	m œ r s
+85	niver	2	18.8452	4.2752	n iː v ɛ r
+85	pennek	2	18.8452	4.2752	p ɛ nː e k
+85	peul	2	18.8452	4.2752	p øː l
+85	pouez	2	18.8452	4.2752	p w eː s
+85	rinkin	2	18.8452	4.2752	r ĩ ŋ k ĩ n
+85	roue	2	18.8452	4.2752	r uː e
+85	sec'h	2	18.8452	4.2752	s ɛː χ
+85	selloù	2	18.8452	4.2752	s ɛ l ɔ ʊ
+85	steredenn	2	18.8452	4.2752	s t e ʁ e d ɛ̃ n
+85	studioù	2	18.8452	4.2752	s t y d j ɔ ʊ
+85	teñval	2	18.8452	4.2752	t ẽː v a l
+86	arvrec'h	1	9.4226	3.9742	a ʁ v ʁ ɛ x
+86	askorn	1	9.4226	3.9742	a s k ɔ r n
+86	barvek	1	9.4226	3.9742	b a r v ɛ k
+86	bleizi	1	9.4226	3.9742	b l ɛ j z i
+86	brec'hioù	1	9.4226	3.9742	b r ɛ ɣ j u
+86	breizh	1	9.4226	3.9742	b r ɛ j s
+86	broc'h	1	9.4226	3.9742	b ʁ oː x
+86	chug	1	9.4226	3.9742	ʃ yː k
+86	delioù	1	9.4226	3.9742	d e l j u
+86	dilun	1	9.4226	3.9742	d i l ỹː n
+86	dimeurzh	1	9.4226	3.9742	d i m œ r s
+86	diriaou	1	9.4226	3.9742	d i ʁ j a ʊ
+86	disul	1	9.4226	3.9742	d i s yː l
+86	divrec'h	1	9.4226	3.9742	d i v r e x
+86	dogan	1	9.4226	3.9742	d oː ɡ ã n
+86	draen	1	9.4226	3.9742	d ʁ ɛː n
+86	enklask	1	9.4226	3.9742	ẽ ŋ k l a s k
+86	flac'h	1	9.4226	3.9742	f l ɑː x
+86	frioù	1	9.4226	3.9742	f r iː u
+86	frouezhenn	1	9.4226	3.9742	f ʁ w e z ɛ̃ n
+86	glanaat	1	9.4226	3.9742	ɡ l ã n ɑː t
+86	gour	1	9.4226	3.9742	ɡ uː ʁ
+86	gourvezvank	1	9.4226	3.9742	ɡ u r v e z v ã ŋ k
+86	gwalc'hiñ	1	9.4226	3.9742	ɡ w a l ɣ ĩ
+86	gwener	1	9.4226	3.9742	ɡ w e n ɛ ʁ
+86	kazh	1	9.4226	3.9742	k ɑː s
+86	kegin	1	9.4226	3.9742	k eː ɡ ĩ n
+86	kelc'h	1	9.4226	3.9742	k ɛ l x
+86	kelenn	1	9.4226	3.9742	k eː l ə n  |  k eː l ɛ n
+86	kembre	1	9.4226	3.9742	k ɛ̃ m b ʁ e
+86	kevrin	1	9.4226	3.9742	k e v r ĩ n
+86	kevrinus	1	9.4226	3.9742	k e v r ĩː n y s
+86	kontell	1	9.4226	3.9742	k ɔ̃ n t ɛ l
+86	krouiñ	1	9.4226	3.9742	k ʁ u ɪ̃
+86	kuñv	1	9.4226	3.9742	k ỹː
+86	lestr	1	9.4226	3.9742	l ɛ s t  |  l ɛ s t ʁ
+86	logod	1	9.4226	3.9742	l o ɡ o t
+86	lun	1	9.4226	3.9742	l ỹ n
+86	merenn	1	9.4226	3.9742	m eː ʁ ɛ̃ n
+86	moc'h	1	9.4226	3.9742	m oː χ
+86	neñv	1	9.4226	3.9742	n ẽ w
+86	plom	1	9.4226	3.9742	p l ɔ̃ mː
+86	poultrenn	1	9.4226	3.9742	p u l t ʁ ɛ̃ n
+86	relijion	1	9.4226	3.9742	ʁ e l i ʒ j ɔ̃ n
+86	rod	1	9.4226	3.9742	r oː t
+86	rouantelezh	1	9.4226	3.9742	r u ã n t ɛː l ɛ s
+86	saozneg	1	9.4226	3.9742	s o z n e k
+86	stadoù	1	9.4226	3.9742	s t a d ɔ ʊ
+86	sul	1	9.4226	3.9742	s y l
+86	urzhiataer	1	9.4226	3.9742	y r z j a t a ɛː r
+86	yaou	1	9.4226	3.9742	j a ʊ
+86	yer	1	9.4226	3.9742	j eː ʁ
+86	yezh	1	9.4226	3.9742	j eː s

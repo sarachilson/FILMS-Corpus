@@ -1,0 +1,24 @@
+Language: Turkish
+
+Removed characters:
+ {'¾', '≠', '‡', '²', '\x98', '@', '\x92', '「', ':', '┌', '±', '\x9a', '。', '？', '～', '\x84', '─', '\x80', '¬', '2', '\x8e', '�', '¿', '\x93', '・', '5', '\u200b', '\n', '｣', '[', '‚', '≡', '\x7f', '，', '≪', '\x88', '\u202d', '*', '｢', '·', '」', '\x89', '⚇', '~', '＆', '¥', '（', '／', '\x90', '１', '＝', '1', '→', '¯', '÷', '☆', '¤', '\x82', '3', '∞', '\x9c', '\x97', '?', '°', '\u200e', '『', '˜', '♀', '9', '€', '\x9b', ']', '®', '•', '‰', '\x9f', '☺', '£', '8', '´', '§', '２', '\x83', '\x8d', '\x95', ',', '^', '▄', '.', '★', ')', '‐', '\x8c', '³', '!', '}', '♾', '×', '♡', ';', '(', '0', '†', '"', '！', '＋', '〜', '\x9e', '\u206c', '\x87', '7', '）', '\u202c', '|', '\x8b', '$', '\ufeff', '\x8a', '¢', '♂', '♪', '●', '∀', '%', '\x81', '♫', '¹', '/', '¸', '½', '≫', '™', '_', '≈', '♬', '©', '\x86', '¨', '―', '♥', '５', '\x96', '`', '\x9d', '、', '＾', '√', '－', '\x94', '☻', '–', '=', '¡', '¶', '¼', '‒', '4', '{', '\\', '¦', '』', '—', '+', '6', '\x8f', '\x99', '\x91', '\xad', '#', '😘'} 
+
+The average word length within the full corpus text is 5.83.
+The average unique word length within the full corpus 10.66.
+
+The total number of words in the full corpus is 692773303.
+The total number of word types in the full corpus is 3355449.
+
+The total number of characters in the full corpus is 4030687918.
+The total number of character types in the full corpus is 1142.
+
+The total number of bigrams in the full corpus is 4734633682.
+The total number of bigram types in the full corpus is 8749.
+
+The average word length within the IPA corpus text is 3.95.
+The average unique word length within the IPA corpus 6.55.
+
+The total number of words in the IPA corpus is 178064937.
+The total number of word types in the IPA corpus is 3219.
+
+The total runtime is 1:41:47.

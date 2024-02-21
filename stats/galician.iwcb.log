@@ -1,0 +1,24 @@
+Language: Galician
+
+Removed characters:
+ {'"', '0', '—', '\\', '¡', '5', '8', '#', '(', '\n', '`', '´', ']', '_', '³', '.', '7', '°', '£', ')', '$', '\x81', ':', '+', '@', '\x94', '∫', '9', '\u200b', '\x7f', '=', '6', ',', '1', '*', '\x8d', '2', '!', '‡', '/', '[', '%', '\xad', '–', '¿', '·', '4', '\x93', '3', '?', ';'} 
+
+The average word length within the full corpus text is 4.51.
+The average unique word length within the full corpus 8.26.
+
+The total number of words in the full corpus is 1840563.
+The total number of word types in the full corpus is 85437.
+
+The total number of characters in the full corpus is 8303886.
+The total number of character types in the full corpus is 57.
+
+The total number of bigrams in the full corpus is 10147416.
+The total number of bigram types in the full corpus is 1274.
+
+The average word length within the IPA corpus text is 2.9.
+The average unique word length within the IPA corpus 5.98.
+
+The total number of words in the IPA corpus is 674026.
+The total number of word types in the IPA corpus is 2143.
+
+The total runtime is 0:00:19.

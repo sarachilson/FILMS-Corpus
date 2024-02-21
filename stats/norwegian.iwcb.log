@@ -1,0 +1,24 @@
+Language: Norwegian
+
+Removed characters:
+ {'Ⓡ', '¹', '#', '?', '¶', '\x94', '\x86', '–', '{', '+', '.', '$', '=', '™', '÷', '!', '‒', ']', '¨', '}', '\x87', '\x93', ':', '•', '|', '§', '£', '8', '\x81', '\u200f', '\x8a', '´', '\x8d', '¦', '@', '/', '\x82', '\x83', '\u200b', '\x8f', '¿', '~', '˜', '¸', '[', '¤', '\x7f', '\u200e', '±', '€', '(', '¾', '5', '"', ',', '♪', '†', '≈', '_', '\\', '°', '—', '♫', '`', '1', ';', '7', '¡', '2', '³', '©', '¢', '\x9f', '9', '\x9e', '\x9d', '\x91', '²', '\x9b', '4', ')', '\xad', '×', '\n', '\x8b', '\x8c', '^', '%', '½', '¼', '\x9a', '\x88', '\x80', '6', '∆', '3', '¥', '0', '*'} 
+
+The average word length within the full corpus text is 4.07.
+The average unique word length within the full corpus 10.65.
+
+The total number of words in the full corpus is 66751106.
+The total number of word types in the full corpus is 614354.
+
+The total number of characters in the full corpus is 271189453.
+The total number of character types in the full corpus is 193.
+
+The total number of bigrams in the full corpus is 338139160.
+The total number of bigram types in the full corpus is 2554.
+
+The average word length within the IPA corpus text is 2.76.
+The average unique word length within the IPA corpus 6.59.
+
+The total number of words in the IPA corpus is 34036818.
+The total number of word types in the IPA corpus is 1354.
+
+The total runtime is 0:07:21.

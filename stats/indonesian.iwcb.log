@@ -1,0 +1,24 @@
+Language: Indonesian
+
+Removed characters:
+ {'§', '○', '(', '\x91', '_', '♫', '・', '–', '←', '?', '㎡', '´', '≡', '╖', '″', '♡', '☣', '/', '"', '@', ']', '✪', '\\', '◦', '♬', '●', '《', '╢', '∏', '❧', '☁', '£', '『', '₹', '#', '—', '\x95', '¬', '°', '⁈', '©', '\x80', '＃', '╚', '¸', '☞', '6', '¢', ')', '♥', '♪', '♩', '\uf0e0', '\x8c', '^', '☻', '\ufeff', '\u202d', ',', '\xad', '˯', '№', '˜', '+', '0', '🎬', '☜', '¿', '•', '.', '‰', '╗', '╔', '%', '\x93', '²', '�', '¥', '╠', '$', '\x9f', '۞', '\u200e', '✽', '1', '~', '=', '\x9d', '|', '{', '◆', '3', '\x81', '\x89', '\x99', '❤', '¼', '』', '¶', '✩', '✿', '`', '\x8a', '\u200b', '♠', '。', '®', '）', ':', '¦', '╙', '（', '╒', '¨', '÷', '±', '‚', '\x9e', '？', '۩', '\u202a', '¾', '2', '╣', '˘', '◉', '→', '▽', '～', '⬄', '☆', '†', '႔', '℃', '¡', '€', '4', '\x9a', '⇒', '》', '‒', '−', '\u202c', '₩', '⌒', '―', '9', '╜', ';', '\u200f', '\x82', '5', '³', '√', '[', '🌙', '}', '─', '☺', '►', '™', '☯', '☮', '╟', '¹', '๑', '\x9c', '₣', '\x90', '\n', '\x7f', '·', '¯', '₂', '★', '!', '╕', '7', '8', '\x96', '∀', '¤', '\x83', '\x94', '！', '×', '*', '½'} 
+
+The average word length within the full corpus text is 5.4.
+The average unique word length within the full corpus 10.79.
+
+The total number of words in the full corpus is 103093698.
+The total number of word types in the full corpus is 556678.
+
+The total number of characters in the full corpus is 555371623.
+The total number of character types in the full corpus is 704.
+
+The total number of bigrams in the full corpus is 659751042.
+The total number of bigram types in the full corpus is 4314.
+
+The average word length within the IPA corpus text is 4.28.
+The average unique word length within the IPA corpus 6.03.
+
+The total number of words in the IPA corpus is 42679922.
+The total number of word types in the IPA corpus is 1842.
+
+The total runtime is 0:13:07.

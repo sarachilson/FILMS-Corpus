@@ -1,0 +1,24 @@
+Language: Romanian
+
+Removed characters:
+ {'\x8e', ',', '\x8d', '‚', '\x8a', '´', '6', '4', '˙', '1', '%', '\u202a', '〺', '═', '☺', '+', '½', '•', '¶', '}', '‖', '±', '¥', '˛', '"', '\xad', '\u202d', ';', '\x9e', '\x8b', '\x80', '╚', '§', '/', '√', '*', '〰', '╗', '®', '\x83', '\x9c', '\x82', ']', '≈', '₩', '#', '\x9f', '⁴', '°', '\x9d', '=', '⼼', '2', '●', '¯', '_', '\u202b', '■', '\x90', '\x8f', '❃', '\x88', '©', '\x89', '¤', '\x93', '$', '\x98', '▬', '\x81', '@', '¬', '†', '♥', '3', '\x9a', '\u200f', '\x7f', '㈺', '5', '\x86', '\u200b', '‡', '\ue493', '\x9b', '‰', '¹', '³', '✩', '★', '\n', '☻', '¾', '–', '€', '〠', '|', '\x97', '☯', '\ue0eb', '\x84', '—', '˘', '(', '♪', '�', '→', '!', '{', '˝', '∽', '`', '÷', '¼', '\x96', '\u200e', '£', '\u206e', '~', '·', '?', '\ufeff', ')', '.', '\\', '\x99', '\x91', '0', '²', '9', '\x95', '¨', '¸', '\x92', '\x8c', '\u0d65', '¢', '○', '\x94', '¦', '˜', '^', '¡', 'Ⓐ', '∰', '♫', '™', '¿', '《', '[', '№', '7', '\x87', '×', ':', '♬', '\u0df1', '8'} 
+
+The average word length within the full corpus text is 4.31.
+The average unique word length within the full corpus 9.65.
+
+The total number of words in the full corpus is 1009568283.
+The total number of word types in the full corpus is 1911632.
+
+The total number of characters in the full corpus is 4310129019.
+The total number of character types in the full corpus is 478.
+
+The total number of bigrams in the full corpus is 5362941692.
+The total number of bigram types in the full corpus is 7153.
+
+The average word length within the IPA corpus text is 2.74.
+The average unique word length within the IPA corpus 6.88.
+
+The total number of words in the IPA corpus is 369929462.
+The total number of word types in the IPA corpus is 3868.
+
+The total runtime is 1:53:04.

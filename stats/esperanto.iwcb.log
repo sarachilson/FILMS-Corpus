@@ -1,0 +1,24 @@
+Language: Esperanto
+
+Removed characters:
+ {'♫', '‟', '.', '%', '‛', '€', '6', '(', '¡', '?', '¿', '7', '8', '=', '☏', '_', '+', '@', '!', '©', '5', '‚', '*', '³', '/', '[', '9', ';', '¬', '½', '°', '\xad', '\n', '—', ')', '~', ']', '♪', '2', ',', ':', '0', '4', '3', '–', '¼', '\ufeff', '$', '|', '☎', '"', '}', '1'} 
+
+The average word length within the full corpus text is 4.48.
+The average unique word length within the full corpus 7.85.
+
+The total number of words in the full corpus is 443021.
+The total number of word types in the full corpus is 37994.
+
+The total number of characters in the full corpus is 1981344.
+The total number of character types in the full corpus is 81.
+
+The total number of bigrams in the full corpus is 2428715.
+The total number of bigram types in the full corpus is 1164.
+
+The average word length within the IPA corpus text is 3.68.
+The average unique word length within the IPA corpus 6.62.
+
+The total number of words in the IPA corpus is 77168.
+The total number of word types in the IPA corpus is 1452.
+
+The total runtime is 0:00:06.

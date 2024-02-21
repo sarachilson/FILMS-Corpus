@@ -1,0 +1,24 @@
+Language: Persian
+
+Removed characters:
+ {'#', '۵', '\u202e', '♩', '@', 'ⅾ', '\u202c', '،', '٫', '\u200b', '☾', '☯', '☮', '۷', '¶', '2', '®', '╣', '♚', '✅', '╠', '¼', '😂', '§', '۹', '~', '`', '=', '¨', '★', '4', '\u202d', '¿', '٩', '》', '\uf7c8', '٥', '\x7f', '۰', '٦', '：', '©', '❀', '😕', '❊', '．', '™', ']', '¸', ')', '٤', '¬', '\ufeff', '♯', '٢', '☹', '٧', '♕', '≈', '%', '€', '≡', '◄', '–', '♥', '\u200e', '×', '١', ':', '.', '\u200c', '!', '؛', '0', '8', '✽', '|', '¯', '→', '\u200d', '►', '♡', '£', '♫', '\u206c', '$', '\xad', '—', '⏭', '∞', '"', '+', '‖', '\x96', '7', '•', '٬', '{', '↕', '¡', '۴', '۶', '\x8d', '۞', '[', '_', '}', ',', '▪', '\u200f', '√', '☺', '☆', '❂', '°', '😾', '☣', '´', '\x81', '·', '✿', '٠', '۱', '۲', '9', '½', '\x9d', '◊', '\u202b', '☻', '✾', '٣', '▶', '♪', '\x90', ';', '3', '¹', '?', '˜', '◀', '\\', '٨', '¢', '⏮', '\n', '6', '💔', '/', '1', '(', '♬', '*', '۳', '《', '\u202a', '�', '±', '←', '÷', '♠', '٪', '¤', '۸', '5', '؟', '^', '❤', '💘'} 
+
+The average word length within the full corpus text is 3.85.
+The average unique word length within the full corpus 8.6.
+
+The total number of words in the full corpus is 63666227.
+The total number of word types in the full corpus is 823372.
+
+The total number of characters in the full corpus is 245223388.
+The total number of character types in the full corpus is 217.
+
+The total number of bigrams in the full corpus is 308921388.
+The total number of bigram types in the full corpus is 4883.
+
+The average word length within the IPA corpus text is 2.85.
+The average unique word length within the IPA corpus 4.47.
+
+The total number of words in the IPA corpus is 21733192.
+The total number of word types in the IPA corpus is 2714.
+
+The total runtime is 0:07:45.

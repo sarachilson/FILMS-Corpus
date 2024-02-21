@@ -1,0 +1,24 @@
+Language: Malayalam
+
+Removed characters:
+ {'4', '*', '^', '7', '"', '\n', '—', '6', '♭', '{', '൮', '1', '$', '[', '≡', ';', '0', '°', ')', '3', ',', ':', '\\', '–', '―', '\u200c', '¾', '¶', '~', '♫', '½', '8', '\u200d', '൬', '(', '♬', '%', '9', '}', '\x7f', '൨', '=', '൪', '\ufeff', '\u202b', '+', '@', '\u200b', '/', '\u202a', '|', '൯', '♥', '¬', '?', '☺', '`', '!', '൦', '♦', '.', '_', '♪', '൩', '\u202d', '#', '\x92', '5', ']', '2', '♩'} 
+
+The average word length within the full corpus text is 7.71.
+The average unique word length within the full corpus 12.2.
+
+The total number of words in the full corpus is 1766900.
+The total number of word types in the full corpus is 270562.
+
+The total number of characters in the full corpus is 13616544.
+The total number of character types in the full corpus is 113.
+
+The total number of bigrams in the full corpus is 15385559.
+The total number of bigram types in the full corpus is 4031.
+
+The average word length within the IPA corpus text is 3.66.
+The average unique word length within the IPA corpus 5.0.
+
+The total number of words in the IPA corpus is 108554.
+The total number of word types in the IPA corpus is 445.
+
+The total runtime is 0:00:41.

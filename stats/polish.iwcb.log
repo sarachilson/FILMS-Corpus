@@ -1,0 +1,24 @@
+Language: Polish
+
+Removed characters:
+ {'=', '\x8f', '‚', '─', '\x95', '√', '?', '9', '←', '\x84', '¥', '¡', '\ufeff', '˚', ',', '\x9c', '\u200f', '・', '①', '🎜', '˘', '·', '\x9a', '\x94', '∑', '˝', '☮', '～', '/', '♫', '_', '―', '⌐', '5', '\u202d', '⑤', ';', '‿', '!', '¢', '¸', '˛', '\x86', '◕', '−', '[', '€', '∂', '\x8d', '8', '☻', '\u202b', '´', '—', '\x83', '²', '{', '\x81', '\u200c', '♪', '\x97', '\x82', '\x93', '→', '\x99', 'ⓒ', '④', '\u200b', '\x9b', '@', '¿', '②', '\x8c', '③', '6', '\x9f', '|', '$', '3', '¦', '！', '¯', '`', '•', '☆', '%', ']', '\u202a', '\x9d', '×', '\x80', '\x98', '™', '\x8b', '†', '‡', '¹', '�', '4', '٦', '♬', '\x87', '÷', '½', '′', '\x88', '©', ':', '\x89', '\u206b', '¨', '–', '7', '}', '\x91', '\\', '｡', '「', '#', '\x96', '§', '⑥', '®', '2', '+', '*', '~', '？', '\ue001', '\x92', '\x8a', '£', '0', '」', ')', '\x7f', '♥', '(', '🎶', '‰', '¤', '˙', '\u200e', '■', '˜', '↑', '^', '\n', '\x9e', '.', '±', '\x90', '°', '³', '₤', '"', '\x8e', '¬', '1', '🎝', '¶', '₩', '№', '\xad'} 
+
+The average word length within the full corpus text is 5.11.
+The average unique word length within the full corpus 9.69.
+
+The total number of words in the full corpus is 1047464948.
+The total number of word types in the full corpus is 2120647.
+
+The total number of characters in the full corpus is 5344792887.
+The total number of character types in the full corpus is 1255.
+
+The total number of bigrams in the full corpus is 6395011786.
+The total number of bigram types in the full corpus is 9087.
+
+The average word length within the IPA corpus text is 4.49.
+The average unique word length within the IPA corpus 7.71.
+
+The total number of words in the IPA corpus is 859496657.
+The total number of word types in the IPA corpus is 66289.
+
+The total runtime is 2:13:33.

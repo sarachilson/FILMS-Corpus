@@ -1,0 +1,24 @@
+Language: Tamil
+
+Removed characters:
+ {',', '3', '#', '$', '/', '(', '♪', '=', ')', '4', '1', '%', '5', ']', '\n', '@', '"', '8', '9', '\x80', '2', '_', ':', ';', '?', '0', '^', '£', '7', '[', '\u202b', '.', '*', '!', '\u202c', '6'} 
+
+The average word length within the full corpus text is 6.63.
+The average unique word length within the full corpus 10.12.
+
+The total number of words in the full corpus is 145569.
+The total number of word types in the full corpus is 21086.
+
+The total number of characters in the full corpus is 965028.
+The total number of character types in the full corpus is 75.
+
+The total number of bigrams in the full corpus is 1111154.
+The total number of bigram types in the full corpus is 1932.
+
+The average word length within the IPA corpus text is 4.7.
+The average unique word length within the IPA corpus 5.75.
+
+The total number of words in the IPA corpus is 51725.
+The total number of word types in the IPA corpus is 965.
+
+The total runtime is 0:00:04.

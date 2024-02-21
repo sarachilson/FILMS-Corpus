@@ -1,0 +1,24 @@
+Language: Tagalog
+
+Removed characters:
+ {'1', '$', ';', ':', '8', '[', '\\', ']', '/', '\n', ',', '!', '(', '♪', '?', '9', '*', '5', '%', '2', '—', '{', '3', '0', '7', '"', '.', '6', '}', '4', '#', ')'} 
+
+The average word length within the full corpus text is 4.72.
+The average unique word length within the full corpus 7.62.
+
+The total number of words in the full corpus is 101610.
+The total number of word types in the full corpus is 10812.
+
+The total number of characters in the full corpus is 477360.
+The total number of character types in the full corpus is 28.
+
+The total number of bigrams in the full corpus is 580867.
+The total number of bigram types in the full corpus is 635.
+
+The average word length within the IPA corpus text is 3.61.
+The average unique word length within the IPA corpus 6.1.
+
+The total number of words in the IPA corpus is 61151.
+The total number of word types in the IPA corpus is 1642.
+
+The total runtime is 0:00:03.

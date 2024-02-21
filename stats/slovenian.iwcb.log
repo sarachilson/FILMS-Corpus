@@ -1,0 +1,24 @@
+Language: Slovenian
+
+Removed characters:
+ {'\x8e', '3', '÷', '\x83', '±', '\x81', '⌠', '\x99', '1', '\x86', '{', '~', '—', '¨', '₤', '˘', '\xad', '5', '¢', '\x93', '\x80', '/', '¸', '´', '\x9e', '!', ']', '×', '"', ':', '0', '+', '\x8c', '\x87', '¤', '\x94', ')', '˝', '\x96', '\x9b', '¦', '\x9d', '6', '\x89', '|', ';', '\x98', '‰', '$', '`', '.', '˛', '¶', '\x88', '†', '╚', '¾', '\x8a', '?', '€', '\x84', '\\', '\x82', '‚', '₩', '¹', '\x8b', '\x9c', '\ufeff', '°', '#', '=', '7', '™', '\x90', '\u200b', '–', '®', '￡', '(', '෴', '\x8f', '¬', '%', '\x7f', '}', '_', '�', '[', '\x91', '@', '4', '\x9f', '•', '\x97', '^', '£', '*', '·', '˙', '§', '\x8d', '¿', '2', '9', '\n', '\x92', '8', '©', '\x95', ',', '♪', '\x9a'} 
+
+The average word length within the full corpus text is 4.42.
+The average unique word length within the full corpus 8.67.
+
+The total number of words in the full corpus is 266903471.
+The total number of word types in the full corpus is 1040035.
+
+The total number of characters in the full corpus is 1178571937.
+The total number of character types in the full corpus is 121.
+
+The total number of bigrams in the full corpus is 1445856923.
+The total number of bigram types in the full corpus is 3141.
+
+The average word length within the IPA corpus text is 2.98.
+The average unique word length within the IPA corpus 6.55.
+
+The total number of words in the IPA corpus is 126058370.
+The total number of word types in the IPA corpus is 3698.
+
+The total runtime is 0:31:09.

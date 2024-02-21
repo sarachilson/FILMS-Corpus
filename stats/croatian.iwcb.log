@@ -1,0 +1,24 @@
+Language: Croatian
+
+Removed characters:
+ {'%', '℀', '°', ',', '\uf020', '⸀', '\x89', '™', '\x88', '?', '0', '$', '1', '܁', '¿', ')', '\x9d', '¯', '[', '\x9f', '\x87', '\x83', '#', '\x80', '\x93', '(', '¦', '˛', '¹', '.', '©', '|', '◀', '‡', '\x95', '~', '`', '\x8e', '–', '²', '2', '÷', '□', '\ue0eb', '´', '*', '☺', '8', '\x97', '˜', '\x91', '�', '§', '—', '♫', '✅', '‚', '"', '\x9c', '\x92', '\x86', '→', '¢', '!', '\x8a', '\ufeff', '}', '×', '¡', '5', '/', '\x84', '\ufff3', '•', '\x9b', '○', '¶', '¼', '˝', '\x8d', '\ue262', ';', '\x9e', '\xad', '6', ']', '9', '†', '\ue261', '±', '€', '\x94', '\x90', '4', '\u202b', '\u200e', '+', '^', '∆', '¸', '\x82', ':', '\n', '№', '¬', '\x7f', '\x8f', '\u200b', '╙', '\\', '¨', '☐', '7', '⸁', '\uf095', '┴', '▶', '↓', '˘', '3', '♬', '\x96', '\x8b', '¾', '@', '܀', '®', '♪', '¤', '\x99', '←', '_', '¥', '˙', '‰', '£', '♥', '{', '½', '\x98', '\x81', '=', '·', '\x8c', '³', '\x9a'} 
+
+The average word length within the full corpus text is 4.44.
+The average unique word length within the full corpus 9.18.
+
+The total number of words in the full corpus is 536718087.
+The total number of word types in the full corpus is 2031783.
+
+The total number of characters in the full corpus is 2383998809.
+The total number of character types in the full corpus is 313.
+
+The total number of bigrams in the full corpus is 2921965929.
+The total number of bigram types in the full corpus is 6609.
+
+The average word length within the IPA corpus text is 3.62.
+The average unique word length within the IPA corpus 7.84.
+
+The total number of words in the IPA corpus is 257280015.
+The total number of word types in the IPA corpus is 20315.
+
+The total runtime is 1:01:50.

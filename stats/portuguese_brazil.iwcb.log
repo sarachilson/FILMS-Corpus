@@ -1,0 +1,24 @@
+Language: Portuguese_brazil
+
+Removed characters:
+ {'´', '♬', '—', '\x8e', '£', '\x8b', '\\', '½', '0', '｣', '±', '☻', '∂', '¶', '+', '╔', '，', '★', '·', '6', '|', '7', '」', '*', ')', '@', '\u202b', '№', '˜', '‰', '\x89', '♥', '™', '¯', '3', '\x91', '¡', '8', '\x82', '\x90', '•', '˙', '‟', '€', '∞', '\uf8f9', '⎪', '5', '\x8a', '!', ',', '\x83', '▪', '¹', '2', '%', '¨', '‐', '\u200e', '→', '¤', '\x9a', '\x87', '?', '`', '9', '=', '§', '¢', '☎', ':', '「', '1', '\x98', '\x93', '¿', '¬', '–', '！', '\x99', '\x97', '？', '\u202c', '♫', '×', '\uf0b0', '\x9c', '[', '\x9d', '‚', '\x84', '├', ']', '}', '\x9b', '\x95', '(', '―', '｢', '¼', '❤', '\x8f', '・', '¥', '\n', '˚', '°', '÷', '\x80', '、', '\x81', ';', '/', '─', '。', '#', '³', '►', '￦', '�', '{', '\u202d', '☆', '"', '4', '\x8d', '.', '†', '~', '‡', '\x86', '♕', '☺', '¦', '\x9f', '®', '²', '_', '\x7f', '$', '©', '\x92', '\x88', '^', '\x94', '\x96', '‒', '¾', '۞', '₩', '\ufeff', '■', '¸', '\u200b', '\uf18d', '♪', '\xad', '☯', '\x8c', '\u200c', '\x9e'} 
+
+The average word length within the full corpus text is 4.42.
+The average unique word length within the full corpus 10.16.
+
+The total number of words in the full corpus is 1312888017.
+The total number of word types in the full corpus is 1673229.
+
+The total number of characters in the full corpus is 5792936761.
+The total number of character types in the full corpus is 921.
+
+The total number of bigrams in the full corpus is 7118234313.
+The total number of bigram types in the full corpus is 8077.
+
+The average word length within the IPA corpus text is 3.66.
+The average unique word length within the IPA corpus 7.05.
+
+The total number of words in the IPA corpus is 536276240.
+The total number of word types in the IPA corpus is 6873.
+
+The total runtime is 2:22:04.

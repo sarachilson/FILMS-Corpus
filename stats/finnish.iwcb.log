@@ -1,0 +1,24 @@
+Language: Finnish
+
+Removed characters:
+ {'=', '\x9c', '~', '÷', ']', '@', '‑', '3', '\xad', '±', '!', ';', '€', '©', '/', '°', '{', '×', '¨', '·', '`', '‚', '[', '¶', '8', '"', '\x8c', '4', '\u200b', '�', '–', '\x8f', '¹', '\x9d', '♫', '\\', '\x9f', '^', '*', '™', '‒', '¾', '9', '†', '\n', ',', '♪', '\x81', '‰', '¿', '?', '§', '¯', '¡', '6', '¬', '—', '#', '%', '7', '$', '³', '¼', '¸', '•', ')', '¥', '¤', '½', '+', '}', '―', '\ufeff', '(', ':', '¢', '˜', '1', '5', '²', '´', '\x7f', '£', '2', '.', '_', '®', '0', '|'} 
+
+The average word length within the full corpus text is 5.97.
+The average unique word length within the full corpus 12.07.
+
+The total number of words in the full corpus is 201992189.
+The total number of word types in the full corpus is 2717049.
+
+The total number of characters in the full corpus is 1205562932.
+The total number of character types in the full corpus is 105.
+
+The total number of bigrams in the full corpus is 1408227954.
+The total number of bigram types in the full corpus is 2402.
+
+The average word length within the IPA corpus text is 4.44.
+The average unique word length within the IPA corpus 9.9.
+
+The total number of words in the IPA corpus is 99739187.
+The total number of word types in the IPA corpus is 41433.
+
+The total runtime is 0:29:33.

@@ -1,0 +1,24 @@
+Language: Catalan
+
+Removed characters:
+ {'}', '%', '6', '#', '´', '♪', '‰', ';', '¡', '¨', '¿', '`', '$', '\x9d', '–', '{', ')', '—', '~', '^', '3', '£', '?', '·', ']', '¹', '•', '7', '§', '2', '+', '[', '1', ':', '*', '.', '5', '8', '/', '=', '¼', '9', '!', '(', '\n', '¯', '@', '½', '4', '°', '"', '_', '€', '²', '\u200b', ',', '0', '™'} 
+
+The average word length within the full corpus text is 4.28.
+The average unique word length within the full corpus 8.63.
+
+The total number of words in the full corpus is 3426919.
+The total number of word types in the full corpus is 93516.
+
+The total number of characters in the full corpus is 14496365.
+The total number of character types in the full corpus is 62.
+
+The total number of bigrams in the full corpus is 18100041.
+The total number of bigram types in the full corpus is 1547.
+
+The average word length within the IPA corpus text is 3.66.
+The average unique word length within the IPA corpus 7.5.
+
+The total number of words in the IPA corpus is 2515041.
+The total number of word types in the IPA corpus is 14432.
+
+The total runtime is 0:00:35.

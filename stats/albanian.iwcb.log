@@ -1,0 +1,24 @@
+Language: Albanian
+
+Removed characters:
+ {'·', '0', '"', '´', '˘', '1', '\\', '❶', '↨', '€', '‡', '№', '˙', '#', '▓', '@', '•', '×', '\x89', '{', '=', '˝', ')', '\uf0e0', '3', '✠', ':', '¨', '‚', '¶', '\x87', '}', '?', '[', '%', '㋡', '\x92', '\x9c', '♪', '\x84', '8', '\x8c', ']', '®', '_', '©', '5', '\x83', '☠', '\x95', '¸', '\x82', '¤', '*', '™', '♔', '�', '÷', ';', '/', '—', '§', '.', '¦', '4', '2', '`', '¡', '–', '\x80', '|', '^', '6', '(', '\x7f', ',', '9', '+', '\xad', '£', '7', '\n', '\u200b', '\x81', '°', '~', '!', '$'} 
+
+The average word length within the full corpus text is 4.16.
+The average unique word length within the full corpus 8.11.
+
+The total number of words in the full corpus is 18629241.
+The total number of word types in the full corpus is 278046.
+
+The total number of characters in the full corpus is 77376942.
+The total number of character types in the full corpus is 119.
+
+The total number of bigrams in the full corpus is 96202111.
+The total number of bigram types in the full corpus is 2273.
+
+The average word length within the IPA corpus text is 3.1.
+The average unique word length within the IPA corpus 6.06.
+
+The total number of words in the IPA corpus is 4969816.
+The total number of word types in the IPA corpus is 956.
+
+The total runtime is 0:02:11.

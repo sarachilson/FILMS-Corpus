@@ -1,0 +1,24 @@
+Language: Breton
+
+Removed characters:
+ {'9', '$', '/', '7', '€', ':', '1', '�', '™', ';', '6', '3', '5', '√', '(', '2', '0', '"', ',', '¡', '?', '%', '¬', '!', '.', '4', '\n', '8', '£', ')', '–'} 
+
+The average word length within the full corpus text is 4.42.
+The average unique word length within the full corpus 7.09.
+
+The total number of words in the full corpus is 106128.
+The total number of word types in the full corpus is 8971.
+
+The total number of characters in the full corpus is 448143.
+The total number of character types in the full corpus is 36.
+
+The total number of bigrams in the full corpus is 574703.
+The total number of bigram types in the full corpus is 667.
+
+The average word length within the IPA corpus text is 3.79.
+The average unique word length within the IPA corpus 5.4.
+
+The total number of words in the IPA corpus is 17362.
+The total number of word types in the IPA corpus is 308.
+
+The total runtime is 0:00:01.

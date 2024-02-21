@@ -1,0 +1,24 @@
+Language: Estonian
+
+Removed characters:
+ {'©', '\x7f', ',', '"', '€', '§', '˛', '¼', '$', '!', '}', '.', '%', ')', '¦', '=', '8', ';', '0', '°', '5', '£', '\x8a', '`', '4', '´', '#', '\x9d', '¤', '@', '÷', '\x8d', '\xad', '•', '¡', '\\', '\x9c', '¨', '*', '½', '¢', '\x9f', '3', '¶', '\x9e', '7', '\n', '‰', '\x8f', '(', '\u200b', '\x80', '/', '³', '¸', '¹', '†', '9', '[', '‚', '·', '?', '¾', '|', '―', '²', '\x95', '—', '¿', '^', '®', '+', '\x81', '~', '–', '±', '1', ']', '\x9a', '_', '\u202c', '{', '\uf8fc', '™', '6', '♪', '2', '×', ':', '\x84'} 
+
+The average word length within the full corpus text is 4.88.
+The average unique word length within the full corpus 10.33.
+
+The total number of words in the full corpus is 125545706.
+The total number of word types in the full corpus is 1150689.
+
+The total number of characters in the full corpus is 612704749.
+The total number of character types in the full corpus is 128.
+
+The total number of bigrams in the full corpus is 738792969.
+The total number of bigram types in the full corpus is 2592.
+
+The average word length within the IPA corpus text is 2.92.
+The average unique word length within the IPA corpus 6.18.
+
+The total number of words in the IPA corpus is 15140702.
+The total number of word types in the IPA corpus is 512.
+
+The total runtime is 0:15:21.

@@ -1,0 +1,24 @@
+Language: Czech
+
+Removed characters:
+ {'[', '\x9f', '¹', '™', '_', '\x82', '‒', '℀', '\x88', '☺', '＋', '‰', '～', '（', '′', '￣', '3', '□', '、', '\x8d', '\uf6e4', '″', '0', '\x80', '¿', '×', '？', '‡', '∆', '˘', '┌', '(', ';', '\u200e', '\x83', '1', '~', '℁', '✀', '¡', '\xad', '¸', '┐', ']', '−', '£', '⸁', '€', '\x99', '\u202c', '®', '\x93', '%', ':', '\x9b', '†', '°', '\x8a', '\x91', '\u200b', '؟', '‑', '}', '\ue101', '\x9c', '\ue900', '\x9e', '2', '¯', '≠', '\x84', '✔', '˙', '\x9d', '"', '¶', '∑', '｢', '©', ')', '¢', '8', ',', '±', '）', '\x8e', '³', '☼', '+', '¤', '\x8c', '！', '☆', '\x94', '–', '¨', '—', '#', '¾', '`', '‐', '\x8b', '÷', '\ued01', '´', '•', '\n', '6', '♪', '・', '∞', '≡', '\x97', '4', '\x9a', '²', '\x8f', '♬', '|', '§', '‚', '\ue100', '★', '⇒', '\x96', '\x92', '5', '●', '■', '˜', '\uf301', '¦', '9', '.', '\\', '「', '。', '7', '\ued00', '⼀', '\u202b', '№', '½', '^', '\x95', '【', '\x87', '｣', '˝', '$', '¥', '{', '=', '♥', '\uf300', '!', '\u202a', '\u202d', '*', '】', '\x7f', '\x90', '·', '\x98', '\ufeff', '@', '\x81', '→', '\x89', '♫', '¬', '˛', '?', '←', '∀', '/', '」', '₩', '⸀', '❤'} 
+
+The average word length within the full corpus text is 4.49.
+The average unique word length within the full corpus 9.12.
+
+The total number of words in the full corpus is 638991598.
+The total number of word types in the full corpus is 2249784.
+
+The total number of characters in the full corpus is 2870666723.
+The total number of character types in the full corpus is 706.
+
+The total number of bigrams in the full corpus is 3510872905.
+The total number of bigram types in the full corpus is 7468.
+
+The average word length within the IPA corpus text is 3.29.
+The average unique word length within the IPA corpus 6.12.
+
+The total number of words in the IPA corpus is 186153136.
+The total number of word types in the IPA corpus is 2625.
+
+The total runtime is 1:17:03.

@@ -1,0 +1,24 @@
+Language: Kazakh
+
+Removed characters:
+ {']', ',', '9', ':', '.', '"', '\n', '5', '7', '4', '6', '–', '2', '3', '[', '%', '?', '0', '!', '+', '8', '1'} 
+
+The average word length within the full corpus text is 5.47.
+The average unique word length within the full corpus 7.16.
+
+The total number of words in the full corpus is 14204.
+The total number of word types in the full corpus is 4744.
+
+The total number of characters in the full corpus is 77650.
+The total number of character types in the full corpus is 63.
+
+The total number of bigrams in the full corpus is 91932.
+The total number of bigram types in the full corpus is 840.
+
+The average word length within the IPA corpus text is 3.64.
+The average unique word length within the IPA corpus 3.72.
+
+The total number of words in the IPA corpus is 587.
+The total number of word types in the IPA corpus is 43.
+
+The total runtime is 0:00:01.

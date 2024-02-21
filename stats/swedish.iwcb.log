@@ -1,0 +1,24 @@
+Language: Swedish
+
+Removed characters:
+ {'.', '\x99', ';', '¶', '1', '‚', '/', '—', '6', '\u200b', '`', '–', '\xad', '\n', '§', '\x8a', '♫', '¼', '¬', '\x80', '9', '\x7f', '@', '®', '❃', ']', '☹', '□', '\x9a', '*', '\x94', '#', '\x8d', '™', '\x8c', '♥', '+', '¨', '♪', '¡', '\x93', '€', '8', '£', '†', '\x9d', ',', '!', '^', '?', '\x90', '\x96', '\\', '(', '3', '©', '∞', '¤', '˜', '¦', '%', '³', '0', '•', '¥', '2', '4', '$', '\x86', '☯', '\x8e', '¹', '×', '´', '7', '\x8f', '―', '{', '5', '[', '¿', '¾', '\x81', '¢', '♭', '‡', '²', '_', '\x92', '½', '}', '¯', '‒', '|', '★', '"', ')', '\x82', '¸', '∂', '=', '\x84', '°', '~', ':', '±'} 
+
+The average word length within the full corpus text is 4.16.
+The average unique word length within the full corpus 10.73.
+
+The total number of words in the full corpus is 188522291.
+The total number of word types in the full corpus is 1042259.
+
+The total number of characters in the full corpus is 783378524.
+The total number of character types in the full corpus is 144.
+
+The total number of bigrams in the full corpus is 972302250.
+The total number of bigram types in the full corpus is 3112.
+
+The average word length within the IPA corpus text is 3.13.
+The average unique word length within the IPA corpus 5.88.
+
+The total number of words in the IPA corpus is 124041294.
+The total number of word types in the IPA corpus is 3006.
+
+The total runtime is 0:20:56.

@@ -1,0 +1,24 @@
+Language: German
+
+Removed characters:
+ {'§', '\u200b', ',', '\u200f', '"', '‾', '^', '\u2e77', '³', '\x84', '¸', ')', '5', '–', '\x98', '†', '¥', '♫', '·', '4', '‡', '\ufeff', '¶', '?', '¦', '❤', '〺', '―', '♬', '{', '¿', '😂', '‟', '\n', '2', '0', '£', '`', '\u200e', '˚', '\x9e', '\x99', '_', '。', '˝', '±', '€', '.', '⁴', '8', '−', '!', '¢', '≈', '\x9c', '´', '\\', '│', '(', '+', '\x7f', '|', '\u0a0d', '¼', '/', '¡', '⌢', '‚', '\x94', '×', '\u202d', '3', '$', '}', '\uf8ff', '—', '%', '•', '\x9a', '\x9f', '\x91', '©', '\x8d', ':', '〰', '°', ']', '♪', '²', '‰', '\x93', '≤', '7', '\x8b', '¯', '~', '@', '\x92', '\x96', '�', '←', '，', '*', '÷', '\x9d', '！', '9', '♥', '\x80', '™', '[', '¬', '₤', '¾', '\u2e73', '¤', '\x8a', '¨', '6', '#', '=', '\x81', '½', '1', '®', '\x9b', ';', '།', '¹', '\xad', '༈'} 
+
+The average word length within the full corpus text is 4.75.
+The average unique word length within the full corpus 11.82.
+
+The total number of words in the full corpus is 218681795.
+The total number of word types in the full corpus is 1270337.
+
+The total number of characters in the full corpus is 1037541369.
+The total number of character types in the full corpus is 207.
+
+The total number of bigrams in the full corpus is 1257743684.
+The total number of bigram types in the full corpus is 3431.
+
+The average word length within the IPA corpus text is 4.15.
+The average unique word length within the IPA corpus 9.04.
+
+The total number of words in the IPA corpus is 172467528.
+The total number of word types in the IPA corpus is 27878.
+
+The total runtime is 0:26:08.

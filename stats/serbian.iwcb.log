@@ -1,0 +1,24 @@
+Language: Serbian
+
+Removed characters:
+ {'°', '±', '†', '。', '\x8d', '\x90', '.', '¶', '%', '{', '½', '´', '¤', '˝', '7', '\\', '¥', '→', '/', '\u200b', '\u202d', '∞', ':', '4', '§', '²', '☻', '¨', '\x88', '$', '8', '¡', '\x9a', '(', '£', '˙', '|', '\xad', '♣', '©', '_', '�', '↑', '•', '¼', '*', '‚', '#', '—', '·', '1', '¿', '\x7f', '\x98', '\x81', '"', ';', '\x8a', '¾', '\ue48c', '}', '■', '▶', '\x99', '÷', ']', '♪', '¯', '™', '3', '‧', '9', '!', ')', '\x96', '[', '€', '5', '@', '¬', '\x9e', '˜', '¸', '¢', '★', '2', '®', '×', '6', '~', '☮', '←', '‡', ',', '+', '\x91', '☺', '\u200e', '\n', '\x92', '\x8e', '⸀', '‰', '=', '?', '\x8c', '・', '–', '^', '¦', '³', '\ue49a', '`', '№', '\ufeff', '♥', '¹', '❤', '0', '○', '、', '♫'} 
+
+The average word length within the full corpus text is 4.35.
+The average unique word length within the full corpus 8.96.
+
+The total number of words in the full corpus is 805288353.
+The total number of word types in the full corpus is 3141423.
+
+The total number of characters in the full corpus is 3504376982.
+The total number of character types in the full corpus is 413.
+
+The total number of bigrams in the full corpus is 4311597696.
+The total number of bigram types in the full corpus is 7341.
+
+The average word length within the IPA corpus text is 3.41.
+The average unique word length within the IPA corpus 7.66.
+
+The total number of words in the IPA corpus is 354512604.
+The total number of word types in the IPA corpus is 34857.
+
+The total runtime is 1:33:37.

@@ -1,0 +1,24 @@
+Language: Urdu
+
+Removed characters:
+ {'\xad', '؛', '¨', '¦', '6', '¹', '(', '۶', '$', '±', '®', '☮', '¬', '؟', '§', '÷', '¤', '\n', '♪', '¶', '°', '9', '*', '¯', '?', '۵', '¸', '[', '2', '\u200b', '=', '٫', ']', '½', '7', '·', '٥', '²', ':', ')', '١', '£', '¡', '_', '´', '€', '\u200f', '\\', '1', '۸', '،', '5', '¼', '"', '³', '.', '/', '©', ',', '¢', '×', '\u0602', '۲', '۹', '۷', '¥', '۔', '8', '¿', '4', '۱', '۳', '3', '#', '¾', '۴', '٪', '۰', '!', '0', '\u200e'} 
+
+The average word length within the full corpus text is 3.29.
+The average unique word length within the full corpus 4.97.
+
+The total number of words in the full corpus is 275525.
+The total number of word types in the full corpus is 13125.
+
+The total number of characters in the full corpus is 904800.
+The total number of character types in the full corpus is 107.
+
+The total number of bigrams in the full corpus is 1180685.
+The total number of bigram types in the full corpus is 2952.
+
+The average word length within the IPA corpus text is 2.75.
+The average unique word length within the IPA corpus 4.16.
+
+The total number of words in the IPA corpus is 100683.
+The total number of word types in the IPA corpus is 728.
+
+The total runtime is 0:00:03.

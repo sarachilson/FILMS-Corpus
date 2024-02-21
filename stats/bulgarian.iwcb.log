@@ -1,0 +1,24 @@
+Language: Bulgarian
+
+Removed characters:
+ {'\x99', '#', '♮', '2', '´', '5', '3', '1', '⼼', '[', '€', '§', '|', '(', '¢', '°', '×', '•', '%', '^', '=', '〠', '♪', '0', '\n', '¡', '\x9c', '\x9e', '@', '¦', '\xad', ',', '\x97', '‰', ';', '┘', '7', '³', '♬', '♥', '¬', '6', '\x9d', '\x8e', '$', '—', '♭', '∽', '∰', '\x80', '8', '©', '♩', '·', '¾', '4', '‚', '\\', '：', '*', '†', '®', ']', '+', ')', '♫', '}', '\u200b', '・', '/', '\u200d', '■', '9', '?', '\x83', '.', '○', '▼', '☺', '{', '\x9a', '〰', '∙', '¿', '\x7f', '~', '☆', '½', '《', '₩', '\u200e', '±', '\u202d', '–', '²', '_', '!', '`', '"', '£', '‡', '¨', '〺', '¤', ':', '\x96', '㈺', '♯', '¶', '™', '№'} 
+
+The average word length within the full corpus text is 4.4.
+The average unique word length within the full corpus 9.29.
+
+The total number of words in the full corpus is 467657370.
+The total number of word types in the full corpus is 1731899.
+
+The total number of characters in the full corpus is 2054397611.
+The total number of character types in the full corpus is 304.
+
+The total number of bigrams in the full corpus is 2525479748.
+The total number of bigram types in the full corpus is 5425.
+
+The average word length within the IPA corpus text is 4.19.
+The average unique word length within the IPA corpus 8.37.
+
+The total number of words in the IPA corpus is 43157363.
+The total number of word types in the IPA corpus is 16641.
+
+The total runtime is 0:57:44.

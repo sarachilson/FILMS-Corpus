@@ -1,0 +1,24 @@
+Language: Slovak
+
+Removed characters:
+ {'˛', '\x96', '·', '♬', '"', '?', '\x9e', '£', '\x9d', '$', '(', '!', '´', '#', '¢', '\x9c', '♫', '\x8b', '¡', '\x81', '8', '\x83', '\x80', '¦', '|', '¾', '\u202d', '¼', '–', '\x95', ':', '+', '•', '*', '\x8e', '¹', '\x82', '7', '}', '\x9a', '§', '{', '®', '˙', '@', '♪', '」', '.', ')', '¸', '÷', '/', ',', '½', '_', '\u200f', '「', '！', '\x94', '\x93', '1', '`', '。', '—', '2', '=', '4', '\x99', ';', '\u200b', '\x90', '6', '¨', '^', '゜', '¶', '\u202a', '\x7f', '・', '5', '\x98', '\x91', '◇', '~', '†', '∧', '、', '±', '\x97', '˝', '\\', '\x8f', '˘', '¿', '\x88', '¬', '☭', '►', '0', '3', '°', '€', '♥', '\n', '☆', '\ufeff', '‚', '[', ']', '¤', '\x8c', '9', '‡', '™', '？', '©', '%', '\x8a', '\x8d', '²', '\xad'} 
+
+The average word length within the full corpus text is 4.5.
+The average unique word length within the full corpus 8.86.
+
+The total number of words in the full corpus is 76890517.
+The total number of word types in the full corpus is 850361.
+
+The total number of characters in the full corpus is 345564959.
+The total number of character types in the full corpus is 460.
+
+The total number of bigrams in the full corpus is 422614308.
+The total number of bigram types in the full corpus is 4398.
+
+The average word length within the IPA corpus text is 3.3.
+The average unique word length within the IPA corpus 6.17.
+
+The total number of words in the IPA corpus is 20106000.
+The total number of word types in the IPA corpus is 3030.
+
+The total runtime is 0:09:41.

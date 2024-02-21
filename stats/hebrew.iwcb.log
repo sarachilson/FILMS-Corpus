@@ -1,0 +1,24 @@
+Language: Hebrew
+
+Removed characters:
+ {'\uf7a3', '•', '0', '♪', '5', '?', '☮', '¾', '\uf7c0', '\u202c', '×', '\x9a', '\x9c', '%', '6', '♫', '\ue0dd', '\uf893', '[', '´', '9', '"', '8', '\uf7a7', '־', '†', '☹', '\x9e', '\uf88e', '∞', '*', '¯', '\u200b', '¤', '\u200f', '◆', '7', '°', '\uf894', '\x9d', '\\', '״', '׳', '.', '}', '\uf825', '\xad', '✓', '¸', '\uf7a4', '¡', '3', '–', ';', '☺', '_', '§', '♥', '‐', '—', '�', '™', '¥', '˜', '\n', '\x7f', '\u202b', '²', '·', '\uf890', '\u202a', '®', '\uf88d', '\uf7aa', '\ue262', '÷', '\x8e', '₪', '♦', '\uf7a5', '\u200e', '|', '½', '♣', ':', '‡', '¹', '\u202d', '\uf7a2', '~', '/', '@', '£', '☯', '₩', ')', '(', '׃', '1', '\uf895', '¶', '4', '¼', '#', '\uf7a6', '`', '►', '$', '\x80', '』', '√', '\x90', '♬', '€', '^', '\uf896', '『', '\uf892', '\x8c', '!', '2', '¿', '‰', '¬', '\uf7bf', '{', '¨', ',', '\x8a', '±', '■', '¢', '³', ']', '\x9f', '©', '+', '¦', '=', '№', '‚', '׀'} 
+
+The average word length within the full corpus text is 3.95.
+The average unique word length within the full corpus 8.84.
+
+The total number of words in the full corpus is 399840640.
+The total number of word types in the full corpus is 1960205.
+
+The total number of characters in the full corpus is 1576273472.
+The total number of character types in the full corpus is 378.
+
+The total number of bigrams in the full corpus is 1980902461.
+The total number of bigram types in the full corpus is 5780.
+
+The average word length within the IPA corpus text is 2.87.
+The average unique word length within the IPA corpus 4.17.
+
+The total number of words in the IPA corpus is 96472433.
+The total number of word types in the IPA corpus is 842.
+
+The total runtime is 0:48:12.

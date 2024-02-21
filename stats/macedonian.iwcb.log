@@ -1,0 +1,24 @@
+Language: Macedonian
+
+Removed characters:
+ {'"', '\\', '1', '5', '\x9b', '?', '♪', '7', '^', '4', '¥', '|', '[', '.', '%', ';', '\x80', '\x8f', '!', '˚', '‡', '{', '�', '\x93', '#', '\x98', '\x9c', '€', '(', ')', '*', '\x8c', '\x94', '№', '©', '2', '\x81', '¦', '6', '\x92', '\x9e', '\x96', '\x87', '/', '£', '\x90', '~', '•', '0', ']', '`', '@', '—', '\x82', '\x91', '\x8a', '=', '‚', '¤', '8', '●', '9', '\x83', '™', '\x86', '±', '\xad', '\x88', '_', '}', '\x9f', '\x99', '°', '\x9d', ',', '$', '\x84', '\n', '–', ':', '®', '3', '\x95', '+', '\x97', '¶', '\x9a', '\u200b'} 
+
+The average word length within the full corpus text is 4.37.
+The average unique word length within the full corpus 8.48.
+
+The total number of words in the full corpus is 38395663.
+The total number of word types in the full corpus is 374537.
+
+The total number of characters in the full corpus is 167560625.
+The total number of character types in the full corpus is 102.
+
+The total number of bigrams in the full corpus is 206096221.
+The total number of bigram types in the full corpus is 3510.
+
+The average word length within the IPA corpus text is 3.46.
+The average unique word length within the IPA corpus 7.71.
+
+The total number of words in the IPA corpus is 27091762.
+The total number of word types in the IPA corpus is 29753.
+
+The total runtime is 0:05:17.

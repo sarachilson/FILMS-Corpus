@@ -1,0 +1,24 @@
+Language: Hindi
+
+Removed characters:
+ {'5', '६', '·', '|', '\x99', '\u200b', '९', '¡', '*', '°', '0', '£', '_', '+', '[', '€', '~', '4', '6', '$', '५', '3', '\n', '♪', '१', '7', '‚', '@', '♫', '}', '२', '©', ',', ':', '^', '§', '७', '०', '।', '.', '/', '%', ';', '?', '\x80', '2', '\u200d', ']', '"', '9', '³', '८', ')', '(', '8', '!', '=', '४', '#', '1', '३', '{'} 
+
+The average word length within the full corpus text is 3.58.
+The average unique word length within the full corpus 6.56.
+
+The total number of words in the full corpus is 784148.
+The total number of word types in the full corpus is 29329.
+
+The total number of characters in the full corpus is 2804794.
+The total number of character types in the full corpus is 159.
+
+The total number of bigrams in the full corpus is 3590382.
+The total number of bigram types in the full corpus is 4097.
+
+The average word length within the IPA corpus text is 3.21.
+The average unique word length within the IPA corpus 5.31.
+
+The total number of words in the IPA corpus is 542743.
+The total number of word types in the IPA corpus is 4773.
+
+The total runtime is 0:00:11.

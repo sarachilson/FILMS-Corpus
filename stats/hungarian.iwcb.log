@@ -1,0 +1,24 @@
+Language: Hungarian
+
+Removed characters:
+ {'、', '\x97', '\x9d', '\x90', '™', '①', ';', '÷', '\x9f', '\x95', '¸', '？', '∰', '(', '•', '6', '³', '%', '\ufeff', '▪', '｢', '–', '♥', '〺', ':', '|', '☻', '\x81', '7', '\x89', '０', '^', '∽', '\x87', '9', '∆', '=', '�', '☺', '‡', '\x86', '★', '\uf02d', '+', '4', '┌', '╔', '`', '\x9e', '°', '\u0cf4', ',', '」', '〠', '，', '¦', '\x8a', '*', '\x84', '8', '┴', '²', '\x94', '\n', '\x8c', '。', '˛', '《', '×', '¤', '0', '¢', '@', '~', '5', '·', '±', '†', '2', '♫', '№', '☆', '→', '‐', '□', '‚', '\x7f', '②', '♪', '—', '\x8b', '¾', '\x92', '¬', '■', '♂', '\x96', '−', '♦', '⼼', '{', '\x98', '≠', '#', '\x8d', '｣', '\\', '_', '‰', '∑', '「', '─', '₩', '・', '¡', '˝', '\x8f', '⒢', '$', '\xad', '¨', '[', '\u200b', '!', '▄', '£', '☼', '/', '©', '§', '\x80', '∀', '）', '❤', '"', '\x99', ')', '\x9c', '˙', '?', ']', '®', '═', '\x9b', '3', '♡', '\x93', '\x91', '\x9a', '１', '\x88', '℃', '█', '.', '¿', '♀', '～', '´', '€', '\x83', '˚', '\u202d', '1', '●', '˘', '♬', '}', '\x82', '㈺', '（', '！', '¥', '¶', '〰'} 
+
+The average word length within the full corpus text is 5.23.
+The average unique word length within the full corpus 10.77.
+
+The total number of words in the full corpus is 451317419.
+The total number of word types in the full corpus is 3760943.
+
+The total number of characters in the full corpus is 2355092037.
+The total number of character types in the full corpus is 1020.
+
+The total number of bigrams in the full corpus is 2809641991.
+The total number of bigram types in the full corpus is 8382.
+
+The average word length within the IPA corpus text is 4.41.
+The average unique word length within the IPA corpus 8.15.
+
+The total number of words in the IPA corpus is 357336332.
+The total number of word types in the IPA corpus is 49639.
+
+The total runtime is 1:01:56.

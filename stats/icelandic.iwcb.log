@@ -1,0 +1,24 @@
+Language: Icelandic
+
+Removed characters:
+ {'"', '6', ':', '½', '\x93', '+', '\x91', '[', '˛', '(', '8', '1', '}', ']', '|', ',', '–', '*', '{', '¤', '\x94', '♪', '\x84', '\x7f', '!', '0', '`', '@', '9', '\n', '´', '7', '£', '¨', '\x9a', '5', '\x97', '?', '\x92', '\u200b', '\x96', '%', '$', '~', '\x82', '3', '‚', '¿', '=', '#', '4', ';', ')', '_', '.', '/', '®', '2', '�', '°'} 
+
+The average word length within the full corpus text is 4.41.
+The average unique word length within the full corpus 9.57.
+
+The total number of words in the full corpus is 9558737.
+The total number of word types in the full corpus is 273564.
+
+The total number of characters in the full corpus is 42091535.
+The total number of character types in the full corpus is 74.
+
+The total number of bigrams in the full corpus is 51668102.
+The total number of bigram types in the full corpus is 2325.
+
+The average word length within the IPA corpus text is 3.31.
+The average unique word length within the IPA corpus 6.22.
+
+The total number of words in the IPA corpus is 3175322.
+The total number of word types in the IPA corpus is 6179.
+
+The total runtime is 0:01:26.

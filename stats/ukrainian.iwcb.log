@@ -1,0 +1,24 @@
+Language: Ukrainian
+
+Removed characters:
+ {':', '♫', '(', '€', '・', '\xad', '¿', '1', '╡', '6', '|', '3', '\uf701', '2', '/', ';', '_', '─', '▐', '●', '╞', '±', '┤', '└', '⌡', '┐', '█', '╟', '¤', '\ufeff', '†', '[', '№', '‡', '√', '┼', '╛', '!', '}', '―', '\u200b', '\x98', '=', '?', '‰', '╧', '‚', '╚', '╦', '´', '▌', ']', '®', '╨', '©', '░', '♪', '5', '▀', '§', ',', '7', '—', '`', '#', '^', '¶', '~', '–', '0', ')', '"', '╪', '▒', '┬', '▄', '∙', '·', '$', '╩', '@', '¬', '%', '┌', '■', '\n', '.', '╔', '−', '═', '\\', '╠', '⌠', '¦', '²', '£', '┘', '╬', '*', '▓', '°', '┴', '÷', '4', '+', '├', '{', '≤', '│', '║', '≈', '9', '8', '╒', '╣', '╗'} 
+
+The average word length within the full corpus text is 4.7.
+The average unique word length within the full corpus 8.32.
+
+The total number of words in the full corpus is 5742861.
+The total number of word types in the full corpus is 310463.
+
+The total number of characters in the full corpus is 26934788.
+The total number of character types in the full corpus is 135.
+
+The total number of bigrams in the full corpus is 32739816.
+The total number of bigram types in the full corpus is 3703.
+
+The average word length within the IPA corpus text is 3.3.
+The average unique word length within the IPA corpus 7.57.
+
+The total number of words in the IPA corpus is 2138853.
+The total number of word types in the IPA corpus is 7259.
+
+The total runtime is 0:01:05.

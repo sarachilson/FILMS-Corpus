@@ -1,0 +1,24 @@
+Language: Greek
+
+Removed characters:
+ {'‡', '\u2e77', '↑', '⅔', '0', '┴', '╩', ',', '※', '》', '⅛', ']', '1', '*', '╚', '¾', '♦', '４', '☻', '╬', '╛', '‾', '→', '\uf8fb', '、', '\x86', '₩', '·', '№', '\x94', '÷', '\u200f', '╞', '\\', '\x9f', '∰', '\u202a', '°', '≈', '$', '√', '¿', '\u202d', '├', '●', '#', '¨', '\x91', '\x90', '/', '€', '♫', '\x9d', '₃', '\x92', '♥', ';', '\ufeff', '―', '┐', '\x89', '[', '╟', '╪', '‰', '΄', '–', '▐', '\uf8f9', '΅', '■', '?', '൮', '‐', '╨', '\x8e', '☭', '\x9b', '˙', '⁰', '൲', '▌', '¹', '₄', '℃', '\x87', '\uf7c4', '₯', '©', '\x8f', '⬄', '\x93', '¦', '2', '\n', '!', '㈺', '\x98', '′', '᾽', '║', '6', '5', '╙', '}', '〺', '\x88', '\x82', '᾿', '≤', '¸', '\x9c', '▄', '\x8b', '\u206f', '=', '\x8c', '\u200e', '\u0a0d', '×', '┼', '.', '™', '\x95', '⁴', '·', '¤', '¢', '£', '╣', '\x84', '+', '▣', '♂', '"', '\x8a', ')', '╕', '•', '０', '\x97', '\u2e73', '・', '{', '═', '⇒', '`', '|', '☺', '⁄', '╒', '♒', '¡', '\u200b', '\u2e65', '7', '_', '¥', '@', '\x9e', '†', '\x7f', '⌢', '♡', '○', '１', '\ue0dd', '½', '╓', '❤', '‟', '9', '《', '\uf8fa', '¶', '3', '\x80', '%', '\x9a', '¬', '4', '\x8d', '╠', '₂', '\u202c', '\x99', '♬', '┬', '\x81', '³', '∙', '\u200d', ';', '〰', ':', '(', '�', '∞', '╔', '♪', '‚', '╤', '〠', '§', '˘', '▀', '²', '`', '≥', '─', '®', '~', '—', '\x83', '8', '″', '∽', '⅓', '\uf7c5', '╦', '¼', '±', '⼼', '\x96', '^', '´', '\uf7c2', '：', '\xad'} 
+
+The average word length within the full corpus text is 4.76.
+The average unique word length within the full corpus 9.55.
+
+The total number of words in the full corpus is 646747477.
+The total number of word types in the full corpus is 2091608.
+
+The total number of characters in the full corpus is 3073281303.
+The total number of character types in the full corpus is 533.
+
+The total number of bigrams in the full corpus is 3727841957.
+The total number of bigram types in the full corpus is 8221.
+
+The average word length within the IPA corpus text is 3.89.
+The average unique word length within the IPA corpus 8.21.
+
+The total number of words in the IPA corpus is 203411768.
+The total number of word types in the IPA corpus is 6922.
+
+The total runtime is 1:27:10.

@@ -1,0 +1,24 @@
+Language: Armenian
+
+Removed characters:
+ {'`', '"', '~', '՝', '4', '․', '–', ':', ';', ',', '3', '9', '6', '(', '7', '°', '5', ')', '՛', '#', '՞', '։', '՜', '2', '%', '0', '?', '\n', '.', '1', '8', '!'} 
+
+The average word length within the full corpus text is 4.79.
+The average unique word length within the full corpus 6.97.
+
+The total number of words in the full corpus is 24224.
+The total number of word types in the full corpus is 6811.
+
+The total number of characters in the full corpus is 115879.
+The total number of character types in the full corpus is 61.
+
+The total number of bigrams in the full corpus is 140148.
+The total number of bigram types in the full corpus is 1080.
+
+The average word length within the IPA corpus text is 3.66.
+The average unique word length within the IPA corpus 5.92.
+
+The total number of words in the IPA corpus is 13970.
+The total number of word types in the IPA corpus is 1524.
+
+The total runtime is 0:00:01.

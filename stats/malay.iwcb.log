@@ -1,0 +1,24 @@
+Language: Malay
+
+Removed characters:
+ {'{', ',', '§', '*', '♡', '\x89', '\x80', '♩', '\x99', '—', '(', '´', '\x9a', '℅', ';', '＃', '\xad', '،', '™', '\x8a', '3', '\x9e', '1', '|', '♬', '✿', '\x95', '\x9d', ']', '≡', '♪', '[', '}', '.', '²', '\n', '¨', '?', '%', '2', '\\', '_', '5', '0', '\x9c', '¡', '·', '\u200e', '8', '♧', '½', '¥', '¸', '4', '$', '7', '°', '6', '9', '♤', '¶', '±', '\u200b', '"', '`', '+', '!', '۞', '©', '\x86', '¬', '=', '~', '�', '¢', '✆', '\ufeff', '÷', '^', '♥', '/', '£', '•', '■', '–', '\x8d', '❧', '\x7f', '@', '\x81', '€', '☮', '®', '♫', '✽', '¿', '\ue493', ':', '□', ')', '#'} 
+
+The average word length within the full corpus text is 5.24.
+The average unique word length within the full corpus 9.2.
+
+The total number of words in the full corpus is 17254881.
+The total number of word types in the full corpus is 157126.
+
+The total number of characters in the full corpus is 90293733.
+The total number of character types in the full corpus is 160.
+
+The total number of bigrams in the full corpus is 107750020.
+The total number of bigram types in the full corpus is 1886.
+
+The average word length within the IPA corpus text is 4.23.
+The average unique word length within the IPA corpus 5.44.
+
+The total number of words in the IPA corpus is 9409586.
+The total number of word types in the IPA corpus is 1500.
+
+The total runtime is 0:02:15.

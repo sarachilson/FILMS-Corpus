@@ -1,0 +1,24 @@
+Language: Latvian
+
+Removed characters:
+ {'£', '$', '¹', ']', '~', '[', '*', '\x8a', '#', '®', '\x80', '/', '9', '\\', '¾', '5', '"', '.', '{', ':', '}', ',', '©', '2', '♪', '4', '¦', '3', '(', '%', '\n', '7', '\xad', '`', '1', '—', '\x9e', '\x9a', '°', '¶', ';', '\x8e', '\x81', '?', '!', '+', '=', '|', '6', '_', '@', ')', '\x8c', '0', '–', '^', '8'} 
+
+The average word length within the full corpus text is 4.98.
+The average unique word length within the full corpus 8.23.
+
+The total number of words in the full corpus is 2562410.
+The total number of word types in the full corpus is 150985.
+
+The total number of characters in the full corpus is 12747676.
+The total number of character types in the full corpus is 73.
+
+The total number of bigrams in the full corpus is 15312631.
+The total number of bigram types in the full corpus is 1971.
+
+The average word length within the IPA corpus text is 2.92.
+The average unique word length within the IPA corpus 5.47.
+
+The total number of words in the IPA corpus is 603863.
+The total number of word types in the IPA corpus is 920.
+
+The total runtime is 0:00:31.

@@ -1,0 +1,24 @@
+Language: Lithuanian
+
+Removed characters:
+ {'〺', '‾', '(', '—', '_', '˛', '`', '\u200b', '|', '*', '?', '\x81', '@', '8', '¿', '©', '1', '\u0a0d', '=', '%', '5', '²', '\u2e77', '·', '\u2e73', '˙', '¹', '}', '#', '‟', '¡', '–', '¼', '$', '\n', '®', ']', '"', ':', '£', '‚', '‰', '〰', '/', '^', '2', '\x8e', '{', '6', '°', '4', '\x9e', '\\', '¾', '7', ',', '!', '¸', '¤', '⌢', '•', '[', '€', '±', '×', '+', '0', '\x96', ')', '¶', '\x8a', '3', '~', '\x9a', '♪', '.', '9', '½', ';', '\u202d', '⁴'} 
+
+The average word length within the full corpus text is 5.33.
+The average unique word length within the full corpus 8.72.
+
+The total number of words in the full corpus is 8165190.
+The total number of word types in the full corpus is 336182.
+
+The total number of characters in the full corpus is 43541270.
+The total number of character types in the full corpus is 135.
+
+The total number of bigrams in the full corpus is 51719442.
+The total number of bigram types in the full corpus is 2270.
+
+The average word length within the IPA corpus text is 2.91.
+The average unique word length within the IPA corpus 5.94.
+
+The total number of words in the IPA corpus is 1054963.
+The total number of word types in the IPA corpus is 268.
+
+The total runtime is 0:01:26.

@@ -1,0 +1,24 @@
+Language: Italian
+
+Removed characters:
+ {']', '「', '♡', '‡', '|', '\x84', '\u200e', '\ufeff', '\u206e', '\x83', '¸', '♪', '_', '®', '∑', '5', '⌢', '‰', '\x97', '¬', '0', '/', '–', '\u2e73', '¾', '⁴', '\x90', '\x99', ':', ',', '✾', '❦', '^', '\\', '¤', '¥', '\x96', '¡', '`', '€', '☻', '∂', '：', '9', '★', '¿', '\x88', '←', '１', '‾', '\x95', '✂', '☠', '〺', '˘', '"', '˙', ')', '=', '@', '√', '\x8d', '\xad', '±', '8', '\u0a0d', '\x92', '\x9f', '･', '¼', '¢', '\x82', '♥', '¯', '?', '\x91', '¦', '\x7f', '•', '§', '!', '♂', ';', '－', '▫', '．', '・', '~', '\x98', '✘', '\u2e77', '〰', '¨', '\n', '\x8e', '♬', '✓', '†', '+', '\x80', '#', '\ue009', '∫', '.', '\x81', '©', '₩', '\u200b', '6', '？', '°', '\x94', '˜', '—', '¹', '◦', '☺', '\x9c', '²', '☣', '[', '�', '\x93', '‚', '♫', '█', '2', '{', '\u202c', '」', '÷', '£', '7', '™', '}', '$', '½', '*', '¶', '《', '\u200c', '\x8f', '\x9d', '´', '≠', '→', '·', '２', '×', '\x8a', '\u202d', '\x89', '1', '❤', '☐', '%', '3', '》', '♀', '⊥', '(', '３', '4', '✔', '³'} 
+
+The average word length within the full corpus text is 4.68.
+The average unique word length within the full corpus 9.93.
+
+The total number of words in the full corpus is 569747334.
+The total number of word types in the full corpus is 1097818.
+
+The total number of characters in the full corpus is 2636363949.
+The total number of character types in the full corpus is 530.
+
+The total number of bigrams in the full corpus is 3237460479.
+The total number of bigram types in the full corpus is 3965.
+
+The average word length within the IPA corpus text is 4.18.
+The average unique word length within the IPA corpus 8.45.
+
+The total number of words in the IPA corpus is 431124051.
+The total number of word types in the IPA corpus is 34283.
+
+The total runtime is 1:04:52.

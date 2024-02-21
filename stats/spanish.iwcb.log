@@ -1,0 +1,24 @@
+Language: Spanish
+
+Removed characters:
+ {'¡', '\x90', '\x80', '¹', '\x8a', '\xad', '─', '¥', '〰', '\u2e73', '‐', '｢', '=', '–', '★', '♥', '\ufeff', '(', '\x97', '/', '6', '*', '؟', '\x91', '˜', '。', '\u202b', '€', ';', '♫', '˙', '\x9f', '`', '¨', '\u200b', '\x9d', '@', '⁴', ']', '_', '☺', '\uf071', '¢', '9', '‡', '¾', '¸', '「', '６', '」', '.', '½', '\u200e', '\uf0a7', '}', '‚', '\u200c', '‾', '×', '○', '8', '1', ':', '™', '⬄', '\x87', '―', '\x93', '£', '\x8b', '♪', '\x9b', '\x86', '•', '０', '①', '︿', '²', '{', '■', '\x89', '√', '\x8d', '|', '１', '�', '\x92', '\x98', '←', '）', '®', '″', '\x84', '©', '\x8c', '\uf0b7', '3', '～', '·', '\x9a', ')', '▓', '№', '¼', '♡', '８', '،', '\x82', '´', '—', '\x8f', '！', '5', '[', '\u2e77', '｣', '4', '⌢', '\x83', '、', '❤', '′', '╔', '／', '\x88', '②', '₂', '∎', '^', '2', '\x94', '♬', '¯', '"', '‰', '＃', '\u202a', '\x8e', '¶', '☯', '0', '΅', '7', '¤', '｡', '!', '\x99', '〺', '%', '#', '≈', '±', '÷', '（', '∫', '¬', '\x95', '΄', '\x9c', '＆', '\x7f', '☆', '□', '°', '\x81', '\n', '\\', '？', '³', '¿', '₩', '$', '↓', '?', ',', '¦', '†', '+', '\x96', '§', '\x9e', '・', '~', '\u0a0d', '\u200f'} 
+
+The average word length within the full corpus text is 4.44.
+The average unique word length within the full corpus 9.73.
+
+The total number of words in the full corpus is 1136643562.
+The total number of word types in the full corpus is 1813749.
+
+The total number of characters in the full corpus is 5046199022.
+The total number of character types in the full corpus is 814.
+
+The total number of bigrams in the full corpus is 6184234347.
+The total number of bigram types in the full corpus is 7847.
+
+The average word length within the IPA corpus text is 3.87.
+The average unique word length within the IPA corpus 8.5.
+
+The total number of words in the IPA corpus is 824894423.
+The total number of word types in the IPA corpus is 43548.
+
+The total runtime is 2:06:51.

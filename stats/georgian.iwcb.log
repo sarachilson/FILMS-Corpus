@@ -1,0 +1,24 @@
+Language: Georgian
+
+Removed characters:
+ {'1', '\x90', '©', '♪', '}', '\n', '[', '–', '~', '£', '²', '`', '3', '\x8f', '½', ']', '@', '¨', '=', '\x8d', '\x81', ',', '\x80', '6', '\\', '®', ';', '\x8e', '$', ':', '—', '?', '#', '|', '\x9d', '¼', '*', '°', '÷', '9', '™', '%', '.', '/', '!', '{', '(', '+', '0', '7', '2', '5', '4', '¾', ')', '_', '8', '"', '¹'} 
+
+The average word length within the full corpus text is 4.38.
+The average unique word length within the full corpus 7.7.
+
+The total number of words in the full corpus is 1239084.
+The total number of word types in the full corpus is 96584.
+
+The total number of characters in the full corpus is 5420862.
+The total number of character types in the full corpus is 92.
+
+The total number of bigrams in the full corpus is 6667018.
+The total number of bigram types in the full corpus is 2543.
+
+The average word length within the IPA corpus text is 1.77.
+The average unique word length within the IPA corpus 6.58.
+
+The total number of words in the IPA corpus is 102922.
+The total number of word types in the IPA corpus is 1864.
+
+The total runtime is 0:00:24.

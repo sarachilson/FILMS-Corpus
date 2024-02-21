@@ -1,0 +1,24 @@
+Language: Telugu
+
+Removed characters:
+ {']', '2', '£', '~', '7', '$', ',', '²', '?', '5', ';', '6', '4', '%', ':', '"', '°', '\n', '=', '3', '!', '♪', '\x80', '.', '(', '8', '#', '1', '*', '9', '/', '0', '_', '[', '\u200b', '@', ')'} 
+
+The average word length within the full corpus text is 5.72.
+The average unique word length within the full corpus 9.22.
+
+The total number of words in the full corpus is 112446.
+The total number of word types in the full corpus is 14666.
+
+The total number of characters in the full corpus is 643055.
+The total number of character types in the full corpus is 114.
+
+The total number of bigrams in the full corpus is 756143.
+The total number of bigram types in the full corpus is 2577.
+
+The average word length within the IPA corpus text is 2.64.
+The average unique word length within the IPA corpus 4.23.
+
+The total number of words in the IPA corpus is 7270.
+The total number of word types in the IPA corpus is 130.
+
+The total runtime is 0:00:04.

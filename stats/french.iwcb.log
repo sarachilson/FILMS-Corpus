@@ -1,0 +1,24 @@
+Language: French
+
+Removed characters:
+ {'9', '‼', '￥', '\x99', ')', '\u2e77', '\x8e', '❤', '\x81', '×', '☻', '№', '+', '∞', '۩', '(', '¢', '¿', '‑', '⠀', '\u0a0d', '㈺', '\u200f', '$', '\x9a', '®', '¸', '⠍', '\x8c', '}', '⬄', '2', '_', '0', '/', '\x88', '\x8b', '‐', '3', '\x7f', '″', '：', '5', '4', '£', '\ufeff', '\u202d', '7', '\x97', '\x9d', '〺', '⌠', '\x95', '〰', '˜', '!', '˘', '\x87', '∙', '■', '™', '–', '\u2e73', ';', '━', '`', '⠕', '\x98', '⠽', '》', '☨', '൭', '⌡', '¨', '˚', '\u200b', '—', '\x90', '\x8f', '\x96', '►', '♪', '1', '=', '⠞', '≤', '¯', '¡', '‰', '6', '†', '\uf8ff', '~', '|', '8', '⁴', '⠑', '⼼', '✓', '⁻', '.', '⌢', '」', '·', '≈', '\x9b', '¾', '\x94', '¦', '¥', '﹨', '。', '^', '©', '÷', ':', '！', '∟', '‚', '\x91', '︵', '\x9c', '\x89', '⠝', '♫', '¹', '₩', '\x8a', '〠', '◊', '\x84', '%', '、', '¶', '《', '*', '€', '⠇', '´', '\x9f', '‾', '±', '？', '[', '•', '\x80', '∰', ',', '§', '\n', ']', '²', '¼', '¬', '□', '{', '\x9e', '\u200e', '╯', '−', '\x83', '³', '\x92', '½', '\x86', '┻', '˝', '"', '@', '\\', '\xad', '\x8d', '♥', '‡', '→', '�', '\x93', '⠧', '#', '\x82', '〜', '♬', '「', '⠁', '¤', '°', '?', '∽'} 
+
+The average word length within the full corpus text is 4.46.
+The average unique word length within the full corpus 9.43.
+
+The total number of words in the full corpus is 585856837.
+The total number of word types in the full corpus is 1154010.
+
+The total number of characters in the full corpus is 2554741796.
+The total number of character types in the full corpus is 677.
+
+The total number of bigrams in the full corpus is 3196114017.
+The total number of bigram types in the full corpus is 6565.
+
+The average word length within the IPA corpus text is 3.94.
+The average unique word length within the IPA corpus 8.17.
+
+The total number of words in the IPA corpus is 494432451.
+The total number of word types in the IPA corpus is 38386.
+
+The total runtime is 1:03:14.

@@ -1,0 +1,24 @@
+Language: Dutch
+
+Removed characters:
+ {'♫', '¦', '\x91', '\x89', '{', '¹', '\x86', '¾', '1', '(', '¶', '\x99', '8', '§', '*', ':', '\x9d', '\x92', '\x9c', '\\', '™', '\x94', '◄', '"', '}', '¨', '♥', '\u200b', '|', '\x90', '@', '~', '\x8f', '½', '￫', '♩', '‰', '×', '\ufeff', '\x84', '\u200c', '？', '!', '\x9f', '‒', '♠', '´', '€', '²', '\x9e', '/', '°', '—', '.', '☻', '=', '$', '`', '\u202d', '\x87', '☺', '3', '\x8e', '\xad', '\u200f', '⎦', '\x9b', '9', ']', '\u200e', '¬', '_', '\x8b', '❤', '#', '˚', '\x97', '–', '\uffef', '′', ')', '‚', '\x93', '4', '2', '¥', '5', '•', '�', '³', '¿', '®', '\x8c', '7', '^', '¢', '¤', '+', '♬', '÷', '\x8a', '%', '΄', '·', '⎡', '\x98', '￩', '\x83', '）', '★', ';', '¡', '№', '\x95', '0', '¼', '\x9a', '\x80', '¯', '6', '\x7f', '\x96', '£', '\x82', '♪', '?', '\x81', '˜', '。', '[', '►', '†', '\u2066', '\n', '、', '\x88', ',', '±', '‡', '©', '¸', '\x8d'} 
+
+The average word length within the full corpus text is 4.24.
+The average unique word length within the full corpus 10.98.
+
+The total number of words in the full corpus is 595631351.
+The total number of word types in the full corpus is 1375696.
+
+The total number of characters in the full corpus is 2520714583.
+The total number of character types in the full corpus is 261.
+
+The total number of bigrams in the full corpus is 3122750176.
+The total number of bigram types in the full corpus is 3549.
+
+The average word length within the IPA corpus text is 3.76.
+The average unique word length within the IPA corpus 8.69.
+
+The total number of words in the IPA corpus is 506959293.
+The total number of word types in the IPA corpus is 26181.
+
+The total runtime is 1:02:34.

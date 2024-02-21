@@ -1,0 +1,24 @@
+Language: Russian
+
+Removed characters:
+ {']', '）', '┌', '–', '•', '╢', '2', '+', '┤', '►', '‚', '╨', '£', '0', '÷', '¸', '®', '∞', '┬', '−', '∑', '{', '╪', '˚', '╧', '\u200e', '¬', '╡', '✿', '「', '╣', '\x7f', '｣', ')', '⌠', '\x98', '—', '¨', '₣', '～', '©', '�', '\\', '4', '§', '╝', '‒', '║', '２', '!', '╥', '∩', '▓', '●', '→', '■', '™', '`', '←', '1', '†', '👧', '7', '▀', '⌂', '?', '♪', '・', '╜', '№', '│', '‴', '，', '╖', '≈', '▄', '┴', '╟', '╤', '♡', '8', '‿', '」', '✧', '_', '╗', '\xad', '╩', '∆', '┻', '\uf701', '･', '↕', '9', '±', '@', '¯', '└', '≤', '¶', '\x9d', '¡', '○', '◙', '―', '\u200b', '\u1fd4', '′', '³', '─', '؟', '♫', '€', '！', '『', '♀', '∫', '┘', '、', '°', '◕', '\u202b', '♬', '₪', '´', '▌', '╓', '*', '╯', '\ufeff', '╕', '%', '^', '５', '3', '‰', '╞', '♠', '｢', '╒', '╦', '¥', '\u202d', '╛', '▼', '≥', '♦', '‡', '׳', '？', '★', '╫', '⌡', '』', '￼', '(', '╠', '□', '∙', '┼', '￥', '}', '═', '[', '$', '¢', '▒', '¦', '=', '█', '░', '¤', ',', '6', '½', '╚', '~', '،', '╬', '¼', '☺', ':', '"', '‐', '/', '♥', '╔', '.', '┐', '♣', '#', '▐', '：', '²', '\n', '·', '├', '≠', '¾', '√', '︵', '━', '¿', '⚌', '|', '5', '↑', '×', ';'} 
+
+The average word length within the full corpus text is 4.78.
+The average unique word length within the full corpus 9.29.
+
+The total number of words in the full corpus is 213268813.
+The total number of word types in the full corpus is 1706098.
+
+The total number of characters in the full corpus is 1017889278.
+The total number of character types in the full corpus is 976.
+
+The total number of bigrams in the full corpus is 1233340155.
+The total number of bigram types in the full corpus is 8894.
+
+The average word length within the IPA corpus text is 4.53.
+The average unique word length within the IPA corpus 8.69.
+
+The total number of words in the IPA corpus is 190317529.
+The total number of word types in the IPA corpus is 237972.
+
+The total runtime is 0:30:17.

@@ -1,0 +1,24 @@
+Language: Basque
+
+Removed characters:
+ {'3', '\x92', ']', '§', ',', '³', '[', '"', '@', '\xad', '¹', '‚', '`', '¿', '�', '#', '·', '~', '?', '\u200b', '$', '£', '7', '.', '\x87', '¼', '²', '{', '–', '°', '\n', '4', '\x82', '\x91', '¸', '*', '2', ';', '¾', '9', '\x90', '0', '¤', '—', ')', '|', '!', '\x96', '\x8e', '®', '¶', '}', '¡', '¢', '5', '\ufeff', '´', ':', '(', '=', '1', '\x8f', '€', '6', '\\', '8', '%', '+', '♫', '_', '½', '\x97', '/', '♪'} 
+
+The average word length within the full corpus text is 5.57.
+The average unique word length within the full corpus 9.48.
+
+The total number of words in the full corpus is 4197365.
+The total number of word types in the full corpus is 164228.
+
+The total number of characters in the full corpus is 23353984.
+The total number of character types in the full corpus is 71.
+
+The total number of bigrams in the full corpus is 27581148.
+The total number of bigram types in the full corpus is 1287.
+
+The average word length within the IPA corpus text is 3.99.
+The average unique word length within the IPA corpus 6.24.
+
+The total number of words in the IPA corpus is 1599034.
+The total number of word types in the IPA corpus is 1394.
+
+The total runtime is 0:00:41.

@@ -1,0 +1,24 @@
+Language: Bengali
+
+Removed characters:
+ {'🎵', '✪', '6', '^', ')', '৫', ';', '।', '\u200d', '\x7f', '[', '♦', '√', '}', '৮', ']', '\u200b', '※', '≠', '\u200e', '♫', '"', '.', '7', '4', '☺', '+', '\u200c', '১', '%', '♣', '▶', '/', '⇒', '▓', '৯', '$', '£', '✅', '(', '🎼', '৬', '০', '–', ':', '\u09b3', '9', '♪', '8', '\\', '♥', '*', ',', '\ufeff', '█', '|', '♠', '©', '=', '¶', '{', '?', '\n', '~', '—', '#', '3', '২', '2', '॥', '!', '²', '🎶', '৷', '°', '¡', '★', '0', '@', '৭', '®', '·', '৩', '◀', '_', '৳', '1', '৪', '▐', '5'} 
+
+The average word length within the full corpus text is 4.46.
+The average unique word length within the full corpus 7.33.
+
+The total number of words in the full corpus is 2847536.
+The total number of word types in the full corpus is 109072.
+
+The total number of characters in the full corpus is 12685425.
+The total number of character types in the full corpus is 162.
+
+The total number of bigrams in the full corpus is 15541764.
+The total number of bigram types in the full corpus is 4018.
+
+The average word length within the IPA corpus text is 3.74.
+The average unique word length within the IPA corpus 4.66.
+
+The total number of words in the IPA corpus is 411492.
+The total number of word types in the IPA corpus is 637.
+
+The total runtime is 0:00:34.

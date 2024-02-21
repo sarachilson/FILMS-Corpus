@@ -4,9 +4,7 @@ LSWFC is a frequency corpus based on the movie subtitles data.
 The basis for LSWFC is [OpenSubtitles corpus](https://opus.nlpl.eu/OpenSubtitles-v2018.php).
 LSWFC also provides a shortened version of the data containing the IPA information from the [Wikipron corpus](https://github.com/CUNY-CL/wikipron/tree/master/data/scrape/tsv).
 
-If you use the LSWFC corpus in your research, please cite the following article:
-Sara Chilson, Elizaveta Sineva, Xenia Schmalz (2024). _[Some article name](link)_. Behavior Research Methods, ##(#), pages.
-
+Sara Chilson, Elizaveta Sineva, Xenia Schmalz (2024). 
 
 ## Data
 

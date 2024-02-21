@@ -1,0 +1,3869 @@
+Rank	Word	Frequency	Frequency per million	Zipf value	IPA
+1	de	29462552	29183.3178	7.4651	d e
+2	nu	27465682	27205.3733	7.4347	n u
+3	să	24586632	24353.6098	7.3866	s ə
+4	o	14527770	14390.0816	7.1581	o
+5	e	13841739	13710.5526	7.1371	e  |  j e
+6	la	12273572	12157.248	7.0848	l a
+7	a	11198026	11091.8956	7.045	a
+8	pe	10406639	10308.0091	7.0132	p e
+9	cu	10257840	10160.6203	7.0069	k u
+10	am	9728744	9636.5389	6.9839	a m
+11	un	9458728	9369.082	6.9717	u n
+12	mai	8842484	8758.6785	6.9424	m a j
+13	te	6549677	6487.6018	6.8121	t e
+14	ai	6491346	6429.8236	6.8082	a j
+15	da	6122343	6064.3179	6.7828	d a
+16	bine	6077065	6019.469	6.7796	b i n e
+17	ca	5789940	5735.0653	6.7585	k a
+18	dar	5490309	5438.2741	6.7355	d a r
+19	se	5283144	5233.0725	6.7188	s e
+20	din	5152697	5103.8618	6.7079	d i n
+21	care	4924842	4878.1663	6.6883	k a r e
+22	mă	4808117	4762.5476	6.6778	m ə
+23	sa	3821618	3785.3982	6.5781	s a
+24	tu	3203408	3173.0474	6.5015	t u
+25	ne	2698680	2673.103	6.427	n e
+26	ar	2697403	2671.8381	6.4268	a r
+27	lui	2696991	2671.43	6.4267	l u j
+28	el	2625424	2600.5413	6.4151	j e l
+29	doar	2562175	2537.8917	6.4045	d o̯ a r
+30	mine	2492578	2468.9543	6.3925	m i n e
+31	tine	2491613	2467.9985	6.3923	t i n e
+32	ei	2368048	2345.6046	6.3703	j e j
+33	au	2170361	2149.7912	6.3324	a w
+34	spus	2024974	2005.7821	6.3023	s p u s
+35	vă	2000970	1982.0056	6.2971	v ə
+36	meu	1930461	1912.1649	6.2815	m e w
+37	mult	1814060	1796.8671	6.2545	m u l t
+38	acolo	1738432	1721.9558	6.236	a k o l o
+39	tot	1737273	1720.8078	6.2357	t o t
+40	ea	1689978	1673.9611	6.2237	j a
+41	noi	1654057	1638.3805	6.2144	n o j
+42	chiar	1630853	1615.3964	6.2083	k j a r
+43	ta	1602674	1587.4845	6.2007	t a
+44	are	1526183	1511.7185	6.1795	a r e
+45	putea	1387780	1374.6272	6.1382	p u t e̯ a
+46	rău	1346086	1333.3283	6.1249	r ə w
+47	trebui	1294824	1282.5522	6.1081	t r e b u i
+48	tău	1266488	1254.4847	6.0985	t ə w
+49	îl	1141937	1131.1142	6.0535	ɨ l
+50	al	1126272	1115.5976	6.0475	a l
+51	le	1117996	1107.4001	6.0443	l e
+52	spune	1116808	1106.2233	6.0438	s p u n e
+53	cineva	1062835	1052.7619	6.0223	t͡ʃ i n e v a
+54	vor	1026839	1017.107	6.0074	v o r
+55	haide	1025322	1015.6044	6.0067	h a j d e
+56	bun	1006639	997.0985	5.9987	b u n
+57	până	978498	969.2242	5.9864	p ɨ n ə
+58	cât	967446	958.2769	5.9815	k ɨ t
+59	vrea	961986	952.8687	5.979	v r e̯ a
+60	acest	959184	950.0932	5.9778	a t͡ʃ e s t
+61	mare	933446	924.5992	5.966	m a r e
+62	avea	861976	853.8065	5.9314	a v e̯ a
+63	atât	844118	836.1178	5.9223	a t ɨ t
+64	avut	812364	804.6647	5.9056	a v u t
+65	prin	701249	694.6028	5.8417	p r i n
+66	loc	680795	674.3427	5.8289	l o k
+67	oameni	661957	655.6832	5.8167	o̯ a m e nʲ
+68	ia	634837	628.8203	5.7985	j a
+69	lumea	622093	616.1971	5.7897	l u m e̯ a
+70	aia	613844	608.0262	5.7839	a j a
+71	nou	606172	600.4269	5.7785	n o w
+72	două	596570	590.9159	5.7715	d o w ə
+73	astea	580941	575.4351	5.76	a s t e̯ a
+74	doi	568405	563.0179	5.7505	d o j
+75	fiecare	544101	538.9442	5.7315	f i e k a r e
+76	peste	540690	535.5656	5.7288	p e s t e
+77	cei	528892	523.8794	5.7192	t͡ʃ e j
+78	lor	516139	511.2472	5.7086	l o r
+79	cea	511952	507.0999	5.7051	t͡ʃ e̯ a
+80	această	503524	498.7518	5.6979	a t͡ʃ e̯ a s t ə
+81	gata	490907	486.2544	5.6869	ɡ a t a
+82	merge	486700	482.0873	5.6831	m e r d͡ʒ e
+83	parte	463363	458.9714	5.6618	p a r t e
+84	serios	462651	458.2662	5.6611	s e r i o s
+85	bani	435668	431.5389	5.635	b a nʲ
+86	repede	430944	426.8597	5.6303	r e p e d e
+87	una	424740	420.7145	5.624	u n a
+88	adevărat	421880	417.8816	5.6211	a d e v ə r a t
+89	nostru	419240	415.2666	5.6183	n o s t r u
+90	vine	412630	408.7193	5.6114	v i n e
+91	singur	405883	402.0362	5.6043	s i ŋ ɡ u r
+92	ori	396825	393.0641	5.5945	o rʲ
+93	exact	395526	391.7774	5.593	e ɡ z a k t
+94	prima	383777	380.1397	5.5799	p r i m a
+95	i	380242	376.6382	5.5759	i  |  j  |  ʲ
+96	aceasta	378799	375.2089	5.5743	a t͡ʃ e̯ a s t a
+97	probabil	377493	373.9153	5.5728	p r o b a b i l
+98	trecut	367671	364.1864	5.5613	t r e k u t
+99	acesta	367639	364.1547	5.5613	a t͡ʃ e s t a
+100	unui	360212	356.7981	5.5524	u n u j
+101	târziu	359889	356.4781	5.552	t ɨ r z i w
+102	cele	350444	347.1226	5.5405	t͡ʃ e l e
+103	seara	348659	345.3545	5.5383	s e̯ a r a
+104	azi	347015	343.7261	5.5362	a zʲ
+105	sub	346157	342.8763	5.5351	s u b
+106	departe	339804	336.5835	5.5271	d e p a r t e
+107	mei	338552	335.3433	5.5255	m e j
+108	început	338225	335.0194	5.5251	ɨ n t͡ʃ e p u t
+109	mamă	323327	320.2626	5.5055	m a m ə
+110	greu	300612	297.7629	5.4739	ɡ r e w
+111	ajuta	300424	297.5767	5.4736	a ʒ u t a
+112	păi	292487	289.7149	5.462	p ə j
+113	ale	285347	282.6426	5.4512	a l e
+114	poftim	284144	281.451	5.4494	p o f t i m  |  p o f ↗ t i m
+115	noastre	282870	280.1891	5.4475	n o̯ a s t r e
+116	tip	275490	272.879	5.436	t i p
+117	copil	270843	268.2761	5.4286	k o p i l
+118	urmă	270025	267.4658	5.4273	u r m ə
+119	între	265590	263.0728	5.4201	ɨ n t r e
+120	vii	256023	253.5965	5.4041	v i j  |  v iː
+121	noaptea	252610	250.2159	5.3983	n o̯ a p t e̯ a
+122	unei	252363	249.9712	5.3979	u n e j
+123	cap	251846	249.4591	5.397	k a p
+124	corect	247298	244.9542	5.3891	k o r e k t
+125	ele	245803	243.4734	5.3865	j e l e
+126	altă	242702	240.4018	5.3809	a l t ə
+127	lume	242207	239.9115	5.3801	l u m e
+128	luni	241929	239.6361	5.3796	l u nʲ
+129	cinci	236086	233.8485	5.3689	t͡ʃ i n t͡ʃʲ
+130	prins	235641	233.4077	5.3681	p r i n s
+131	salut	232666	230.4609	5.3626	s a l u t
+132	lângă	230414	228.2302	5.3584	l ɨ ŋ ɡ ə
+133	altceva	230032	227.8518	5.3577	a l t t͡ʃ e v a
+134	lăsat	225197	223.0627	5.3484	l ə s a t
+135	câte	225105	222.9715	5.3482	k ɨ t e
+136	oricum	223201	221.0856	5.3446	o rʲ k u m
+137	acel	216944	214.8879	5.3322	a t ʃ e l
+138	asemenea	205770	203.8198	5.3092	a s e m e n e̯ a
+139	dragă	200392	198.4928	5.2977	d r a ɡ ə
+140	tăi	200039	198.1431	5.297	t ə j
+141	întors	199965	198.0698	5.2968	ɨ n t o r s
+142	alo	199413	197.523	5.2956	a l o
+143	ora	196789	194.9239	5.2899	o r a
+144	spate	195259	193.4084	5.2865	s p a t e
+145	întoarce	192729	190.9024	5.2808	ɨ n t o̯ a r t͡ʃ e
+146	acea	188061	186.2786	5.2702	a t͡ʃ e̯ a
+147	niciun	187103	185.3297	5.2679	n i t͡ʃʲ u n
+148	doua	185051	183.2972	5.2632	d o w a
+149	posibil	184058	182.3136	5.2608	p o s i b i l
+150	bărbat	182483	180.7535	5.2571	b ə r b a t
+151	alt	182123	180.3969	5.2562	a l t
+152	copiii	179005	177.3085	5.2487	k o p i j i
+153	pleca	177618	175.9346	5.2454	p l e k a
+154	astăzi	174368	172.7154	5.2373	a s t ə zʲ
+155	rămas	173853	172.2053	5.236	r ə m a s
+156	buni	171682	170.0549	5.2306	b u nʲ
+157	gând	169969	168.3581	5.2262	ɡ ɨ n d
+158	său	166492	164.9141	5.2173	s ə w
+159	cunoscut	160127	158.6094	5.2003	k u n o s k u t
+160	foc	159027	157.5198	5.1973	f o k
+161	prost	157078	155.5893	5.192	p r o s t
+162	devreme	156768	155.2822	5.1911	d e v r e m e
+163	vreun	156548	155.0643	5.1905	v r e u n  |  v r e̯ u n
+164	undeva	156385	154.9028	5.1901	u n d e v a
+165	fericit	154516	153.0516	5.1848	f e r i t͡ʃ i t
+166	acela	152316	150.8724	5.1786	a t͡ʃ e l a
+167	sora	151596	150.1592	5.1766	s o r a
+168	întâi	147097	145.7029	5.1635	ɨ n t ɨ j
+169	muncă	144266	142.8987	5.155	m u ŋ k ə
+170	moartea	144145	142.7789	5.1547	m o̯ a r t e̯ a
+171	alea	143420	142.0607	5.1525	a l e̯ a
+172	liber	142458	141.1078	5.1496	l i b e r
+173	abia	142195	140.8473	5.1487	a b j a
+174	frică	141066	139.729	5.1453	f r i k ə
+175	stat	138877	137.5608	5.1385	s t a t
+176	fugi	137659	136.3543	5.1347	f u d͡ʒ i
+177	ci	134479	133.2045	5.1245	t͡ʃ i
+178	altcineva	133795	132.5269	5.1223	a l t t͡ʃ i n e v a
+179	cameră	133511	132.2456	5.1214	k a m e r ə
+180	normal	132191	130.9381	5.1171	n o r m a l
+181	direct	131887	130.637	5.1161	d i r e k t
+182	pur	131220	129.9763	5.1139	p u r
+183	afla	130657	129.4187	5.112	a f l a
+184	ochi	128992	127.7695	5.1064	o k i  |  o kʲ
+185	regula	127695	126.4848	5.102	r e ɡ u l a
+186	unu	126418	125.2199	5.0977	u n u
+187	sex	126043	124.8484	5.0964	s e k s
+188	plăcut	125792	124.5998	5.0955	p l ə k u t
+189	oricine	124057	122.8812	5.0895	o rʲ t͡ʃ i n e
+190	închisoare	123998	122.8228	5.0893	ɨ n k i s o̯ a r e
+191	acestea	123833	122.6594	5.0887	a t ʃ e s t e̯ a
+192	suficient	122084	120.9269	5.0825	s u f i t͡ʃ i e n t
+193	plus	120962	119.8156	5.0785	p l u s
+194	zece	120512	119.3698	5.0769	z e t͡ʃ e
+195	pat	119689	118.5546	5.0739	p a t
+196	puternic	118052	116.9332	5.0679	p u t e r n i k
+197	atâta	116301	115.1987	5.0614	a t ɨ t a
+198	sincer	115930	114.8313	5.0601	s i n t͡ʃ e r
+199	încerca	115911	114.8124	5.06	ɨ n t͡ʃ e r k a
+200	însă	115401	114.3073	5.0581	ɨ n s ə
+201	mâncare	114863	113.7744	5.056	m ɨ n k a r e
+202	complet	114360	113.2761	5.0541	k o m p l e t
+203	picioare	113391	112.3163	5.0504	p i t͡ʃ o̯ a r e
+204	schimb	112941	111.8706	5.0487	s k i m b
+205	mână	111761	110.7018	5.0442	m ɨ n ə
+206	omor	109341	108.3047	5.0346	o m o r
+207	vechi	107824	106.8021	5.0286	v e kʲ
+208	dragoste	107113	106.0978	5.0257	d r a ɡ o s t e
+209	cafea	103570	102.5884	5.0111	k a f e̯ a
+210	seară	103053	102.0763	5.0089	s e̯ a r ə
+211	cat	100665	99.7109	4.9987	k a t
+212	femeia	100546	99.5931	4.9982	f e m e j a
+213	vostru	100529	99.5762	4.9982	v o s t r u
+214	continuă	100389	99.4376	4.9976	k o n t i n u ə
+215	atent	98721	97.7854	4.9903	a t e n t
+216	absolut	98478	97.5447	4.9892	a b s o l u t  |  a p s o l u t
+217	secret	97438	96.5145	4.9846	s e k r e t
+218	schimba	96834	95.9162	4.9819	s k i m b a
+219	birou	96443	95.529	4.9801	b i r o w
+220	închis	96364	95.4507	4.9798	ɨ ŋ k i s
+221	pierde	96184	95.2724	4.979	p j e r d e
+222	deoarece	95806	94.898	4.9773	d e o̯ a r e t͡ʃ e
+223	rapid	95117	94.2155	4.9741	r a p i d
+224	cartea	94288	93.3944	4.9703	k a r t e̯ a
+225	speriat	94269	93.3756	4.9702	s p e r i a t
+226	noua	93989	93.0982	4.9689	n o w a
+227	oară	93231	92.3474	4.9654	o̯ a r ə
+228	s	93000	92.1186	4.9643	s
+229	masă	92311	91.4361	4.9611	m a s ə
+230	rând	92000	91.1281	4.9597	r ɨ n d
+231	precum	91575	90.7071	4.9576	p r e k u m
+232	acele	90718	89.8582	4.9536	a t͡ʃ e l e
+233	băut	89777	88.9261	4.949	b ə u t
+234	droguri	85323	84.5143	4.9269	d r o ɡ u rʲ
+235	m	85225	84.4173	4.9264	m
+236	celălalt	85134	84.3271	4.926	t͡ʃ e l ə l a l t
+237	ăia	84985	84.1795	4.9252	ə j a
+238	imposibil	84485	83.6843	4.9226	i m p o s i b i l
+239	căzut	84392	83.5922	4.9222	k ə z u t
+240	stea	84221	83.4228	4.9213	s t e̯ a
+241	plin	84110	83.3128	4.9207	p l i n
+242	avion	83924	83.1286	4.9198	a v j o n
+243	crescut	83284	82.4947	4.9164	k r e s k u t
+244	periculos	83167	82.3788	4.9158	p e r i k u l o s
+245	crăciun	81994	81.2169	4.9096	k r ə t ʃ j u n
+246	voastre	81332	80.5612	4.9061	v o̯ a s t r e
+247	nenorocit	81231	80.4611	4.9056	n e n o r o t͡ʃ i t
+248	printre	80657	79.8926	4.9025	p r i n t r e
+249	continua	80604	79.8401	4.9022	k o n t i n u a
+250	nord	79497	78.7436	4.8962	n o r d
+251	c	79311	78.5593	4.8952	k  |  t ʃ
+252	general	79051	78.3018	4.8938	d͡ʒ e n e r a l
+253	încet	78746	77.9997	4.8921	ɨ n t͡ʃ e t
+254	serviciu	78464	77.7203	4.8905	s e r v i t͡ʃ j u
+255	opt	78234	77.4925	4.8893	o p t
+256	viitor	77288	76.5555	4.884	v i i t o r
+257	diferit	75745	75.0271	4.8752	d i f e r i t
+258	născut	75002	74.2912	4.8709	n ə s k u t
+259	aur	74972	74.2614	4.8708	a w r
+260	câine	74958	74.2476	4.8707	k ɨ j n e
+261	indiferent	74148	73.4453	4.866	i n d i f e r e n t
+262	atinge	73976	73.2749	4.865	a t i n d͡ʒ e
+263	hotel	73286	72.5914	4.8609	h o t e l
+264	deasupra	72242	71.5573	4.8547	d e̯ a s u p r a
+265	dorit	71503	70.8253	4.8502	d o r i t
+266	avocat	70939	70.2667	4.8467	a v o k a t
+267	bate	67465	66.8256	4.8249	b a t e
+268	bere	67266	66.6285	4.8237	b e r e
+269	doilea	66894	66.26	4.8213	d o j l e̯ a
+270	l	66873	66.2392	4.8211	l
+271	pas	66746	66.1134	4.8203	p a s
+272	alb	66514	65.8836	4.8188	a l b
+273	apropo	66018	65.3923	4.8155	a p r o p o
+274	oriunde	64798	64.1839	4.8074	o rʲ u n d e
+275	cheia	63237	62.6377	4.7968	k e j a
+276	oare	62917	62.3207	4.7946	o̯ a r e
+277	respect	62800	62.2048	4.7938	r e s p e k t
+278	bolnav	62588	61.9948	4.7924	b o l n a v
+279	distruge	62410	61.8185	4.7911	d i s t ɾ u d͡ʒ e
+280	idiot	62112	61.5233	4.789	i d i o t
+281	lucra	62104	61.5154	4.789	l u k r a
+282	cadou	61510	60.927	4.7848	k a d o w
+283	bătut	60811	60.2347	4.7798	b ə t u t
+284	american	59191	58.63	4.7681	a m e r i k a n
+285	părăsit	58968	58.4091	4.7665	p ə r ə s i t
+286	urât	58824	58.2665	4.7654	u r ɨ t
+287	ascunde	58769	58.212	4.765	a s k u n d e
+288	glumă	58211	57.6593	4.7609	ɡ l u m ə
+289	b	57635	57.0888	4.7566	b
+290	d	57594	57.0481	4.7562	d
+291	rupt	57540	56.9947	4.7558	r u p t
+292	curat	56899	56.3597	4.751	k u r a t
+293	n	56393	55.8585	4.7471	n
+294	marea	55658	55.1305	4.7414	m a r e̯ a
+295	iată	55325	54.8007	4.7388	j a t ə
+296	des	55289	54.765	4.7385	d e s
+297	cal	54849	54.3292	4.735	k a l
+298	jucat	54735	54.2162	4.7341	ʒ u k a t
+299	dura	54361	53.8458	4.7312	d u r a
+300	excelent	54035	53.5229	4.7285	e k s t͡ʃ e l e n t
+301	bătrân	53912	53.401	4.7275	b ə t r ɨ n
+302	carne	53721	53.2119	4.726	k a r n e
+303	scurt	53501	52.9939	4.7242	s k u r t
+304	sute	53351	52.8454	4.723	s u t e
+305	durere	53271	52.7661	4.7224	d u r e r e
+306	sistem	52304	51.8083	4.7144	s i s t e m
+307	săturat	52111	51.6171	4.7128	s ə t u r a t
+308	verde	51716	51.2259	4.7095	v e r d e
+309	necesar	51161	50.6761	4.7048	n e t͡ʃ e s a r
+310	juca	51148	50.6632	4.7047	ʒ u k a
+311	dulce	51004	50.5206	4.7035	d u l t͡ʃ e
+312	groaznic	50704	50.2234	4.7009	ɡ r o̯ a z n i k
+313	mândru	50487	50.0085	4.699	m ɨ n d r u
+314	dificil	50111	49.6361	4.6958	d i f i t͡ʃ i l
+315	gol	50080	49.6054	4.6955	ɡ o l
+316	mâini	49734	49.2626	4.6925	m ɨ j nʲ
+317	lung	49604	49.1339	4.6914	l u ŋ ɡ
+318	dejun	49520	49.0507	4.6906	d e ʒ u n
+319	norocos	49467	48.9982	4.6902	n o r o k o s
+320	viu	49320	48.8526	4.6889	v i w
+321	vinovat	49289	48.8219	4.6886	v i n o v a t
+322	public	49191	48.7248	4.6878	p u b l i k
+323	pauză	48944	48.4801	4.6856	p a u z ə
+324	ordin	48357	47.8987	4.6803	o r d i n
+325	unor	48331	47.8729	4.6801	u n o r
+326	cald	47250	46.8022	4.6703	k a l d
+327	oricare	46524	46.0831	4.6635	o rʲ k a r e
+328	datorită	46365	45.9256	4.6621	d a t o r i t ə
+329	acei	46316	45.877	4.6616	a t͡ʃ e j
+330	profesor	46191	45.7532	4.6604	p r o f e s o r
+331	întuneric	45834	45.3996	4.6571	ɨ n t u n e r i k
+332	apartament	45716	45.2827	4.6559	a p a r t a m e n t
+333	stricat	44656	44.2328	4.6457	s t r i k a t
+334	ridicat	44541	44.1189	4.6446	r i d i k a t
+335	pahar	44412	43.9911	4.6434	p a h a r
+336	albă	44375	43.9544	4.643	a l b ə
+337	picior	43889	43.473	4.6382	p i t͡ʃ j o r
+338	muzică	43528	43.1155	4.6346	m u z i k ə
+339	praf	43285	42.8748	4.6322	p r a f
+340	conform	43003	42.5954	4.6294	k o n f o r m
+341	dur	42993	42.5855	4.6293	d u r
+342	ocupa	42440	42.0378	4.6236	o k u p a
+343	animal	42258	41.8575	4.6218	a n i m a l
+344	băutură	42256	41.8555	4.6218	b ə u t u r ə
+345	treia	42099	41.7	4.6201	t r e j a
+346	costum	42088	41.6891	4.62	k o s t u m
+347	construit	42058	41.6594	4.6197	k o n s t r u i t
+348	oricând	41999	41.601	4.6191	o rʲ k ɨ n d
+349	curent	41931	41.5336	4.6184	k u r e n t
+350	aș	41660	41.2652	4.6156	a ʃ
+351	trist	41526	41.1324	4.6142	t r i s t
+352	iubirea	41505	41.1116	4.614	j u b i r e̯ a
+353	gât	41270	40.8789	4.6115	ɡ ɨ t
+354	taxi	41206	40.8155	4.6108	t a k s i
+355	nivel	41121	40.7313	4.6099	n i v e l
+356	inteligent	40964	40.5758	4.6083	i n t e l i d͡ʒ e n t
+357	continui	40878	40.4906	4.6074	k o n t i n u j
+358	prânz	40656	40.2707	4.605	p r ɨ n z
+359	cauză	40453	40.0696	4.6028	k a u z ə
+360	curaj	39947	39.5684	4.5973	k u r a ʒ
+361	tren	39731	39.3544	4.595	t r e n
+362	îndoială	39689	39.3128	4.5945	ɨ n d o j a l ə
+363	adânc	39350	38.9771	4.5908	a d ɨ ŋ k
+364	t	38911	38.5422	4.5859	t
+365	bucată	38892	38.5234	4.5857	b u k a t ə
+366	plânge	38350	37.9865	4.5796	p l ɨ n d ʒ e
+367	bucătărie	38135	37.7736	4.5772	b u k ə t ə r i j e
+368	întreg	38130	37.7686	4.5771	ɨ n t r e ɡ
+369	grav	37839	37.4804	4.5738	ɡ r a v
+370	r	37751	37.3932	4.5728	r
+371	ars	37711	37.3536	4.5723	a r s
+371	martor	37711	37.3536	4.5723	m a r t o r
+372	bombă	37020	36.6691	4.5643	b o m b ə
+373	risc	36680	36.3324	4.5603	r i s k
+374	accepta	36609	36.262	4.5595	a k t͡ʃ e p t a
+375	monstru	36555	36.2085	4.5588	m o n s t r u
+376	gust	36321	35.9768	4.556	ɡ u s t
+377	bomba	36045	35.7034	4.5527	b o m b a
+378	sine	35927	35.5865	4.5513	s i n e
+379	vineri	35820	35.4805	4.55	v i n e rʲ
+380	valoare	35697	35.3587	4.5485	v a l o̯ a r e
+381	principal	35565	35.2279	4.5469	p r i n t͡ʃ i p a l
+382	cândva	35553	35.216	4.5467	k ɨ n d v a
+383	arde	35482	35.1457	4.5459	a r d e
+384	slavă	35180	34.8466	4.5422	s l a v ə
+385	însărcinată	35006	34.6742	4.54	ɨ n s ə r t͡ʃ i n a t ə
+386	prezent	34869	34.5385	4.5383	p r e z e n t
+387	spart	34503	34.176	4.5337	s p a r t
+388	judecată	34213	33.8887	4.5301	ʒ u d e k a t ə
+389	van	33783	33.4628	4.5246	v a n
+390	autobuz	33749	33.4291	4.5241	a w t o b u z
+391	creier	33656	33.337	4.5229	k r e j e r
+392	prefera	33539	33.2211	4.5214	p r e f e r a
+393	vai	33473	33.1558	4.5206	v a j
+394	ticălos	33135	32.821	4.5162	t i k ə l o s
+395	îngrozitor	33035	32.7219	4.5148	ɨ ŋ ɡ r o z i t o r
+396	voce	32805	32.4941	4.5118	v o t͡ʃ e
+397	bilet	32763	32.4525	4.5112	b i l e t
+398	cai	32731	32.4208	4.5108	k a j
+399	veste	32723	32.4129	4.5107	v e s t e
+400	fals	32552	32.2435	4.5084	f a l s
+401	întreagă	32540	32.2316	4.5083	ɨ n t r e̯ a ɡ ə
+402	x	32373	32.0662	4.506	k s  |  ɡ z
+403	piept	32325	32.0186	4.5054	p j e p t
+404	extraordinar	32307	32.0008	4.5052	e k s t r a o r d i n a r
+405	înalt	31929	31.6264	4.5	ɨ n a l t
+406	copac	31756	31.455	4.4977	k o p a k
+407	uman	31530	31.2312	4.4946	u m a n
+408	model	31215	30.9192	4.4902	m o d e l
+409	zero	31207	30.9112	4.4901	z e r o
+410	hârtie	31199	30.9033	4.49	h ɨ r t i j e
+411	cinstit	30515	30.2258	4.4804	t͡ʃ i n s t i t
+412	păstra	30492	30.203	4.4801	p ə s t r a
+413	capabil	30409	30.1208	4.4789	k a p a b i l
+414	lege	30364	30.0762	4.4782	l e d͡ʒ e
+415	semnat	30156	29.8702	4.4752	s e m n a t
+416	aiurea	30010	29.7256	4.4731	a j u r e̯ a
+417	încercare	29999	29.7147	4.473	ɨ n t͡ʃ e r k a r e
+418	cântec	29915	29.6315	4.4718	k ɨ n t e k
+419	zău	29491	29.2115	4.4656	z ə w
+420	ghici	29438	29.159	4.4648	ɡ i t͡ʃʲ
+421	acuma	29304	29.0263	4.4628	a k u m a
+422	ura	29147	28.8708	4.4605	u r a
+423	treilea	29078	28.8024	4.4594	t r e j l e̯ a
+424	vara	29031	28.7559	4.4587	v a r a
+425	medicamente	29015	28.74	4.4585	m e d i k a m e n t e
+426	măi	28994	28.7192	4.4582	m ə j
+427	curajos	28908	28.634	4.4569	k u r a ʒ o s
+428	pilot	28907	28.633	4.4569	p i l o t
+429	reveni	28886	28.6122	4.4566	r e v e n i  |  r e v e nʲ
+430	europa	28593	28.322	4.4521	e u r o p a
+431	însemna	28510	28.2398	4.4509	ɨ n s e m n a
+432	căci	28443	28.1734	4.4498	k ə t͡ʃʲ
+433	acuzat	28193	27.9258	4.446	a k u z a t
+434	americani	28127	27.8604	4.445	a m e r i k a nʲ
+435	clasă	27883	27.6187	4.4412	k l a s ə
+436	viteză	27823	27.5593	4.4403	v i t e z ə
+437	pardon	27752	27.489	4.4392	p a r d o n
+438	cuminte	27696	27.4335	4.4383	k u m i n t e
+439	conducere	27661	27.3988	4.4377	k o n d u t͡ʃ e r e
+440	china	27439	27.1789	4.4342	k i n a
+441	medic	27326	27.067	4.4324	m e d i k
+442	sfat	27045	26.7887	4.428	s f a t
+443	dator	26963	26.7075	4.4266	d a t o r
+444	mincinos	26642	26.3895	4.4214	m i n t͡ʃ i n o s
+445	sentiment	26640	26.3875	4.4214	s e n t i m e n t
+446	bucuros	26509	26.2578	4.4193	b u k u r o s
+447	artă	26405	26.1547	4.4175	a r t ə
+448	prezenta	26278	26.0289	4.4155	p r e z e n t a
+449	adormit	26129	25.8814	4.413	a d o r m i t
+450	no	25949	25.7031	4.41	n o  |  n ɔː
+451	dezamăgit	25846	25.601	4.4083	d e z a m ə d͡ʒ i t
+452	brusc	25819	25.5743	4.4078	b r u s k
+453	boala	25785	25.5406	4.4072	b o̯ a l a
+454	v	25588	25.3455	4.4039	v
+455	g	25551	25.3088	4.4033	d ʒ  |  ɡ
+456	ouă	25496	25.2544	4.4023	o w ə
+457	miere	25478	25.2365	4.402	m j e r e
+458	preot	25393	25.1523	4.4006	p r e o t
+459	dumneata	25350	25.1097	4.3998	d u m n e̯ a t a
+460	sâmbătă	25279	25.0394	4.3986	s ɨ m b ə t ə
+461	pacient	25170	24.9314	4.3967	p a t͡ʃ i e n t
+462	rai	25140	24.9017	4.3962	r a j
+463	roman	25078	24.8403	4.3952	r o m a n
+464	ilegal	25067	24.8294	4.395	i l e ɡ a l
+465	comandant	24937	24.7007	4.3927	k o m a n d a n t
+466	africa	24917	24.6808	4.3924	a f r i k a
+467	deranja	24898	24.662	4.392	d e r a n ʒ a
+468	duminică	24877	24.6412	4.3917	d u m i n i k ə
+469	străin	24795	24.56	4.3902	s t r ə i n
+470	vie	24468	24.2361	4.3845	v i e
+471	pâine	24360	24.1291	4.3825	p ɨ j n e
+472	pachet	24290	24.0598	4.3813	p a k e t
+473	nemernic	24264	24.034	4.3808	n e m e r n i k
+474	curios	24232	24.0023	4.3803	k u r i o s
+475	zbura	24187	23.9578	4.3794	z b u r a
+476	munte	24124	23.8954	4.3783	m u n t ɛ
+477	spirit	24095	23.8666	4.3778	s p i r i t
+478	gen	24037	23.8092	4.3767	d͡ʒ e n
+479	f	23991	23.7636	4.3759	f
+480	urcat	23988	23.7607	4.3759	u r k a t
+481	dublu	23829	23.6032	4.373	d u b l u
+482	mut	23823	23.5972	4.3729	m u t
+483	furios	23818	23.5923	4.3728	f u r i o s
+484	îndată	23765	23.5398	4.3718	ɨ n d a t ə
+485	p	23733	23.5081	4.3712	p
+486	tratament	23727	23.5021	4.3711	t r a t a m e n t
+487	gras	23637	23.413	4.3695	ɡ r a s
+488	plecare	23627	23.4031	4.3693	p l e k a r e
+489	împinge	23522	23.2991	4.3673	ɨ m p i n d͡ʒ e
+490	urmări	23486	23.2634	4.3667	u r m ə r i
+491	neapărat	23367	23.1455	4.3645	n e a p ə r a t
+492	moale	23365	23.1436	4.3644	m o̯ a l e
+493	marfă	23243	23.0227	4.3622	m a r f ə
+494	legal	23200	22.9801	4.3614	l e ɡ a l
+495	local	23090	22.8712	4.3593	l o k a l
+496	inel	22899	22.682	4.3557	i n e l
+497	tipa	22888	22.6711	4.3555	t i p a
+498	alarma	22851	22.6344	4.3548	a l a r m a
+499	drogat	22518	22.3046	4.3484	d r o ɡ a t
+500	crea	22413	22.2006	4.3464	k r e a
+501	stil	22396	22.1837	4.346	s t i l
+502	urca	22271	22.0599	4.3436	u r k a
+503	roz	22268	22.057	4.3435	r o z
+504	mac	22245	22.0342	4.3431	m a k
+505	plâns	22225	22.0144	4.3427	p l ɨ n s
+506	brânză	22131	21.9213	4.3409	b r ɨ n z ə
+507	sare	22037	21.8281	4.339	s a r e
+508	orb	21857	21.6498	4.3355	o r b
+509	blestemat	21749	21.5429	4.3333	b l e s t e m a t
+510	învinge	21735	21.529	4.333	ɨ n v i n d͡ʒ e
+511	retras	21693	21.4874	4.3322	r e t r a s
+512	uscat	21662	21.4567	4.3316	u s k a t
+513	sos	21608	21.4032	4.3305	s o s
+514	scump	21473	21.2695	4.3278	s k u m p
+515	jurat	21413	21.2101	4.3265	ʒ u r a t
+516	produs	21356	21.1536	4.3254	p r o d u s
+517	câtă	21351	21.1486	4.3253	k ɨ t ə
+518	piesă	21292	21.0902	4.3241	p j e s ə
+519	ploaie	21257	21.0555	4.3234	p l o̯ a j e
+520	aparat	21237	21.0357	4.323	a p a r a t
+521	germania	21038	20.8386	4.3189	d͡ʒ e r m a n i a
+522	u	21035	20.8356	4.3188	u
+523	nisip	20955	20.7564	4.3172	n i s i p
+524	dezgustător	20923	20.7247	4.3165	d e z ɡ u s t ə t o r
+525	natural	20883	20.6851	4.3157	n a t u r a l
+526	k	20816	20.6187	4.3143	k
+527	interzis	20798	20.6009	4.3139	i n t e r z i s
+528	ureche	20789	20.592	4.3137	u r e k e
+529	primar	20773	20.5761	4.3134	p r i m a r
+530	înger	20764	20.5672	4.3132	ɨ n d͡ʒ e r
+531	fir	20690	20.4939	4.3116	f i r
+532	gelos	20606	20.4107	4.3099	d͡ʒ e l o s
+533	vară	20588	20.3929	4.3095	v a r ə
+534	plictisitor	20575	20.38	4.3092	p l i k t i s i t o r
+535	învins	20318	20.1254	4.3037	ɨ n v i n s
+536	celulă	20312	20.1195	4.3036	t͡ʃ e l u l ə
+537	cumpărături	20172	19.9808	4.3006	k u m p ə r ə t u rʲ
+538	zahăr	20166	19.9749	4.3005	z a h ə r
+539	murdar	20120	19.9293	4.2995	m u r d a r
+540	fier	20087	19.8966	4.2988	f j e r
+541	pisică	20086	19.8956	4.2988	p i s i k ə
+542	criză	19595	19.4093	4.288	k r i z ə
+543	mizerie	19505	19.3201	4.286	m i z e r i e
+544	acoperit	19463	19.2785	4.2851	a k o p e r i t
+545	lungi	19430	19.2459	4.2843	l u n d͡ʒ i
+546	mediu	19360	19.1765	4.2828	m e d j u
+547	motor	18911	18.7318	4.2726	m o t o r
+548	jucător	18837	18.6585	4.2709	ʒ u k ə t o r
+549	întârziere	18834	18.6555	4.2708	ɨ n t ɨ r z i e r e
+550	floare	18791	18.6129	4.2698	f l o̯ a r e
+551	atrage	18758	18.5802	4.2691	a t r a d͡ʒ e
+552	j	18741	18.5634	4.2687	ʒ
+553	argint	18732	18.5545	4.2684	a r d͡ʒ i n t
+554	profund	18611	18.4346	4.2656	p r o f u n d
+555	albi	18582	18.4059	4.265	a l b i  |  a l bʲ
+556	sinucidere	18573	18.397	4.2647	s i n u t͡ʃ i d e r e
+557	umple	18280	18.1067	4.2578	u m p l e
+558	ban	18272	18.0988	4.2576	b a n
+559	inutil	18248	18.0751	4.2571	i n u t i l
+560	garaj	18244	18.0711	4.257	ɡ a r a ʒ
+561	amabil	18228	18.0552	4.2566	a m a b i l
+561	federal	18228	18.0552	4.2566	f e d e r a l
+562	joi	18105	17.9334	4.2537	ʒ o j
+563	confuz	18091	17.9195	4.2533	k o n f u z
+564	metal	17867	17.6977	4.2479	m e t a l
+565	ceară	17843	17.6739	4.2473	t͡ʃ e̯ a r ə
+566	fizic	17809	17.6402	4.2465	f i z i k
+567	proaspăt	17720	17.5521	4.2443	p r o̯ a s p ə t
+568	ieftin	17692	17.5243	4.2436	j e f t i n
+569	creaturi	17688	17.5204	4.2435	k r e a t u rʲ
+570	îndeajuns	17664	17.4966	4.243	ɨ n d e a ʒ u n s
+571	niște	17635	17.4679	4.2422	n i ʃ t e
+572	tâmpit	17601	17.4342	4.2414	t ɨ m p i t
+573	cad	17599	17.4322	4.2414	k a d
+574	castel	17526	17.3599	4.2395	k a s t e l
+575	invers	17472	17.3064	4.2382	i n v e r s
+576	albe	17317	17.1529	4.2343	a l b e
+577	mia	17264	17.1004	4.233	m i j a  |  m j a
+578	anterior	17253	17.0895	4.2327	a n t e r i o r
+579	acelui	17174	17.0112	4.2307	a t͡ʃ e l u j
+580	oxigen	17143	16.9805	4.23	o k s i d͡ʒ e n
+581	sparge	16782	16.6229	4.2207	s p a r d͡ʒ e
+582	gravidă	16741	16.5823	4.2196	ɡ r a v i d ə
+583	tehnic	16722	16.5635	4.2192	t e h n i k
+584	caldă	16526	16.3694	4.214	k a l d ə
+585	dragon	16469	16.3129	4.2125	d r a ɡ o n
+586	whisky	16353	16.198	4.2095	u j s k i  |  w i s k i
+587	septembrie	16203	16.0494	4.2055	s e p t e m b r i j e
+588	actor	16186	16.0326	4.205	a k t o r
+589	virus	16165	16.0118	4.2044	v i r u s
+590	iulie	16130	15.9771	4.2035	j u l i j e
+591	berlin	16036	15.884	4.201	b ɛ r l i n̪
+592	zeci	16018	15.8662	4.2005	z e t͡ʃʲ
+593	coborât	15972	15.8206	4.1992	k o b o r ɨ t
+594	sprijin	15901	15.7503	4.1973	s p r i ʒ i n
+595	întins	15853	15.7028	4.196	ɨ n t i n s
+596	refuza	15777	15.6275	4.1939	r e f u z a
+597	fericirea	15751	15.6017	4.1932	f e r i t͡ʃ i r e̯ a
+598	rezultate	15716	15.5671	4.1922	r e z u l t a t e
+599	creatură	15708	15.5591	4.192	k r e a t u r ə
+600	rob	15661	15.5126	4.1907	r o b
+601	maestru	15617	15.469	4.1895	m a e s t r u
+602	sclavi	15616	15.468	4.1894	s k l a vʲ
+603	piese	15589	15.4413	4.1887	p j e s e
+604	rătăcit	15562	15.4145	4.1879	r ə t ə t͡ʃ i t
+605	anumit	15500	15.3531	4.1862	a n u m i t
+606	trecere	15499	15.3521	4.1862	t r e t͡ʃ e r e
+607	limpede	15430	15.2838	4.1842	l i m p e d e
+608	precis	15420	15.2739	4.1839	p r e t͡ʃ i s
+609	lift	15405	15.259	4.1835	l i f t
+610	gustul	15388	15.2422	4.183	ɡ u s t u l
+611	august	15367	15.2214	4.1825	a w ɡ u s t
+612	îndepărtat	15299	15.154	4.1805	ɨ n d e p ə r t a t
+613	hrană	15276	15.1312	4.1799	h r a n ə
+614	cântat	15260	15.1154	4.1794	k ɨ n t a t
+615	evreu	15221	15.0767	4.1783	e v r e̯ u
+616	anulat	15188	15.0441	4.1774	a n u l a t
+617	oarecare	15187	15.0431	4.1773	o̯ a r e k a r e
+618	umbră	15163	15.0193	4.1766	u m b r ə
+619	acelei	15157	15.0133	4.1765	a t͡ʃ e l e j
+620	prim	15036	14.8935	4.173	p r i m
+621	cânte	15031	14.8885	4.1729	k ɨ n t e
+622	chip	15026	14.8836	4.1727	k i p
+623	h	14955	14.8133	4.1707	h
+624	inspector	14949	14.8073	4.1705	i n s p e k t o r
+625	exterior	14948	14.8063	4.1704	e k s t e r i o r
+626	curva	14830	14.6894	4.167	k u r v a
+627	dureros	14821	14.6805	4.1667	d u r e r o s
+628	limbă	14747	14.6072	4.1646	l i m b ə
+629	adult	14671	14.532	4.1623	a d u l t
+630	rezultat	14670	14.531	4.1623	r e z u l t a t
+631	afurisit	14646	14.5072	4.1616	a f u r i s i t
+632	altundeva	14538	14.4002	4.1584	a l t u n d e v a
+633	format	14504	14.3665	4.1574	f o r m a t
+634	german	14494	14.3566	4.1571	d͡ʒ e r m a n
+635	canal	14392	14.2556	4.154	k a n a l
+636	întunecat	14351	14.215	4.1527	ɨ n t u n e k a t
+637	stâng	14346	14.21	4.1526	s t ɨ ŋ ɡ
+638	vouă	14332	14.1962	4.1522	v o w ə
+639	hristos	14265	14.1298	4.1501	h r i s t o s
+640	mărit	14234	14.0991	4.1492	m ə r i t
+641	miercuri	14223	14.0882	4.1489	m j e r k u rʲ
+642	galben	14192	14.0575	4.1479	ɡ a l b e n
+643	oi	14114	13.9802	4.1455	o j
+644	fonduri	14094	13.9604	4.1449	f o n d u rʲ
+645	violent	14028	13.895	4.1429	v i o l e n t
+646	feluri	14022	13.8891	4.1427	f e l u r i  |  f e l u rʲ
+647	nefericire	13991	13.8584	4.1417	n e f e r i t͡ʃ i r e
+648	electric	13961	13.8287	4.1408	e l e k t r i k
+649	homosexual	13956	13.8237	4.1406	h o m o s e k s u a l
+650	plăcintă	13878	13.7465	4.1382	p l ə t͡ʃ i n t ə
+651	douăzeci	13834	13.7029	4.1368	d o w ə z e t͡ʃʲ
+652	ușor	13796	13.6652	4.1356	u ʃ o r
+653	adesea	13704	13.5741	4.1327	a d e s e̯ a
+654	cur	13602	13.4731	4.1295	k u r
+655	vânător	13558	13.4295	4.1281	v ɨ n ə t o r
+656	iunie	13500	13.3721	4.1262	j u n i j e
+657	trădare	13488	13.3602	4.1258	t r ə d a r e
+658	zori	13431	13.3037	4.124	z o rʲ
+659	automat	13358	13.2314	4.1216	a u t o m a t
+660	temporar	13298	13.172	4.1197	t e m p o r a r
+661	turn	13294	13.168	4.1195	t u r n
+662	zâmbet	13278	13.1522	4.119	z ɨ m b e t
+663	fraier	13276	13.1502	4.1189	f r a j e r
+664	util	13263	13.1373	4.1185	u t i l
+665	următor	13217	13.0917	4.117	u r m ə t o r
+666	produse	13196	13.0709	4.1163	p r o d u s e
+667	manual	13156	13.0313	4.115	m a n u a l
+668	continue	13067	12.9432	4.112	k o n t i n u e
+669	costume	13044	12.9204	4.1113	k o s t u m e
+670	ie	12980	12.857	4.1091	i j e
+671	patra	12937	12.8144	4.1077	p a t r a
+672	aprilie	12930	12.8075	4.1075	a p r i l i j e
+673	rus	12900	12.7777	4.1065	r u s
+674	octombrie	12809	12.6876	4.1034	o k t o m b r i j e
+675	absurd	12785	12.6638	4.1026	a b s u r d
+676	detaliu	12757	12.6361	4.1016	d e t a l j u
+677	trata	12731	12.6103	4.1007	t r a t a
+678	alerga	12722	12.6014	4.1004	a l e r ɡ a
+679	aprins	12716	12.5955	4.1002	a p r i n s
+680	scârbos	12700	12.5796	4.0997	s k ɨ r b o s
+681	salt	12699	12.5786	4.0996	s a l t
+682	nobil	12683	12.5628	4.0991	n o b i l
+683	ecran	12657	12.537	4.0982	e k r a n
+684	nevastă	12608	12.4885	4.0965	n e v a s t ə
+685	psihiatru	12588	12.4687	4.0958	p s i h i a t r u
+686	w	12520	12.4013	4.0935	u  |  v  |  w
+687	gri	12506	12.3875	4.093	ɡ r i
+688	faimos	12496	12.3776	4.0926	f a j m o s
+689	enorm	12487	12.3687	4.0923	e n o r m
+690	continuu	12432	12.3142	4.0904	k o n t i n u u  |  k o n t i n u w
+691	zică	12315	12.1983	4.0863	z i k ə
+692	băi	12185	12.0695	4.0817	b ə j
+693	pricepe	12042	11.9279	4.0766	p r i t͡ʃ e p e
+694	judecat	12025	11.911	4.0759	ʒ u d e k a t
+695	exagerat	12015	11.9011	4.0756	e k s a d͡ʒ e r a t
+696	egal	11917	11.8041	4.072	e ɡ a l
+697	duminica	11875	11.7625	4.0705	d u m i n i k a
+698	iertat	11874	11.7615	4.0705	j e r t a t
+699	iepure	11873	11.7605	4.0704	j e p u r e
+700	violet	11839	11.7268	4.0692	v i o l e t
+701	oraș	11825	11.7129	4.0687	o r a ʃ
+702	acelor	11771	11.6594	4.0667	a t͡ʃ e l o r
+703	crud	11676	11.5653	4.0632	k r u d
+704	britanic	11637	11.5267	4.0617	b r i t a n i k
+705	ras	11596	11.4861	4.0602	r a s
+706	organizat	11575	11.4653	4.0594	o r ɡ a n i z a t
+707	depărtare	11565	11.4554	4.059	d e p ə r t a r e
+708	muzeu	11526	11.4168	4.0575	m u z e w
+709	steaua	11522	11.4128	4.0574	s t e̯ a w a
+710	senin	11488	11.3791	4.0561	s e n i n
+711	aventura	11487	11.3781	4.0561	a v e n t u r a
+712	englez	11461	11.3524	4.0551	e ŋ ɡ l e z
+713	superior	11341	11.2335	4.0505	s u p e r i o r
+714	medicament	11324	11.2167	4.0499	m e d i k a m e n t
+715	simbol	11262	11.1553	4.0475	s i m b o l
+716	noiembrie	11218	11.1117	4.0458	n o j e m b r i j e
+717	politicos	11202	11.0958	4.0452	p o l i t i k o s
+718	social	11188	11.082	4.0446	s o t͡ʃ i a l
+719	tăcut	11176	11.0701	4.0442	t ə k u t
+720	înspre	11172	11.0661	4.044	ɨ n s p r e
+721	alee	11153	11.0473	4.0433	a l e e
+722	apus	11057	10.9522	4.0395	a p u s
+723	rachetă	11022	10.9175	4.0381	ʀ a k e t ə
+724	umplut	10932	10.8284	4.0346	u m p l u t
+725	vecini	10883	10.7799	4.0326	v e t͡ʃ i nʲ
+726	măr	10851	10.7482	4.0313	m ə r
+727	nefericit	10850	10.7472	4.0313	n e f e r i t͡ʃ i t
+728	mască	10844	10.7412	4.0311	m a s k ə
+729	dragostei	10803	10.7006	4.0294	d r a ɡ o s t e j
+730	decembrie	10799	10.6967	4.0292	d e t͡ʃ e m b r i j e
+731	iarnă	10779	10.6768	4.0284	j a r n ə
+732	activ	10750	10.6481	4.0273	a k t i v
+733	z	10748	10.6461	4.0272	z
+734	dedesubt	10723	10.6214	4.0262	d e d e s u b t  |  d e d e s u p t
+735	strigat	10690	10.5887	4.0248	s t r i ɡ a t
+736	oficială	10688	10.5867	4.0248	o f i t͡ʃ i a l ə
+737	martie	10610	10.5094	4.0216	m a r t i j e
+738	asemănător	10558	10.4579	4.0194	a s e m ə n ə t o r
+739	italian	10550	10.45	4.0191	i t a l i a n
+740	dezvoltat	10543	10.4431	4.0188	d e z v o l t a t
+741	pahare	10527	10.4272	4.0182	p a h a r e
+742	primăvară	10504	10.4044	4.0172	p r i m ə v a r ə
+743	vrăjitor	10493	10.3936	4.0168	v r ə ʒ i t o r
+744	mașină	10466	10.3668	4.0156	m a ʃ i n ə
+745	căi	10358	10.2598	4.0111	k ə j
+746	iute	10353	10.2549	4.0109	j u t e
+747	y	10344	10.246	4.0106	i  |  j
+748	dependent	10332	10.2341	4.01	d e p e n d e n t
+749	alba	10303	10.2054	4.0088	a l b a
+750	tipă	10294	10.1964	4.0084	t i p ə
+751	leu	10282	10.1846	4.0079	l e w
+752	servicii	10274	10.1766	4.0076	s e r v i t͡ʃ iː
+753	ă	10218	10.1212	4.0052	ə
+754	sec	10182	10.0855	4.0037	s e k
+755	reduce	10164	10.0677	4.0029	r e d u t ʃ e
+756	vacă	10116	10.0201	4.0009	v a k ə
+757	valoros	10100	10.0043	4.0002	v a l o r o s
+758	demn	10091	9.9954	3.9998	d e m n
+759	aduna	10009	9.9141	3.9963	a d u n a
+759	amiază	10009	9.9141	3.9963	a m j a z ə
+760	izolat	9925	9.8309	3.9926	i z o l a t
+761	ultim	9888	9.7943	3.991	u l t i m
+762	sal	9885	9.7913	3.9908	s a l  |  s aː l
+763	chinez	9877	9.7834	3.9905	k i n e z
+764	pervers	9848	9.7547	3.9892	p e r v e r s
+765	cafenea	9835	9.7418	3.9886	k a f e n e̯ a
+766	vitreg	9833	9.7398	3.9886	v i t r e ɡ
+767	coborî	9818	9.7249	3.9879	k o b o r ɨ
+768	ghicit	9816	9.723	3.9878	ɡ i t͡ʃ i t
+769	ud	9814	9.721	3.9877	u d
+770	invizibil	9746	9.6536	3.9847	i n v i z i b i l
+771	personaj	9732	9.6398	3.9841	p e r s o n a ʒ
+772	regal	9717	9.6249	3.9834	r e ɡ a l
+773	valabil	9690	9.5982	3.9822	v a l a b i l
+774	tâmpenie	9682	9.5902	3.9818	t ɨ m p e n i e
+775	medie	9662	9.5704	3.9809	m e d i e
+776	jalnic	9633	9.5417	3.9796	ʒ a l n i k
+777	cert	9613	9.5219	3.9787	t͡ʃ e r t
+778	mizerabil	9569	9.4783	3.9767	m i z e r a b i l
+779	popular	9563	9.4724	3.9765	p o p u l a r
+780	adânci	9551	9.4605	3.9759	a d ɨ n t͡ʃ i  |  a d ɨ n t͡ʃʲ
+781	spaniolă	9543	9.4526	3.9756	s p a n i o l ə
+782	limite	9535	9.4446	3.9752	l i m i t e
+783	include	9526	9.4357	3.9748	i n k l u d e
+784	ambii	9515	9.4248	3.9743	a m b i j
+785	singuratic	9495	9.405	3.9734	s i ŋ ɡ u r a t i k
+786	amic	9487	9.3971	3.973	a m i k
+787	față	9485	9.3951	3.9729	f a t s ə
+788	amestecat	9468	9.3783	3.9721	a m e s t e k a t
+789	surd	9419	9.3297	3.9699	s u r d
+790	concentrat	9397	9.3079	3.9689	k o n t͡ʃ e n t r a t
+791	puls	9391	9.302	3.9686	p u l s
+792	tron	9372	9.2832	3.9677	t r o n
+793	spera	9368	9.2792	3.9675	s p e r a
+794	fond	9337	9.2485	3.9661	f o n d
+795	mândrie	9309	9.2208	3.9648	m ɨ n d r i e
+796	lichid	9300	9.2119	3.9643	l i c i d
+797	amintească	9283	9.195	3.9636	a m i n t e̯ a s k ə
+798	cuptor	9269	9.1812	3.9629	k u p t o r
+798	fain	9269	9.1812	3.9629	f a j n
+799	măgar	9254	9.1663	3.9622	m ə ɡ a r
+800	corupt	9253	9.1653	3.9621	k o r u p t
+801	nedrept	9242	9.1544	3.9616	n e d r e p t
+802	riscuri	9239	9.1514	3.9615	r i s k u rʲ
+803	întregime	9225	9.1376	3.9608	ɨ n t r e d͡ʒ i m e
+804	viol	9189	9.1019	3.9591	v i o l
+805	vrajă	9175	9.088	3.9585	v r a ʒ ə
+805	ține	9175	9.088	3.9585	t͡s i n e
+806	oaspete	9164	9.0771	3.9579	o̯ a s p e t e
+807	get	9163	9.0762	3.9579	d͡ʒ e t
+807	suprem	9163	9.0762	3.9579	s u p r e m
+808	culca	9150	9.0633	3.9573	k u l k a
+809	tigru	9125	9.0385	3.9561	t i ɡ r u
+810	alătura	9051	8.9652	3.9526	a l ə t u r a
+811	ianuarie	9010	8.9246	3.9506	j a n w a r i j e
+812	just	9004	8.9187	3.9503	ʒ u s t
+813	curul	8950	8.8652	3.9477	k u r u  |  k u r u l
+814	solid	8948	8.8632	3.9476	s o l i d
+815	teoretic	8916	8.8315	3.946	t e o r e t i k
+816	surprinzător	8910	8.8256	3.9457	s u r p r i n z ə t o r
+817	germană	8896	8.8117	3.9451	d͡ʒ e r m a n ə
+818	lori	8889	8.8048	3.9447	l o r i
+819	judeca	8856	8.7721	3.9431	ʒ u d e k a
+820	culori	8838	8.7542	3.9422	k u l o rʲ
+821	tehnică	8777	8.6938	3.9392	t e h n i k ə
+822	marca	8774	8.6908	3.9391	m a r k a
+822	mecanic	8774	8.6908	3.9391	m e k a n i k
+823	patrulea	8729	8.6463	3.9368	p a t r u l e̯ a
+824	adorabil	8721	8.6383	3.9364	a d o r a b i l
+825	ciao	8710	8.6275	3.9359	t͡ʃ a u
+826	solar	8525	8.4442	3.9266	s o l a r
+827	redus	8523	8.4422	3.9265	r e d u s
+828	regulat	8472	8.3917	3.9238	r e ɡ u l a t
+828	timid	8472	8.3917	3.9238	t i m i d
+829	împărat	8460	8.3798	3.9232	ɨ m p ə r a t
+830	vapor	8455	8.3749	3.923	v a p o r
+831	cincea	8435	8.3551	3.922	t͡ʃ i n t͡ʃ e̯ a
+832	diamant	8396	8.3164	3.9199	d i a m a n t
+833	dimineața	8383	8.3035	3.9193	d i m i n e̯ a t͡s a
+834	june	8317	8.2382	3.9158	ʒ u n e
+835	căsnicie	8292	8.2134	3.9145	k ə s n i t͡ʃ i j e
+836	andrea	8288	8.2094	3.9143	a n d r e̯ a
+837	vânat	8274	8.1956	3.9136	v ɨ n a t
+838	curcan	8260	8.1817	3.9128	k u r k a n
+839	lucrare	8240	8.1619	3.9118	l u k r a r e
+840	elefant	8237	8.1589	3.9116	e l e f a n t
+841	opus	8220	8.1421	3.9107	o p u s
+842	acuza	8205	8.1272	3.9099	a k u z a
+843	carbon	8163	8.0856	3.9077	k a r b o n
+844	blând	8158	8.0807	3.9074	b l ɨ n d
+845	amesteca	8149	8.0718	3.907	a m e s t e k a
+846	celebru	8133	8.0559	3.9061	t͡ʃ e l e b r u
+847	complice	8127	8.05	3.9058	k o m p l i t͡ʃ e
+848	acorda	8077	8.0004	3.9031	a k o r d a
+849	cheltui	8067	7.9905	3.9026	k e l t u i
+850	straniu	8066	7.9896	3.9025	s t r a n j u
+851	cioc	8011	7.9351	3.8996	t͡ʃ j o k
+852	scufundat	8009	7.9331	3.8994	s k u f u n d a t
+853	credincios	7997	7.9212	3.8988	k r e d i n t͡ʃʲ o s
+854	lei	7992	7.9163	3.8985	l e j
+855	ser	7975	7.8994	3.8976	s e r
+856	bara	7946	7.8707	3.896	b a r a
+857	nuci	7929	7.8539	3.8951	n u t͡ʃʲ
+858	fermecător	7920	7.8449	3.8946	f e r m e k ə t o r
+859	vesel	7911	7.836	3.8941	v e s e l
+860	februarie	7895	7.8202	3.8932	f e b r u a r i j e
+861	neplăcut	7891	7.8162	3.893	n e p l ə k u t
+862	duh	7878	7.8033	3.8923	d u h
+863	comună	7846	7.7716	3.8905	k o m u n ə
+864	cremă	7809	7.735	3.8885	k r e m ə
+865	respinge	7806	7.732	3.8883	r e s p i n d͡ʒ e
+866	invita	7784	7.7102	3.8871	i n v i t a
+867	agresiv	7777	7.7033	3.8867	a ɡ r e s i v
+868	lin	7769	7.6954	3.8862	l i n
+869	obiectiv	7763	7.6894	3.8859	o b j e k t i v
+870	intens	7759	7.6855	3.8857	i n t e n s
+871	egipt	7721	7.6478	3.8835	e d͡ʒ i p t
+872	armat	7711	7.6379	3.883	a r m a t
+873	treizeci	7670	7.5973	3.8807	t r e j z e t͡ʃʲ
+874	vită	7655	7.5824	3.8798	v i t ə
+875	tortură	7627	7.5547	3.8782	t o r t u r ə
+876	submarin	7601	7.529	3.8767	s u b m a r i n
+877	atlantic	7597	7.525	3.8765	a t l a n t i k
+878	vagabond	7591	7.5191	3.8762	v a ɡ a b o n d
+879	undă	7580	7.5082	3.8755	u n d ə
+880	prăjit	7524	7.4527	3.8723	p r ə ʒ i t
+881	delicat	7490	7.419	3.8703	d e l i k a t
+882	stabil	7485	7.4141	3.8701	s t a b i l
+883	critic	7480	7.4091	3.8698	k r i t i k
+883	istoric	7480	7.4091	3.8698	i s t o r i k
+884	israel	7459	7.3883	3.8685	i s r a e l
+885	vânători	7456	7.3853	3.8684	v ɨ n ə t o rʲ
+886	suta	7436	7.3655	3.8672	s u t a
+887	tortura	7424	7.3536	3.8665	t o r t u r a
+888	calcul	7412	7.3418	3.8658	k a l k u l
+889	unchi	7404	7.3338	3.8653	u ŋ kʲ
+890	dentist	7397	7.3269	3.8649	d e n t i s t
+891	suge	7394	7.3239	3.8647	s u d͡ʒ e
+892	arătos	7387	7.317	3.8643	a r ə t o s
+893	q	7379	7.3091	3.8639	k
+894	vecin	7374	7.3041	3.8636	v e t͡ʃ i n
+894	încântător	7374	7.3041	3.8636	ɨ n k ɨ n t ə t o r
+895	arogant	7373	7.3031	3.8635	a r o ɡ a n t
+896	obraznic	7342	7.2724	3.8617	o b r a z n i k
+897	contrar	7327	7.2576	3.8608	k o n t r a r
+898	virgină	7279	7.21	3.8579	v i r d͡ʒ i n ə
+899	specific	7251	7.1823	3.8563	s p e t͡ʃ i f i k
+900	totuși	7211	7.1427	3.8539	t o t u ʃʲ
+901	durea	7178	7.11	3.8519	d u r e̯ a
+902	irlandez	7177	7.109	3.8518	i r l a n d e z
+903	mărime	7173	7.105	3.8516	m ə r i m e
+904	secol	7172	7.104	3.8515	s e k o l
+905	lipit	7166	7.0981	3.8511	l i p i t
+906	dramatic	7161	7.0931	3.8508	d r a m a t i k
+907	capitol	7154	7.0862	3.8504	k a p i t o l
+908	strălucitor	7148	7.0803	3.8501	s t r ə l u t͡ʃ i t o r
+909	determina	7133	7.0654	3.8491	d e t e r m i n a
+910	sprijini	7125	7.0575	3.8487	s p r i ʒ i n i
+911	marin	7108	7.0406	3.8476	m a r i n
+912	munci	7105	7.0377	3.8474	m u n t͡ʃ i
+913	matur	7094	7.0268	3.8468	m a t u r
+914	aglomerat	7075	7.0079	3.8456	a ɡ l o m e r a t
+915	oaie	7071	7.004	3.8453	o̯ a j e
+916	răzbuna	7061	6.9941	3.8447	r ə z b u n a
+917	accidental	7059	6.9921	3.8446	a k t͡ʃ i d e n t a l
+918	expresie	7032	6.9654	3.8429	e k s p r e s i e
+919	carantină	7029	6.9624	3.8428	k a r a n t i n ə
+920	blond	6978	6.9119	3.8396	b l o n d
+921	dimineață	6972	6.9059	3.8392	d i m i n e̯ a t s ə
+922	mări	6968	6.902	3.839	m ə r i  |  m ə rʲ
+923	brutal	6947	6.8812	3.8377	b r u t a l
+924	ghid	6894	6.8287	3.8343	ɡ i d
+924	pictat	6894	6.8287	3.8343	p i k t a t
+925	medici	6891	6.8257	3.8341	m e d i t͡ʃʲ
+926	subteran	6839	6.7742	3.8309	s u b t e r a n
+927	dezamăgi	6791	6.7266	3.8278	d e z a m ə d͡ʒ i
+928	găină	6783	6.7187	3.8273	ɡ ə i n ə
+929	abandona	6777	6.7128	3.8269	a b a n d o n a
+930	frânt	6753	6.689	3.8254	f r ɨ n t
+931	poliție	6752	6.688	3.8253	p o l i t͡s i e
+932	chinui	6686	6.6226	3.821	k i n u i
+933	pantof	6671	6.6078	3.8201	p a n t o f
+934	floarea	6662	6.5989	3.8195	f l o̯ a r e̯ a
+935	bloc	6657	6.5939	3.8191	b l o k
+936	unghi	6647	6.584	3.8185	u n ɡʲ
+937	alexandru	6645	6.582	3.8184	a l e k s a n d r u
+938	deprimat	6631	6.5682	3.8174	d e p r i m a t
+939	arahide	6628	6.5652	3.8172	a r a h i d e
+940	net	6614	6.5513	3.8163	n e t
+941	parcurs	6585	6.5226	3.8144	p a r k u r s
+942	echilibru	6540	6.478	3.8114	e k i l i b r u
+943	psiholog	6514	6.4523	3.8097	p s i h o l o ɡ
+944	acestuia	6494	6.4325	3.8084	a t͡ʃ e s t u j a
+944	pix	6494	6.4325	3.8084	p i k s
+945	instinct	6484	6.4225	3.8077	i n s t i n k t
+946	naiv	6424	6.3631	3.8037	n a i v
+947	călare	6389	6.3284	3.8013	k ə l a r e
+948	lesbiană	6370	6.3096	3.8	l e s b i a n ə
+949	încrezător	6357	6.2968	3.7991	ɨ n k r e z ə t o r
+950	rest	6331	6.271	3.7973	r e s t
+951	via	6307	6.2472	3.7957	v i a
+952	japoneză	6275	6.2155	3.7935	ʒ a p o n e z ə
+953	ceapă	6269	6.2096	3.7931	t͡ʃ e̯ a p ə
+954	fin	6264	6.2046	3.7927	f i n
+955	spiritual	6248	6.1888	3.7916	s p i r i t u a l
+956	compus	6228	6.169	3.7902	k o m p u s
+957	completa	6175	6.1165	3.7865	k o m p l e t a
+958	luați	6163	6.1046	3.7857	l u a t͡sʲ
+959	tavan	6151	6.0927	3.7848	t a v a n
+960	văduvă	6128	6.0699	3.7832	v ə d u v ə
+961	capitală	6127	6.0689	3.7831	k a p i t a l ə
+962	gălăgie	6117	6.059	3.7824	ɡ ə l ə d͡ʒ i e
+962	vulcan	6117	6.059	3.7824	v u l k a n
+963	amărât	6095	6.0372	3.7808	a m ə r ɨ t
+964	producător	6090	6.0323	3.7805	p r o d u k ə t o r
+965	bunuri	6083	6.0253	3.78	b u n u rʲ
+966	magician	6078	6.0204	3.7796	m a d͡ʒ i t͡ʃ i a n
+967	convingător	6071	6.0135	3.7791	k o n v i ŋ ɡ ə t o r
+968	ansamblu	6066	6.0085	3.7788	a n s a m b l u
+969	aceeași	6060	6.0026	3.7783	a t͡ʃ e e̯ a ʃʲ  |  a t͡ʃ e j a ʃʲ
+969	capră	6060	6.0026	3.7783	k a p r ə
+970	cumplit	6048	5.9907	3.7775	k u m p l i t
+971	îmbătat	6047	5.9897	3.7774	ɨ m b ə t a t
+972	ascunzătoare	6027	5.9699	3.776	a s k u n z ə t o̯ a r e
+973	nemuritor	6007	5.9501	3.7745	n e m u r i t o r
+974	poet	5996	5.9392	3.7737	p o e t
+975	religios	5989	5.9322	3.7732	r e l i d͡ʒ i o s
+976	strop	5955	5.8986	3.7707	s t r o p
+977	relaxat	5942	5.8857	3.7698	r e l a k s a t
+978	explozibil	5935	5.8788	3.7693	e k s p l o z i b i l
+979	cincizeci	5914	5.8579	3.7677	t͡ʃ i n t͡ʃʲ z e t͡ʃʲ  |  t͡ʃ i n z e t͡ʃʲ
+980	anual	5898	5.8421	3.7666	a n u a l
+981	plasă	5892	5.8362	3.7661	p l a s ə
+982	barman	5882	5.8263	3.7654	b a r m a n
+983	portofel	5858	5.8025	3.7636	p o r t o f e l
+984	noștri	5804	5.749	3.7596	n o ʃ t r i
+985	malefic	5794	5.7391	3.7588	m a l e f i k
+986	virgin	5782	5.7272	3.7579	v i r d͡ʒ i n
+987	chinezi	5772	5.7173	3.7572	k i n e zʲ
+988	calculat	5763	5.7084	3.7565	k a l k u l a t
+989	reprezenta	5761	5.7064	3.7564	r e p r e z e n t a
+990	învățat	5753	5.6985	3.7558	ɨ n v ə t͡s a t
+991	tuns	5737	5.6826	3.7545	t u n s
+992	experimentat	5726	5.6717	3.7537	e k s p e r i m e n t a t
+993	urină	5708	5.6539	3.7523	u r i n ə
+994	biologic	5699	5.645	3.7517	b i o l o d͡ʒ i k
+995	își	5674	5.6202	3.7498	ɨ ʃʲ
+996	urî	5657	5.6034	3.7485	u r ɨ
+997	contabil	5648	5.5945	3.7478	k o n t a b i l
+998	rusă	5634	5.5806	3.7467	r u s ə
+999	testa	5632	5.5786	3.7465	t e s t a
+1000	înfrânge	5587	5.534	3.743	ɨ n f r ɨ n d͡ʒ e
+1001	acesteia	5582	5.5291	3.7427	a t͡ʃ e s t e j a
+1002	spargere	5545	5.4924	3.7398	s p a r d͡ʒ e r e
+1003	calificat	5538	5.4855	3.7392	k a l i f i k a t
+1004	îndepărta	5470	5.4182	3.7339	ɨ n d e p ə r t a
+1005	pompier	5435	5.3835	3.7311	p o m p i e r
+1006	descriere	5425	5.3736	3.7303	d e s k r i e r e
+1007	dansator	5420	5.3686	3.7299	d a n s a t o r
+1008	balcon	5417	5.3657	3.7296	b a l k o n
+1009	circuit	5416	5.3647	3.7295	t͡ʃ i r k u i t
+1009	pachete	5416	5.3647	3.7295	p a k e t e
+1010	fecioară	5415	5.3637	3.7295	f e t͡ʃ j o̯ a r ə
+1011	pictură	5410	5.3587	3.7291	p i k t u r ə
+1012	umed	5404	5.3528	3.7286	u m e d
+1013	subtil	5395	5.3439	3.7279	s u b t i l
+1014	modest	5389	5.3379	3.7274	m o d e s t
+1015	antic	5368	5.3171	3.7257	a n t i k
+1016	masculin	5364	5.3132	3.7254	m a s k u l i n
+1016	orfan	5364	5.3132	3.7254	o r f a n
+1017	divin	5351	5.3003	3.7243	d i v i n
+1018	atare	5346	5.2953	3.7239	a t a r e
+1019	tărie	5345	5.2943	3.7238	t ə r i e
+1020	organiza	5342	5.2914	3.7236	o r ɡ a n i z a
+1021	instantaneu	5303	5.2527	3.7204	i n s t a n t a n e w
+1022	ăstuia	5298	5.2478	3.72	ə s t u j a
+1023	luminos	5296	5.2458	3.7198	l u m i n o s
+1024	efectiv	5294	5.2438	3.7196	e f e k t i v
+1025	adăuga	5288	5.2379	3.7192	a d ə u ɡ a
+1026	aspru	5274	5.224	3.718	a s p r u
+1027	spaniol	5255	5.2052	3.7164	s p a n i o l
+1028	tipar	5245	5.1953	3.7156	t i p a r
+1029	capital	5209	5.1596	3.7126	k a p i t a l
+1030	comune	5200	5.1507	3.7119	k o m u n e
+1031	faptă	5177	5.1279	3.7099	f a p t ə
+1032	pustiu	5163	5.1141	3.7088	p u s t i w
+1033	înfipt	5143	5.0943	3.7071	ɨ n f i p t
+1034	soc	5133	5.0844	3.7062	s o k
+1035	irosi	5131	5.0824	3.7061	i r o s i
+1036	studentă	5128	5.0794	3.7058	s t u d e n t ə
+1037	gros	5124	5.0754	3.7055	ɡ r o s
+1038	doisprezece	5066	5.018	3.7005	d o j s p r e z e t͡ʃ e
+1039	cincilea	5059	5.0111	3.6999	t͡ʃ i n t͡ʃ i l e̯ a
+1040	muzical	5012	4.9645	3.6959	m u z i k a l
+1041	optimist	5009	4.9615	3.6956	o p t i m i s t
+1042	calde	4982	4.9348	3.6933	k a l d e
+1043	atrăgător	4976	4.9288	3.6927	a t r ə ɡ ə t o r
+1044	plasmă	4951	4.9041	3.6906	p l a s m ə
+1045	acestora	4937	4.8902	3.6893	a t͡ʃ e s t o r a
+1046	pătrat	4930	4.8833	3.6887	p ə t r a t
+1047	muritor	4928	4.8813	3.6885	m u r i t o r
+1048	imperial	4926	4.8793	3.6884	i m p e r i a l
+1049	tribal	4920	4.8734	3.6878	t r i b a l
+1050	mărunt	4919	4.8724	3.6877	m ə r u n t
+1051	iepuri	4907	4.8605	3.6867	j e p u rʲ
+1052	inocent	4882	4.8357	3.6845	i n o t͡ʃ e n t
+1053	pasager	4863	4.8169	3.6828	p a s a d͡ʒ e r
+1054	îngrijit	4824	4.7783	3.6793	ɨ ŋ ɡ r i ʒ i t
+1055	interzice	4820	4.7743	3.6789	i n t e r z i t͡ʃ e
+1056	destinat	4799	4.7535	3.677	d e s t i n a t
+1057	agita	4796	4.7505	3.6767	a d͡ʒ i t a
+1058	nod	4794	4.7486	3.6766	n o d
+1059	adora	4792	4.7466	3.6764	a d o r a
+1060	far	4781	4.7357	3.6754	f a r
+1061	litera	4780	4.7347	3.6753	l i t e r a
+1062	boxer	4775	4.7297	3.6748	b o k s e r
+1063	neglijent	4765	4.7198	3.6739	n e ɡ l i ʒ e n t
+1064	javră	4764	4.7188	3.6738	ʒ a v r ə
+1065	atotputernic	4757	4.7119	3.6732	a t o t p u t e r n i k
+1066	titan	4746	4.701	3.6722	t i t a n
+1067	intim	4742	4.6971	3.6718	i n t i m
+1068	umil	4725	4.6802	3.6703	u m i l
+1069	lamă	4724	4.6792	3.6702	l a m ə
+1070	farmec	4716	4.6713	3.6694	f a r m e k
+1071	amar	4692	4.6475	3.6672	a m a r
+1071	ruj	4692	4.6475	3.6672	r u ʒ
+1071	îmbătrânit	4692	4.6475	3.6672	ɨ m b ə t r ɨ n i t
+1072	portal	4689	4.6446	3.6669	p o r t a l
+1073	secundar	4688	4.6436	3.6669	s e k u n d a r
+1074	prudent	4680	4.6356	3.6661	p r u d e n t
+1074	ruina	4680	4.6356	3.6661	r u i n a
+1075	instabil	4679	4.6347	3.666	i n s t a b i l
+1076	traversa	4671	4.6267	3.6653	t r a v e r s a
+1077	urina	4657	4.6129	3.664	u r i n a
+1078	chel	4646	4.602	3.6629	k e l
+1079	regim	4638	4.594	3.6622	r e d͡ʒ i m
+1080	jura	4627	4.5831	3.6612	ʒ u r a
+1080	oală	4627	4.5831	3.6612	o̯ a l ə
+1081	cuprins	4609	4.5653	3.6595	k u p r i n s
+1082	întinsă	4607	4.5633	3.6593	ɨ n t i n s ə
+1083	întrucât	4600	4.5564	3.6586	ɨ n t r u k ɨ t
+1084	cd	4588	4.5445	3.6575	s i d i
+1085	benzinărie	4584	4.5406	3.6571	b e n z i n ə r i e
+1085	patruzeci	4584	4.5406	3.6571	p a t r u z e t͡ʃʲ
+1086	putred	4572	4.5287	3.656	p u t r e d
+1087	curea	4559	4.5158	3.6547	k u r e̯ a
+1088	călugăr	4557	4.5138	3.6545	k ə l u ɡ ə r
+1089	lacom	4515	4.4722	3.6505	l a k o m
+1090	britanici	4509	4.4663	3.6499	b r i t a n i t͡ʃʲ
+1091	portocaliu	4487	4.4445	3.6478	p o r t o k a l i w
+1092	fricos	4476	4.4336	3.6468	f r i k o s
+1093	balenă	4474	4.4316	3.6466	b a l e n ə
+1094	străvechi	4458	4.4157	3.645	s t r ə v e c
+1095	cusut	4447	4.4049	3.6439	k u s u t
+1096	dinozaur	4446	4.4039	3.6438	d i n o z a u r
+1097	masacru	4407	4.3652	3.64	m a s a k r u
+1098	cult	4361	4.3197	3.6355	k u l t
+1099	nepot	4360	4.3187	3.6354	n e p o t
+1100	auriu	4358	4.3167	3.6352	a u r i w
+1101	pictor	4354	4.3127	3.6347	p i k t o r
+1102	toamnă	4347	4.3058	3.6341	t o̯ a m n ə
+1103	scund	4345	4.3038	3.6339	s k u n d
+1104	viclean	4335	4.2939	3.6329	v i k l e̯ a n
+1105	precaut	4333	4.2919	3.6326	p r e k a u t
+1106	botezat	4317	4.2761	3.631	b o t e z a t
+1106	sugar	4317	4.2761	3.631	s u ɡ a r
+1107	bronz	4305	4.2642	3.6298	b r o n z
+1108	vag	4293	4.2523	3.6286	v a ɡ
+1109	chineză	4272	4.2315	3.6265	c i n e z ə
+1110	servietă	4254	4.2137	3.6247	s e r v i e t ə
+1111	unsprezece	4249	4.2087	3.6241	u n s p r e z e t͡ʃ e
+1112	sesiune	4248	4.2077	3.624	s e s i u n e
+1113	uzi	4246	4.2058	3.6238	u zʲ
+1114	lagăr	4230	4.1899	3.6222	l a ɡ ə r
+1115	arhitect	4214	4.1741	3.6206	a r h i t e k t
+1116	capac	4205	4.1651	3.6196	k a p a k
+1117	văr	4189	4.1493	3.618	v ə r
+1118	sofisticat	4185	4.1453	3.6176	s o f i s t i k a t
+1119	creion	4183	4.1434	3.6174	k r e j o n
+1120	omletă	4179	4.1394	3.6169	o m l e t ə
+1121	contrazice	4177	4.1374	3.6167	k o n t r a z i t͡ʃ e
+1122	borcan	4154	4.1146	3.6143	b o r k a n
+1122	gustos	4154	4.1146	3.6143	ɡ u s t o s
+1123	naviga	4152	4.1126	3.6141	n a v i ɡ a
+1124	onest	4131	4.0918	3.6119	o n e s t
+1125	nemilos	4091	4.0522	3.6077	n e m i l o s
+1126	ren	4088	4.0493	3.6074	r e n
+1127	scoici	4086	4.0473	3.6072	s k o j t͡ʃʲ
+1128	sirop	4069	4.0304	3.6053	s i r o p
+1129	activa	4060	4.0215	3.6044	a k t i v a
+1130	firesc	4050	4.0116	3.6033	f i r e s k
+1131	temperatură	4045	4.0067	3.6028	t e m p e r a t u r ə
+1132	ăstora	4044	4.0057	3.6027	ə s t o r a
+1133	grijuliu	4043	4.0047	3.6026	ɡ r i ʒ u l i w
+1134	mărire	4016	3.9779	3.5997	m ə r i r e
+1135	încrede	4000	3.9621	3.5979	ɨ n k r e d e
+1136	satisfăcut	3991	3.9532	3.5969	s a t i s f ə k u t
+1137	întru	3968	3.9304	3.5944	ɨ n t r u
+1138	burlac	3945	3.9076	3.5919	b u r l a k
+1139	astronaut	3943	3.9056	3.5917	a s t r o n a u t
+1140	cărbune	3933	3.8957	3.5906	k ə r b u n e
+1141	cioară	3930	3.8928	3.5903	t͡ʃ j o̯ a r ə
+1142	frânge	3929	3.8918	3.5902	f r ɨ n d͡ʒ e
+1142	opta	3929	3.8918	3.5902	o p t a
+1143	biet	3916	3.8789	3.5887	b j e t
+1144	femelă	3887	3.8502	3.5855	f e m e l ə
+1145	anormal	3878	3.8412	3.5845	a n o r m a l
+1146	uragan	3872	3.8353	3.5838	u r a ɡ a n
+1147	cupru	3864	3.8274	3.5829	k u p r u
+1148	palid	3861	3.8244	3.5826	p a l i d
+1149	cincisprezece	3853	3.8165	3.5817	t͡ʃ i n s p r e z e t͡ʃ e  |  t͡ʃ i n t͡ʃʲ s p r e z e t͡ʃ e
+1150	lat	3849	3.8125	3.5812	l a t
+1151	scorpion	3843	3.8066	3.5805	s k o r p j o n
+1152	administrator	3840	3.8036	3.5802	a d m i n i s t r a t o r
+1153	flămând	3838	3.8016	3.58	f l ə m ɨ n d
+1154	mintal	3827	3.7907	3.5787	m i n t a l
+1155	turmă	3822	3.7858	3.5782	t u r m ə
+1156	intact	3819	3.7828	3.5778	i n t a k t
+1157	î	3811	3.7749	3.5769	ɨ
+1158	distanță	3792	3.7561	3.5747	d i s t a n t͡s ə
+1159	bou	3790	3.7541	3.5745	b o w
+1160	însărcinat	3788	3.7521	3.5743	ɨ n s ə r t͡ʃ i n a t
+1161	neajutorat	3787	3.7511	3.5742	n e a ʒ u t o r a t
+1162	toxic	3769	3.7333	3.5721	t o k s i k
+1163	ham	3766	3.7303	3.5717	h a m
+1164	digital	3763	3.7273	3.5714	d i d͡ʒ i t a l
+1165	învingător	3760	3.7244	3.5711	ɨ n v i ŋ ɡ ə t o r
+1166	alunga	3759	3.7234	3.5709	a l u n ɡ a
+1167	literatură	3752	3.7164	3.5701	l i t e r a t u r ə
+1168	fragil	3743	3.7075	3.5691	f r a d͡ʒ i l
+1169	creativ	3740	3.7046	3.5687	k r e a t i v
+1170	asistat	3739	3.7036	3.5686	a s i s t a t
+1171	rezident	3732	3.6966	3.5678	r e z i d e n t
+1171	sătul	3732	3.6966	3.5678	s ə t u l
+1172	frecvent	3728	3.6927	3.5673	f r e k v e n t
+1173	pastor	3721	3.6857	3.5665	p a s t o r
+1174	formidabil	3718	3.6828	3.5662	f o r m i d a b i l
+1175	chimic	3714	3.6788	3.5657	c i m i k
+1176	obligatoriu	3703	3.6679	3.5644	o b l i ɡ a t o r j u
+1177	vanilie	3697	3.662	3.5637	v a n i l i e
+1178	arab	3691	3.656	3.563	a r a b
+1179	automate	3683	3.6481	3.5621	a u t o m a t e
+1180	ironia	3679	3.6441	3.5616	i r o n i j a
+1180	jude	3679	3.6441	3.5616	ʒ u d e
+1181	dubios	3671	3.6362	3.5606	d u b i o s
+1182	grec	3667	3.6322	3.5602	ɡ r e k
+1183	maică	3654	3.6194	3.5586	m a j k ə
+1184	trăgător	3644	3.6095	3.5574	t r ə ɡ ə t o r
+1185	nucă	3631	3.5966	3.5559	n u k ə
+1185	verandă	3631	3.5966	3.5559	v e r a n d ə
+1186	rută	3610	3.5758	3.5534	r u t ə
+1187	copt	3599	3.5649	3.552	k o p t
+1188	viola	3590	3.556	3.551	v i o l a
+1189	european	3562	3.5282	3.5476	e u r o p e̯ a n
+1190	mercur	3560	3.5263	3.5473	m e r k u r
+1191	morcovi	3552	3.5183	3.5463	m o r k o vʲ
+1191	zgomotos	3552	3.5183	3.5463	z ɡ o m o t o s
+1192	bunică	3551	3.5173	3.5462	b u n i k ə
+1193	franceze	3541	3.5074	3.545	f r a n t͡ʃ e z e
+1194	călător	3535	3.5015	3.5443	k ə l ə t o r
+1195	fiert	3531	3.4975	3.5438	f j e r t
+1196	joker	3527	3.4936	3.5433	d͡ʒ o k ə r
+1197	somon	3526	3.4926	3.5431	s o m o n
+1198	instructor	3521	3.4876	3.5425	i n s t r u k t o r
+1199	încins	3518	3.4847	3.5422	ɨ n t͡ʃ i n s
+1200	îndrăgosti	3505	3.4718	3.5406	ɨ n d r ə ɡ o s t i
+1201	electromagnetic	3502	3.4688	3.5402	e l e k t r o m a ɡ n e t i k
+1202	email	3501	3.4678	3.5401	e m a i l  |  i m e j l
+1203	udat	3498	3.4648	3.5397	u d a t
+1204	renumit	3494	3.4609	3.5392	r e n u m i t
+1205	morți	3493	3.4599	3.5391	m o r t͡sʲ
+1206	ghicitoare	3487	3.454	3.5383	ɡ i t͡ʃ i t o̯ a r e
+1207	inferior	3484	3.451	3.5379	i n f e r i o r
+1208	soia	3479	3.446	3.5373	s o j a
+1209	pustie	3471	3.4381	3.5363	p u s t i e
+1210	ăleia	3465	3.4322	3.5356	ə l e j a
+1211	exclude	3451	3.4183	3.5338	e k s k l u d e
+1212	halat	3447	3.4143	3.5333	h a l a t
+1213	flăcău	3442	3.4094	3.5327	f l ə k ə w
+1214	oficiu	3431	3.3985	3.5313	o f i t͡ʃ j u
+1215	hidrogen	3425	3.3925	3.5305	h i d r o d͡ʒ e n
+1216	scânteie	3424	3.3915	3.5304	s k ɨ n t e j e
+1217	bebe	3417	3.3846	3.5295	b e b e
+1218	economic	3413	3.3807	3.529	e k o n o m i k
+1219	ms	3392	3.3599	3.5263	m ɨ s ɨ
+1220	artistic	3387	3.3549	3.5257	a r t i s t i k
+1221	amâna	3377	3.345	3.5244	a m ɨ n a
+1222	atom	3374	3.342	3.524	a t o m
+1223	minți	3373	3.341	3.5239	m i n t͡s i  |  m i n t͡sʲ
+1224	cercetător	3372	3.34	3.5237	t͡ʃ e r t͡ʃ e t ə t o r
+1225	ipocrit	3363	3.3311	3.5226	i p o k r i t
+1226	ziarist	3334	3.3024	3.5188	z i a r i s t
+1227	zâmbi	3330	3.2984	3.5183	z ɨ m b i
+1228	combinat	3305	3.2737	3.515	k o m b i n a t
+1229	vulgar	3294	3.2628	3.5136	v u l ɡ a r
+1230	bărbați	3272	3.241	3.5107	b ə r b a t sʲ
+1231	martir	3261	3.2301	3.5092	m a r t i r
+1232	traduce	3257	3.2261	3.5087	t r a d u t ʃ e
+1233	cardinal	3256	3.2251	3.5085	k a r d i n a l
+1234	rotund	3252	3.2212	3.508	r o t u n d
+1235	colorat	3248	3.2172	3.5075	k o l o r a t
+1236	obositor	3243	3.2123	3.5068	o b o s i t o r
+1237	aripă	3235	3.2043	3.5057	a r i p ə
+1238	albină	3233	3.2024	3.5055	a l b i n ə
+1239	amor	3226	3.1954	3.5045	a m o r
+1240	grâu	3223	3.1925	3.5041	ɡ r ɨ w
+1241	banană	3219	3.1885	3.5036	b a n a n ə
+1242	cosmic	3211	3.1806	3.5025	k o s m i k
+1243	argentina	3206	3.1756	3.5018	ɑ r d ʒ e n t i n a
+1244	bă	3202	3.1717	3.5013	b ə
+1245	identic	3200	3.1697	3.501	i d e n t i k
+1246	formată	3189	3.1588	3.4995	f o r m a t ə
+1247	râuri	3184	3.1538	3.4988	r ɨ w rʲ
+1248	penibil	3183	3.1528	3.4987	p e n i b i l
+1249	stângaci	3181	3.1509	3.4984	s t ɨ n ɡ a t͡ʃʲ
+1250	ninge	3178	3.1479	3.498	n i n d ʒ e
+1251	mov	3174	3.1439	3.4975	m o v
+1252	automată	3168	3.138	3.4967	a u t o m a t ə
+1253	trecătoare	3147	3.1172	3.4938	t r e k ə t o̯ a r e
+1254	solemn	3145	3.1152	3.4935	s o l e m n
+1255	guvernamental	3133	3.1033	3.4918	ɡ u v e r n a m e n t a l
+1256	coajă	3124	3.0944	3.4906	k o̯ a ʒ ə
+1256	repejor	3124	3.0944	3.4906	r e p e ʒ o r
+1257	pacientă	3123	3.0934	3.4904	p a t͡ʃ i e n t ə
+1258	unealtă	3122	3.0924	3.4903	u n e̯ a l t ə
+1259	papagal	3119	3.0894	3.4899	p a p a ɡ a l
+1260	sângera	3115	3.0855	3.4893	s ɨ n d͡ʒ e r a
+1261	credibil	3106	3.0766	3.4881	k r e d i b i l
+1262	crocodil	3103	3.0736	3.4876	k r o k o d i l
+1263	scriitoare	3091	3.0617	3.486	s k r i i t o̯ a r e
+1264	liniște	3090	3.0607	3.4858	l i n i ʃ t e
+1264	â	3090	3.0607	3.4858	ɨ
+1265	abătut	3088	3.0587	3.4855	a b ə t u t
+1266	vrednic	3079	3.0498	3.4843	v r e d n i k
+1267	răutăcios	3068	3.0389	3.4827	r ə u t ə t͡ʃʲ o s
+1268	picta	3065	3.036	3.4823	p i k t a
+1269	păcătos	3061	3.032	3.4817	p ə k ə t o s
+1270	săptămânal	3058	3.029	3.4813	s ə p t ə m ɨ n a l
+1271	bomboană	3042	3.0132	3.479	b o m b o̯ a n ə
+1272	greacă	3028	2.9993	3.477	ɡ r e̯ a k ə
+1273	analist	3023	2.9943	3.4763	a n a l i s t
+1274	acri	3009	2.9805	3.4743	a k r i
+1275	răbdător	3007	2.9785	3.474	r ə b d ə t o r
+1276	curbă	2998	2.9696	3.4727	k u r b ə
+1277	abdomen	2980	2.9518	3.4701	a b d o m e n
+1278	utile	2978	2.9498	3.4698	u t i l e
+1279	provincie	2975	2.9468	3.4694	p r o v i n t͡ʃ i e
+1280	ăluia	2970	2.9419	3.4686	ə l u j a
+1281	amabili	2954	2.926	3.4663	a m a b i lʲ
+1282	vizibil	2953	2.925	3.4661	v i z i b i l
+1283	deteriorat	2941	2.9131	3.4644	d e t e r i o r a t
+1284	industrial	2917	2.8894	3.4608	i n d u s t r j a l
+1285	invincibil	2913	2.8854	3.4602	i n v i n t͡ʃ i b i l
+1286	delicate	2911	2.8834	3.4599	d e l i k a t e
+1287	alunecos	2893	2.8656	3.4572	a l u n e k o s
+1287	sui	2893	2.8656	3.4572	s u i
+1288	zgârcit	2889	2.8616	3.4566	z ɡ ɨ r t͡ʃ i t
+1289	roșu	2883	2.8557	3.4557	r o ʃ u
+1290	geamăn	2858	2.8309	3.4519	d͡ʒ e̯ a m ə n
+1291	sclavă	2836	2.8091	3.4486	s k l a v ə
+1292	piramidă	2833	2.8061	3.4481	p i r a m i d ə
+1293	sinistru	2819	2.7923	3.446	s i n i s t r u
+1294	formal	2817	2.7903	3.4457	f o r m a l
+1295	neutru	2806	2.7794	3.444	n e u t r u
+1296	viteaz	2802	2.7754	3.4433	v i t e̯ a z
+1297	pilota	2799	2.7725	3.4429	p i l o t a
+1298	monument	2797	2.7705	3.4426	m o n u m e n t
+1299	baton	2795	2.7685	3.4422	b a t o n
+1299	perucă	2795	2.7685	3.4422	p e r u k ə
+1300	sultan	2759	2.7329	3.4366	s u l t a n
+1300	treisprezece	2759	2.7329	3.4366	t r e j s p r e z e t͡ʃ e
+1301	marsilia	2758	2.7319	3.4365	m a r s i l j a
+1301	strâmt	2758	2.7319	3.4365	s t r ɨ m t
+1302	saluta	2743	2.717	3.4341	s a l u t a
+1303	mazăre	2731	2.7051	3.4322	m a z ə r e
+1304	jegos	2721	2.6952	3.4306	ʒ e ɡ o s
+1305	vorbitor	2717	2.6912	3.4299	v o r b i t o r
+1306	aluminiu	2710	2.6843	3.4288	a l u m i n j u
+1307	ceresc	2692	2.6665	3.4259	t͡ʃ e r e s k
+1308	invidios	2690	2.6645	3.4256	i n v i d i o s
+1309	spălare	2682	2.6566	3.4243	s p ə l a r e
+1310	contagios	2671	2.6457	3.4225	k o n t a d͡ʒ i o s
+1311	galbeni	2667	2.6417	3.4219	ɡ a l b e nʲ
+1312	conversație	2664	2.6388	3.4214	k o n v e r s a t͡s i e
+1313	caviar	2654	2.6288	3.4198	k a v i a r
+1314	gorilă	2641	2.616	3.4176	ɡ o r i l ə
+1315	ținut	2639	2.614	3.4173	t͡s i n u t
+1316	impas	2625	2.6001	3.415	i m p a s
+1317	infirmieră	2622	2.5971	3.4145	i n f i r m i e r ə
+1317	naștere	2622	2.5971	3.4145	n a ʃ t e r e
+1318	știință	2609	2.5843	3.4123	ʃ t i i n t͡s ə
+1319	situație	2601	2.5763	3.411	s i t u a t͡s i e
+1320	strâmb	2599	2.5744	3.4107	s t r ɨ m b
+1321	evreică	2580	2.5555	3.4075	e v r e j k ə
+1322	intermediar	2578	2.5536	3.4072	i n t e r m e d i a r
+1323	nădejde	2571	2.5466	3.406	n ə d e ʒ d e
+1324	zăpăcit	2560	2.5357	3.4041	z ə p ə t͡ʃ i t
+1325	sodiu	2558	2.5338	3.4038	s o d j u
+1326	detaliat	2555	2.5308	3.4033	d e t a l i a t
+1327	plută	2518	2.4941	3.3969	p l u t ə
+1328	zecea	2510	2.4862	3.3955	z e t͡ʃ e̯ a
+1329	flămânzi	2509	2.4852	3.3954	f l ə m ɨ n z i
+1330	beep	2503	2.4793	3.3943	b i p
+1331	pijama	2500	2.4763	3.3938	p i ʒ a m a
+1332	cobai	2495	2.4714	3.3929	k o b a j
+1333	celebra	2488	2.4644	3.3917	t͡ʃ e l e b ɾ a
+1334	absorbit	2487	2.4634	3.3915	a b s o r b i t
+1334	pătat	2487	2.4634	3.3915	p ə t a t
+1335	creator	2485	2.4614	3.3912	k r e a t o r
+1336	formulă	2482	2.4585	3.3907	f o r m u l ə
+1337	moralitate	2476	2.4525	3.3896	m o r a l i t a t e
+1338	imoral	2457	2.4337	3.3863	i m o r a l
+1339	islanda	2449	2.4258	3.3849	i s l a n d a
+1340	radioactiv	2448	2.4248	3.3847	r a d i o a k t i v
+1341	rebeliune	2435	2.4119	3.3824	r e b e l i u n e
+1342	vamă	2428	2.405	3.3811	v a m ə
+1343	intelectual	2419	2.3961	3.3795	i n t e l e k t u a l
+1344	abur	2399	2.3763	3.3759	a b u r
+1345	speranță	2370	2.3475	3.3706	s p e r a n t s ə
+1346	obscen	2368	2.3456	3.3703	o b s t͡ʃ e n
+1347	fizician	2363	2.3406	3.3693	f i z i t͡ʃ i a n
+1348	evreiesc	2362	2.3396	3.3691	e v r e j e s k
+1349	corb	2359	2.3366	3.3686	k o r b
+1350	rafinat	2346	2.3238	3.3662	r a f i n a t
+1351	irlandeză	2343	2.3208	3.3656	i r l a n d e z ə
+1351	salam	2343	2.3208	3.3656	s a l a m
+1352	soție	2337	2.3149	3.3645	s o t͡s i j e
+1353	luare	2331	2.3089	3.3634	l u a r e
+1354	geacă	2322	2.3	3.3617	d ʒ e̯ a k ə
+1355	cămilă	2321	2.299	3.3615	k ə m i l ə
+1356	avocată	2315	2.2931	3.3604	a v o k a t ə
+1357	leopard	2311	2.2891	3.3597	l e o p a r d
+1358	românia	2299	2.2772	3.3574	r o m ɨ n i a
+1359	australian	2291	2.2693	3.3559	a u s t r a l i a n
+1360	aluneca	2281	2.2594	3.354	a l u n e k a
+1361	vecină	2275	2.2534	3.3528	v e t͡ʃ i n ə
+1362	americancă	2274	2.2524	3.3526	a m e r i k a ŋ k ə
+1362	lăuda	2274	2.2524	3.3526	l ə u d a
+1363	coaie	2272	2.2505	3.3523	k o̯ a j e
+1364	trântit	2271	2.2495	3.3521	t r ɨ n t i t
+1365	polar	2266	2.2445	3.3511	p o l a r
+1366	colibă	2259	2.2376	3.3498	k o l i b ə
+1366	căprui	2259	2.2376	3.3498	k ə p r u j
+1367	blasfemie	2257	2.2356	3.3494	b l a s f e m i e
+1368	cristian	2255	2.2336	3.349	k r i s t i a n  |  k r i s t j a n
+1369	admira	2253	2.2316	3.3486	a d m i r a
+1369	relație	2253	2.2316	3.3486	r e l a t͡s i e
+1370	fundamental	2248	2.2267	3.3477	f u n d a m e n t a l
+1371	alina	2245	2.2237	3.3471	a l i n a
+1372	anulare	2242	2.2208	3.3465	a n u l a r e
+1373	vid	2240	2.2188	3.3461	v i d
+1374	nordic	2235	2.2138	3.3451	n o r d i k
+1375	inuman	2234	2.2128	3.3449	i n u m a n
+1376	prune	2227	2.2059	3.3436	p r u n e
+1377	asemănare	2225	2.2039	3.3432	a s e m ə n a r e
+1378	lotus	2219	2.198	3.342	l o t u s
+1379	bancnotă	2210	2.1891	3.3403	b a n k n o t ə
+1380	feminine	2209	2.1881	3.3401	f e m i n i n e
+1381	exotic	2202	2.1811	3.3387	e ɡ z o t i k
+1381	sudic	2202	2.1811	3.3387	s u d i k
+1382	bombardament	2199	2.1782	3.3381	b o m b a r d a m e n t
+1383	glas	2197	2.1762	3.3377	ɡ l a s
+1384	purgatoriu	2196	2.1752	3.3375	p u r ɡ a t o r i u̯
+1385	fript	2192	2.1712	3.3367	f r i p t
+1386	permanente	2187	2.1663	3.3357	p e r m a n e n t e
+1387	orientare	2185	2.1643	3.3353	o r i e n t a r e
+1388	raton	2180	2.1593	3.3343	r a t o n
+1389	filozofie	2179	2.1583	3.3341	f i l o z o f i e
+1390	dezamăgitor	2175	2.1544	3.3333	d e z a m ə d͡ʒ i t o r
+1391	ascultător	2172	2.1514	3.3327	a s k u l t ə t o r
+1391	îngust	2172	2.1514	3.3327	ɨ ŋ ɡ u s t
+1392	propagandă	2167	2.1465	3.3317	p r o p a ɡ a n d ə
+1393	necinstit	2164	2.1435	3.3311	n e t͡ʃ i n s t i t
+1394	tătic	2154	2.1336	3.3291	t ə t i k
+1395	ălora	2148	2.1276	3.3279	ə l o r a
+1396	răzbunător	2136	2.1158	3.3255	r ə z b u n ə t o r
+1397	zicală	2132	2.1118	3.3247	z i k a l ə
+1398	salve	2130	2.1098	3.3242	s a l v e
+1399	umbrelă	2122	2.1019	3.3226	u m b r e l ə
+1400	sur	2111	2.091	3.3204	s u r
+1401	zbate	2096	2.0761	3.3172	z b a t e
+1402	potasiu	2091	2.0712	3.3162	p o t a s j u
+1403	tanti	2075	2.0553	3.3129	t a n tʲ
+1404	absent	2072	2.0524	3.3123	a b s e n t  |  a p s e n t
+1405	sanie	2070	2.0504	3.3118	s a n i e
+1406	prelungit	2050	2.0306	3.3076	p r e l u n d͡ʒ i t
+1407	pârâu	2047	2.0276	3.307	p ɨ r ɨ w
+1408	câți	2044	2.0246	3.3063	k ɨ t͡sʲ
+1408	muiere	2044	2.0246	3.3063	m u j e r e
+1409	sulf	2037	2.0177	3.3049	s u l f
+1410	profitabil	2032	2.0127	3.3038	p r o f i t a b i l
+1411	ambalaj	2028	2.0088	3.3029	a m b a l a ʒ
+1412	joint	2025	2.0058	3.3023	d͡ʒ o j n t
+1413	dărâma	2017	1.9979	3.3006	d ə r ɨ m a
+1414	femele	2010	1.991	3.2991	f e m e l e
+1415	eficace	2009	1.99	3.2989	e f i k a t͡ʃ e
+1416	întinse	2007	1.988	3.2984	ɨ n t i n s e
+1417	catifea	2006	1.987	3.2982	k a t i f e̯ a
+1418	argintie	1998	1.9791	3.2965	a r d͡ʒ i n t i e
+1418	binefacere	1998	1.9791	3.2965	b i n e f a t͡ʃ e r e
+1419	statistic	1995	1.9761	3.2958	s t a t i s t i k
+1419	traiectorie	1995	1.9761	3.2958	t r a j e k t o r i e̯
+1420	invalid	1986	1.9672	3.2938	i n v a l i d
+1421	spanioli	1983	1.9642	3.2932	s p a n i o lʲ
+1422	respirație	1976	1.9573	3.2917	r e s p i r a t͡s i e
+1423	mititel	1975	1.9563	3.2914	m i t i t e l
+1424	vioi	1968	1.9493	3.2899	v i o j
+1425	masculi	1966	1.9474	3.2895	m a s k u lʲ
+1426	migrenă	1962	1.9434	3.2886	m i ɡ r e n ə
+1427	metan	1959	1.9404	3.2879	m e t a n
+1428	nepoată	1956	1.9375	3.2872	n e p o̯ a t ə
+1429	perie	1955	1.9365	3.287	p e r i e
+1430	modificate	1951	1.9325	3.2861	m o d i f i k a t e
+1431	îmbolnăvi	1945	1.9266	3.2848	ɨ m b o l n ə v i
+1432	grădinar	1937	1.9186	3.283	ɡ r ə d i n a r
+1433	miau	1922	1.9038	3.2796	m j a w
+1434	tandru	1914	1.8959	3.2778	t a n d r u
+1435	iritat	1911	1.8929	3.2771	i r i t a t
+1436	caracteristici	1910	1.8919	3.2769	k a r a k t e r i s t i t͡ʃʲ
+1437	proverb	1901	1.883	3.2749	p r o v e r b
+1438	jale	1899	1.881	3.2744	ʒ a l e
+1439	mamut	1885	1.8671	3.2712	m a m u t
+1439	însemnătate	1885	1.8671	3.2712	ɨ n s e m n ə t a t e
+1440	infirm	1882	1.8642	3.2705	i n f i r m
+1441	lejer	1880	1.8622	3.27	l e ʒ e r
+1442	adopta	1875	1.8572	3.2689	a d o p t a
+1443	lipicios	1872	1.8543	3.2682	l i p i t͡ʃʲ o s
+1444	zdravăn	1871	1.8533	3.2679	z d r a v ə n
+1445	darămite	1854	1.8364	3.264	d a r ə m i t e
+1446	dumnealui	1847	1.8295	3.2623	d u m n e̯ a l u j
+1446	tehnologic	1847	1.8295	3.2623	t e h n o l o d͡ʒ i k
+1447	algoritm	1837	1.8196	3.26	a l ɡ o r i t m
+1448	bădăran	1830	1.8127	3.2583	b ə d ə r a n
+1449	latin	1829	1.8117	3.2581	l a t i n
+1450	căciulă	1827	1.8097	3.2576	k ə t͡ʃʲ u l ə
+1451	pisoi	1825	1.8077	3.2571	p i s o j
+1452	alungi	1821	1.8037	3.2562	a l u n d͡ʒ i
+1452	mașini	1821	1.8037	3.2562	m a ʃ i nʲ
+1453	scutec	1816	1.7988	3.255	s k u t e k
+1454	satisfăcător	1815	1.7978	3.2547	s a t i s f ə k ə t o r
+1455	milan	1804	1.7869	3.2521	m i l a n
+1456	slăbănog	1803	1.7859	3.2519	s l ə b ə n o ɡ
+1457	aspirator	1798	1.781	3.2507	a s p i r a t o r
+1458	plicticos	1793	1.776	3.2494	p l i k t i k o s
+1459	ros	1789	1.772	3.2485	r o s
+1460	guatemala	1787	1.7701	3.248	ɡ w a t e m a l a
+1461	menține	1786	1.7691	3.2478	m e n t͡s i n e
+1462	fotoliu	1782	1.7651	3.2468	f o t o l j u
+1463	aicea	1774	1.7572	3.2448	a i t͡ʃ e̯ a
+1464	mediocru	1772	1.7552	3.2443	m e d i o k r u
+1464	otrăvitor	1772	1.7552	3.2443	o t r ə v i t o r
+1465	semafor	1766	1.7493	3.2429	s e m a f o r
+1466	administra	1765	1.7483	3.2426	a d m i n i s t r a
+1466	rescrie	1765	1.7483	3.2426	r e s k r i e
+1467	ginere	1758	1.7413	3.2409	d͡ʒ i n e r e
+1468	fiji	1757	1.7403	3.2406	f i d͡ʒ i
+1469	răpitor	1756	1.7394	3.2404	r ə p i t o r
+1470	îmbătrâni	1748	1.7314	3.2384	ɨ m b ə t r ɨ n i
+1471	olimpic	1743	1.7265	3.2372	o l i m p i k
+1472	primejdios	1739	1.7225	3.2362	p r i m e ʒ d i o s
+1473	pluti	1731	1.7146	3.2342	p l u t i
+1474	cuceritor	1730	1.7136	3.2339	k u t͡ʃ e r i t o r
+1475	flexibil	1726	1.7096	3.2329	f l e k s i b i l
+1476	chimist	1720	1.7037	3.2314	k i m i s t
+1477	acru	1718	1.7017	3.2309	a k r u
+1478	sculptat	1714	1.6978	3.2299	s k u l p t a t
+1479	azot	1713	1.6968	3.2296	a z o t
+1480	timpuriu	1711	1.6948	3.2291	t i m p u r i w
+1481	secretariat	1703	1.6869	3.2271	s e k r e t a r i a t
+1482	focos	1699	1.6829	3.2261	f o k o s
+1482	îngrijorător	1699	1.6829	3.2261	ɨ n ɡ r i ʒ o r ə t o r
+1483	duș	1695	1.6789	3.225	d u ʃ
+1484	glonț	1688	1.672	3.2232	ɡ l o n t͡s
+1485	învechit	1687	1.671	3.223	ɨ n v e k i t
+1486	coafor	1686	1.67	3.2227	k o̯ a f o r
+1486	conștient	1686	1.67	3.2227	k o n ʃ t i e n t
+1487	nechibzuit	1684	1.668	3.2222	n e k i b z u i t
+1488	organizare	1683	1.667	3.2219	o r ɡ a n i z a r e
+1489	inexplicabil	1682	1.6661	3.2217	i n e k s p l i k a b i l
+1490	cercel	1680	1.6641	3.2212	t͡ʃ e r t͡ʃ e l
+1491	fulg	1678	1.6621	3.2207	f u l ɡ
+1492	pomeni	1669	1.6532	3.2183	p o m e n i
+1493	trăsătură	1668	1.6522	3.2181	t r ə s ə t u r ə
+1494	heliu	1667	1.6512	3.2178	h e l j u
+1495	tocat	1659	1.6433	3.2157	t o k a t
+1496	melc	1656	1.6403	3.2149	m e l k
+1497	utilizator	1652	1.6363	3.2139	u t i l i z a t o r
+1498	trompetă	1649	1.6334	3.2131	t r o m p e t ə
+1499	batoane	1644	1.6284	3.2118	b a t o̯ a n e
+1500	îngâmfat	1640	1.6245	3.2107	ɨ ŋ ɡ ɨ m f a t
+1501	evreiască	1638	1.6225	3.2102	e v r e j a s k ə
+1502	trecător	1636	1.6205	3.2096	t r e k ə t o r
+1503	păgân	1632	1.6165	3.2086	p ə ɡ ɨ n
+1503	vitrină	1632	1.6165	3.2086	v i t r i n ə
+1504	motociclist	1629	1.6136	3.2078	m o t o t͡ʃ i k l i s t
+1505	purpuriu	1628	1.6126	3.2075	p u r p u r i w
+1506	calciu	1623	1.6076	3.2062	k a l t͡ʃ j u
+1507	anatomia	1622	1.6066	3.2059	a n a t o m i a
+1508	grădini	1617	1.6017	3.2046	ɡ r ə d i nʲ
+1508	masturbare	1617	1.6017	3.2046	m a s t u r b a r ɛ
+1509	optzeci	1614	1.5987	3.2038	o b z e t͡ʃʲ  |  o p t z e t͡ʃʲ
+1510	buda	1613	1.5977	3.2035	b u d a
+1511	legendar	1612	1.5967	3.2032	l e d͡ʒ e n d a r
+1512	lingouri	1611	1.5957	3.203	l i n ɡ o u rʲ
+1513	nonstop	1606	1.5908	3.2016	n o n s t o p
+1514	aceleași	1604	1.5888	3.2011	a t͡ʃ e l e̯ a ʃʲ
+1515	nouălea	1602	1.5868	3.2005	n o w ə l e̯ a
+1516	melci	1600	1.5848	3.2	m e l t͡ʃʲ
+1517	accelera	1592	1.5769	3.1978	a k t͡ʃ e l e r a
+1518	cerească	1591	1.5759	3.1975	t͡ʃ e r e̯ a s k ə
+1519	nătărău	1587	1.572	3.1965	n ə t ə r ə w
+1520	discuție	1586	1.571	3.1962	d i s k u t͡s i e
+1520	sărat	1586	1.571	3.1962	s ə r a t
+1521	grecesc	1577	1.5621	3.1937	ɡ r e t͡ʃ e s k
+1522	încăpea	1574	1.5591	3.1929	ɨ n k ə p e̯ a
+1523	tulbure	1573	1.5581	3.1926	t u l b u r e
+1524	olandeză	1568	1.5531	3.1912	o l a n d e z ə
+1525	peria	1567	1.5521	3.1909	p e r i a
+1526	cititor	1563	1.5482	3.1898	t͡ʃ i t i t o r
+1526	heterosexual	1563	1.5482	3.1898	h e t e r o s e k s u a l
+1527	miner	1548	1.5333	3.1856	m i n e r
+1528	turc	1543	1.5284	3.1842	t u r k
+1529	competent	1542	1.5274	3.184	k o m p e t e n t
+1530	focă	1538	1.5234	3.1828	f o k ə
+1531	agățat	1533	1.5185	3.1814	a ɡ ə t͡s a t
+1531	piersică	1533	1.5185	3.1814	p j e r s i k ə
+1532	tipare	1532	1.5175	3.1811	t i p a r e
+1533	pubertate	1530	1.5155	3.1806	p u b e r t a t e
+1533	viperă	1530	1.5155	3.1806	v i p e r ə
+1534	păstrare	1525	1.5105	3.1791	p ə s t r a r e
+1535	afemeiat	1523	1.5086	3.1786	a f e m e j a t
+1536	fotbalist	1522	1.5076	3.1783	f o t b a l i s t
+1537	leoarcă	1521	1.5066	3.178	l e̯ o̯ a r k ə
+1538	academic	1515	1.5006	3.1763	a k a d e m i k
+1538	caracteristică	1515	1.5006	3.1763	k a r a k t e r i s t i k ə
+1538	lai	1515	1.5006	3.1763	l a j
+1539	balerină	1506	1.4917	3.1737	b a l e r i n ə
+1539	scoică	1506	1.4917	3.1737	s k o j k ə
+1540	aleatoriu	1498	1.4838	3.1714	a l e a t o r j u
+1541	electrician	1496	1.4818	3.1708	e l e k t r i t͡ʃ i a n
+1542	ciorap	1486	1.4719	3.1679	t͡ʃ o ɾ a p
+1543	prescrie	1485	1.4709	3.1676	p r e s k r i e
+1544	hamster	1483	1.4689	3.167	h a m s t e r
+1545	paisprezece	1481	1.467	3.1664	p a j s p r e z e t͡ʃ e
+1546	perlă	1475	1.461	3.1647	p e r l ə
+1547	bufon	1473	1.459	3.1641	b u f o n
+1548	literar	1470	1.4561	3.1632	l i t e r a r
+1549	înzestrat	1469	1.4551	3.1629	ɨ n z e s t r a t
+1550	sărman	1466	1.4521	3.162	s ə r m a n
+1550	tenta	1466	1.4521	3.162	t e n t a
+1551	garnizoană	1463	1.4491	3.1611	ɡ a r n i z o̯ a n ə
+1552	douăsprezece	1462	1.4481	3.1608	d o w ə s p r e z e t͡ʃ e
+1553	bizon	1457	1.4432	3.1593	b i z o n
+1553	marcaj	1457	1.4432	3.1593	m a r k a ʒ
+1554	roșie	1449	1.4353	3.1569	r o ʃ i e  |  r o ʃ j e
+1554	tramvai	1449	1.4353	3.1569	t r a m v a j
+1555	puturos	1448	1.4343	3.1566	p u t u r o s
+1556	venă	1446	1.4323	3.156	v e n ə
+1557	ara	1438	1.4244	3.1536	a r a
+1558	lucrător	1428	1.4145	3.1506	l u k r ə t o r
+1559	secetă	1427	1.4135	3.1503	s e t͡ʃ e t ə
+1560	engleze	1425	1.4115	3.1497	e ŋ ɡ l e z e
+1560	muribund	1425	1.4115	3.1497	m u r i b u n d
+1561	cangur	1421	1.4075	3.1484	k a ŋ ɡ u r
+1562	văduv	1419	1.4056	3.1479	v ə d u v
+1563	sure	1418	1.4046	3.1476	s u r e
+1564	persan	1414	1.4006	3.1463	p e r s a n
+1565	colibri	1410	1.3966	3.1451	k o l i b r i
+1566	producători	1408	1.3947	3.1445	p r o d u k ə t o rʲ
+1567	uzină	1405	1.3917	3.1435	u z i n ə
+1568	victorios	1404	1.3907	3.1432	v i k t o r i o s
+1569	lunatic	1403	1.3897	3.1429	l u n a t i k
+1570	neghiob	1398	1.3848	3.1414	n e ɟ o b
+1571	gravat	1397	1.3838	3.1411	ɡ r a v a t
+1571	integra	1397	1.3838	3.1411	i n t e ɡ r a
+1572	amuza	1396	1.3828	3.1408	a m u z a
+1573	brav	1395	1.3818	3.1404	b r a v
+1574	pediatru	1389	1.3758	3.1386	p e d i a t r u
+1575	păstor	1386	1.3729	3.1376	p ə s t o r
+1576	tineret	1382	1.3689	3.1364	t i n e r e t
+1577	zmeură	1376	1.363	3.1345	z m e u r ə
+1578	gestiona	1369	1.356	3.1323	d͡ʒ e s t i o n a
+1579	transparent	1368	1.355	3.1319	t r a n s p a r e n t
+1580	integral	1367	1.354	3.1316	i n t e ɡ r a l
+1581	arheolog	1365	1.3521	3.131	a r h e o l o ɡ
+1581	ghimpe	1365	1.3521	3.131	ɡ i m p e
+1582	turistic	1363	1.3501	3.1304	t u r i s t i k
+1583	bulangiu	1359	1.3461	3.1291	b u l a n d ʒ i w
+1584	renunța	1351	1.3382	3.1265	r e n u n t͡s a
+1585	clari	1349	1.3362	3.1259	k l a rʲ
+1586	ruse	1348	1.3352	3.1255	r u s e
+1587	motan	1347	1.3342	3.1252	m o t a n
+1588	bete	1337	1.3243	3.122	b e t e
+1588	componentă	1337	1.3243	3.122	k o m p o n e n t ə
+1589	adăpostit	1336	1.3233	3.1217	a d ə p o s t i t
+1590	rezulta	1335	1.3223	3.1213	r e z u l t a
+1591	flamingo	1333	1.3204	3.1207	f l a m i n ɡ o
+1592	stație	1332	1.3194	3.1204	s t a t͡s i e
+1593	terestru	1322	1.3095	3.1171	t e r e s t r u
+1594	optsprezece	1318	1.3055	3.1158	o p t s p r e z e t͡ʃ e
+1595	ginecolog	1314	1.3015	3.1144	d͡ʒ i n e k o l o ɡ
+1596	patinaj	1313	1.3006	3.1141	p a t i n a ʒ
+1596	prelungi	1313	1.3006	3.1141	p r e l u n d͡ʒ i
+1597	dreptaci	1310	1.2976	3.1131	d r e p t a t͡ʃʲ
+1598	avantajos	1309	1.2966	3.1128	a v a n t a ʒ o s
+1599	castravete	1304	1.2916	3.1111	k a s t r a v e t e
+1600	hazliu	1302	1.2897	3.1105	h a z l i w
+1601	cobalt	1301	1.2887	3.1102	k o b a l t
+1601	mamifer	1301	1.2887	3.1102	m a m i f e r
+1602	potecă	1298	1.2857	3.1091	p o t e k ə
+1603	înflori	1291	1.2788	3.1068	ɨ n f l o r i
+1604	crap	1286	1.2738	3.1051	k r a p
+1605	matematician	1279	1.2669	3.1027	m a t e m a t i t͡ʃ i a n
+1606	aiurit	1278	1.2659	3.1024	a j u r i t
+1606	bibliotecar	1278	1.2659	3.1024	b i b l i o t e k a r
+1607	abrupt	1277	1.2649	3.1021	a b r u p t
+1608	ambala	1270	1.258	3.0997	a m b a l a
+1609	împacheta	1269	1.257	3.0993	ɨ m p a k e t a
+1610	incomplet	1264	1.252	3.0976	i ŋ k o m p l e t
+1611	brici	1263	1.251	3.0973	b r i t͡ʃʲ
+1612	altcumva	1261	1.249	3.0966	a l t k u m v a
+1613	căpetenie	1256	1.2441	3.0949	k ə p e t e n i e
+1613	nouăzeci	1256	1.2441	3.0949	n o w ə z e t͡ʃʲ
+1614	magneziu	1254	1.2421	3.0942	m a ɡ n e z j u
+1615	dialect	1252	1.2401	3.0935	d i a l e k t
+1615	justiție	1252	1.2401	3.0935	ʒ u s t i t͡s i e
+1616	minuscul	1248	1.2362	3.0921	m i n u s k u l
+1617	infirmier	1246	1.2342	3.0914	i n f i r m i e r
+1617	irascibil	1246	1.2342	3.0914	i r a s t͡ʃ i b i l
+1618	nativ	1239	1.2273	3.089	n a t i v
+1619	oposum	1237	1.2253	3.0882	o p o s u m
+1620	fondator	1233	1.2213	3.0868	f o n d a t o r
+1621	atacant	1231	1.2193	3.0861	a t a k a n t
+1621	continental	1231	1.2193	3.0861	k o n t i n e n t a l
+1621	savura	1231	1.2193	3.0861	s a v u r a
+1622	obscur	1230	1.2183	3.0858	o b s k u r
+1623	noptieră	1229	1.2174	3.0854	n o p t i e r ə
+1624	somnoros	1226	1.2144	3.0844	s o m n o r o s
+1625	stima	1225	1.2134	3.084	s t i m a
+1626	coc	1224	1.2124	3.0836	k o k
+1627	neurolog	1209	1.1975	3.0783	n e u r o l o ɡ
+1628	musculos	1207	1.1956	3.0776	m u s k u l o s
+1629	anotimp	1206	1.1946	3.0772	a n o t i m p
+1629	neadecvat	1206	1.1946	3.0772	n e a d e k v a t
+1630	potaie	1204	1.1926	3.0765	p o t a j e
+1631	declarație	1200	1.1886	3.075	d e k l a r a t͡s i e
+1632	jandarm	1197	1.1857	3.074	ʒ a n d a r m
+1633	mirositor	1195	1.1837	3.0732	m i r o s i t o r
+1634	covrigei	1191	1.1797	3.0718	k o v r i d͡ʒ e j
+1635	rangă	1190	1.1787	3.0714	r a n ɡ ə
+1636	nesocotit	1187	1.1758	3.0703	n e s o k o t i t
+1637	indispensabil	1185	1.1738	3.0696	i n d i s p e n s a b i l
+1638	castaniu	1182	1.1708	3.0685	k a s t a n i w
+1639	vindecător	1179	1.1678	3.0674	v i n d e k ə t o r
+1640	priza	1178	1.1668	3.067	p r i z a
+1641	accesibil	1177	1.1658	3.0666	a k t͡ʃ e s i b i l
+1642	nevăstuică	1172	1.1609	3.0648	n e v ə s t u j k ə
+1643	bej	1164	1.153	3.0618	b e ʒ
+1644	biolog	1163	1.152	3.0615	b i o l o ɡ
+1645	administrativ	1157	1.146	3.0592	a d m i n i s t r a t i v
+1646	domestic	1153	1.1421	3.0577	d o m e s t i k
+1647	fumător	1148	1.1371	3.0558	f u m ə t o r
+1648	pornografia	1147	1.1361	3.0554	p o r n o ɡ r a f i a
+1649	bucăți	1146	1.1351	3.055	b u k ə t͡s i  |  b u k ə t͡sʲ
+1649	credință	1146	1.1351	3.055	k r e d i n t͡s ə
+1650	licurici	1143	1.1322	3.0539	l i k u r i t͡ʃʲ
+1651	viral	1140	1.1292	3.0528	v i r a l
+1652	covrigi	1137	1.1262	3.0516	k o v r i d ʒʲ
+1653	informatică	1136	1.1252	3.0512	i n f o r m a t i k ə
+1654	nepăsător	1134	1.1233	3.0505	n e p ə s ə t o r
+1655	corupe	1133	1.1223	3.0501	k o r u p e
+1655	neurochirurg	1133	1.1223	3.0501	n e u r o k i r u r ɡ
+1656	ipocrită	1128	1.1173	3.0482	i p o k r i t ə
+1657	plănui	1126	1.1153	3.0474	p l ə n u i
+1658	covrig	1122	1.1114	3.0459	k o v r i ɡ
+1659	colaborator	1121	1.1104	3.0455	k o l a b o r a t o r
+1660	înotător	1117	1.1064	3.0439	ɨ n o t ə t o r
+1661	locație	1115	1.1044	3.0431	l o k a t͡s i e
+1662	alamă	1114	1.1034	3.0427	a l a m ə
+1662	păun	1114	1.1034	3.0427	p ə u n
+1663	buză	1105	1.0945	3.0392	b u z ə
+1664	clor	1104	1.0935	3.0388	k l o r
+1664	spălător	1104	1.0935	3.0388	s p ə l ə t o r
+1665	cardiolog	1103	1.0925	3.0384	k a r d i o l o ɡ
+1665	codificat	1103	1.0925	3.0384	k o d i f i k a t
+1666	cameraman	1102	1.0916	3.0381	k a m e r a m a n
+1667	contabile	1097	1.0866	3.0361	k o n t a b i l e
+1668	coapsă	1096	1.0856	3.0357	k o̯ a p s ə
+1668	tutela	1096	1.0856	3.0357	t u t e l a
+1668	înțelept	1096	1.0856	3.0357	ɨ n t͡s e l e p t
+1669	apos	1095	1.0846	3.0353	a p o s
+1670	evaziv	1091	1.0807	3.0337	e v a z i v
+1670	ozon	1091	1.0807	3.0337	o z o n
+1671	dinamic	1090	1.0797	3.0333	d i n a m i k
+1672	emotiv	1088	1.0777	3.0325	e m o t i v
+1673	crom	1087	1.0767	3.0321	k r o m
+1674	brun	1086	1.0757	3.0317	b r u n
+1675	urcare	1085	1.0747	3.0313	u r k a r e
+1676	fertil	1083	1.0727	3.0305	f e r t i l
+1677	fosfor	1082	1.0717	3.0301	f o s f o r
+1678	anexa	1081	1.0708	3.0297	a n e k s a
+1678	muie	1081	1.0708	3.0297	m u j e
+1679	bre	1077	1.0668	3.0281	b r e
+1679	creme	1077	1.0668	3.0281	k r e m e
+1680	amică	1075	1.0648	3.0273	a m i k ə
+1681	schilod	1073	1.0628	3.0265	s c i l o d
+1682	neted	1068	1.0579	3.0244	n e t e d
+1683	exploatare	1056	1.046	3.0195	e k s p l o a t a r e
+1683	grecească	1056	1.046	3.0195	ɡ r e t͡ʃ e̯ a s k ə
+1684	ascensor	1054	1.044	3.0187	a s t͡ʃ e n s o r
+1685	viguros	1053	1.043	3.0183	v i ɡ u r o s
+1686	occident	1052	1.042	3.0179	o k t͡ʃ i d e n t
+1687	ierni	1049	1.0391	3.0167	j e r nʲ
+1688	vestit	1040	1.0301	3.0129	v e s t i t
+1689	cuc	1038	1.0282	3.0121	k u k
+1689	pușcă	1038	1.0282	3.0121	p u ʃ k ə
+1690	cântări	1036	1.0262	3.0112	k ɨ n t ə r i
+1691	binar	1035	1.0252	3.0108	b i n a r
+1691	indisponibil	1035	1.0252	3.0108	i n d i s p o n i b i l
+1691	nitrogen	1035	1.0252	3.0108	n i t r o d͡ʒ e n
+1692	chinezoaică	1031	1.0212	3.0091	k i n e z o̯ a j k ə
+1693	chips	1026	1.0163	3.007	t͡ʃ i p s
+1694	operație	1024	1.0143	3.0062	o p e r a t͡s i e
+1695	inflamabil	1023	1.0133	3.0057	i n f l a m a b i l
+1695	nerecunoscut	1023	1.0133	3.0057	n e r e k u n o s k u t
+1696	neregulat	1022	1.0123	3.0053	n e r e ɡ u l a t
+1696	plutitor	1022	1.0123	3.0053	p l u t i t o r
+1697	portugheză	1018	1.0084	3.0036	p o r t u ɟ e z ə
+1698	pelican	1015	1.0054	3.0023	p e l i k a n
+1699	botanică	1011	1.0014	3.0006	b o t a n i k ə
+1700	calcar	1009	0.9994	2.9997	k a l k a r
+1701	necontestat	1008	0.9984	2.9993	n e k o n t e s t a t
+1702	scroafă	1004	0.9945	2.9976	s k r o̯ a f ə
+1703	reflectat	1002	0.9925	2.9967	r e f l e k t a t
+1704	greoi	1001	0.9915	2.9963	ɡ r e o j
+1704	recunoaște	1001	0.9915	2.9963	r e k u n o̯ a ʃ t e
+1705	voinic	999	0.9895	2.9954	v o j n i k
+1706	ceașcă	992	0.9826	2.9924	t͡ʃ e̯ a ʃ k ə
+1706	farmacist	992	0.9826	2.9924	f a r m a t͡ʃ i s t
+1707	maimuță	991	0.9816	2.9919	m a j m u t͡s ə
+1707	organizator	991	0.9816	2.9919	o r ɡ a n i z a t o r
+1707	însorit	991	0.9816	2.9919	ɨ n s o r i t
+1708	neobișnuit	988	0.9786	2.9906	n e o b i ʃ n u i t
+1709	acvatic	986	0.9767	2.9898	a k v a t i k
+1709	litiu	986	0.9767	2.9898	l i t j u
+1710	canar	985	0.9757	2.9893	k a n a r
+1711	bărbătească	983	0.9737	2.9884	b ə r b ə t e̯ a s k ə
+1711	întrista	983	0.9737	2.9884	ɨ n t r i s t a
+1712	făptură	981	0.9717	2.9875	f ə p t u r ə
+1712	venera	981	0.9717	2.9875	v e n e r a
+1713	biban	980	0.9707	2.9871	b i b a n
+1714	ieftini	978	0.9687	2.9862	j e f t i n i
+1714	mucos	978	0.9687	2.9862	m u k o s
+1714	simula	978	0.9687	2.9862	s i m u l a
+1715	gălăgios	975	0.9658	2.9849	ɡ ə l ə d͡ʒ i o s
+1716	zebră	971	0.9618	2.9831	z e b r ə
+1717	bulgaria	969	0.9598	2.9822	b u l ɡ a r j a
+1717	girafă	969	0.9598	2.9822	d͡ʒ i r a f ə
+1718	cunoscător	961	0.9519	2.9786	k u n o s k ə t o r
+1719	editorial	955	0.9459	2.9758	e d i t o r j a l
+1720	coji	948	0.939	2.9727	k o ʒʲ
+1721	eronat	946	0.937	2.9717	e r o n a t
+1721	labagiu	946	0.937	2.9717	l a b a d͡ʒ i w
+1722	afront	945	0.936	2.9713	a f r o n t
+1723	canton	943	0.9341	2.9704	k a n t o n
+1724	unire	942	0.9331	2.9699	u n i r e
+1725	canibal	941	0.9321	2.9695	k a n i b a l
+1725	susține	941	0.9321	2.9695	s u s t͡s i n e
+1726	exercita	940	0.9311	2.969	e ɡ z e r t͡ʃ i t a
+1727	hipopotam	939	0.9301	2.9685	h i p o p o t a m
+1728	nocturn	937	0.9281	2.9676	n o k t u r n
+1729	problematic	936	0.9271	2.9671	p r o b l e m a t i k
+1730	ambalare	935	0.9261	2.9667	a m b a l a r e
+1731	bunicel	930	0.9212	2.9644	b u n i t͡ʃ e l
+1732	geolog	923	0.9143	2.9611	d͡ʒ e o l o ɡ
+1733	crini	921	0.9123	2.9601	k r i nʲ
+1733	zecime	921	0.9123	2.9601	z e t͡ʃ i m e
+1734	franc	916	0.9073	2.9578	f r a ŋ k
+1734	ofensator	916	0.9073	2.9578	o f e n s a t o r
+1735	intimida	915	0.9063	2.9573	i n t i m i d a
+1735	koala	915	0.9063	2.9573	k o a l a
+1736	guvernantă	913	0.9043	2.9563	ɡ u v e r n a n t ə
+1737	terapeutic	911	0.9024	2.9554	t e r a p e u t i k
+1738	amical	910	0.9014	2.9549	a m i k a l
+1738	băutor	910	0.9014	2.9549	b ə u t o r
+1739	neon	908	0.8994	2.954	n e o n
+1740	capitalist	907	0.8984	2.9535	k a p i t a l i s t
+1740	gunoier	907	0.8984	2.9535	ɡ u n o j e r
+1741	fluviu	903	0.8944	2.9515	f l u v i w
+1742	condor	898	0.8895	2.9491	k o n d o r
+1743	mângâia	894	0.8855	2.9472	m ɨ ŋ ɡ ɨ j a
+1744	aviator	892	0.8835	2.9462	a v i a t o r
+1744	ins	892	0.8835	2.9462	i n s
+1745	vizitiu	891	0.8826	2.9458	v i z i t i w
+1746	ager	890	0.8816	2.9453	a d͡ʒ e r
+1747	alei	886	0.8776	2.9433	a l e j
+1747	blocadă	886	0.8776	2.9433	b l o k a d ə
+1747	osos	886	0.8776	2.9433	o s o s
+1748	șobolan	885	0.8766	2.9428	ʃ o b o l a n
+1749	hispanic	883	0.8746	2.9418	h i s p a n i k
+1750	bleu	880	0.8717	2.9404	b l ø
+1751	bulevard	879	0.8707	2.9399	b u l e v a r d
+1752	panteră	878	0.8697	2.9394	p a n t e r ə
+1753	goni	876	0.8677	2.9384	ɡ o n i
+1753	întreprindere	876	0.8677	2.9384	ɨ n t r e p r i n d e r e
+1754	aprig	875	0.8667	2.9379	a p r i ɡ
+1755	agrafă	874	0.8657	2.9374	a ɡ r a f ə
+1756	crin	873	0.8647	2.9369	k r i n
+1757	elementar	872	0.8637	2.9364	e l e m e n t a r
+1758	casnic	871	0.8627	2.9359	k a s n i k
+1758	olog	871	0.8627	2.9359	o l o ɡ
+1758	surâs	871	0.8627	2.9359	s u r ɨ s
+1759	scăldat	869	0.8608	2.9349	s k ə l d a t
+1760	argintii	868	0.8598	2.9344	a r d͡ʒ i n t i j
+1761	sclave	867	0.8588	2.9339	s k l a v e
+1762	socotit	866	0.8578	2.9334	s o k o t i t
+1763	burghiu	865	0.8568	2.9329	b u r ɡ i w
+1763	noră	865	0.8568	2.9329	n o r ə
+1763	subțire	865	0.8568	2.9329	s u b t͡s i r e
+1764	nichel	864	0.8558	2.9324	n i k e l
+1765	rac	861	0.8528	2.9308	r a k
+1765	rachiu	861	0.8528	2.9308	r a k i w
+1766	jigni	860	0.8518	2.9303	ʒ i ɡ n i
+1767	alfabet	859	0.8509	2.9299	a l f a b e t
+1768	iapă	853	0.8449	2.9268	j a p ə
+1769	norvegian	851	0.8429	2.9258	n o r v e d͡ʒ i a n
+1770	braț	849	0.841	2.9248	b r a t s
+1770	livadă	849	0.841	2.9248	l i v a d ə
+1771	înfocat	844	0.836	2.9222	ɨ n f o k a t
+1772	muschetar	843	0.835	2.9217	m u s k e t a r
+1773	șters	842	0.834	2.9212	ʃ t e r s
+1774	abstract	841	0.833	2.9206	a b s t r a k t
+1774	ghepard	841	0.833	2.9206	ɡ e p a r d
+1774	kuweit	841	0.833	2.9206	k u v e j t
+1775	untură	839	0.831	2.9196	u n t u r ə
+1776	academică	837	0.8291	2.9186	a k a d e m i k ə
+1777	laș	832	0.8241	2.916	l a ʃ
+1778	triton	830	0.8221	2.9149	t r i t o n
+1779	zadarnic	829	0.8211	2.9144	z a d a r n i k
+1780	integru	825	0.8172	2.9123	i n t e ɡ r u
+1780	optulea	825	0.8172	2.9123	o p t u l e̯ a
+1781	bleg	821	0.8132	2.9102	b l e ɡ
+1781	etcetera	821	0.8132	2.9102	e t t ʃ e t e r a
+1781	ființă	821	0.8132	2.9102	f i i n t͡s ə
+1782	preistoric	818	0.8102	2.9086	p r e i s t o r i k
+1783	boi	815	0.8073	2.907	b o j
+1784	tembel	814	0.8063	2.9065	t e m b e l
+1785	cărunt	813	0.8053	2.906	k ə r u n t
+1786	degresat	811	0.8033	2.9049	d e ɡ r e s a t
+1787	bosumflat	809	0.8013	2.9038	b o s u m f l a t
+1788	cioban	808	0.8003	2.9033	t͡ʃ o b a n
+1789	marți	806	0.7984	2.9022	m a r t͡sʲ
+1789	strâmtoare	806	0.7984	2.9022	s t r ɨ m t o̯ a r e
+1790	șampanie	804	0.7964	2.9011	ʃ a m p a n i e
+1791	geografic	802	0.7944	2.9	d͡ʒ e o ɡ r a f i k
+1791	tont	802	0.7944	2.9	t o n t
+1791	uniform	802	0.7944	2.9	u n i f o r m
+1792	forestier	800	0.7924	2.8989	f o r e s t i e r
+1792	urlet	800	0.7924	2.8989	u r l e t
+1793	calmar	798	0.7904	2.8978	k a l m a r
+1793	enciclopedie	798	0.7904	2.8978	e n t͡ʃ i k l o p e d i j e
+1794	fazan	796	0.7885	2.8968	f a z a n
+1795	aievea	795	0.7875	2.8963	a j e v e̯ a
+1795	curățat	795	0.7875	2.8963	k u r ə t͡s a t
+1796	divers	794	0.7865	2.8957	d i v e r s
+1797	felină	790	0.7825	2.8935	f e l i n ə
+1798	orgolios	789	0.7815	2.8929	o r ɡ o l i o s
+1798	tocit	789	0.7815	2.8929	t o t͡ʃ i t
+1799	carnivor	787	0.7795	2.8918	k a r n i v o r
+1799	cochilie	787	0.7795	2.8918	k o k i l i e
+1800	ferice	786	0.7786	2.8913	f e r i t͡ʃ e
+1800	fitil	786	0.7786	2.8913	f i t i l
+1801	girafa	784	0.7766	2.8902	d͡ʒ i r a f a
+1802	contur	781	0.7736	2.8885	k o n t u r
+1803	viclenie	780	0.7726	2.888	v i k l e n i e
+1804	vânăt	777	0.7696	2.8863	v ɨ n ə t
+1805	prafuri	773	0.7657	2.8841	p r a f u rʲ
+1806	binefăcător	771	0.7637	2.8829	b i n e f ə k ə t o r
+1807	planetar	770	0.7627	2.8824	p l a n e t a r
+1808	sulă	768	0.7607	2.8812	s u l ə
+1808	îmbucătură	768	0.7607	2.8812	ɨ m b u k ə t u r ə
+1809	chinuitor	761	0.7538	2.8773	k i n u i t o r
+1810	antropolog	756	0.7488	2.8744	a n t r o p o l o ɡ
+1810	sânt	756	0.7488	2.8744	s ɨ n t
+1811	paraliza	755	0.7478	2.8738	p a r a l i z a
+1812	breton	750	0.7429	2.8709	b r e t o n
+1812	flor	750	0.7429	2.8709	f l o r
+1813	meduză	745	0.7379	2.868	m e d u z ə
+1813	nostalgic	745	0.7379	2.868	n o s t a l d͡ʒ i k
+1814	nălucă	744	0.7369	2.8674	n ə l u k ə
+1815	comestibil	740	0.733	2.8651	k o m e s t i b i l
+1816	gospodină	738	0.731	2.8639	ɡ o s p o d i n ə
+1817	armean	736	0.729	2.8627	a r m e̯ a n
+1818	măcelări	731	0.7241	2.8598	m ə t͡ʃ e l ə r i
+1818	sinonim	731	0.7241	2.8598	s i n o n i m
+1818	socru	731	0.7241	2.8598	s o c r u
+1819	ramolit	728	0.7211	2.858	r a m o l i t
+1820	ostenit	727	0.7201	2.8574	o s t e n i t
+1820	trecători	727	0.7201	2.8574	t r e k ə t o rʲ
+1821	sârb	725	0.7181	2.8562	s ɨ r b
+1822	voios	724	0.7171	2.8556	v o j o s
+1823	lucrați	723	0.7161	2.855	l u k r a t͡sʲ
+1824	muist	721	0.7142	2.8538	m u i s t
+1825	uimi	717	0.7102	2.8514	u j m i
+1825	utili	717	0.7102	2.8514	u t i lʲ
+1825	zeamă	717	0.7102	2.8514	z e̯ a m ə
+1826	aceștia	713	0.7062	2.8489	a t͡ʃ e ʃ t j a
+1827	emoțional	712	0.7053	2.8484	e m o t͡s i o n a l
+1827	național	712	0.7053	2.8484	n a t͡s i o n a l
+1828	jidan	710	0.7033	2.8471	ʒ i d a n
+1829	zinc	708	0.7013	2.8459	z i n k
+1830	nouăsprezece	705	0.6983	2.844	n o w ə s p r e z e t͡ʃ e
+1831	florar	704	0.6973	2.8434	f l o r a r
+1832	albinos	703	0.6963	2.8428	a l b i n o s
+1833	ceață	701	0.6944	2.8416	t͡ʃ e̯ a t͡s ə
+1834	zecelea	699	0.6924	2.8404	z e t͡ʃ e l e̯ a
+1835	astronom	697	0.6904	2.8391	a s t r o n o m
+1836	pumă	694	0.6874	2.8372	p u m ə
+1837	distinct	693	0.6864	2.8366	d i s t i n k t
+1837	viril	693	0.6864	2.8366	v i r i l
+1838	soacră	692	0.6854	2.8359	s o̯ a k r ə
+1838	suedeze	692	0.6854	2.8359	s u e d e z e
+1839	oțel	691	0.6845	2.8354	o t͡s e l
+1839	preturi	691	0.6845	2.8354	p r e t u rʲ
+1839	îndoielnic	691	0.6845	2.8354	ɨ n d o j e l n i k
+1840	rid	689	0.6825	2.8341	r i d
+1841	ireversibil	687	0.6805	2.8328	i r e v e r s i b i l
+1841	vopsi	687	0.6805	2.8328	v o p s i
+1841	întâietate	687	0.6805	2.8328	ɨ n t ɨ j e t a t e
+1842	cute	685	0.6785	2.8315	k u t e
+1842	parvenit	685	0.6785	2.8315	p a r v e n i t
+1843	agricol	683	0.6765	2.8303	a ɡ r i k o l
+1844	jamaican	682	0.6755	2.8296	ʒ a m a j k a n
+1845	optime	681	0.6745	2.829	o p t i m e
+1846	contabilă	680	0.6736	2.8284	k o n t a b i l ə
+1847	cururile	677	0.6706	2.8265	k u r u r i l e
+1848	dumneaei	675	0.6686	2.8252	d u m n e̯ a j e j
+1849	acre	674	0.6676	2.8245	a k r e
+1850	spurcat	673	0.6666	2.8239	s p u r k a t
+1851	cronic	672	0.6656	2.8232	k r o n i k
+1851	vanitos	672	0.6656	2.8232	v a n i t o s
+1852	comunism	671	0.6646	2.8226	k o m u n i s m
+1852	cosmonaut	671	0.6646	2.8226	k o s m o n a u t
+1852	măciucă	671	0.6646	2.8226	m ə t͡ʃʲ u k ə
+1852	portughez	671	0.6646	2.8226	p o r t u ɟ e z
+1853	lanț	667	0.6607	2.82	l a n t͡s
+1853	mongol	667	0.6607	2.82	m o ŋ ɡ o l
+1854	gazelă	666	0.6597	2.8193	ɡ a z e l ə
+1855	dihor	663	0.6567	2.8174	d i h o r
+1855	imperfect	663	0.6567	2.8174	i m p e r f e k t
+1856	firească	662	0.6557	2.8167	f i r e̯ a s k ə
+1857	contabili	659	0.6528	2.8148	k o n t a b i lʲ
+1858	kaki	657	0.6508	2.8134	k a k i
+1858	necuviincios	657	0.6508	2.8134	n e k u v i i n t͡ʃʲ o s  |  n e k u v iː n t͡ʃʲ o s
+1858	strugure	657	0.6508	2.8134	s t̪ ɾ u ɡ u ɾ e
+1859	trăsnit	656	0.6498	2.8128	t r ə s n i t
+1860	generic	655	0.6488	2.8121	d ʒ e n e r i k
+1861	geologie	654	0.6478	2.8114	d͡ʒ e o l o d͡ʒ i e
+1862	gastric	653	0.6468	2.8108	ɡ a s t r i k
+1863	apărătoare	651	0.6448	2.8094	a p ə r ə t o̯ a r e
+1864	externa	650	0.6438	2.8088	e k s t e r n a
+1865	făpturi	646	0.6399	2.8061	f ə p t u rʲ
+1866	deșert	643	0.6369	2.8041	d e ʃ e r t
+1866	vamal	643	0.6369	2.8041	v a m a l
+1866	virtuos	643	0.6369	2.8041	v i r t u o s
+1867	calzi	641	0.6349	2.8027	k a l zʲ
+1867	lăudăros	641	0.6349	2.8027	l ə u d ə r o s
+1868	povestioară	640	0.6339	2.802	p o v e s t i o̯ a r ə
+1869	conspirație	639	0.6329	2.8013	k o n s p i r a t͡s i e
+1869	dumnezeiesc	639	0.6329	2.8013	d u m n e z e j e s k
+1870	fundă	638	0.632	2.8007	f u n d ə
+1871	sie	636	0.63	2.7993	s i e
+1872	timonier	634	0.628	2.798	t i m o n i e r
+1872	unsuros	634	0.628	2.798	u n s u r o s
+1873	ghiont	633	0.627	2.7973	ɡ j o n t
+1873	posedare	633	0.627	2.7973	p o s e d a r e
+1874	felia	631	0.625	2.7959	f e l i a
+1874	juvenil	631	0.625	2.7959	ʒ u v e n i l
+1875	bidon	629	0.623	2.7945	b i d o n
+1876	abundent	627	0.6211	2.7932	a b u n d e n t
+1876	reabilita	627	0.6211	2.7932	r e a b i l i t a
+1877	mărinimos	626	0.6201	2.7925	m ə r i n i m o s
+1878	întemeia	625	0.6191	2.7918	ɨ n t e m e j a
+1879	iederă	622	0.6161	2.7897	j e d e r ə
+1879	imam	622	0.6161	2.7897	i m a m
+1879	zemos	622	0.6161	2.7897	z e m o s
+1880	lebede	621	0.6151	2.7889	l e b e d e
+1881	cuviincios	620	0.6141	2.7882	k u v i i n t͡ʃʲ o s
+1882	conține	619	0.6131	2.7875	k o n t͡s i n e
+1882	rozător	619	0.6131	2.7875	r o z ə t o r
+1883	romancier	618	0.6121	2.7868	r o m a n t͡ʃ i e r
+1884	biete	616	0.6102	2.7855	b j e t e
+1885	păstrător	615	0.6092	2.7848	p ə s t r ə t o r
+1885	salcie	615	0.6092	2.7848	s a l t͡ʃ i e
+1886	animatoare	614	0.6082	2.784	a n i m a t o̯ a r e
+1886	nins	614	0.6082	2.784	n i n s
+1887	mortar	613	0.6072	2.7833	m o r t a r
+1888	amabile	612	0.6062	2.7826	a m a b i l e
+1888	conversie	612	0.6062	2.7826	k o n v e r s i e
+1888	drenaj	612	0.6062	2.7826	d r e n a ʒ
+1888	icre	612	0.6062	2.7826	i k r e
+1889	bărbos	611	0.6052	2.7819	b ə r b o s
+1890	animală	608	0.6022	2.7797	a n i m a l ə
+1891	înotători	604	0.5983	2.7769	ɨ n o t ə t o rʲ
+1892	pârtie	602	0.5963	2.7755	p ɨ r t i e
+1892	ţ	602	0.5963	2.7755	t s e
+1893	flamand	601	0.5953	2.7747	f l a m a n d
+1894	friguroasă	600	0.5943	2.774	f r i ɡ u r o̯ a s ə
+1895	lingvistică	599	0.5933	2.7733	l i n ɡ v i s t i k ə
+1895	rață	599	0.5933	2.7733	r a t͡s ə
+1896	ondulat	597	0.5913	2.7718	o n d u l a t
+1897	libelulă	596	0.5904	2.7711	l i b e l u l ə
+1898	sterp	592	0.5864	2.7682	s t e r p
+1899	sirian	591	0.5854	2.7675	s i r i a n
+1900	domnească	589	0.5834	2.766	d o m n e̯ a s k ə
+1900	juvenilă	589	0.5834	2.766	ʒ u v e n i l ə
+1901	patolog	588	0.5824	2.7652	p a t o l o ɡ
+1902	roză	587	0.5814	2.7645	r o z ə
+1903	lucios	581	0.5755	2.76	l u t͡ʃʲ o s
+1903	văcar	581	0.5755	2.76	v ə k a r
+1904	poloneze	580	0.5745	2.7593	p o l o n e z e
+1905	muntos	579	0.5735	2.7585	m u n t o s
+1905	vidră	579	0.5735	2.7585	v i d r ə
+1906	firav	578	0.5725	2.7578	f i r a v
+1907	plesni	577	0.5715	2.757	p l e s n i
+1907	regesc	577	0.5715	2.757	r e d͡ʒ e s k
+1908	ciocănitoare	576	0.5705	2.7563	t͡ʃ j o k ə n i t o̯ a r e
+1908	traversare	576	0.5705	2.7563	t r a v e r s a r e
+1909	bisexual	572	0.5666	2.7533	b i s e k s u a l
+1910	cardinali	571	0.5656	2.7525	k a r d i n a lʲ
+1911	substantiv	570	0.5646	2.7517	s u b s t a n t i v
+1912	prețios	569	0.5636	2.751	p r e t͡s i o s
+1913	ființe	568	0.5626	2.7502	f i i n t͡s e
+1914	diacon	566	0.5606	2.7487	d i a k o n
+1915	meteorolog	565	0.5596	2.7479	m e t e o r o l o ɡ
+1915	saudit	565	0.5596	2.7479	s a u d i t
+1916	tăios	564	0.5587	2.7472	t ə j o s
+1917	invitație	563	0.5577	2.7464	i n v i t a t͡s i e
+1918	educație	556	0.5507	2.7409	e d u k a t͡s i e
+1919	adulmeca	555	0.5497	2.7401	a d u l m e k a
+1919	lalea	555	0.5497	2.7401	l a l e̯ a
+1919	provincial	555	0.5497	2.7401	p r o v i n t͡ʃ i a l
+1920	hering	552	0.5468	2.7378	h e r i ŋ ɡ
+1921	domnesc	551	0.5458	2.737	d o m n e s k
+1921	leoaică	551	0.5458	2.737	l e o̯ a j k ə
+1922	informație	550	0.5448	2.7362	i n f o r m a t͡s i e
+1923	răsunător	549	0.5438	2.7354	r ə s u n ə t o r
+1924	brie	548	0.5428	2.7346	b r i
+1924	păsărească	548	0.5428	2.7346	p ə s ə r e̯ a s k ə
+1925	oaspeți	547	0.5418	2.7338	o̯ a s p e t͡sʲ
+1925	înghețat	547	0.5418	2.7338	ɨ ŋ ɟ e t͡s a t
+1926	verbină	546	0.5408	2.733	v e r b i n ə
+1927	baban	542	0.5369	2.7299	b a b a n
+1928	ortodox	541	0.5359	2.7291	o r t o d o k s
+1929	deliciu	540	0.5349	2.7283	d e l i t͡ʃ j u
+1930	oncolog	538	0.5329	2.7266	o n k o l o ɡ
+1931	mânz	537	0.5319	2.7258	m ɨ ŋ z
+1932	comparație	535	0.5299	2.7242	k o m p a r a t͡s i e
+1932	ăl	535	0.5299	2.7242	ə l
+1933	trudit	534	0.5289	2.7234	t r u d i t
+1934	agente	533	0.5279	2.7226	a d͡ʒ e n t e
+1934	comerț	533	0.5279	2.7226	k o m e r t͡s
+1934	oman	533	0.5279	2.7226	o m a n
+1935	ciclon	532	0.527	2.7218	t͡ʃ i k l o n
+1935	intensifica	532	0.527	2.7218	i n t e n s i f i k a
+1936	guraliv	531	0.526	2.721	ɡ u r a l i v
+1937	altera	530	0.525	2.7202	a l t e r a
+1937	ortoped	530	0.525	2.7202	o r t o p e d
+1938	caligrafie	529	0.524	2.7193	k a l i ɡ r a f i e
+1939	condiție	528	0.523	2.7185	k o n d i t͡s i e
+1940	botanist	527	0.522	2.7177	b o t a n i s t
+1940	consecvent	527	0.522	2.7177	k o n s e k v e n t
+1941	manciuria	526	0.521	2.7168	m a n t͡ʃʲ u r i a
+1942	harnic	525	0.52	2.716	h a r n i k
+1943	hau	522	0.5171	2.7136	h a w
+1943	siliciu	522	0.5171	2.7136	s i l i t͡ʃ j u
+1944	iritabil	520	0.5151	2.7119	i r i t a b i l
+1945	adulte	519	0.5141	2.711	a d u l t e
+1945	servus	519	0.5141	2.711	s e r v u s
+1946	economist	516	0.5111	2.7085	e k o n o m i s t
+1946	privighetoare	516	0.5111	2.7085	p r i v i ɡ e t o̯ a r e
+1947	testicular	515	0.5101	2.7077	t e s t i k u l a r
+1948	tridimensional	512	0.5071	2.7051	t r i d i m e n s i o n a l
+1949	șah	509	0.5042	2.7026	ʃ a h
+1950	morsă	507	0.5022	2.7009	m o r s ə
+1950	orașe	507	0.5022	2.7009	o r a ʃ e
+1951	distanța	505	0.5002	2.6991	d i s t a n t͡s a
+1951	perfid	505	0.5002	2.6991	p e r f i d
+1951	zdruncina	505	0.5002	2.6991	z d r u n t͡ʃ i n a
+1952	vegetal	504	0.4992	2.6983	v e d͡ʒ e t a l
+1953	conjugal	503	0.4982	2.6974	k o n ʒ u ɡ a l
+1954	formata	501	0.4963	2.6957	f o r m a t a
+1954	voștri	501	0.4963	2.6957	v o ʃ t r i
+1955	desfătare	500	0.4953	2.6949	d e s f ə t a r e
+1956	spinos	498	0.4933	2.6931	s p i n o s
+1957	albatros	496	0.4913	2.6913	a l b a t r o s
+1957	ied	496	0.4913	2.6913	j e d
+1958	lavandă	494	0.4893	2.6896	l a v a n d ə
+1958	utila	494	0.4893	2.6896	u t i l a
+1959	entuziasma	490	0.4854	2.6861	e n t u z i a s m a
+1960	aidoma	489	0.4844	2.6852	a i d o m a
+1960	aisberg	489	0.4844	2.6852	a j s b e r ɡ
+1960	astrofizician	489	0.4844	2.6852	a s t r o f i z i t͡ʃ i a n
+1960	ofilit	489	0.4844	2.6852	o f i l i t
+1960	siret	489	0.4844	2.6852	s i r e t
+1961	neprietenos	487	0.4824	2.6834	n e p r i e t e n o s
+1961	nuc	487	0.4824	2.6834	n u k
+1962	ambalaje	485	0.4804	2.6816	a m b a l a ʒ e
+1963	profan	483	0.4784	2.6798	p r o f a n
+1964	domol	482	0.4774	2.6789	d o m o l
+1965	cutare	481	0.4764	2.678	k u t a r e
+1965	încăpățânat	481	0.4764	2.678	ɨ ŋ k ə p ə t͡s ɨ n a t
+1966	cocor	478	0.4735	2.6753	k o k o r
+1966	vietate	478	0.4735	2.6753	v i e t a t e
+1967	prescurtare	477	0.4725	2.6744	p r e s k u r t a r e
+1967	vânătă	477	0.4725	2.6744	v ɨ n ə t ə
+1968	înstelat	475	0.4705	2.6726	ɨ n s t e l a t
+1969	defileu	473	0.4685	2.6707	d e f i l e w
+1969	enciclopedia	473	0.4685	2.6707	e n t͡ʃ i k l o p e d i j a
+1970	cămașă	472	0.4675	2.6698	k ə m a ʃ ə
+1971	uituc	471	0.4665	2.6689	u j t u k
+1972	bont	467	0.4626	2.6652	b o n t
+1972	cincime	467	0.4626	2.6652	t͡ʃ i n t͡ʃ i m e
+1972	tradiție	467	0.4626	2.6652	t r a d i t͡s i e
+1973	ciocolate	466	0.4616	2.6643	t͡ʃ j o k o l a t e
+1974	macrou	464	0.4596	2.6624	m a k r o w
+1975	uriaș	461	0.4566	2.6595	u r i a ʃ
+1976	ceh	459	0.4546	2.6576	t͡ʃ e h
+1977	frumusețea	458	0.4537	2.6568	f r u m u s e t͡s e̯ a
+1977	serviete	458	0.4537	2.6568	s e r v i e t e
+1978	păpădie	457	0.4527	2.6558	p ə p ə d i e
+1979	liniar	456	0.4517	2.6549	l i n i a r
+1980	dermatolog	454	0.4497	2.6529	d e r m a t o l o ɡ
+1981	abordaj	453	0.4487	2.652	a b o r d a ʒ
+1981	glucoză	453	0.4487	2.652	ɡ l u k o z ə
+1982	aberant	450	0.4457	2.649	a b e r a n t
+1983	bolivian	449	0.4447	2.6481	b o l i v i a n
+1983	iac	449	0.4447	2.6481	j a k
+1984	bruni	448	0.4438	2.6472	b r u nʲ
+1984	nurcă	448	0.4438	2.6472	n u r k ə
+1985	infirmi	444	0.4398	2.6433	i n f i r mʲ
+1986	aliment	443	0.4388	2.6423	a l i m e n t
+1986	internațional	443	0.4388	2.6423	i n t e r n a t͡s i o n a l
+1987	agricultor	441	0.4368	2.6403	a ɡ r i k u l t o r
+1987	redundant	441	0.4368	2.6403	r e d u n d a n t
+1987	satanic	441	0.4368	2.6403	s a t a n i k
+1988	genetician	438	0.4338	2.6373	d͡ʒ e n e t i t͡ʃ i a n
+1989	vermut	436	0.4319	2.6354	v e r m u t
+1990	acumula	435	0.4309	2.6344	a k u m u l a
+1990	gimnastă	435	0.4309	2.6344	d͡ʒ i m n a s t ə
+1990	maleabil	435	0.4309	2.6344	m a l e a b i l
+1990	oglinjoară	435	0.4309	2.6344	o ɡ l i n ʒ o̯ a r ə
+1991	român	434	0.4299	2.6334	r o m ɨ n
+1991	voință	434	0.4299	2.6334	v o i n t͡s ə
+1992	reciclat	433	0.4289	2.6324	r e t͡ʃ i k l a t
+1992	taică	433	0.4289	2.6324	t a j k ə
+1993	jurist	432	0.4279	2.6313	ʒ u r i s t
+1993	prefix	432	0.4279	2.6313	p ɾ e f i k s
+1994	întreprinderi	431	0.4269	2.6303	ɨ n t r e p r i n d e rʲ
+1995	membrană	430	0.4259	2.6293	m e m b r a n ə
+1995	supapă	430	0.4259	2.6293	s u p a p ə
+1996	suplu	428	0.4239	2.6273	s u p l u
+1997	armurier	427	0.423	2.6263	a r m u r i e r
+1998	abdominal	426	0.422	2.6253	a b d o m i n a l
+1998	suci	426	0.422	2.6253	s u t͡ʃ i
+1999	intenție	423	0.419	2.6222	i n t e n t͡s i e
+1999	întreprinde	423	0.419	2.6222	ɨ n t r e p r i n d e
+2000	gravid	422	0.418	2.6212	ɡ r a v i d
+2001	tiramisu	421	0.417	2.6201	t i r a m i s u
+2001	voltaj	421	0.417	2.6201	v o̞ l t a ʒ
+2002	ucigător	419	0.415	2.618	u t͡ʃ i ɡ ə t o r
+2003	trivial	415	0.4111	2.6139	t r i v i a l
+2004	brom	414	0.4101	2.6129	b r o m
+2004	catastrofic	414	0.4101	2.6129	k a t a s t r o f i k
+2004	lingvist	414	0.4101	2.6129	l i n ɡ v i s t
+2004	moluscă	414	0.4101	2.6129	m o l u s k ə
+2005	afunda	412	0.4081	2.6108	a f u n d a
+2005	reputație	412	0.4081	2.6108	r e p u t a t͡s i e
+2005	ustura	412	0.4081	2.6108	u s t u r a
+2006	anima	411	0.4071	2.6097	a n i m a
+2007	anatomic	410	0.4061	2.6086	a n a t o m i k
+2008	barză	408	0.4041	2.6065	b a r z ə
+2008	structural	408	0.4041	2.6065	s t r u k t u r a l
+2009	pavaj	407	0.4031	2.6054	p a v a ʒ
+2009	tainic	407	0.4031	2.6054	t a j n i k
+2010	papirus	403	0.3992	2.6012	p a p i r u s
+2011	azur	402	0.3982	2.6001	a z u r
+2012	alpaca	401	0.3972	2.599	a l p a k a
+2013	antilopă	400	0.3962	2.5979	a n t i l o p ə
+2014	cafeniu	399	0.3952	2.5968	k a f e n i w
+2015	invalizi	398	0.3942	2.5957	i n v a l i zʲ
+2015	rotunjit	398	0.3942	2.5957	r o t u n ʒ i t
+2016	cinzeci	397	0.3932	2.5946	t͡ʃ i n z e t͡ʃʲ
+2017	conștiință	395	0.3913	2.5925	k o n ʃ t i i̯ n t͡s ə
+2017	părtinitor	395	0.3913	2.5925	p ə r t i n i t o r
+2017	tocător	395	0.3913	2.5925	t o k ə t o r
+2018	tibetan	392	0.3883	2.5892	t i b e t a n
+2019	cârjă	391	0.3873	2.588	k ɨ r ʒ ə
+2020	ascuțit	389	0.3853	2.5858	a s k u t͡s i t
+2021	căpos	388	0.3843	2.5847	k ə p o s
+2022	pornografic	386	0.3823	2.5824	p o r n o ɡ r a f i k
+2022	temător	386	0.3823	2.5824	t e m ə t o r
+2023	cuvântare	385	0.3814	2.5814	k u v ɨ n t a r e
+2024	simetric	383	0.3794	2.5791	s i m e t r i k
+2025	semnare	382	0.3784	2.578	s e m n a r e
+2026	cochet	381	0.3774	2.5768	k o c e t
+2026	îndemna	381	0.3774	2.5768	ɨ n d e m n a
+2027	invariabil	380	0.3764	2.5756	i n v a r i a b i l
+2027	visare	380	0.3764	2.5756	v i s a r e
+2028	amidon	377	0.3734	2.5722	a m i d o n
+2028	maur	377	0.3734	2.5722	m a u r
+2029	amețit	376	0.3724	2.571	a m e t͡s i t
+2030	aramă	375	0.3714	2.5698	a r a m ə
+2031	blogger	373	0.3695	2.5676	b l o ɡ ə r
+2032	influență	372	0.3685	2.5664	i n f l u e n t͡s ə
+2033	referendum	369	0.3655	2.5629	r e f e r e n d u m
+2034	brancardier	368	0.3645	2.5617	b r a ŋ k a r d i e r
+2034	varia	368	0.3645	2.5617	v a r i a
+2035	cecen	367	0.3635	2.5605	t͡ʃ e t͡ʃ e n
+2035	ulm	367	0.3635	2.5605	u l m
+2036	argon	366	0.3625	2.5593	a r ɡ o n
+2036	depărta	366	0.3625	2.5593	d e p ə r t a
+2037	grebla	365	0.3615	2.5581	ɡ r e b l a
+2037	răzbate	365	0.3615	2.5581	r ə z b a t e
+2038	sictir	364	0.3606	2.557	s i k t i r  |  s ɨ k t i r
+2039	cneaz	359	0.3556	2.551	k n e̯ a z
+2039	florența	359	0.3556	2.551	f l o r e n t͡s a
+2039	structurat	359	0.3556	2.551	s t r u k t u r a t
+2040	fermeca	358	0.3546	2.5497	f e r m e k a
+2041	suburban	356	0.3526	2.5473	s u b u r b a n
+2042	georgian	355	0.3516	2.546	d͡ʒ e̯ o r d͡ʒ i a n
+2042	satiră	355	0.3516	2.546	s a t i r ə
+2043	haitian	354	0.3506	2.5448	h a i t i a n
+2043	inimos	354	0.3506	2.5448	i n i m o s
+2044	potent	353	0.3497	2.5437	p o t e n t
+2045	combinație	351	0.3477	2.5412	k o m b i n a t͡s i e
+2045	sprinten	351	0.3477	2.5412	s p r i n t e n
+2046	astupa	350	0.3467	2.54	a s t u p a
+2046	dumnezeiască	350	0.3467	2.54	d u m n e z e j a s k ə
+2046	maghiar	350	0.3467	2.54	m a ɟʲ a r
+2046	mapă	350	0.3467	2.54	m a p ə
+2046	înfloritor	350	0.3467	2.54	ɨ n f l o r i t o r
+2047	făcător	349	0.3457	2.5387	f ə k ə t o r
+2047	naște	349	0.3457	2.5387	n a ʃ t e
+2048	destinație	348	0.3447	2.5374	d e s t i n a t͡s i e
+2049	bengal	347	0.3437	2.5362	b e ŋ ɡ a l
+2049	bruna	347	0.3437	2.5362	b r u n a
+2049	neașteptat	347	0.3437	2.5362	n e a ʃ t e p t a t
+2050	avaria	346	0.3427	2.5349	a v a r i a
+2050	nepopular	346	0.3427	2.5349	n e p o p u l a r
+2050	păscut	346	0.3427	2.5349	p ə s k u t
+2050	trântor	346	0.3427	2.5349	t r ɨ n t o r
+2051	aplicație	345	0.3417	2.5336	a p l i k a t͡s i e
+2051	inspirație	345	0.3417	2.5336	i n s p i r a t͡s i e
+2052	treceri	344	0.3407	2.5324	t r e t͡ʃ e rʲ
+2053	analog	343	0.3397	2.5311	a n a l o ɡ
+2053	salariat	343	0.3397	2.5311	s a l a r i a t
+2054	budism	342	0.3388	2.5299	b u d i s m
+2054	nominal	342	0.3388	2.5299	n o m i n a l
+2055	nigerian	340	0.3368	2.5274	n i d͡ʒ e r i a n
+2056	boem	339	0.3358	2.5261	b o e m
+2057	pretor	338	0.3348	2.5248	p r e t o r
+2058	calamar	337	0.3338	2.5235	k a l a m a r
+2058	umplere	337	0.3338	2.5235	u m p l e r e
+2059	jalea	335	0.3318	2.5209	ʒ a l e̯ a
+2059	văcari	335	0.3318	2.5209	v ə k a rʲ
+2060	vână	333	0.3298	2.5183	v ɨ n ə
+2061	montan	332	0.3289	2.5171	m o n t a n
+2061	nadir	332	0.3289	2.5171	n a d i r
+2062	ajutător	331	0.3279	2.5157	a ʒ u t ə t o r
+2062	frântură	331	0.3279	2.5157	f r ɨ n t u r ə
+2063	garson	330	0.3269	2.5144	ɡ a r s o n
+2063	stetoscop	330	0.3269	2.5144	s t e t o s k o p
+2064	variat	328	0.3249	2.5117	v a r i a t
+2065	astmatic	326	0.3229	2.5091	a s t m a t i k
+2065	unilateral	326	0.3229	2.5091	u n i l a t e r a l
+2066	competiție	325	0.3219	2.5077	k o m p e t i t͡s i e
+2066	evlavios	325	0.3219	2.5077	e v l a v i o s
+2066	mangustă	325	0.3219	2.5077	m a n ɡ u s t ə
+2066	parțial	325	0.3219	2.5077	p a r t͡s i a l
+2067	coregraf	323	0.3199	2.505	k o r e ɡ r a f
+2067	gogoși	323	0.3199	2.505	ɡ o ɡ o ʃʲ
+2068	reține	322	0.3189	2.5037	r e t͡s i n e
+2069	producție	321	0.318	2.5024	p r o d u k t͡s i e
+2069	purificator	321	0.318	2.5024	p u r i f i k a t o r
+2070	infirma	320	0.317	2.5011	i n f i r m a
+2071	cimbru	319	0.316	2.4997	t͡ʃ i m b r u
+2071	fulgerător	319	0.316	2.4997	f u l d͡ʒ e r ə t o r
+2072	fraged	318	0.315	2.4983	f r a d͡ʒ e d
+2072	județ	318	0.315	2.4983	ʒ u d e t͡s
+2073	cracă	317	0.314	2.4969	k r a k ə
+2073	slobod	317	0.314	2.4969	s l o b o d
+2074	animator	316	0.313	2.4955	a n i m a t o r
+2074	socialism	316	0.313	2.4955	s o t͡ʃ i a l i s m
+2075	biochimist	315	0.312	2.4942	b i o k i m i s t
+2075	duios	315	0.312	2.4942	d u j o s
+2075	regicid	315	0.312	2.4942	r e d͡ʒ i t͡ʃ i d
+2076	bască	314	0.311	2.4928	b a s k ə
+2077	siberian	313	0.31	2.4914	s i b e r i a n
+2078	nașpa	312	0.309	2.49	n a ʃ p a
+2079	cuprinzător	311	0.3081	2.4887	k u p r i n z ə t o r
+2079	debandadă	311	0.3081	2.4887	d e b a n d a d ə
+2079	mustață	311	0.3081	2.4887	m u s t a t͡s ə
+2080	prăjină	310	0.3071	2.4873	p r ə ʒ i n ə
+2081	furtunos	309	0.3061	2.4859	f u r t u n o s
+2081	grafit	309	0.3061	2.4859	ɡ r a f i t
+2081	sugaci	309	0.3061	2.4859	s u ɡ a t͡ʃʲ
+2082	caniculă	308	0.3051	2.4844	k a n i k u l ə
+2082	cititoare	308	0.3051	2.4844	t͡ʃ i t i t o̯ a r e
+2082	degenera	308	0.3051	2.4844	d e d͡ʒ e n e r a
+2082	gamba	308	0.3051	2.4844	ɡ a m b a
+2082	nuiele	308	0.3051	2.4844	n u j e l e
+2082	râios	308	0.3051	2.4844	r ɨ j o s
+2083	abominabil	306	0.3031	2.4816	a b o m i n a b i l
+2083	cast	306	0.3031	2.4816	k a s t
+2083	ursitoare	306	0.3031	2.4816	u r s i t o̯ a r e
+2084	beteag	305	0.3021	2.4802	b e t e̯ a ɡ
+2084	conopidă	305	0.3021	2.4802	k o n o p i d ə
+2084	peruvian	305	0.3021	2.4802	p e r u v i a n
+2085	avânta	303	0.3001	2.4773	a v ɨ n t a
+2085	chir	303	0.3001	2.4773	k i r
+2085	delecta	303	0.3001	2.4773	d e l e k t a
+2085	necopt	303	0.3001	2.4773	n e k o p t
+2086	leneș	302	0.2991	2.4758	l e n e ʃ
+2086	lesbian	302	0.2991	2.4758	l e s b i a n
+2087	afund	301	0.2981	2.4744	a f u n d
+2087	conținut	301	0.2981	2.4744	k o n t͡s i n u t
+2087	pigment	301	0.2981	2.4744	p i ɡ m e n t
+2088	producere	298	0.2952	2.4701	p r o d u t͡ʃ e r e
+2089	berărie	297	0.2942	2.4686	b e r ə r i e
+2089	întrucâtva	297	0.2942	2.4686	ɨ n t r u k ɨ t v a
+2090	alăpta	294	0.2912	2.4642	a l ə p t a
+2090	îndopa	294	0.2912	2.4642	ɨ n d o p a
+2091	cositor	293	0.2902	2.4627	k o s i t o r
+2092	armeană	291	0.2882	2.4597	a r m e̯ a n ə
+2092	mizer	291	0.2882	2.4597	m i z e r
+2092	pietros	291	0.2882	2.4597	p j e t r o s
+2093	schior	290	0.2873	2.4583	s k i o r
+2094	execuție	289	0.2863	2.4568	e ɡ z e k u t͡s i e
+2095	tungsten	288	0.2853	2.4553	t u n ɡ s t e n
+2096	catifelat	287	0.2843	2.4538	k a t i f e l a t
+2096	mitologic	287	0.2843	2.4538	m i t o l o d͡ʒ i k
+2097	configurare	286	0.2833	2.4522	k o n f i ɡ u r a r e
+2097	răposat	286	0.2833	2.4522	r ə p o s a t
+2097	spumos	286	0.2833	2.4522	s p u m o s
+2097	virilitatea	286	0.2833	2.4522	v i r i l i t a t e̯ a
+2098	proctolog	285	0.2823	2.4507	p r o k t o l o ɡ
+2099	domnitor	282	0.2793	2.4461	d o m n i t o r
+2099	falus	282	0.2793	2.4461	f a l u s
+2099	sârguincios	282	0.2793	2.4461	s ɨ r ɡ u i n t͡ʃʲ o s
+2099	tacit	282	0.2793	2.4461	t a t͡ʃ i t
+2100	școlar	280	0.2773	2.4429	ʃ k o l a r
+2101	furnicar	279	0.2764	2.4415	f u r n i k a r
+2102	maghiară	278	0.2754	2.44	m a ɡ j a r ə
+2103	calcan	277	0.2744	2.4384	k a l k a n
+2103	covrigel	277	0.2744	2.4384	k o v r i d͡ʒ e l
+2103	zăpăceală	277	0.2744	2.4384	z ə p ə t͡ʃ e̯ a l ə
+2104	grație	276	0.2734	2.4368	ɡ r a t͡s i e
+2105	bor	275	0.2724	2.4352	b o r
+2105	cehi	275	0.2724	2.4352	t͡ʃ e hʲ
+2106	lingou	274	0.2714	2.4336	l i n ɡ o w
+2107	mărar	273	0.2704	2.432	m ə r a r
+2108	bisericesc	272	0.2694	2.4304	b i s e r i t͡ʃ e s k
+2108	florentine	272	0.2694	2.4304	f l o r e n t i n e
+2108	negură	272	0.2694	2.4304	n e ɡ u r ə
+2108	ornitolog	272	0.2694	2.4304	o r n i t o l o ɡ
+2109	beriliu	270	0.2674	2.4272	b e r i l i w
+2109	nespălat	270	0.2674	2.4272	n e s p ə l a t
+2110	îndrăzneț	269	0.2665	2.4257	ɨ n d r ə z n e t͡s
+2111	acuzație	268	0.2655	2.4241	a k u z a t͡s i e
+2111	somnambulism	268	0.2655	2.4241	s o m n a m b u l i s m
+2111	vlăstar	268	0.2655	2.4241	v l ə s t a r
+2112	membrane	267	0.2645	2.4224	m e m b r a n e
+2112	plăpând	267	0.2645	2.4224	p l ə p ɨ n d
+2112	regească	267	0.2645	2.4224	r e d͡ʒ e̯ a s k ə
+2113	epifanie	266	0.2635	2.4208	e p i f a n i j e
+2113	inestimabil	266	0.2635	2.4208	i n e s t i m a b i l
+2113	inflexibil	266	0.2635	2.4208	i n f l e k s i b i l
+2113	popou	266	0.2635	2.4208	p o p o w
+2114	organizatori	265	0.2625	2.4191	o r ɡ a n i z a t o rʲ
+2114	sângeriu	265	0.2625	2.4191	s ɨ n d͡ʒ e r i w
+2114	transatlantic	265	0.2625	2.4191	t r a n s a t l a n t i k
+2115	netezi	264	0.2615	2.4175	n e t e z i
+2116	înghiți	263	0.2605	2.4158	ɨ n ɡ i t͡s i
+2117	ciclist	262	0.2595	2.4141	t͡ʃ i k l i s t
+2118	năzdrăvan	261	0.2585	2.4125	n ə z d r ə v a n
+2119	peștele	260	0.2575	2.4108	p e ʃ t e l e
+2119	sinergie	260	0.2575	2.4108	s i n e r d͡ʒ i e
+2119	susceptibil	260	0.2575	2.4108	s u s t͡ʃ e p t i b i l
+2119	înfometa	260	0.2575	2.4108	ɨ n f o m e t a
+2120	oranj	259	0.2565	2.4091	o r a n ʒ
+2121	imitare	258	0.2556	2.4076	i m i t a r e
+2121	utilaj	258	0.2556	2.4076	u t i l a ʒ
+2122	bosumfla	256	0.2536	2.4041	b o s u m f l a
+2122	brigadier	256	0.2536	2.4041	b r i ɡ a d i e r
+2122	convenție	256	0.2536	2.4041	k o n v e n t͡s i e
+2122	femeiască	256	0.2536	2.4041	f e m e j a s k ə
+2123	declarații	255	0.2526	2.4024	d e k l a r a t͡s iː
+2124	prispă	254	0.2516	2.4007	p r i s p ə
+2125	îndărătnic	253	0.2506	2.399	ɨ n d ə r ə t n i k
+2126	amenința	252	0.2496	2.3972	a m e n i n t͡s a
+2126	cățeluș	252	0.2496	2.3972	k ə t͡s e l u ʃ
+2127	alegător	251	0.2486	2.3955	a l e ɡ ə t o r
+2127	caiman	251	0.2486	2.3955	k a j m a n
+2127	lobbyist	251	0.2486	2.3955	l o b i i s t
+2128	achiziție	250	0.2476	2.3938	a k i z i t͡s i e
+2128	samoan	250	0.2476	2.3938	s a m o a n
+2128	skandenberg	250	0.2476	2.3938	s k a n d ə n b e r ɡ
+2129	gestiune	248	0.2456	2.3902	d͡ʒ e s t i u n e
+2129	greier	248	0.2456	2.3902	ɡ r e j e r
+2129	imaginație	248	0.2456	2.3902	i m a d͡ʒ i n a t͡s i e
+2129	unsprezecea	248	0.2456	2.3902	u n s p r e z e t͡ʃ e̯ a
+2130	florentin	247	0.2447	2.3886	f l o r e n t i n
+2130	guvernante	247	0.2447	2.3886	ɡ u v e r n a n t e
+2130	iepe	247	0.2447	2.3886	j e p e
+2130	îmbietor	247	0.2447	2.3886	ɨ m b i e t o r
+2131	negricios	246	0.2437	2.3869	n e ɡ r i t͡ʃʲ o s
+2131	sâmbete	246	0.2437	2.3869	s ɨ m b e t e
+2132	pescăresc	245	0.2427	2.3851	p e s k ə r e s k
+2132	păsăroi	245	0.2427	2.3851	p ə s ə r o j
+2132	șasea	245	0.2427	2.3851	ʃ a s e̯ a
+2133	amfibian	244	0.2417	2.3833	a m f i b i a n  |  a m f i b j a n
+2133	materialist	244	0.2417	2.3833	m a t e r i a l i s t
+2134	bideu	243	0.2407	2.3815	b i d e w
+2134	chepeng	243	0.2407	2.3815	k e p e n ɡ
+2134	urolog	243	0.2407	2.3815	u r o l o ɡ
+2135	nisipos	242	0.2397	2.3797	n i s i p o s
+2136	dungat	241	0.2387	2.3779	d u ŋ ɡ a t
+2137	amicale	240	0.2377	2.376	a m i k a l e
+2138	amvon	239	0.2367	2.3742	a m v o n
+2138	dulceag	239	0.2367	2.3742	d u l t͡ʃ e̯ a ɡ
+2138	grămăjoară	239	0.2367	2.3742	ɡ r ə m ə ʒ o̯ a r ə
+2138	paroh	239	0.2367	2.3742	p a r o h
+2139	fad	238	0.2357	2.3724	f a d
+2140	douăsprezecea	237	0.2348	2.3707	d o w ə s p r e z e t͡ʃ e̯ a
+2140	mătușă	237	0.2348	2.3707	m ə t u ʃ ə
+2140	treisprezecelea	237	0.2348	2.3707	t r e j s p r e z e t͡ʃ e l e̯ a
+2141	estetician	235	0.2328	2.367	e s t e t i t͡ʃ i a n
+2141	formație	235	0.2328	2.367	f o r m a t͡s i e
+2141	indonezian	235	0.2328	2.367	i n d o n e z i a n
+2141	inelar	235	0.2328	2.367	i n e l a r
+2141	tâmp	235	0.2328	2.367	t ɨ m p
+2141	venerare	235	0.2328	2.367	v e n e r a r e
+2141	verzui	235	0.2328	2.367	v e r z u j
+2142	aducătoare	234	0.2318	2.3651	a d u k ə t o̯ a r e
+2142	bulgare	234	0.2318	2.3651	b u l ɡ a r e
+2142	friguros	234	0.2318	2.3651	f r i ɡ u r o s
+2142	stingher	234	0.2318	2.3651	s t i ŋ ɡ e r
+2142	tarantulă	234	0.2318	2.3651	t a r a n t u l ə
+2143	kripton	232	0.2298	2.3614	k r i p t o n
+2143	oscior	232	0.2298	2.3614	o s t͡ʃ j o r
+2144	domestici	231	0.2288	2.3595	d o m e s t i t͡ʃ i
+2144	femeiesc	231	0.2288	2.3595	f e m e j e s k
+2145	știre	230	0.2278	2.3576	ʃ t i r e
+2146	blajin	229	0.2268	2.3556	b l a ʒ i n
+2147	muntean	228	0.2258	2.3537	m u n t e̯ a n
+2147	unguresc	228	0.2258	2.3537	u ŋ ɡ u r e s k
+2147	împodobi	228	0.2258	2.3537	ɨ m p o d o b i
+2148	biochimic	227	0.2248	2.3518	b i o c i m i k
+2148	component	227	0.2248	2.3518	k o m p o n e n t
+2148	populație	227	0.2248	2.3518	p o p u l a t͡s i e
+2149	peiorativ	226	0.2239	2.3501	p e j o r a t i v
+2150	oblic	225	0.2229	2.3481	o b l i k
+2150	salamandră	225	0.2229	2.3481	s a l a m a n d r ə
+2151	instituție	224	0.2219	2.3462	i n s t i t u t͡s i e
+2151	întinsa	224	0.2219	2.3462	ɨ n t i n s a
+2152	nudist	223	0.2209	2.3442	n u d i s t
+2152	tendon	223	0.2209	2.3442	t e n d o n
+2153	rânced	222	0.2199	2.3422	r ɨ n t͡ʃ e d
+2153	țările	222	0.2199	2.3422	t s ə r i l e
+2154	fugări	221	0.2189	2.3402	f u ɡ ə r i
+2154	strădanie	221	0.2189	2.3402	s t r ə d a n i e
+2154	vâscos	221	0.2189	2.3402	v ɨ s k o s
+2155	brune	220	0.2179	2.3383	b r u n e
+2155	stăpânitor	220	0.2179	2.3383	s t ə p ɨ n i t o r
+2155	tatu	220	0.2179	2.3383	t a t u
+2156	aba	219	0.2169	2.3363	a b a
+2156	civilizație	219	0.2169	2.3363	t͡ʃ i v i l i z a t͡s i e
+2156	gimnast	219	0.2169	2.3363	d͡ʒ i m n a s t
+2156	tarhon	219	0.2169	2.3363	t a r h o n
+2157	altcândva	218	0.2159	2.3343	a l t k ɨ n d v a
+2157	poștal	218	0.2159	2.3343	p o ʃ t a l
+2157	vânjos	218	0.2159	2.3343	v ɨ n ʒ o s
+2158	omnipotent	217	0.2149	2.3322	o m n i p o t e n t
+2158	stufos	217	0.2149	2.3322	s t u f o s
+2159	ienupăr	216	0.214	2.3304	j e n u p ə r
+2159	linx	216	0.214	2.3304	l i n k s
+2160	alinta	215	0.213	2.3284	a l i n t a
+2160	arabil	215	0.213	2.3284	a r a b i l
+2160	gambă	215	0.213	2.3284	ɡ a m b ə
+2161	șaptea	214	0.212	2.3263	ʃ a p t e̯ a
+2162	exasperat	213	0.211	2.3243	e ɡ z a s p e r a t
+2162	zvelt	213	0.211	2.3243	z v e l t
+2163	mangan	212	0.21	2.3222	m a n ɡ a n
+2164	ventilație	211	0.209	2.3201	v e n t i l a t͡s i e
+2165	incompleta	210	0.208	2.3181	i ŋ k o m p l e t a
+2165	omniprezent	210	0.208	2.3181	o m n i p r e z e n t
+2166	năpăstuit	209	0.207	2.316	n ə p ə s t u i t
+2167	desfăta	208	0.206	2.3139	d e s f ə t a
+2168	mortier	207	0.205	2.3118	m o r t i e r
+2168	spatulă	207	0.205	2.3118	s p a t u l ə
+2168	ș	207	0.205	2.3118	ʃ
+2169	empiric	206	0.204	2.3096	e m p i r i k
+2169	omenos	206	0.204	2.3096	o m e n o s
+2169	opărit	206	0.204	2.3096	o p ə r i t
+2170	paleontolog	204	0.2021	2.3056	p a l e o n t o l o ɡ
+2170	venezuelean	204	0.2021	2.3056	v e n e z u e l e̯ a n
+2171	grădiniță	203	0.2011	2.3034	ɡ r ə d i n i t͡s ə
+2172	ciobani	202	0.2001	2.3012	t͡ʃ j o b a nʲ
+2172	cursiv	202	0.2001	2.3012	k u r s i v
+2172	transpirație	202	0.2001	2.3012	t r a n s p i r a t͡s i e
+2173	ciocârlie	200	0.1981	2.2969	t͡ʃ j o k ɨ r l i e
+2174	kurd	199	0.1971	2.2947	k u r d
+2175	grangur	198	0.1961	2.2925	ɡ r a n ɡ u r
+2176	hrean	197	0.1951	2.2903	h r e̯ a n
+2176	instructoare	197	0.1951	2.2903	i n s t r u k t o̯ a r e
+2176	pugilist	197	0.1951	2.2903	p u d͡ʒ i l i s t
+2176	treisprezecea	197	0.1951	2.2903	t r e j s p r e z e t͡ʃ e̯ a
+2177	presta	196	0.1941	2.288	p r e s t a
+2177	pâlc	196	0.1941	2.288	p ɨ l k
+2177	stupi	196	0.1941	2.288	s t u p i  |  s t u pʲ
+2178	inteligibil	195	0.1932	2.286	i n t e l i d͡ʒ i b i l
+2178	vedenie	195	0.1932	2.286	v e d e n i e
+2179	arpagic	194	0.1922	2.2838	a r p a d͡ʒ i k
+2179	atotvăzător	194	0.1922	2.2838	a t o t v ə z ə t o r
+2179	cartograf	194	0.1922	2.2838	k a r t o ɡ r a f
+2179	perturbator	194	0.1922	2.2838	p e r t u r b a t o r
+2179	seleniu	194	0.1922	2.2838	s e l e n j u
+2179	șaizeci	194	0.1922	2.2838	ʃ a j z e t͡ʃʲ
+2180	chinezoaice	193	0.1912	2.2815	k i n e z o̯ a j t͡ʃ e
+2181	croat	192	0.1902	2.2792	k r o a t
+2181	delibera	192	0.1902	2.2792	d e l i b e r a
+2181	mieros	192	0.1902	2.2792	m j e r o s
+2181	ornitorinc	192	0.1902	2.2792	o r n i t o r i n k
+2181	slav	192	0.1902	2.2792	s l a v
+2181	întinsul	192	0.1902	2.2792	ɨ n t i n s u l
+2182	găoace	191	0.1892	2.2769	ɡ ə o̯ a t͡ʃ e
+2183	administrație	189	0.1872	2.2723	a d m i n i s t r a t͡s i e
+2183	amfibiu	189	0.1872	2.2723	a m f i b j u
+2183	bisericos	189	0.1872	2.2723	b i s e r i k o s
+2183	croată	189	0.1872	2.2723	k r o a t ə
+2183	sinteză	189	0.1872	2.2723	s i n t e z ə
+2184	dumă	188	0.1862	2.27	d u m ə
+2184	hârciog	188	0.1862	2.27	h ɨ r t͡ʃʲ o ɡ
+2185	suspensor	187	0.1852	2.2676	s u s p e n s o r
+2185	transcrie	187	0.1852	2.2676	t r a n s k r i e
+2186	muștar	186	0.1842	2.2653	m u ʃ t a r
+2186	transpune	186	0.1842	2.2653	t r a n s p u n e
+2186	zer	186	0.1842	2.2653	z e r
+2187	ceramic	185	0.1832	2.2629	t͡ʃ e r a m i k
+2187	fudul	185	0.1832	2.2629	f u d u l
+2187	investiție	185	0.1832	2.2629	i n v e s t i t͡s i e
+2187	paralitic	185	0.1832	2.2629	p a r a l i t i k
+2187	românesc	185	0.1832	2.2629	r o m ɨ n e s k
+2188	strângător	184	0.1823	2.2608	s t r ɨ ŋ ɡ ə t o r
+2189	isteț	183	0.1813	2.2584	i s t e t͡s
+2190	adaptabil	182	0.1803	2.256	a d a p t a b i l
+2190	antiviral	182	0.1803	2.256	a n t i v i r a l
+2190	isoscel	182	0.1803	2.256	i s o s t͡ʃ e l
+2190	meteorologică	182	0.1803	2.256	m e t e o r o l o d͡ʒ i k ə
+2190	prelung	182	0.1803	2.256	p r e l u ŋ ɡ
+2191	fundație	181	0.1793	2.2536	f u n d a t͡s i e
+2192	cârn	180	0.1783	2.2512	k ɨ r n
+2192	șaselea	180	0.1783	2.2512	ʃ a s e l e̯ a
+2193	cotor	179	0.1773	2.2487	k o t o r
+2193	damnat	179	0.1773	2.2487	d a m n a t
+2193	șa	179	0.1773	2.2487	ʃ a
+2194	ornat	177	0.1753	2.2438	o r n a t
+2194	psihiatră	177	0.1753	2.2438	p s i h i a t r ə
+2195	dihanie	176	0.1743	2.2413	d i h a n i e
+2196	albicios	175	0.1733	2.2388	a l b i t͡ʃʲ o s
+2196	cugeta	175	0.1733	2.2388	k u d͡ʒ e t a
+2196	semicerc	175	0.1733	2.2388	s e m i t͡ʃ e r k
+2196	stăruitor	175	0.1733	2.2388	s t ə r u i t o r
+2196	talcioc	175	0.1733	2.2388	t a l t͡ɕ ɵ k
+2197	amaneta	174	0.1724	2.2365	a m a n e t a
+2197	cosmetician	174	0.1724	2.2365	k o s m e t i t͡ʃ i a n
+2197	păstrători	174	0.1724	2.2365	p ə s t r ə t o rʲ
+2198	arahidă	173	0.1714	2.234	a r a h i d ə
+2198	entomolog	173	0.1714	2.234	e n t o m o l o ɡ
+2198	zoolog	173	0.1714	2.234	z o o l o ɡ
+2199	emerit	171	0.1694	2.2289	e m e r i t
+2199	introductiv	171	0.1694	2.2289	i n t r o d u k t i v
+2199	vrun	171	0.1694	2.2289	v r u n
+2200	pârî	170	0.1684	2.2263	p ɨ r ɨ
+2201	afuma	168	0.1664	2.2212	a f u m a
+2201	gâscan	168	0.1664	2.2212	ɡ ɨ s k a n
+2202	creație	167	0.1654	2.2185	k r e a t͡s i e
+2202	păduchios	167	0.1654	2.2185	p ə d u c o s
+2202	vier	167	0.1654	2.2185	v i e r  |  v j e r
+2203	admisibil	165	0.1634	2.2133	a d m i s i b i l
+2203	impredictibil	165	0.1634	2.2133	i m p r e d i k t i b i l
+2203	invalida	165	0.1634	2.2133	i n v a l i d a
+2203	nesătul	165	0.1634	2.2133	n e s ə t u l
+2203	româniei	165	0.1634	2.2133	r o m ɨ n i j e j
+2204	albăstrui	164	0.1624	2.2106	a l b ə s t r u j
+2204	calotă	164	0.1624	2.2106	k a l o t ə
+2204	gălbui	164	0.1624	2.2106	ɡ ə l b u j
+2204	lituanian	164	0.1624	2.2106	l i t u a n i a n
+2204	încăpător	164	0.1624	2.2106	ɨ n k ə p ə t o r
+2204	ăst	164	0.1624	2.2106	ə s t
+2205	iluzoriu	163	0.1615	2.2082	i l u z o r j u
+2205	obligație	163	0.1615	2.2082	o b l i ɡ a t͡s i e
+2205	înghițitură	163	0.1615	2.2082	ɨ n ɡ i t͡s i t u r ə
+2206	fluor	161	0.1595	2.2028	f l o r  |  f l u o r
+2206	fonetic	161	0.1595	2.2028	f o n e t i k
+2207	ametist	160	0.1585	2.2	a m e t i s t
+2207	sexos	160	0.1585	2.2	s e k s o s
+2208	apicultor	159	0.1575	2.1973	a p i k u l t o r
+2208	astmă	159	0.1575	2.1973	a s t m ə
+2208	bălai	159	0.1575	2.1973	b ə l a j
+2208	șoarece	159	0.1575	2.1973	ʃ o̯ a r e t ʃ e
+2209	econom	158	0.1565	2.1945	e k o n o m
+2209	invenție	158	0.1565	2.1945	i n v e n t͡s i e
+2210	antrenare	157	0.1555	2.1917	a n t r e n a r e
+2210	nesomn	157	0.1555	2.1917	n e s o m n
+2210	pașnic	157	0.1555	2.1917	p a ʃ n i k
+2210	sferic	157	0.1555	2.1917	s f e r i k
+2211	abdica	156	0.1545	2.1889	a b d i k a
+2211	papaia	156	0.1545	2.1889	p a p a j a
+2211	vitamină	156	0.1545	2.1889	v i t a m i n ə
+2211	zugrăvi	156	0.1545	2.1889	z u ɡ r ə v i
+2211	împuțit	156	0.1545	2.1889	ɨ m p u t͡s i t
+2212	centrali	155	0.1535	2.1861	t͡ʃ e n t r a lʲ
+2212	electorat	155	0.1535	2.1861	e l e k t o r a t
+2212	stărui	155	0.1535	2.1861	s t ə r u i
+2212	tins	155	0.1535	2.1861	t i n s
+2213	cântăreț	154	0.1525	2.1833	k ɨ n t ə r e t͡s
+2213	dumnealor	154	0.1525	2.1833	d u m n e̯ a l o r
+2214	definiție	153	0.1515	2.1804	d e f i n i t͡s i e
+2214	lugubru	153	0.1515	2.1804	l u ɡ u b r u
+2214	șaisprezece	153	0.1515	2.1804	ʃ a j s p r e z e t͡ʃ e
+2215	navigație	152	0.1506	2.1778	n a v i ɡ a t͡s i e
+2215	semnificație	152	0.1506	2.1778	s e m n i f i k a t͡s i e
+2215	solz	152	0.1506	2.1778	s o l z
+2216	ambiție	151	0.1496	2.1749	a m b i t͡s i e
+2216	presimțire	151	0.1496	2.1749	p r e s i m t͡s i r e
+2216	pătrime	151	0.1496	2.1749	p ə t r i m e
+2216	vorbăreț	151	0.1496	2.1749	v o r b ə r e t͡s
+2217	botanic	150	0.1486	2.172	b o t a n i k
+2217	călugăriță	150	0.1486	2.172	k ə l u ɡ ə r i t͡s ə
+2217	dulceață	150	0.1486	2.172	d u l t͡ʃ e̯ a t͡s ə
+2217	slut	150	0.1486	2.172	s l u t
+2217	șervețel	150	0.1486	2.172	ʃ e r v e t͡s e l
+2218	cărnos	149	0.1476	2.1691	k ə r n o s
+2218	eșarfă	149	0.1476	2.1691	e ʃ a r f ə
+2218	lânos	149	0.1476	2.1691	l ɨ n o s
+2218	maltez	149	0.1476	2.1691	m a l t e z
+2218	mâncăcios	149	0.1476	2.1691	m ɨ n k ə t͡ʃʲ o s
+2218	păstrătoare	149	0.1476	2.1691	p ə s t r ə t o̯ a r e
+2219	boieri	148	0.1466	2.1661	b o j e r i  |  b o j e rʲ
+2219	curcă	148	0.1466	2.1661	k u r k ə
+2219	pescărească	148	0.1466	2.1661	p e s k ə r e̯ a s k ə
+2220	somat	147	0.1456	2.1632	s o m a t
+2220	șmecher	147	0.1456	2.1632	ʃ m e k e r
+2221	abunda	145	0.1436	2.1572	a b u n d a
+2221	etil	145	0.1436	2.1572	e t i l
+2222	eclectic	144	0.1426	2.1541	e k l e k t i k
+2222	omeni	144	0.1426	2.1541	o m e n i
+2222	prozaic	144	0.1426	2.1541	p r o z a i k
+2222	zecimal	144	0.1426	2.1541	z e t͡ʃ i m a l
+2223	lituaniană	143	0.1416	2.1511	l i t u a n i a n ə
+2223	miime	143	0.1416	2.1511	m i i m e
+2223	slugarnic	143	0.1416	2.1511	s l u ɡ a r n i k
+2223	verosimil	143	0.1416	2.1511	v e r o s i m i l
+2224	celt	142	0.1407	2.1483	t͡ʃ e l t
+2224	opoziție	142	0.1407	2.1483	o p o z i t͡s i e
+2224	vro	142	0.1407	2.1483	v r o
+2225	episcopal	141	0.1397	2.1452	e p i s k o p a l
+2225	rușinos	141	0.1397	2.1452	r u ʃ i n o s
+2226	ediție	140	0.1387	2.1421	e d i t͡s i e
+2226	ungurească	140	0.1387	2.1421	u ŋ ɡ u r e̯ a s k ə
+2227	hulit	139	0.1377	2.1389	h u l i t
+2228	etilic	138	0.1367	2.1358	e t i l i k
+2228	homofobic	138	0.1367	2.1358	h o m o f o b i k
+2229	nevăzător	137	0.1357	2.1326	n e v ə z ə t o r
+2229	operațional	137	0.1357	2.1326	o p e r a t͡s i o n a l
+2229	virolog	137	0.1357	2.1326	v i r o l o ɡ
+2229	șaptezeci	137	0.1357	2.1326	ʃ a p t e z e t͡ʃʲ
+2230	armadă	136	0.1347	2.1294	a r m a d ə
+2230	catran	136	0.1347	2.1294	k a t r a n
+2230	zevzec	136	0.1347	2.1294	z e v z e k
+2230	șaptelea	136	0.1347	2.1294	ʃ a p t e l e̯ a
+2231	analogic	135	0.1337	2.1261	a n a l o d͡ʒ i k
+2231	panteon	135	0.1337	2.1261	p a n t e o n
+2231	pofticios	135	0.1337	2.1261	p o f t i t͡ʃʲ o s
+2231	vârtos	135	0.1337	2.1261	v ɨ r t o s
+2232	măreț	134	0.1327	2.1229	m ə r e t͡s
+2232	străbunic	134	0.1327	2.1229	s t r ə b u n i k
+2233	bălan	133	0.1317	2.1196	b ə l a n
+2234	amărui	132	0.1307	2.1163	a m ə r u j
+2235	aspirație	131	0.1298	2.1133	a s p i r a t͡s i e
+2235	cosmeticiană	131	0.1298	2.1133	k o s m e t i t͡ʃ i a n ə
+2235	fesă	131	0.1298	2.1133	f e s ə
+2235	hiperbolă	131	0.1298	2.1133	h i p e r b o l ə
+2235	neprețuit	131	0.1298	2.1133	n e p r e t͡s u i t
+2236	aviva	129	0.1278	2.1065	a v i v a
+2236	măsliniu	129	0.1278	2.1065	m ə s l i n i w
+2236	petiție	129	0.1278	2.1065	p e t i t͡s i e
+2237	peștii	128	0.1268	2.1031	p e ʃ t iː
+2237	rotație	128	0.1268	2.1031	r o t a t͡s i e
+2238	groh	127	0.1258	2.0997	ɡ r o x
+2238	oficii	127	0.1258	2.0997	o f i t͡ʃ iː
+2238	stângăcie	127	0.1258	2.0997	s t ɨ n ɡ ə t͡ʃ i e
+2239	flecar	126	0.1248	2.0962	f l e k a r
+2239	grăsun	126	0.1248	2.0962	ɡ r ə s u n
+2239	vărgat	126	0.1248	2.0962	v ə r ɡ a t
+2240	dacia	125	0.1238	2.0927	d a t͡ʃ i a
+2240	diferi	125	0.1238	2.0927	d i f e r i
+2240	indoneziană	125	0.1238	2.0927	i n d o n e z i a n ə
+2241	porcesc	124	0.1228	2.0892	p o r t͡ʃ e s k
+2241	reprobabil	124	0.1228	2.0892	r e p r o b a b i l
+2241	zâzanie	124	0.1228	2.0892	z ɨ z a n i e
+2242	neadaptat	123	0.1218	2.0856	n e a d a p t a t
+2242	rafinare	123	0.1218	2.0856	r a f i n a r e
+2242	rațional	123	0.1218	2.0856	r a t͡s i o n a l
+2242	viclenii	123	0.1218	2.0856	v i k l e n i j
+2243	civiliza	122	0.1208	2.0821	t͡ʃ i v i l i z a
+2243	șaptesprezece	122	0.1208	2.0821	ʃ a p t e s p r e z e t͡ʃ e
+2244	boschet	121	0.1199	2.0788	b o s k e t
+2244	burtos	121	0.1199	2.0788	b u r t o s
+2244	cantata	121	0.1199	2.0788	k a n t a t a
+2244	caracara	121	0.1199	2.0788	k a r a k a r a
+2244	măcăleandru	121	0.1199	2.0788	m ə k ə l e̯ a n d r u
+2244	pregnant	121	0.1199	2.0788	p r e ɡ n a n t
+2244	singuratec	121	0.1199	2.0788	s i ŋ ɡ u r a t e k
+2244	înveninat	121	0.1199	2.0788	ɨ n v e n i n a t
+2245	chimion	120	0.1189	2.0752	k i m i o n
+2245	excepțional	120	0.1189	2.0752	e k s t͡ʃ e p t͡s i o n a l
+2245	nemeritat	120	0.1189	2.0752	n e m e r i t a t
+2245	rână	120	0.1189	2.0752	r ɨ n ə
+2245	însoți	120	0.1189	2.0752	ɨ n s o t͡s i
+2246	arabic	119	0.1179	2.0715	a r a b i k
+2246	mărunțiș	119	0.1179	2.0715	m ə r u n t͡s i ʃ
+2246	statistician	119	0.1179	2.0715	s t a t i s t i t͡ʃ i a n
+2247	bezmetic	118	0.1169	2.0678	b e z m e t i k
+2247	bomfaier	118	0.1169	2.0678	b o m f a j e r
+2247	facere	118	0.1169	2.0678	f a t͡ʃ e r e
+2247	lemnos	118	0.1169	2.0678	l e m n o s
+2247	lingvistic	118	0.1169	2.0678	l i ŋ ɡ v i s t i k
+2247	rafina	118	0.1169	2.0678	r a f i n a
+2248	acătării	117	0.1159	2.0641	a k ə t ə r i j
+2248	cincisprezecea	117	0.1159	2.0641	t͡ʃ i n s p r e z e t͡ʃ e̯ a  |  t͡ʃ i n t͡ʃʲ s p r e z e t͡ʃ e̯ a
+2248	hazardat	117	0.1159	2.0641	h a z a r d a t
+2249	doisprezecelea	116	0.1149	2.0603	d o j s p r e z e t͡ʃ e l e̯ a
+2249	mandolină	116	0.1149	2.0603	m a n d o l i n ə
+2249	viță	116	0.1149	2.0603	v i t͡s ə
+2250	anghilă	115	0.1139	2.0565	a n ɡ i l ə
+2250	anulări	115	0.1139	2.0565	a n u l ə rʲ
+2250	câne	115	0.1139	2.0565	k ɨ n e
+2250	magiciană	115	0.1139	2.0565	m a d͡ʒ i t͡ʃ i a n ə
+2250	mânză	115	0.1139	2.0565	m ɨ n z ə
+2250	nuferi	115	0.1139	2.0565	n u f e rʲ
+2250	ofta	115	0.1139	2.0565	o f t a
+2251	scorțișoară	114	0.1129	2.0527	s k o r t s i ʃ o̯ a r ə
+2251	șopârlă	114	0.1129	2.0527	ʃ o p ɨ r l ə
+2252	acar	112	0.1109	2.0449	a k a r
+2252	dezice	112	0.1109	2.0449	d e z i t͡ʃ e
+2252	florentini	112	0.1109	2.0449	f l o r e n t i nʲ
+2252	lunecos	112	0.1109	2.0449	l u n e k o s
+2253	caricaturist	111	0.1099	2.041	k a r i k a t u r i s t
+2253	futangiu	111	0.1099	2.041	f u t a n d͡ʒ i w
+2253	năpârcă	111	0.1099	2.041	n ə p ɨ r k ə
+2253	îmbătător	111	0.1099	2.041	ɨ m b ə t ə t o r
+2254	abreviere	110	0.109	2.0374	a b r e v i e r e
+2254	acaju	110	0.109	2.0374	a k a ʒ u
+2254	consular	110	0.109	2.0374	k o n s u l a r
+2254	jurisdicție	110	0.109	2.0374	ʒ u r i s d i k t͡s i e
+2254	neras	110	0.109	2.0374	n e r a s
+2254	pitulice	110	0.109	2.0374	p i t u l i t͡ʃ e
+2254	unsprezecelea	110	0.109	2.0374	u n s p r e z e t͡ʃ e l e̯ a
+2255	botanistă	109	0.108	2.0334	b o t a n i s t ə
+2256	chefal	108	0.107	2.0294	k e f a l
+2256	filantropic	108	0.107	2.0294	f i l a n t r o p i k
+2256	gospodar	108	0.107	2.0294	ɡ o s p o d a r
+2257	laie	107	0.106	2.0253	l a j e
+2257	nepoți	107	0.106	2.0253	n e p o t͡sʲ
+2258	afișa	106	0.105	2.0212	a f i ʃ a
+2258	jasp	106	0.105	2.0212	ʒ a s p
+2258	searbăd	106	0.105	2.0212	s e̯ a r b ə d
+2258	ustensilă	106	0.105	2.0212	u s t e n s i l ə
+2259	douăzecea	105	0.104	2.017	d o w ə z e t͡ʃ e̯ a
+2260	coclauri	104	0.103	2.0128	k o k l a u rʲ
+2260	maghiari	104	0.103	2.0128	m a ɡ j a rʲ
+2260	maratonist	104	0.103	2.0128	m a r a t o n i s t
+2260	ochean	104	0.103	2.0128	o k e̯ a n
+2260	stagiune	104	0.103	2.0128	s t a d͡ʒ u n e
+2260	umbros	104	0.103	2.0128	u m b r o s
+2261	niscai	103	0.102	2.0086	n i s k a j
+2262	administratoare	102	0.101	2.0043	a d m i n i s t r a t o̯ a r e
+2262	ființa	102	0.101	2.0043	f i i n t͡s a
+2263	adăpa	100	0.0991	1.9961	a d ə p a
+2263	diversificare	100	0.0991	1.9961	d i v e r s i f i k a r e
+2263	imunolog	100	0.0991	1.9961	i m u n o l o ɡ
+2263	mustăcios	100	0.0991	1.9961	m u s t ə t͡ʃʲ o s
+2263	nudism	100	0.0991	1.9961	n u d i s m
+2263	pedestru	100	0.0991	1.9961	p e d e s t r u
+2263	regalist	100	0.0991	1.9961	r e ɡ a l i s t
+2264	farmacistă	99	0.0981	1.9917	f a r m a t͡ʃ i s t ə
+2264	lăptos	99	0.0981	1.9917	l ə p t o s
+2264	solzos	99	0.0981	1.9917	s o l z o s
+2264	întemeietor	99	0.0981	1.9917	ɨ n t e m e j e t o r
+2265	ruinare	98	0.0971	1.9872	r u i n a r e
+2265	tuși	98	0.0971	1.9872	t u ʃ i
+2266	interferență	97	0.0961	1.9827	i n t e r f e r e n t͡s ə
+2266	lăptucă	97	0.0961	1.9827	l ə p t u k ə
+2266	programabil	97	0.0961	1.9827	p r o ɡ r a m a b i l
+2266	trandafiriu	97	0.0961	1.9827	t r a n d a f i r i w
+2267	bovin	96	0.0951	1.9782	b o v i n
+2267	ciufut	96	0.0951	1.9782	t͡ʃʲ u f u t
+2267	tunisian	96	0.0951	1.9782	t u n i s i a n
+2268	clanță	95	0.0941	1.9736	k l a n t͡s ə
+2268	desfătări	95	0.0941	1.9736	d e s f ə t ə rʲ
+2268	insidios	95	0.0941	1.9736	i n s i d i o s
+2268	raluca	95	0.0941	1.9736	r a l u k a
+2269	bunăvoință	94	0.0931	1.9689	b u n ə v o i n t͡s ə
+2269	gogoașă	94	0.0931	1.9689	ɡ o ɡ o̯ a ʃ ə
+2269	pretențios	94	0.0931	1.9689	p r e t e n t͡s i o s
+2269	setos	94	0.0931	1.9689	s e t o s
+2269	sipet	94	0.0931	1.9689	s i p e t
+2270	găunos	93	0.0921	1.9643	ɡ ə u n o s
+2270	oceanograf	93	0.0921	1.9643	o t͡ʃ e̯ a n o ɡ r a f
+2271	abac	92	0.0911	1.9595	a b a k
+2271	blănar	92	0.0911	1.9595	b l ə n a r
+2271	tahitian	92	0.0911	1.9595	t a h i t i a n
+2271	temniță	92	0.0911	1.9595	t e m n i t s ə
+2271	șchiop	92	0.0911	1.9595	ʃ c o p
+2272	alene	91	0.0901	1.9547	a l e n e
+2272	cârtiță	91	0.0901	1.9547	k ɨ r t i t͡s ə
+2272	prat	91	0.0901	1.9547	p r a t
+2272	rigă	91	0.0901	1.9547	r i ɡ ə
+2272	întineri	91	0.0901	1.9547	ɨ n t i n e r i
+2273	cerca	90	0.0891	1.9499	t͡ʃ e r k a
+2273	cucuvea	90	0.0891	1.9499	k u k u v e̯ a
+2273	strai	90	0.0891	1.9499	s t r a j
+2273	încarcera	90	0.0891	1.9499	ɨ n k a r t͡ʃ e r a
+2274	adia	89	0.0882	1.9455	a d i a
+2274	dogmatic	89	0.0882	1.9455	d o ɡ m a t i k
+2274	hematologie	89	0.0882	1.9455	h e m a t o l o d͡ʒ i e
+2274	jăratic	89	0.0882	1.9455	ʒ ə r a t i k
+2274	murg	89	0.0882	1.9455	m u r ɡ
+2274	soviet	89	0.0882	1.9455	s o v i e t
+2274	transpunere	89	0.0882	1.9455	t r a n s p u n e r e
+2275	arhitectă	88	0.0872	1.9405	a r h i t e k t ə
+2275	graur	88	0.0872	1.9405	ɡ r a u r
+2275	împărătesc	88	0.0872	1.9405	ɨ m p ə r ə t e s k
+2275	țigani	88	0.0872	1.9405	t͡s i ɡ a nʲ
+2276	pleoapă	87	0.0862	1.9355	p l e o̯ a p ə  |  p l e̯ o̯ a p ə
+2276	rămași	87	0.0862	1.9355	r ə m a ʃʲ
+2277	armator	86	0.0852	1.9304	a r m a t o r
+2277	calambur	86	0.0852	1.9304	k a l a m b u r
+2277	cântător	86	0.0852	1.9304	k ɨ n t ə t o r
+2277	ecuatorial	86	0.0852	1.9304	e k u a t o r i a l
+2277	paisprezecea	86	0.0852	1.9304	p a j s p r e z e t͡ʃ e̯ a
+2277	porcească	86	0.0852	1.9304	p o r t͡ʃ e̯ a s k ə
+2278	chimistă	85	0.0842	1.9253	k i m i s t ə
+2278	instituții	85	0.0842	1.9253	i n s t i t u t͡s iː
+2278	menținere	85	0.0842	1.9253	m e n t͡s i n e r e
+2278	motociclistă	85	0.0842	1.9253	m o t o t͡ʃ i k l i s t ə
+2278	năsos	85	0.0842	1.9253	n ə s o s
+2278	tendință	85	0.0842	1.9253	t e n d i n t͡s ə
+2278	untos	85	0.0842	1.9253	u n t o s
+2278	șoim	85	0.0842	1.9253	ʃ o j m
+2279	bibilică	84	0.0832	1.9201	b i b i l i k ə
+2279	despotic	84	0.0832	1.9201	d e s p o t i k
+2279	galvanizat	84	0.0832	1.9201	ɡ a l v a n i z a t
+2279	oca	84	0.0832	1.9201	o k a
+2279	siropuri	84	0.0832	1.9201	s i r o p u rʲ
+2279	susura	84	0.0832	1.9201	s u s u r a
+2279	zdrăngăni	84	0.0832	1.9201	z d r ə n ɡ ə n i
+2280	delectare	83	0.0822	1.9149	d e l e k t a r e
+2280	parafina	83	0.0822	1.9149	p a r a f i n a
+2280	penumbră	83	0.0822	1.9149	p e n u m b r ə
+2281	analistă	82	0.0812	1.9096	a n a l i s t ə
+2281	arsen	82	0.0812	1.9096	a r s e n
+2281	cinetic	82	0.0812	1.9096	t͡ʃ i n e t i k
+2281	cinteză	82	0.0812	1.9096	t ʃ i n t e z ə
+2281	dreptunghiular	82	0.0812	1.9096	d r e p t u ŋ ɟ u l a r
+2281	fumuriu	82	0.0812	1.9096	f u m u r i w
+2281	intoxicație	82	0.0812	1.9096	i n t o k s i k a t͡s i e
+2282	bismut	81	0.0802	1.9042	b i s m u t
+2282	lizibil	81	0.0802	1.9042	l i z i b i l
+2282	îngerească	81	0.0802	1.9042	ɨ n d͡ʒ e r e̯ a s k ə
+2283	bufniță	80	0.0792	1.8987	b u f n i t͡s ə
+2283	canibală	80	0.0792	1.8987	k a n i b a l ə
+2283	mur	80	0.0792	1.8987	m u r
+2283	patronaj	80	0.0792	1.8987	p a t r o n a ʒ
+2283	porțiune	80	0.0792	1.8987	p o r t͡s j u n e
+2283	urzeală	80	0.0792	1.8987	u r z e̯ a l ə
+2283	usturime	80	0.0792	1.8987	u s t u r i m e
+2283	usturător	80	0.0792	1.8987	u s t u r ə t o r
+2284	apariție	79	0.0783	1.8938	a p a r i t͡s i e
+2284	autohton	79	0.0783	1.8938	a u t o h t o n
+2284	clapon	79	0.0783	1.8938	k l a p o n
+2284	doctoră	79	0.0783	1.8938	d o k t o r ə
+2284	flocos	79	0.0783	1.8938	f l o k o s
+2284	obstrucție	79	0.0783	1.8938	o b s t r u k t͡s i e
+2284	patologist	79	0.0783	1.8938	p a t o l o d͡ʒ i s t
+2284	tisă	79	0.0783	1.8938	t i s ə
+2285	criminolog	78	0.0773	1.8882	k r i m i n o l o ɡ
+2285	gunoieră	78	0.0773	1.8882	ɡ u n o j e r ə
+2285	văzuți	78	0.0773	1.8882	v ə z u t͡sʲ
+2286	armoniza	77	0.0763	1.8825	a r m o n i z a
+2286	iacă	77	0.0763	1.8825	j a k ə
+2286	micuț	77	0.0763	1.8825	m i k u t͡s
+2286	slang	77	0.0763	1.8825	s l e n ɡ
+2286	vopsitor	77	0.0763	1.8825	v o p s i t o r
+2287	arhivar	76	0.0753	1.8768	a r h i v a r
+2287	chenar	76	0.0753	1.8768	k e n a r
+2287	cotoi	76	0.0753	1.8768	k o t o j
+2287	drongo	76	0.0753	1.8768	d r o n ɡ o
+2287	trândav	76	0.0753	1.8768	t r ɨ n d a v
+2288	prăjini	75	0.0743	1.871	p r ə ʒ i nʲ
+2288	sutime	75	0.0743	1.871	s u t i m e
+2288	transcendental	75	0.0743	1.871	t r a n s t͡ʃ e d e n t a l
+2288	vărui	75	0.0743	1.871	v ə r u i
+2289	astronaută	74	0.0733	1.8651	a s t r o n a u t ə
+2289	dicționar	74	0.0733	1.8651	d i k t͡s i o n a r
+2289	străveziu	74	0.0733	1.8651	s t r ə v e z i w
+2290	dromader	73	0.0723	1.8591	d r o m a d e r
+2290	finisa	73	0.0723	1.8591	f i n i s a
+2290	horticultor	73	0.0723	1.8591	h o r t i k u l t o r
+2290	pisic	73	0.0723	1.8591	p i s i k
+2290	zănatic	73	0.0723	1.8591	z ə n a t i k
+2291	pilotă	72	0.0713	1.8531	p i l o t ə
+2291	schepsis	72	0.0713	1.8531	s k e p s i s
+2291	scorni	72	0.0713	1.8531	s k o r n i
+2292	microbiolog	71	0.0703	1.847	m i k r o b i o l o ɡ
+2293	treizecea	70	0.0693	1.8407	t r e j z e t͡ʃ e̯ a
+2293	trișa	70	0.0693	1.8407	t r i ʃ a
+2293	urmaș	70	0.0693	1.8407	u r m a ʃ
+2293	zvăpăiat	70	0.0693	1.8407	z v ə p ə j a t
+2293	înlăcrimat	70	0.0693	1.8407	ɨ n l ə k r i m a t
+2294	anglican	69	0.0683	1.8344	a ŋ ɡ l i k a n
+2294	galiu	69	0.0683	1.8344	ɡ a l j u
+2294	orătanie	69	0.0683	1.8344	o r ə t a n i e
+2295	cerești	68	0.0674	1.8287	t͡ʃ e r e ʃ tʲ
+2295	dentistă	68	0.0674	1.8287	d e n t i s t ə
+2295	paisprezecelea	68	0.0674	1.8287	p a j s p r e z e t͡ʃ e l e̯ a
+2295	vremelnic	68	0.0674	1.8287	v r e m e l n i k
+2295	înveliș	68	0.0674	1.8287	ɨ n v e l i ʃ
+2296	ardeal	67	0.0664	1.8222	a r d e̯ a l
+2296	juristă	67	0.0664	1.8222	ʒ u r i s t ə
+2296	ocupație	67	0.0664	1.8222	o k u p a t͡s i e
+2296	osu	67	0.0664	1.8222	o s u
+2297	amenințător	66	0.0654	1.8156	a m e n i n t͡s ə t o r
+2297	cormoran	66	0.0654	1.8156	k o r m o r a n
+2297	câmpenească	66	0.0654	1.8156	k ɨ m p e n e̯ a s k ə
+2297	mlădios	66	0.0654	1.8156	m l ə d i o s
+2297	omniscient	66	0.0654	1.8156	o m n i s t͡ʃ i e n t
+2297	optsprezecea	66	0.0654	1.8156	o p t s p r e z e t͡ʃ e̯ a
+2297	zeiță	66	0.0654	1.8156	z e i t͡s ə
+2298	douăzecilea	65	0.0644	1.8089	d o w ə z e t͡ʃ i l e̯ a
+2298	estonian	65	0.0644	1.8089	e s t o n i a n
+2298	inestetic	65	0.0644	1.8089	i n e s t e t i k
+2298	neomenesc	65	0.0644	1.8089	n e o m e n e s k
+2298	roib	65	0.0644	1.8089	r o j b
+2298	subsonic	65	0.0644	1.8089	s u b s o n i k
+2299	altoi	64	0.0634	1.8021	a l t o i  |  a l t o j
+2299	dezmierda	64	0.0634	1.8021	d e z m j e r d a
+2299	imortal	64	0.0634	1.8021	i m o r t a l
+2300	bianual	63	0.0624	1.7952	b i a n u a l
+2300	motocicliști	63	0.0624	1.7952	m o t o t͡ʃ i k l i ʃ tʲ
+2300	parasol	63	0.0624	1.7952	p a r a s o l
+2300	sfărâmicios	63	0.0624	1.7952	s f ə r ɨ m i t͡ʃʲ o s
+2301	nufăr	62	0.0614	1.7882	n u f ə r
+2301	sociolog	62	0.0614	1.7882	s o t͡ʃ i o l o ɡ
+2302	argilos	61	0.0604	1.781	a r d͡ʒ i l o s
+2302	decafeinizat	61	0.0604	1.781	d e k a f e i n i z a t
+2302	distrați	61	0.0604	1.781	d i s t r a t͡sʲ
+2302	germaniu	61	0.0604	1.781	d͡ʒ e r m a n j u
+2302	renaște	61	0.0604	1.781	r e n a ʃ t e
+2303	cincizecea	60	0.0594	1.7738	t͡ʃ i n t͡ʃʲ z e t͡ʃ e̯ a  |  t͡ʃ i n z e t͡ʃ e̯ a
+2303	controlați	60	0.0594	1.7738	k o n t r o l a t͡sʲ
+2303	miorlăi	60	0.0594	1.7738	m j o r l ə i
+2303	mătăhălos	60	0.0594	1.7738	m ə t ə h ə l o s
+2303	noian	60	0.0594	1.7738	n o j a n
+2303	tenisman	60	0.0594	1.7738	t e n i s m a n
+2304	gravitațional	59	0.0584	1.7664	ɡ r a v i t a t͡s i o n a l
+2304	iernatic	59	0.0584	1.7664	j e r n a t i k
+2304	leton	59	0.0584	1.7664	l e t o n
+2304	lichiditate	59	0.0584	1.7664	l i k i d i t a t e
+2304	patruzecea	59	0.0584	1.7664	p a t r u z e t͡ʃ e̯ a
+2304	strâmtori	59	0.0584	1.7664	s t r ɨ m t o rʲ
+2304	tomată	59	0.0584	1.7664	t o m a t ə
+2304	tucan	59	0.0584	1.7664	t u k a n
+2304	vulcanolog	59	0.0584	1.7664	v u l k a n o l o ɡ
+2304	țigan	59	0.0584	1.7664	t͡s i ɡ a n
+2305	bâtlan	58	0.0575	1.7597	b ɨ t l a n
+2305	mutație	58	0.0575	1.7597	m u t a t͡s i e
+2305	nerușinat	58	0.0575	1.7597	n e r u ʃ i n a t
+2305	orchestral	58	0.0575	1.7597	o r c e s t r a l
+2305	prostime	58	0.0575	1.7597	p r o s t i m e
+2305	roșcat	58	0.0575	1.7597	r o ʃ k a t
+2305	venerație	58	0.0575	1.7597	v e n e r a t͡s i e
+2305	îngeresc	58	0.0575	1.7597	ɨ n d͡ʒ e r e s k
+2305	șervețele	58	0.0575	1.7597	ʃ e r v e t͡s e l e
+2306	ecolog	57	0.0565	1.752	e k o l o ɡ
+2306	măgărească	57	0.0565	1.752	m ə ɡ ə r e̯ a s k ə
+2306	tamarin	57	0.0565	1.752	t a m a r i n
+2306	veneric	57	0.0565	1.752	v e n e r i k
+2307	albăstrele	56	0.0555	1.7443	a l b ə s t r e l e
+2307	bunicuță	56	0.0555	1.7443	b u n i k u t͡s ə
+2307	calcaros	56	0.0555	1.7443	k a l k a r o s
+2307	cești	56	0.0555	1.7443	t͡ʃ e ʃ tʲ
+2307	florentină	56	0.0555	1.7443	f l o r e n t i n ə
+2307	răgușit	56	0.0555	1.7443	r ə ɡ u ʃ i t
+2307	șiret	56	0.0555	1.7443	ʃ i r e t
+2308	agăța	55	0.0545	1.7364	a ɡ ə t͡s a
+2308	audiovizual	55	0.0545	1.7364	a u d i o v i z u a l
+2308	mape	55	0.0545	1.7364	m a p e
+2308	scoarță	55	0.0545	1.7364	s k o̯ a r t͡s ə
+2309	harfă	54	0.0535	1.7284	h a r f ə
+2309	insurmontabil	54	0.0535	1.7284	i n s u r m o n t a b i l
+2309	ruginiu	54	0.0535	1.7284	r u d͡ʒ i n i w
+2309	urzică	54	0.0535	1.7284	u r z i k ə
+2309	viermănos	54	0.0535	1.7284	v j e r m ə n o s
+2310	boccea	53	0.0525	1.7202	b o k t͡ʃ e̯ a
+2310	malteză	53	0.0525	1.7202	m a l t e z ə
+2310	piemont	53	0.0525	1.7202	p j e m o n t
+2310	pisicuță	53	0.0525	1.7202	p i s i k u t͡s ə
+2311	cocoșat	52	0.0515	1.7118	k o k o ʃ a t
+2311	cuvânta	52	0.0515	1.7118	k u v ɨ n t a
+2311	cățel	52	0.0515	1.7118	k ə t͡s e l
+2311	intempestiv	52	0.0515	1.7118	i n t e m p e s t i v
+2311	omogen	52	0.0515	1.7118	o m o d͡ʒ e n
+2311	zircon	52	0.0515	1.7118	z i r k o n
+2311	șosea	52	0.0515	1.7118	ʃ o s e̯ a
+2311	știucă	52	0.0515	1.7118	ʃ t j u k ə
+2312	aiura	51	0.0505	1.7033	a j u r a
+2312	arahnidă	51	0.0505	1.7033	a r a h n i d ə
+2312	bujor	51	0.0505	1.7033	b u ʒ o r
+2312	curist	51	0.0505	1.7033	k u r i s t
+2312	lăutar	51	0.0505	1.7033	l ə u t a r
+2313	climatolog	50	0.0495	1.6946	k l i m a t o l o ɡ
+2313	desfide	50	0.0495	1.6946	d e s f i d e
+2313	etrusc	50	0.0495	1.6946	e t r u s k
+2313	histologic	50	0.0495	1.6946	h i s t o l o d͡ʒ i k
+2313	letonă	50	0.0495	1.6946	l e t o n ə
+2313	limbut	50	0.0495	1.6946	l i m b u t
+2313	împărăție	50	0.0495	1.6946	ɨ m p ə r ə t͡s i e
+2314	anatomist	49	0.0485	1.6857	a n a t o m i s t
+2314	eston	49	0.0485	1.6857	e s t o n
+2314	milimetric	49	0.0485	1.6857	m i l i m e t r i k
+2314	porcin	49	0.0485	1.6857	p o r t͡ʃ i n
+2314	radiație	49	0.0485	1.6857	r a d i a t͡s i e
+2314	strănepot	49	0.0485	1.6857	s t r ə n e p o t
+2314	viticultor	49	0.0485	1.6857	v i t i k u l t o r
+2315	ecuadorian	48	0.0475	1.6767	e k u a d o r i a n
+2315	fotbalistă	48	0.0475	1.6767	f o t b a l i s t ə
+2315	inseparabil	48	0.0475	1.6767	i n s e p a r a b i l
+2315	tomnatic	48	0.0475	1.6767	t o m n a t i k
+2315	zăbală	48	0.0475	1.6767	z ə b a l ə
+2316	anarhic	47	0.0466	1.6684	a n a r h i k
+2316	arămiu	47	0.0466	1.6684	a r ə m i w
+2316	cartezian	47	0.0466	1.6684	k a r t e z i a n
+2316	cincisprezecelea	47	0.0466	1.6684	t͡ʃ i n s p r e z e t͡ʃ e l e̯ a  |  t͡ʃ i n t͡ʃʲ s p r e z e t͡ʃ e l e̯ a
+2316	expirație	47	0.0466	1.6684	e k s p i r a t͡s i e
+2316	zibelină	47	0.0466	1.6684	z i b e l i n ə
+2317	franțuzesc	46	0.0456	1.659	f r a n t͡s u z e s k
+2317	obrăjor	46	0.0456	1.659	o b r ə ʒ o r
+2317	seismolog	46	0.0456	1.659	s e i s m o l o ɡ
+2318	agronom	45	0.0446	1.6493	a ɡ r o n o m
+2318	astrobiolog	45	0.0446	1.6493	a s t r o b i o l o ɡ
+2318	eterogen	45	0.0446	1.6493	e t e r o d͡ʒ e n
+2318	ierbar	45	0.0446	1.6493	j e r b a r
+2318	neanticipat	45	0.0446	1.6493	n e a n t i t͡ʃ i p a t
+2318	necomplicat	45	0.0446	1.6493	n e k o m p l i k a t
+2318	organizatoric	45	0.0446	1.6493	o r ɡ a n i z a t o r i k
+2319	admirație	44	0.0436	1.6395	a d m i r a t͡s i e
+2319	canicular	44	0.0436	1.6395	k a n i k u l a r
+2319	desculț	44	0.0436	1.6395	d e s k u l t͡s
+2319	dintru	44	0.0436	1.6395	d i n t r u
+2319	gestionar	44	0.0436	1.6395	d͡ʒ e s t i o n a r
+2319	grețos	44	0.0436	1.6395	ɡ r e t͡s o s
+2319	județe	44	0.0436	1.6395	ʒ u d e t͡s e
+2319	porție	44	0.0436	1.6395	p o r t͡s i e
+2319	sulfuros	44	0.0436	1.6395	s u l f u r o s
+2319	viroză	44	0.0436	1.6395	v i r o z ə
+2320	demonstrabil	43	0.0426	1.6294	d e m o n s t r a b i l
+2320	explicativ	43	0.0426	1.6294	e k s p l i k a t i v
+2321	bacă	42	0.0416	1.6191	b a k ə
+2321	convențional	42	0.0416	1.6191	k o n v e n t͡s i o n a l
+2321	flotant	42	0.0416	1.6191	f l o t a n t
+2321	greși	42	0.0416	1.6191	ɡ r e ʃ i
+2321	sultanat	42	0.0416	1.6191	s u l t a n a t
+2321	vântos	42	0.0416	1.6191	v ɨ n t o s
+2322	animație	41	0.0406	1.6085	a n i m a t͡s i e
+2322	arhicunoscut	41	0.0406	1.6085	a r h i k u n o s k u t
+2322	făptaș	41	0.0406	1.6085	f ə p t a ʃ
+2322	inspectoare	41	0.0406	1.6085	i n s p e k t o̯ a r e
+2322	jugular	41	0.0406	1.6085	ʒ u ɡ u l a r
+2322	mătanie	41	0.0406	1.6085	m ə t a n i e
+2322	neîntemeiat	41	0.0406	1.6085	n e ɨ n t e m e j a t
+2322	octet	41	0.0406	1.6085	o k t e t
+2323	conjuga	40	0.0396	1.5977	k o n ʒ u ɡ a
+2323	preconiza	40	0.0396	1.5977	p r e k o n i z a
+2323	pretenție	40	0.0396	1.5977	p r e t e n t͡s i e
+2324	așeză	39	0.0386	1.5866	a ʃ e z ə
+2324	florentina	39	0.0386	1.5866	f l o r e n t i n a
+2324	grecești	39	0.0386	1.5866	ɡ r e t͡ʃ e ʃ tʲ
+2324	hematit	39	0.0386	1.5866	h e m a t i t
+2324	leming	39	0.0386	1.5866	l e m i ŋ ɡ
+2324	spân	39	0.0386	1.5866	s p ɨ n
+2325	căpușă	38	0.0376	1.5752	k ə p u ʃ ə
+2325	făurar	38	0.0376	1.5752	f ə w r a r
+2325	nearticulat	38	0.0376	1.5752	n e a r t i k u l a t
+2325	pizdos	38	0.0376	1.5752	p i z d o s
+2325	zigot	38	0.0376	1.5752	z i ɡ o t
+2325	șosetă	38	0.0376	1.5752	ʃ o s e t ə
+2326	arhivist	37	0.0366	1.5635	a r h i v i s t
+2326	compoziție	37	0.0366	1.5635	k o m p o z i t͡s i e
+2326	măiestru	37	0.0366	1.5635	m ə j e s t r u
+2326	natriu	37	0.0366	1.5635	n a t r j u
+2326	soporific	37	0.0366	1.5635	s o p o r i f i k
+2326	vânos	37	0.0366	1.5635	v ɨ n o s
+2327	bețivan	36	0.0357	1.5527	b e t͡s i v a n
+2327	botgros	36	0.0357	1.5527	b o t ɡ r o s
+2327	cețos	36	0.0357	1.5527	t͡ʃ e t͡s o s
+2327	chiot	36	0.0357	1.5527	k i o t
+2327	crampon	36	0.0357	1.5527	k r a m p o n
+2327	homeopat	36	0.0357	1.5527	h o m e o p a t
+2327	iobag	36	0.0357	1.5527	j o b a ɡ
+2327	lăcătuș	36	0.0357	1.5527	l ə k ə t u ʃ
+2327	organizări	36	0.0357	1.5527	o r ɡ a n i z ə rʲ
+2327	traductor	36	0.0357	1.5527	t r a d u k t o r
+2328	acetilsalicilic	35	0.0347	1.5403	a t͡ʃ e t i l s a l i t͡ʃ i l i k
+2328	alega	35	0.0347	1.5403	a l e ɡ a
+2328	cornut	35	0.0347	1.5403	k o r n u t
+2328	lingvistă	35	0.0347	1.5403	l i n ɡ v i s t ə
+2328	participiu	35	0.0347	1.5403	p a r t i t͡ʃ i p j u
+2328	pescăruș	35	0.0347	1.5403	p e s k ə r u ʃ
+2328	rotocol	35	0.0347	1.5403	r o t o k o l
+2328	stârc	35	0.0347	1.5403	s t ɨ r k
+2328	valon	35	0.0347	1.5403	v a l o n
+2328	virile	35	0.0347	1.5403	v i r i l e
+2329	aviatoare	34	0.0337	1.5276	a v i a t o̯ a r e
+2329	ciută	34	0.0337	1.5276	t͡ʃ j u t ə
+2329	compensație	34	0.0337	1.5276	k o m p e n s a t͡s i e
+2330	abilita	33	0.0327	1.5145	a b i l i t a
+2330	apatrid	33	0.0327	1.5145	a p a t r i d
+2330	prădui	33	0.0327	1.5145	p r ə d u i
+2330	strachină	33	0.0327	1.5145	s t r a k i n ə
+2330	unduios	33	0.0327	1.5145	u n d u j o s
+2331	albăstrea	32	0.0317	1.5011	a l b ə s t r e̯ a
+2331	cobză	32	0.0317	1.5011	k o b z ə
+2331	deșteptul	32	0.0317	1.5011	d e ʃ t e p t u l
+2331	florist	32	0.0317	1.5011	f l o r i s t
+2331	scrimer	32	0.0317	1.5011	s k r i m e r
+2332	amețitor	31	0.0307	1.4871	a m e t͡s i t o r
+2332	neliniar	31	0.0307	1.4871	n e l i n i a r
+2332	pâne	31	0.0307	1.4871	p ɨ n e
+2332	înștiința	31	0.0307	1.4871	ɨ n ʃ t i i n t͡s a
+2332	țiței	31	0.0307	1.4871	t͡s i t͡s e j
+2333	alchimic	30	0.0297	1.4728	a l c i m i k
+2333	barabulă	30	0.0297	1.4728	b a r a b u l ə
+2333	geofizician	30	0.0297	1.4728	d͡ʒ e o f i z i t͡ʃ i a n
+2333	iberic	30	0.0297	1.4728	i b e r i k
+2333	nenumărat	30	0.0297	1.4728	n e n u m ə r a t
+2333	nouăsprezecelea	30	0.0297	1.4728	n o w ə s p r e z e t͡ʃ e l e̯ a
+2333	oliv	30	0.0297	1.4728	o l i v
+2333	reparabil	30	0.0297	1.4728	r e p a r a b i l
+2333	vanadiu	30	0.0297	1.4728	v a n a d j u
+2333	verișoară	30	0.0297	1.4728	v e r i ʃ o̯ a r ə
+2334	adenină	29	0.0287	1.4579	a d e n i n ə
+2334	adjudeca	29	0.0287	1.4579	a d ʒ u d e k a
+2334	biochimistă	29	0.0287	1.4579	b i o k i m i s t ə
+2334	creț	29	0.0287	1.4579	k r e t͡s
+2334	fiziciană	29	0.0287	1.4579	f i z i t͡ʃ i a n ə
+2334	geograf	29	0.0287	1.4579	d͡ʒ e o ɡ r a f
+2334	struț	29	0.0287	1.4579	s t r u t͡s
+2335	fragă	28	0.0277	1.4425	f r a ɡ ə
+2335	gospodăresc	28	0.0277	1.4425	ɡ o s p o d ə r e s k
+2335	versatile	28	0.0277	1.4425	v e r s a t i l e
+2335	zarzavagiu	28	0.0277	1.4425	z a r z a v a d͡ʒ i w
+2336	amănunțit	27	0.0267	1.4265	a m ə n u n t͡s i t
+2336	armeancă	27	0.0267	1.4265	a r m e̯ a ŋ k ə
+2336	drăcos	27	0.0267	1.4265	d r ə k o s
+2336	inovație	27	0.0267	1.4265	i n o v a t͡s i e
+2336	măscări	27	0.0267	1.4265	m ə s k ə r i
+2336	nădejdi	27	0.0267	1.4265	n ə d e ʒ dʲ
+2336	plumburiu	27	0.0267	1.4265	p l u m b u r i w
+2336	țărilor	27	0.0267	1.4265	t s ə r i l o r
+2337	băubil	26	0.0258	1.4116	b ə u b i l
+2337	coregrafă	26	0.0258	1.4116	k o r e ɡ r a f ə
+2337	distrate	26	0.0258	1.4116	d i s t r a t e
+2337	inexprimabil	26	0.0258	1.4116	i n e k s p r i m a b i l
+2337	mură	26	0.0258	1.4116	m u r ə
+2337	nouăzecea	26	0.0258	1.4116	n o w ə z e t͡ʃ e̯ a
+2337	păsăresc	26	0.0258	1.4116	p ə s ə r e s k
+2337	vrăbioi	26	0.0258	1.4116	v r ə b i o j
+2338	aera	25	0.0248	1.3945	a e r a
+2338	bulgaru	25	0.0248	1.3945	b u l ɡ a r u
+2338	ciclistă	25	0.0248	1.3945	t͡ʃ i k l i s t ə
+2338	cumpăt	25	0.0248	1.3945	k u m p ə t
+2338	cuscru	25	0.0248	1.3945	k u s k r u
+2338	căpșună	25	0.0248	1.3945	k ə p ʃ u n ə
+2338	motorist	25	0.0248	1.3945	m o t o r i s t
+2338	observant	25	0.0248	1.3945	o b s e r v a n t
+2338	parazitar	25	0.0248	1.3945	p a r a z i t a r
+2338	peruchier	25	0.0248	1.3945	p e r u k i e r
+2338	sefard	25	0.0248	1.3945	s e f a r d
+2338	săpunieră	25	0.0248	1.3945	s ə p u n j e r ə
+2338	înțelegător	25	0.0248	1.3945	ɨ n t͡s e l e ɡ ə t o r
+2339	aferim	24	0.0238	1.3766	a f e r i m
+2339	azotos	24	0.0238	1.3766	a z o t o s
+2339	cuvios	24	0.0238	1.3766	k u v i o s
+2339	câmpenesc	24	0.0238	1.3766	k ɨ m p e n e s k
+2339	cărămiziu	24	0.0238	1.3766	k ə r ə m i z i w
+2339	matematiciană	24	0.0238	1.3766	m a t e m a t i t͡ʃ i a n ə
+2339	mineralogie	24	0.0238	1.3766	m i n e r a l o d͡ʒ i e
+2339	nebotezat	24	0.0238	1.3766	n e b o t e z a t
+2339	pfund	24	0.0238	1.3766	p f u n d
+2340	adictiv	23	0.0228	1.3579	a d i k t i v
+2340	aritmetic	23	0.0228	1.3579	a r i t m e t i k
+2340	brumar	23	0.0228	1.3579	b r u m a r
+2340	creștea	23	0.0228	1.3579	k r e ʃ t e̯ a
+2340	economistă	23	0.0228	1.3579	e k o n o m i s t ə
+2340	evreiești	23	0.0228	1.3579	e v r e j e ʃ tʲ
+2340	frăgezi	23	0.0228	1.3579	f r ə d͡ʒ e z i
+2340	giruetă	23	0.0228	1.3579	d͡ʒ i r u e t ə
+2340	inerție	23	0.0228	1.3579	i n e r t͡s i e
+2340	inscripție	23	0.0228	1.3579	i n s k r i p t͡s i e
+2340	liliachiu	23	0.0228	1.3579	l i l i a k i w
+2340	mistreț	23	0.0228	1.3579	m i s t r e t͡s
+2340	mișcător	23	0.0228	1.3579	m i ʃ k ə t o r
+2340	podolog	23	0.0228	1.3579	p o d o l o ɡ
+2340	proporțional	23	0.0228	1.3579	p r o p o r t͡s i o n a l
+2340	tapeta	23	0.0228	1.3579	t a p e t a
+2340	țelină	23	0.0228	1.3579	t͡s e l i n ə
+2341	adunător	22	0.0218	1.3385	a d u n ə t o r
+2341	bituminos	22	0.0218	1.3385	b i t u m i n o s
+2341	bortă	22	0.0218	1.3385	b o r t ə
+2341	băl	22	0.0218	1.3385	b ə l
+2341	diastolic	22	0.0218	1.3385	d i a s t o l i k
+2341	dințișor	22	0.0218	1.3385	d i n t͡s i ʃ o r
+2341	estoniene	22	0.0218	1.3385	e s t o n i e n e
+2341	feudalism	22	0.0218	1.3385	f e u d a l i s m
+2341	frunziș	22	0.0218	1.3385	f r u n z i ʃ
+2341	gregar	22	0.0218	1.3385	ɡ r e ɡ a r
+2341	grădinăreasă	22	0.0218	1.3385	ɡ r ə d i n ə r e̯ a s ə
+2341	industrializat	22	0.0218	1.3385	i n d u s t r i a l i z a t
+2341	proclamație	22	0.0218	1.3385	p r o k l a m a t͡s i e
+2341	vegetație	22	0.0218	1.3385	v e d͡ʒ e t a t͡s i e
+2341	șezut	22	0.0218	1.3385	ʃ e z u t
+2341	țar	22	0.0218	1.3385	t͡s a r
+2341	țarc	22	0.0218	1.3385	t͡s a r k
+2342	batist	21	0.0208	1.3181	b a t i s t
+2342	caval	21	0.0208	1.3181	k a v a l
+2342	conjugare	21	0.0208	1.3181	k o n ʒ u ɡ a r e
+2342	frunzos	21	0.0208	1.3181	f r u n z o s
+2342	magistru	21	0.0208	1.3181	m a d͡ʒ i s t r u
+2342	motocicliste	21	0.0208	1.3181	m o t o t͡ʃ i k l i s t e
+2342	nicaraguan	21	0.0208	1.3181	n i k a r a ɡ u a n
+2342	treizecilea	21	0.0208	1.3181	t r e j z e t͡ʃ i l e̯ a
+2343	algebric	20	0.0198	1.2967	a l d͡ʒ e b r i k
+2343	anecdotic	20	0.0198	1.2967	a n e k d o t i k
+2343	astronomă	20	0.0198	1.2967	a s t r o n o m ə
+2343	comunicație	20	0.0198	1.2967	k o m u n i k a t͡s i e
+2343	cântărețul	20	0.0198	1.2967	k ɨ n t ə r e t͡s u  |  k ɨ n t ə r e t͡s u l
+2343	grăsuț	20	0.0198	1.2967	ɡ r ə s u t͡s
+2343	mator	20	0.0198	1.2967	m a t o r
+2343	mintos	20	0.0198	1.2967	m i n t o s
+2343	optsprezecelea	20	0.0198	1.2967	o p t s p r e z e t͡ʃ e l e̯ a
+2343	sinteze	20	0.0198	1.2967	s i n t e z e
+2343	terț	20	0.0198	1.2967	t e r t͡s
+2344	bagateliza	19	0.0188	1.2742	b a ɡ a t e l i z a
+2344	câinos	19	0.0188	1.2742	k ɨ j n o s
+2344	fundaș	19	0.0188	1.2742	f u n d a ʃ
+2344	gogonat	19	0.0188	1.2742	ɡ o ɡ o n a t
+2344	inundație	19	0.0188	1.2742	i n u n d a t͡s i e
+2344	molicel	19	0.0188	1.2742	m o l i t͡ʃ e l
+2344	muflon	19	0.0188	1.2742	m u f l o n
+2344	neprevizibil	19	0.0188	1.2742	n e p r e v i z i b i l
+2344	palincă	19	0.0188	1.2742	p a l i n k ə
+2344	pântecos	19	0.0188	1.2742	p ɨ n t e k o s
+2344	rumeguș	19	0.0188	1.2742	r u m e ɡ u ʃ
+2344	ședea	19	0.0188	1.2742	ʃ e d e̯ a
+2344	țărănească	19	0.0188	1.2742	t͡s ə r ə n e̯ a s k ə
+2345	aglomerație	18	0.0178	1.2504	a ɡ l o m e r a t͡s i e
+2345	ameți	18	0.0178	1.2504	a m e t͡s i
+2345	gălbenuș	18	0.0178	1.2504	ɡ ə l b e n u ʃ
+2345	hostie	18	0.0178	1.2504	h o s t i e
+2345	moderație	18	0.0178	1.2504	m o d e r a t͡s i e
+2345	nefertilizat	18	0.0178	1.2504	n e f e r t i l i z a t
+2345	psihologă	18	0.0178	1.2504	p s i h o l o ɡ ə
+2345	teoric	18	0.0178	1.2504	t e o r i k
+2345	vindicativ	18	0.0178	1.2504	v i n d i k a t i v
+2345	șablon	18	0.0178	1.2504	ʃ a b l o n
+2345	țigancă	18	0.0178	1.2504	t͡s i ɡ a ŋ k ə
+2346	abataj	17	0.0168	1.2253	a b a t a ʒ
+2346	adăsta	17	0.0168	1.2253	a d ə s t a
+2346	amnar	17	0.0168	1.2253	a m n a r
+2346	barmaniță	17	0.0168	1.2253	b a r m a n i t͡s ə
+2346	birman	17	0.0168	1.2253	b i r m a n
+2346	doișpe	17	0.0168	1.2253	d o j ʃ p e
+2346	guvernant	17	0.0168	1.2253	ɡ u v e r n a n t
+2346	ihtiolog	17	0.0168	1.2253	i h t i o l o ɡ
+2346	inflație	17	0.0168	1.2253	i n f l a t͡s i e
+2346	jalei	17	0.0168	1.2253	ʒ a l e j
+2346	nouăsprezecea	17	0.0168	1.2253	n o w ə s p r e z e t͡ʃ e̯ a
+2346	năsut	17	0.0168	1.2253	n ə s u t
+2346	preambalat	17	0.0168	1.2253	p r e a m b a l a t
+2346	telur	17	0.0168	1.2253	t e l u r
+2346	văratic	17	0.0168	1.2253	v ə r a t i k
+2346	înroșit	17	0.0168	1.2253	ɨ n r o ʃ i t
+2346	întinși	17	0.0168	1.2253	ɨ n t i n ʃʲ
+2346	înălțător	17	0.0168	1.2253	ɨ n ə l t͡s ə t o r
+2346	țipar	17	0.0168	1.2253	t͡s i p a r
+2346	țărănești	17	0.0168	1.2253	t͡s ə r ə n e ʃ tʲ
+2347	arător	16	0.0158	1.1987	a r ə t o r
+2347	bucurești	16	0.0158	1.1987	b u k u r e ʃ tʲ
+2347	bură	16	0.0158	1.1987	b u r ə
+2347	costarican	16	0.0158	1.1987	k o s t a r i k a n
+2347	delectări	16	0.0158	1.1987	d e l e k t ə rʲ
+2347	deplinătate	16	0.0158	1.1987	d e p l i n ə t a t e
+2347	inserție	16	0.0158	1.1987	i n s e r t͡s i e
+2347	medică	16	0.0158	1.1987	m e d i k ə
+2347	muezin	16	0.0158	1.1987	m u e z i n
+2347	nominativ	16	0.0158	1.1987	n o m i n a t i v
+2347	oniric	16	0.0158	1.1987	o n i r i k
+2347	puțintel	16	0.0158	1.1987	p u t͡s i n t e l
+2347	sperare	16	0.0158	1.1987	s p e r a r e
+2347	umezire	16	0.0158	1.1987	u m e z i r e
+2347	urâțenie	16	0.0158	1.1987	u r ɨ t͡s e n i e
+2347	șterpeli	16	0.0158	1.1987	ʃ t e r p e l i
+2348	atotștiutor	15	0.0149	1.1732	a t o t ʃ t i u t o r
+2348	calcare	15	0.0149	1.1732	k a l k a r e
+2348	federație	15	0.0149	1.1732	f e d e r a t͡s i e
+2348	fugaci	15	0.0149	1.1732	f u ɡ a t͡ʃʲ
+2348	genealogist	15	0.0149	1.1732	d͡ʒ e n e a l o d͡ʒ i s t
+2348	iadă	15	0.0149	1.1732	j a d ə
+2348	ortopedist	15	0.0149	1.1732	o r t o p e d i s t
+2348	pansexual	15	0.0149	1.1732	p a n s e k s u a l
+2348	reavăn	15	0.0149	1.1732	r e̯ a v ə n
+2348	rotunjime	15	0.0149	1.1732	r o t u n ʒ i m e
+2348	stupină	15	0.0149	1.1732	s t u p i n ə
+2348	zimbru	15	0.0149	1.1732	z i m b r u
+2348	șuviță	15	0.0149	1.1732	ʃ u v i t͡s ə
+2348	țeapăn	15	0.0149	1.1732	t͡s e̯ a p ə n
+2349	bărbătos	14	0.0139	1.143	b ə r b ə t o s
+2349	cantautor	14	0.0139	1.143	k a n t a u t o r
+2349	circumscrie	14	0.0139	1.143	t͡ʃ i r k u m s k r i e
+2349	cvas	14	0.0139	1.143	k v a s
+2349	geneticiană	14	0.0139	1.143	d͡ʒ e n e t i t͡ʃ i a n ə
+2349	horticultoare	14	0.0139	1.143	h o r t i k u l t o̯ a r e
+2349	neîmpiedicat	14	0.0139	1.143	n e ɨ m p j e d i k a t
+2349	rabinic	14	0.0139	1.143	r a b i n i k
+2349	rumegător	14	0.0139	1.143	r u m e ɡ ə t o r
+2349	tranzient	14	0.0139	1.143	t r a n z i e n t
+2349	uruguayan	14	0.0139	1.143	u r u ɡ w a j a n
+2350	actuar	13	0.0129	1.1106	a k t u a r
+2350	culcuș	13	0.0129	1.1106	k u l k u ʃ
+2350	deșuruba	13	0.0129	1.1106	d e ʃ u r u b a
+2350	dropie	13	0.0129	1.1106	d r o p i e
+2350	englezești	13	0.0129	1.1106	e ŋ ɡ l e z e ʃ tʲ
+2350	franțuzești	13	0.0129	1.1106	f r a n t͡s u z e ʃ tʲ
+2350	ierbos	13	0.0129	1.1106	j e r b o s
+2350	instituțional	13	0.0129	1.1106	i n s t i t u t͡s i o n a l
+2350	mioară	13	0.0129	1.1106	m i o̯ a r ə  |  m j o̯ a r ə
+2350	monoplan	13	0.0129	1.1106	m o n o p l a n
+2350	mârșav	13	0.0129	1.1106	m ɨ r ʃ a v
+2350	mărunți	13	0.0129	1.1106	m ə r u n t͡s i  |  m ə r u n t͡sʲ
+2350	patruzecilea	13	0.0129	1.1106	p a t r u z e t͡ʃ i l e̯ a
+2350	pieptos	13	0.0129	1.1106	p j e p t o s
+2350	reambalare	13	0.0129	1.1106	r e a m b a l a r e
+2350	sașiu	13	0.0129	1.1106	s a ʃ i w
+2350	stei	13	0.0129	1.1106	s t e j
+2350	volbură	13	0.0129	1.1106	v o l b u r ə
+2350	încrucișa	13	0.0129	1.1106	ɨ n k r u t͡ʃ i ʃ a
+2351	ajuna	12	0.0119	1.0755	a ʒ u n a
+2351	ambalări	12	0.0119	1.0755	a m b a l ə rʲ
+2351	brebenel	12	0.0119	1.0755	b r e b e n e l
+2351	buiestru	12	0.0119	1.0755	b u j e s t r u
+2351	băgăreț	12	0.0119	1.0755	b ə ɡ ə r e t͡s
+2351	caș	12	0.0119	1.0755	k a ʃ
+2351	cântăreața	12	0.0119	1.0755	k ɨ n t ə r e̯ a t͡s a
+2351	declinare	12	0.0119	1.0755	d e k l i n a r e
+2351	defileuri	12	0.0119	1.0755	d e f i l e u rʲ
+2351	drăcușor	12	0.0119	1.0755	d r ə k u ʃ o r
+2351	erpetolog	12	0.0119	1.0755	e r p e t o l o ɡ
+2351	etnolog	12	0.0119	1.0755	e t n o l o ɡ
+2351	femeiești	12	0.0119	1.0755	f e m e j e ʃ tʲ
+2351	firești	12	0.0119	1.0755	f i r e ʃ tʲ
+2351	geriatru	12	0.0119	1.0755	d͡ʒ e r i a t r u
+2351	lopătar	12	0.0119	1.0755	l o p ə t a r
+2351	lutos	12	0.0119	1.0755	l u t o s
+2351	minuțios	12	0.0119	1.0755	m i n u t͡s i o s
+2351	năframă	12	0.0119	1.0755	n ə f r a m ə
+2351	pediatră	12	0.0119	1.0755	p e d i a t r ə
+2351	prospețime	12	0.0119	1.0755	p r o s p e t͡s i m e
+2351	răpănos	12	0.0119	1.0755	r ə p ə n o s
+2351	scandiu	12	0.0119	1.0755	s k a n d j u
+2351	scit	12	0.0119	1.0755	s t͡ʃ i t
+2351	sextină	12	0.0119	1.0755	s e k s t i n ə
+2351	tongan	12	0.0119	1.0755	t o ŋ ɡ a n
+2351	tranzitiv	12	0.0119	1.0755	t r a n z i t i v
+2351	trebuință	12	0.0119	1.0755	t r e b u i n t͡s ə
+2351	triatlonist	12	0.0119	1.0755	t r i a t l o n i s t
+2351	închinător	12	0.0119	1.0755	ɨ ŋ c i n ə t o r
+2352	boșorog	11	0.0109	1.0374	b o ʃ o r o ɡ
+2352	bătrânet	11	0.0109	1.0374	b ə t r ɨ n e t
+2352	esteticiană	11	0.0109	1.0374	e s t e t i t͡ʃ i a n ə
+2352	fălcos	11	0.0109	1.0374	f ə l k o s
+2352	gălbiu	11	0.0109	1.0374	ɡ ə l b i w
+2352	maoism	11	0.0109	1.0374	m a o i s m
+2352	moluște	11	0.0109	1.0374	m o l u ʃ t e
+2352	muntenească	11	0.0109	1.0374	m u n t e n e̯ a s k ə
+2352	notație	11	0.0109	1.0374	n o t a t͡s i e
+2352	ocheane	11	0.0109	1.0374	o k e̯ a n e
+2352	sutălea	11	0.0109	1.0374	s u t ə l e̯ a
+2352	ubicuu	11	0.0109	1.0374	u b i k u u  |  u b i k uː
+2352	versatili	11	0.0109	1.0374	v e r s a t i lʲ
+2353	administrații	10	0.0099	0.9956	a d m i n i s t r a t͡s iː
+2353	albea	10	0.0099	0.9956	a l b e̯ a
+2353	albăstriu	10	0.0099	0.9956	a l b ə s t r i w
+2353	antiguan	10	0.0099	0.9956	a n t i ɡ u a n
+2353	cârpitură	10	0.0099	0.9956	k ɨ r p i t u r ə
+2353	descătușa	10	0.0099	0.9956	d e s k ə t u ʃ a
+2353	fiziolog	10	0.0099	0.9956	f i z i o l o ɡ
+2353	franțuzească	10	0.0099	0.9956	f r a n t͡s u z e̯ a s k ə
+2353	glaciolog	10	0.0099	0.9956	ɡ l a t͡ʃ i o l o ɡ
+2353	havuz	10	0.0099	0.9956	h a v u z
+2353	imbus	10	0.0099	0.9956	i m b u s
+2353	intranzitiv	10	0.0099	0.9956	i n t r a n z i t i v
+2353	lânced	10	0.0099	0.9956	l ɨ n t͡ʃ e d
+2353	neguros	10	0.0099	0.9956	n e ɡ u r o s
+2353	onomatopeic	10	0.0099	0.9956	o n o m a t o p e i k
+2353	pentatlon	10	0.0099	0.9956	p e n t a t l o n
+2353	pulos	10	0.0099	0.9956	p u l o s
+2353	statisticiană	10	0.0099	0.9956	s t a t i s t i t͡ʃ i a n ə
+2353	sunător	10	0.0099	0.9956	s u n ə t o r
+2353	țigănească	10	0.0099	0.9956	t͡s i ɡ ə n e̯ a s k ə
+2354	ascuțitoare	9	0.0089	0.9494	a s k u t͡s i t o̯ a r e
+2354	borțoasă	9	0.0089	0.9494	b o r t͡s o̯ a s ə
+2354	ceacâr	9	0.0089	0.9494	t͡ʃ e̯ a k ɨ r
+2354	cenușiu	9	0.0089	0.9494	t͡ʃ e n u ʃ i w
+2354	cireașă	9	0.0089	0.9494	t͡ʃ i r e̯ a ʃ ə
+2354	codobatură	9	0.0089	0.9494	k o d o b a t u r ə
+2354	cruciș	9	0.0089	0.9494	k r u t͡ʃ i ʃ
+2354	cuscră	9	0.0089	0.9494	k u s k r ə
+2354	farmacolog	9	0.0089	0.9494	f a r m a k o l o ɡ
+2354	gaiță	9	0.0089	0.9494	ɡ a j t͡s ə
+2354	gavial	9	0.0089	0.9494	ɡ a v i a l
+2354	grafem	9	0.0089	0.9494	ɡ r a f e m
+2354	matracucă	9	0.0089	0.9494	m a t r a k u k ə
+2354	silabic	9	0.0089	0.9494	s i l a b i k
+2354	tentație	9	0.0089	0.9494	t e n t a t͡s i e
+2354	undiță	9	0.0089	0.9494	u n d i t͡s ə
+2354	veșmânt	9	0.0089	0.9494	v e ʃ m ɨ n t
+2355	abnegație	8	0.0079	0.8976	a b n e ɡ a t͡s i e
+2355	adorație	8	0.0079	0.8976	a d o r a t͡s i e
+2355	caprină	8	0.0079	0.8976	k a p r i n ə
+2355	cazuar	8	0.0079	0.8976	k a z u a r
+2355	celiachie	8	0.0079	0.8976	t͡ʃ e l i a k i e
+2355	ceros	8	0.0079	0.8976	t͡ʃ e r o s
+2355	cioacă	8	0.0079	0.8976	t͡ʃ j o̯ a k ə
+2355	colectați	8	0.0079	0.8976	k o l e k t a t͡sʲ
+2355	descurcăreț	8	0.0079	0.8976	d e s k u r k ə r e t͡s
+2355	etolog	8	0.0079	0.8976	e t o l o ɡ
+2355	felurit	8	0.0079	0.8976	f e l u r i t
+2355	futând	8	0.0079	0.8976	f u t ɨ n d
+2355	făinos	8	0.0079	0.8976	f ə i n o s
+2355	gnostic	8	0.0079	0.8976	ɡ n o s t i k
+2355	grădinări	8	0.0079	0.8976	ɡ r ə d i n ə r i
+2355	hidrolog	8	0.0079	0.8976	h i d r o l o ɡ
+2355	hârbui	8	0.0079	0.8976	h ɨ r b u i
+2355	kosovar	8	0.0079	0.8976	k o s o v a r
+2355	lupească	8	0.0079	0.8976	l u p e̯ a s k ə
+2355	manifestant	8	0.0079	0.8976	m a n i f e s t a n t
+2355	maratonistă	8	0.0079	0.8976	m a r a t o n i s t ə
+2355	nelucrat	8	0.0079	0.8976	n e l u k r a t
+2355	nemțesc	8	0.0079	0.8976	n e m t͡s e s k
+2355	pulpos	8	0.0079	0.8976	p u l p o s
+2355	păduros	8	0.0079	0.8976	p ə d u r o s
+2355	scămos	8	0.0079	0.8976	s k ə m o s
+2355	sălciu	8	0.0079	0.8976	s ə l t͡ʃ i w
+2355	tanzanian	8	0.0079	0.8976	t a n z a n i a n
+2355	înfrumuseța	8	0.0079	0.8976	ɨ n f r u m u s e t͡s a
+2355	înrădăcina	8	0.0079	0.8976	ɨ n r ə d ə t͡ʃ i n a
+2355	șevalet	8	0.0079	0.8976	ʃ e v a l e t
+2356	albinar	7	0.0069	0.8388	a l b i n a r
+2356	biologă	7	0.0069	0.8388	b i o l o ɡ ə
+2356	cinșpe	7	0.0069	0.8388	t͡ʃ i n ʃ p e
+2356	creștinește	7	0.0069	0.8388	k r e ʃ t i n e ʃ t e
+2356	criticabil	7	0.0069	0.8388	k r i t i k a b i l
+2356	despărțitor	7	0.0069	0.8388	d e s p ə r t͡s i t o r
+2356	drepnea	7	0.0069	0.8388	d r e p n e̯ a
+2356	fijian	7	0.0069	0.8388	f i ʒ i a n
+2356	geologă	7	0.0069	0.8388	d͡ʒ e o l o ɡ ə
+2356	gingaș	7	0.0069	0.8388	d͡ʒ i ŋ ɡ a ʃ
+2356	gruie	7	0.0069	0.8388	ɡ r u j e
+2356	implicație	7	0.0069	0.8388	i m p l i k a t͡s i e
+2356	inși	7	0.0069	0.8388	i n ʃʲ
+2356	jneapăn	7	0.0069	0.8388	ʒ n e̯ a p ə n
+2356	lutier	7	0.0069	0.8388	l u t i e r
+2356	muced	7	0.0069	0.8388	m u t͡ʃ e d
+2356	neștiutor	7	0.0069	0.8388	n e ʃ t i u t o r
+2356	parazitologie	7	0.0069	0.8388	p a r a z i t o l o d͡ʒ i e
+2356	patinare	7	0.0069	0.8388	p a t i n a r e
+2356	pătlăgea	7	0.0069	0.8388	p ə t l ə d͡ʒ a
+2356	răzbel	7	0.0069	0.8388	r ə z b e l
+2356	secreție	7	0.0069	0.8388	s e k r e t͡s i e
+2356	secvențial	7	0.0069	0.8388	s e k v e n t͡s i a l
+2356	sparți	7	0.0069	0.8388	s p a r t͡sʲ
+2356	triolet	7	0.0069	0.8388	t r i o l e t
+2356	încătușa	7	0.0069	0.8388	ɨ n k ə t u ʃ a
+2356	șubred	7	0.0069	0.8388	ʃ u b r e d
+2356	țărănesc	7	0.0069	0.8388	t͡s ə r ə n e s k
+2357	albăstri	6	0.0059	0.7709	a l b ə s t r i
+2357	amăreală	6	0.0059	0.7709	a m ə r e̯ a l ə
+2357	celți	6	0.0059	0.7709	t͡ʃ e l t͡sʲ
+2357	coronavirus	6	0.0059	0.7709	k o r o n a v i r u s
+2357	creștinesc	6	0.0059	0.7709	k r e ʃ t i n e s k
+2357	câmpean	6	0.0059	0.7709	k ɨ m p e̯ a n
+2357	gestionari	6	0.0059	0.7709	d͡ʒ e s t i o n a rʲ
+2357	gospodărească	6	0.0059	0.7709	ɡ o s p o d ə r e̯ a s k ə
+2357	gresa	6	0.0059	0.7709	ɡ r e s a
+2357	mișel	6	0.0059	0.7709	m i ʃ e l
+2357	măicuță	6	0.0059	0.7709	m ə j k u t͡s ə
+2357	negustoresc	6	0.0059	0.7709	n e ɡ u s t o r e s k
+2357	nemascat	6	0.0059	0.7709	n e m a s k a t
+2357	nemțească	6	0.0059	0.7709	n e m t͡s e̯ a s k ə
+2357	obținere	6	0.0059	0.7709	o b t͡s i n e r e
+2357	reambala	6	0.0059	0.7709	r e a m b a l a
+2357	sacristan	6	0.0059	0.7709	s a k r i s t a n
+2357	spătos	6	0.0059	0.7709	s p ə t o s
+2357	triatlonistă	6	0.0059	0.7709	t r i a t l o n i s t ə
+2357	unșpea	6	0.0059	0.7709	u n ʃ p e̯ a
+2357	șesime	6	0.0059	0.7709	ʃ e s i m e
+2357	ț	6	0.0059	0.7709	t͡s
+2358	achiziționare	5	0.005	0.699	a k i z i t͡s i o n a r e
+2358	albuș	5	0.005	0.699	a l b u ʃ
+2358	alunar	5	0.005	0.699	a l u n a r
+2358	babau	5	0.005	0.699	b a b a w
+2358	bufal	5	0.005	0.699	b u f a l
+2358	cincizecilea	5	0.005	0.699	t͡ʃ i n t͡ʃʲ z e t͡ʃ i l e̯ a  |  t͡ʃ i n z e t͡ʃ i l e̯ a
+2358	ciut	5	0.005	0.699	t͡ʃʲ u t
+2358	contravenție	5	0.005	0.699	k o n t r a v e n t͡s i e
+2358	fumar	5	0.005	0.699	f u m a r
+2358	futabil	5	0.005	0.699	f u t a b i l
+2358	ghidă	5	0.005	0.699	ɡ i d ə
+2358	gladiolă	5	0.005	0.699	ɡ l a d i o l ə
+2358	imos	5	0.005	0.699	i m o s
+2358	iobăgie	5	0.005	0.699	j o b ə d ʒ i e
+2358	lexicograf	5	0.005	0.699	l e k s i k o ɡ r a f
+2358	liftă	5	0.005	0.699	l i f t ə
+2358	lucrușor	5	0.005	0.699	l u k r u ʃ o r
+2358	membranos	5	0.005	0.699	m e m b r a n o s
+2358	micolog	5	0.005	0.699	m i k o l o ɡ
+2358	muntenesc	5	0.005	0.699	m u n t e n e s k
+2358	mâță	5	0.005	0.699	m ɨ t͡s ə
+2358	nație	5	0.005	0.699	n a t͡s i e
+2358	nerezervat	5	0.005	0.699	n e r e z e r v a t
+2358	nivelă	5	0.005	0.699	n i v e l ə
+2358	optzecea	5	0.005	0.699	o b z e t͡ʃ e̯ a  |  o p t z e t͡ʃ e̯ a
+2358	optzecilea	5	0.005	0.699	o b z e t͡ʃ i l e̯ a  |  o p t z e t͡ʃ i l e̯ a
+2358	porumbac	5	0.005	0.699	p o r u m b a k
+2358	poșircă	5	0.005	0.699	p o ʃ i r k ə
+2358	pălincă	5	0.005	0.699	p ə l i n k ə
+2358	riveran	5	0.005	0.699	r i v e r a n
+2358	rămuros	5	0.005	0.699	r ə m u r o s
+2358	sexologia	5	0.005	0.699	s e k s o l o d͡ʒ i a
+2358	valah	5	0.005	0.699	v a l a x
+2358	vlogger	5	0.005	0.699	v l o ɡ ə r
+2358	șes	5	0.005	0.699	ʃ e s
+2358	țărănește	5	0.005	0.699	t͡s ə r ə n e ʃ t e
+2359	acrea	4	0.004	0.6021	a k r e̯ a
+2359	agust	4	0.004	0.6021	a ɡ u s t
+2359	alfabetiza	4	0.004	0.6021	a l f a b e t i z a
+2359	apicultoare	4	0.004	0.6021	a p i k u l t o̯ a r e
+2359	bunicuț	4	0.004	0.6021	b u n i k u t͡s
+2359	cantinier	4	0.004	0.6021	k a n t i n i e r
+2359	ceramistă	4	0.004	0.6021	t͡ʃ e r a m i s t ə
+2359	cocoșați	4	0.004	0.6021	k o k o ʃ a t͡sʲ
+2359	cântăreții	4	0.004	0.6021	k ɨ n t ə r e t͡s iʲ
+2359	căscăund	4	0.004	0.6021	k ə s k ə u n d
+2359	diacritic	4	0.004	0.6021	d i a k r i t i k
+2359	dumnezeiești	4	0.004	0.6021	d u m n e z e j e ʃ tʲ
+2359	echidnă	4	0.004	0.6021	e k i d n ə
+2359	fermentație	4	0.004	0.6021	f e r m e n t a t͡s i e
+2359	fățiș	4	0.004	0.6021	f ə t͡s i ʃ
+2359	glucoze	4	0.004	0.6021	ɡ l u k o z e
+2359	jerpelitură	4	0.004	0.6021	ʒ e r p e l i t u r ə
+2359	merișor	4	0.004	0.6021	m e r i ʃ o r
+2359	meteorologă	4	0.004	0.6021	m e t e o r o l o ɡ ə
+2359	microbiologic	4	0.004	0.6021	m i k r o b i o l o d͡ʒ i k
+2359	mineralog	4	0.004	0.6021	m i n e r a l o ɡ
+2359	moșneag	4	0.004	0.6021	m o ʃ n e̯ a ɡ
+2359	nejudecat	4	0.004	0.6021	n e ʒ u d e k a t
+2359	neocolonialist	4	0.004	0.6021	n e o k o l o n i j a l i s t
+2359	ocupator	4	0.004	0.6021	o k u p a t o r
+2359	pleșuv	4	0.004	0.6021	p l e ʃ u v
+2359	preoțească	4	0.004	0.6021	p r e o t͡s e̯ a s k ə
+2359	solstițiu	4	0.004	0.6021	s o l s t i t s i u̯
+2359	spornic	4	0.004	0.6021	s p o r n i k
+2359	turcescu	4	0.004	0.6021	t u r t͡ʃ e s k u
+2359	urcuș	4	0.004	0.6021	u r k u ʃ
+2359	vietăți	4	0.004	0.6021	v i e t ə t͡sʲ
+2359	știrb	4	0.004	0.6021	ʃ t i r b
+2359	știutor	4	0.004	0.6021	ʃ t i u t o r
+2359	țambal	4	0.004	0.6021	t͡s a m b a l
+2359	țigănesc	4	0.004	0.6021	t͡s i ɡ ə n e s k
+2359	țigănești	4	0.004	0.6021	t͡s i ɡ ə n e ʃ tʲ
+2360	absolutist	3	0.003	0.4771	a b s o l u t i s t
+2360	acrișor	3	0.003	0.4771	a k r i ʃ o r
+2360	adicție	3	0.003	0.4771	a d i k t͜s iʲ e
+2360	agrimensor	3	0.003	0.4771	a ɡ r i m e n s o r
+2360	alivancă	3	0.003	0.4771	a l i v a n k ə
+2360	amiciție	3	0.003	0.4771	a m i t͡ʃ i t͡s i e
+2360	anglofon	3	0.003	0.4771	a ŋ ɡ l o f o n
+2360	antropologă	3	0.003	0.4771	a n t r o p o l o ɡ ə
+2360	arinos	3	0.003	0.4771	a r i n o s
+2360	astrofiziciană	3	0.003	0.4771	a s t r o f i z i t͡ʃ i a n ə
+2360	criminologist	3	0.003	0.4771	k r i m i n o l o d͡ʒ i s t
+2360	demograf	3	0.003	0.4771	d e m o ɡ r a f
+2360	fițuică	3	0.003	0.4771	f i t͡s u j k ə
+2360	ginecologă	3	0.003	0.4771	d͡ʒ i n e k o l o ɡ ə
+2360	gârbov	3	0.003	0.4771	ɡ ɨ r b o v
+2360	hurduca	3	0.003	0.4771	h u r d u k a
+2360	icră	3	0.003	0.4771	i k r ə
+2360	iede	3	0.003	0.4771	j e d e
+2360	ienuperi	3	0.003	0.4771	j e n u p e rʲ
+2360	invalidare	3	0.003	0.4771	i n v a l i d a r e
+2360	juzi	3	0.003	0.4771	ʒ u zʲ
+2360	kirghiz	3	0.003	0.4771	k i r ɡ i z
+2360	lutră	3	0.003	0.4771	l u t r ə
+2360	lăudător	3	0.003	0.4771	l ə u d ə t o r
+2360	meser	3	0.003	0.4771	m e s e r
+2360	măgăresc	3	0.003	0.4771	m ə ɡ ə r e s k
+2360	nutriționist	3	0.003	0.4771	n u t r i t͡s i o n i s t
+2360	peristaltic	3	0.003	0.4771	p e r i s t a l t i k
+2360	pictoriță	3	0.003	0.4771	p i k t o r i t͡s ə
+2360	pițigoi	3	0.003	0.4771	p i t͡s i ɡ o j
+2360	pulpană	3	0.003	0.4771	p u l p a n ə
+2360	recepționa	3	0.003	0.4771	r e t͡ʃ e p t͡s i o n a
+2360	rezistibil	3	0.003	0.4771	r e z i s t i b i l
+2360	răzleț	3	0.003	0.4771	r ə z l e t͡s
+2360	sieși	3	0.003	0.4771	s i e ʃʲ
+2360	trinidadian	3	0.003	0.4771	t r i n i d a d i a n
+2360	trota	3	0.003	0.4771	t r o t a
+2360	târsână	3	0.003	0.4771	t ɨ r s ɨ n ə
+2360	umeziri	3	0.003	0.4771	u m e z i rʲ
+2360	velin	3	0.003	0.4771	v e l i n
+2360	virilității	3	0.003	0.4771	v i r i l i t ə t s i
+2360	virotic	3	0.003	0.4771	v i r o t i k
+2360	zambian	3	0.003	0.4771	z a m b i a n
+2360	zăgan	3	0.003	0.4771	z ə ɡ a n
+2360	înzeci	3	0.003	0.4771	ɨ n z e t͡ʃ i
+2360	șaizecea	3	0.003	0.4771	ʃ a j z e t͡ʃ e̯ a
+2360	șaișpe	3	0.003	0.4771	ʃ a j ʃ p e
+2360	șiră	3	0.003	0.4771	ʃ i r ə
+2360	șosele	3	0.003	0.4771	ʃ o s e l e
+2360	șterși	3	0.003	0.4771	ʃ t e r ʃʲ
+2360	țuică	3	0.003	0.4771	t͡s u j k ə
+2360	țărancă	3	0.003	0.4771	t͡s ə r a n k ə
+2361	abace	2	0.002	0.301	a b a t͡ʃ e
+2361	acera	2	0.002	0.301	a t͡ʃ e r a
+2361	aciua	2	0.002	0.301	a t͡ʃʲ u a
+2361	adnota	2	0.002	0.301	a d n o t a
+2361	agura	2	0.002	0.301	a ɡ u r a
+2361	apătos	2	0.002	0.301	a p ə t o s
+2361	bagatel	2	0.002	0.301	b a ɡ a t e l
+2361	buged	2	0.002	0.301	b u d͡ʒ e d
+2361	caprin	2	0.002	0.301	k a p r i n
+2361	carameliza	2	0.002	0.301	k a r a m e l i z a
+2361	chiromant	2	0.002	0.301	k i r o m a n t
+2361	codalbi	2	0.002	0.301	k o d a l bʲ
+2361	creștinească	2	0.002	0.301	k r e ʃ t i n e̯ a s k ə
+2361	căuș	2	0.002	0.301	k ə u ʃ
+2361	cățelușă	2	0.002	0.301	k ə t͡s e l u ʃ ə
+2361	deșteptăciune	2	0.002	0.301	d e ʃ t e p t ə t͡ʃ j u n e
+2361	dialectal	2	0.002	0.301	d i a l e k t a l
+2361	echinocțiu	2	0.002	0.301	e k i n o k t s i u̯
+2361	floristă	2	0.002	0.301	f l o r i s t ə
+2361	foios	2	0.002	0.301	f o j o s
+2361	gestiuni	2	0.002	0.301	d͡ʒ e s t i u nʲ
+2361	ghionoaie	2	0.002	0.301	ɡ i o n o̯ a j e
+2361	hrișcă	2	0.002	0.301	h r i ʃ k ə
+2361	ienibahar	2	0.002	0.301	j e n i b a h a r
+2361	infirmare	2	0.002	0.301	i n f i r m a r e
+2361	intempestive	2	0.002	0.301	i n t e m p e s t i v e
+2361	limnolog	2	0.002	0.301	l i m n o l o ɡ
+2361	liniat	2	0.002	0.301	l i n i a t
+2361	litografă	2	0.002	0.301	l i t o ɡ r a f ə
+2361	lobbyistă	2	0.002	0.301	l o b i i s t ə
+2361	lupesc	2	0.002	0.301	l u p e s k
+2361	lăbărțat	2	0.002	0.301	l ə b ə r t͡s a t
+2361	merișoare	2	0.002	0.301	m e r i ʃ o̯ a r e
+2361	mineralogia	2	0.002	0.301	m i n e r a l o d͡ʒ i a
+2361	multipolar	2	0.002	0.301	m u l t i p o l a r
+2361	mânuță	2	0.002	0.301	m ɨ n u t͡s ə
+2361	mărunțel	2	0.002	0.301	m ə r u n t͡s e l
+2361	neștiință	2	0.002	0.301	n e ʃ t i i n t͡s ə
+2361	nominative	2	0.002	0.301	n o m i n a t i v e
+2361	nutriționistă	2	0.002	0.301	n u t r i t͡s i o n i s t ə
+2361	ostrogot	2	0.002	0.301	o s t r o ɡ o t
+2361	paișpe	2	0.002	0.301	p a j ʃ p e
+2361	patologistă	2	0.002	0.301	p a t o l o d͡ʒ i s t ə
+2361	pilotați	2	0.002	0.301	p i l o t a t͡sʲ
+2361	poporan	2	0.002	0.301	p o p o r a n
+2361	preoțești	2	0.002	0.301	p r e o t͡s e ʃ tʲ
+2361	promoroacă	2	0.002	0.301	p r o m o r o̯ a k ə
+2361	pseudoștiință	2	0.002	0.301	p s e u d o ʃ t i i n t͡s ə
+2361	psihofizician	2	0.002	0.301	p s i h o f i z i t͡ʃ i a n
+2361	pugilistă	2	0.002	0.301	p u d͡ʒ i l i s t ə
+2361	pătlăgică	2	0.002	0.301	p ə t l ə d͡ʒ i k ə
+2361	repeziți	2	0.002	0.301	r e p e z i t͡sʲ
+2361	românește	2	0.002	0.301	r o m ɨ n e ʃ t e
+2361	rânză	2	0.002	0.301	r ɨ n z ə
+2361	sapient	2	0.002	0.301	s a p i e n t
+2361	silicios	2	0.002	0.301	s i l i t͡ʃ j o s
+2361	subțirel	2	0.002	0.301	s u b t͡s i r e l
+2361	supoziție	2	0.002	0.301	s u p o z i t͡s i e
+2361	tenismană	2	0.002	0.301	t e n i s m a n ə
+2361	unidirecțional	2	0.002	0.301	u n i d i r e k t͡s i o n a l
+2361	vinograd	2	0.002	0.301	v i n o ɡ r a d
+2361	vișină	2	0.002	0.301	v i ʃ i n ə
+2361	zgâlțâi	2	0.002	0.301	z ɡ ɨ l t͡s ɨ i
+2361	împărătește	2	0.002	0.301	ɨ m p ə r ə t e ʃ t e
+2361	șaibă	2	0.002	0.301	ʃ a j b ə
+2361	șaisprezecelea	2	0.002	0.301	ʃ a j s p r e z e t͡ʃ e l e̯ a
+2361	șaptesprezecea	2	0.002	0.301	ʃ a p t e s p r e z e t͡ʃ e̯ a
+2361	țurțur	2	0.002	0.301	t͡s u r t͡s u r
+2362	alotropic	1	0.001	0.0	a l o t r o p i k
+2362	aragonit	1	0.001	0.0	a r a ɡ o n i t
+2362	arheologă	1	0.001	0.0	a r h e o l o ɡ ə
+2362	bisericuță	1	0.001	0.0	b i s e r i k u t͡s ə
+2362	bivalent	1	0.001	0.0	b i v a l e n t
+2362	bunget	1	0.001	0.0	b u n d͡ʒ e t
+2362	bura	1	0.001	0.0	b u r a
+2362	carboxilic	1	0.001	0.0	k a r b o k s i l i k
+2362	cașalot	1	0.001	0.0	k a ʃ a l o t
+2362	chițcan	1	0.001	0.0	k i t͡s k a n
+2362	ciucă	1	0.001	0.0	t͡ʃʲ u k ə
+2362	codalb	1	0.001	0.0	k o d a l b
+2362	codârlă	1	0.001	0.0	k o d ɨ r l ə
+2362	corigibil	1	0.001	0.0	k o r i d͡ʒ i b i l
+2362	corijabil	1	0.001	0.0	k o r i ʒ a b i l
+2362	coțofană	1	0.001	0.0	k o t͡s o f a n ə
+2362	cronc	1	0.001	0.0	k r o ŋ k
+2362	dialectologie	1	0.001	0.0	d i a l e k t o l o d͡ʒ i e
+2362	excreție	1	0.001	0.0	e k s k r e t͡s i e
+2362	feți	1	0.001	0.0	f e t͡sʲ
+2362	fețișoară	1	0.001	0.0	f e t͡s i ʃ o̯ a r ə
+2362	franțuz	1	0.001	0.0	f r a n t͡s u z
+2362	frizeriță	1	0.001	0.0	f r i z e r i t͡s ə
+2362	fulgui	1	0.001	0.0	f u l ɡ u i
+2362	grijanie	1	0.001	0.0	ɡ r i ʒ a n i e
+2362	guguștiuc	1	0.001	0.0	ɡ u ɡ u ʃ t j u k
+2362	haț	1	0.001	0.0	h a t͡s
+2362	ironizator	1	0.001	0.0	i r o n i z a t o r
+2362	jerpeli	1	0.001	0.0	ʒ e r p e l i
+2362	kaliu	1	0.001	0.0	k a l j u
+2362	litograf	1	0.001	0.0	l i t o ɡ r a f
+2362	macru	1	0.001	0.0	m a k r u
+2362	marț	1	0.001	0.0	m a r t͡s
+2362	metaliza	1	0.001	0.0	m e t a l i z a
+2362	miorlau	1	0.001	0.0	m j o r l a w
+2362	monotrem	1	0.001	0.0	m o n o t r e m
+2362	monotremă	1	0.001	0.0	m o n o t r e m ə
+2362	muțenie	1	0.001	0.0	m u t͡s e n i e
+2362	mărțișor	1	0.001	0.0	m ə r t͡s i ʃ o r
+2362	necomunicat	1	0.001	0.0	n e k o m u n i k a t
+2362	nodos	1	0.001	0.0	n o d o s
+2362	oceanografă	1	0.001	0.0	o t͡ʃ e̯ a n o ɡ r a f ə
+2362	omnipotență	1	0.001	0.0	o m n i p o t e n t͡s ə
+2362	ortopedă	1	0.001	0.0	o r t o p e d ə
+2362	pederastic	1	0.001	0.0	p e d e r a s t i k
+2362	penetrație	1	0.001	0.0	p e n e t r a t͡s i e
+2362	pescărești	1	0.001	0.0	p e s k ə r e ʃ tʲ
+2362	popească	1	0.001	0.0	p o p e̯ a s k ə
+2362	popesc	1	0.001	0.0	p o p e s k
+2362	preoțesc	1	0.001	0.0	p r e o t͡s e s k
+2362	pretori	1	0.001	0.0	p r e t o rʲ
+2362	prier	1	0.001	0.0	p r j e r
+2362	păstoriță	1	0.001	0.0	p ə s t o r i t͡s ə
+2362	rezemați	1	0.001	0.0	r e z e m a t͡sʲ
+2362	rășinos	1	0.001	0.0	r ə ʃ i n o s
+2362	rățoi	1	0.001	0.0	r ə t͡s o j
+2362	sofra	1	0.001	0.0	s o f r a
+2362	suflețel	1	0.001	0.0	s u f l e t͡s e l
+2362	tovărășește	1	0.001	0.0	t o v ə r ə ʃ e ʃ t e
+2362	treișpe	1	0.001	0.0	t r e j ʃ p e
+2362	turcește	1	0.001	0.0	t u r t͡ʃ e ʃ t e
+2362	umpleri	1	0.001	0.0	u m p l e rʲ
+2362	ungurește	1	0.001	0.0	u ŋ ɡ u r e ʃ t e
+2362	unșpe	1	0.001	0.0	u n ʃ p e
+2362	vinos	1	0.001	0.0	v i n o s
+2362	văcăriță	1	0.001	0.0	v ə k ə r i t͡s ə
+2362	zbici	1	0.001	0.0	z b i t͡ʃ i
+2362	zârnă	1	0.001	0.0	z ɨ r n ə
+2362	îmbelșugat	1	0.001	0.0	ɨ m b e l ʃ u ɡ a t
+2362	îndobitoci	1	0.001	0.0	ɨ n d o b i t o t͡ʃ i
+2362	îngerește	1	0.001	0.0	ɨ n d͡ʒ e r e ʃ t e
+2362	îngerești	1	0.001	0.0	ɨ n d͡ʒ e r e ʃ tʲ
+2362	înjumătăți	1	0.001	0.0	ɨ n ʒ u m ə t ə t͡s i
+2362	întrebuința	1	0.001	0.0	ɨ n t r e b u i n t͡s a
+2362	învelișuri	1	0.001	0.0	ɨ n v e l i ʃ u rʲ
+2362	șaisprezecea	1	0.001	0.0	ʃ a j s p r e z e t ʃ e̯ a
+2362	șapteșpe	1	0.001	0.0	ʃ a p t e ʃ p e
+2362	șervet	1	0.001	0.0	ʃ e r v e t
+2362	șoricar	1	0.001	0.0	ʃ o r i k a r
+2362	ștrengar	1	0.001	0.0	ʃ t r e n ɡ a r
+2362	țigaie	1	0.001	0.0	t͡s i ɡ a j e
+2362	ținere	1	0.001	0.0	t͡s i n e r e

@@ -1,0 +1,513 @@
+Rank	Word	Frequency	Frequency per million	Zipf value	IPA
+1	on	4106982	32713.0424	7.5147	o n
+2	ma	3484587	27755.5251	7.4433	m ɑ
+3	ta	1711770	13634.636	7.1346	t ɑ
+4	kõik	527237	4199.5622	6.6232	k ɤ i̯ k
+5	tema	325840	2595.3894	6.4142	t e m ɑ
+6	mina	324818	2587.249	6.4128	m i n ɑ
+7	miks	301146	2398.6961	6.38	m i k s
+8	või	286277	2280.2612	6.358	v ɤ i̯
+9	küll	275232	2192.2853	6.3409	k y lʲː
+10	teie	244535	1947.7767	6.2895	t e i̯ e
+11	üks	234284	1866.1252	6.2709	y k s
+12	tahad	157947	1258.0836	6.0997	t ɑ h ɑ d̥
+13	tänan	153278	1220.894	6.0867	t æ n ɑ n
+14	mees	145846	1161.6964	6.0651	m eː s
+15	läbi	133289	1061.6771	6.026	l æ b̥ i
+16	enne	120084	956.4963	5.9807	e nː e  |  e nːː e
+17	üles	114394	911.1741	5.9596	y l e s
+18	kaks	111483	887.9874	5.9484	k ɑ k s
+19	täna	110773	882.332	5.9456	t æ n ɑ
+20	valmis	99478	792.3648	5.8989	v ɑ lʲ m i s
+21	vabandust	94398	751.9015	5.8762	v ɑ b̥ ɑ n d̥ u s t
+22	saada	90250	718.8617	5.8566	s ɑː d̥ ɑ  |  s ɑːː d̥ ɑ
+23	lahti	83153	662.3325	5.8211	l ɑ h t i
+24	aeg	81543	649.5085	5.8126	ɑ e̯ ɡ̊
+25	õigus	73109	582.3298	5.7652	ɤ i̯ ɡ̊ u s
+26	nimi	72937	580.9597	5.7641	n i m i
+27	kõige	72040	573.8149	5.7588	k ɤ i̯ ɡ̊ e
+28	aitäh	68540	545.9366	5.7371	ɑ i̯ t æ h
+29	naine	57477	457.8173	5.6607	n ɑ i̯ n e
+30	kolm	57451	457.6102	5.6605	k o l m
+31	tahab	56898	453.2055	5.6563	t ɑ h ɑ b̥
+32	tuli	50887	405.3265	5.6078	t u l i  |  t u lʲ i
+33	päev	46678	371.8008	5.5703	p æ e̯ v
+34	vana	45401	361.6293	5.5583	v ɑ n ɑ
+35	viis	43816	349.0044	5.5428	v iː s
+36	auto	42236	336.4193	5.5269	ɑ u̯ t o
+37	homme	39846	317.3824	5.5016	h o mː e
+38	ainus	34996	278.7511	5.4452	ɑ i̯ n u s
+39	pool	33981	270.6664	5.4324	p oː l  |  p oː lʲ
+40	vabandage	31616	251.8286	5.4011	v ɑ b̥ ɑ n d̥ ɑ ɡ̊ e
+41	üksi	31490	250.825	5.3994	y k s i
+42	võimalus	31193	248.4593	5.3953	v ɤ i̯ m ɑ l u s
+43	sõna	27325	217.6498	5.3378	s ɤ n ɑ
+44	järgmine	26053	207.518	5.3171	j æ r ɡ̊ m i n e
+45	neli	24916	198.4616	5.2977	n e l i
+46	politsei	24457	194.8055	5.2896	p o l i t s e i̯
+47	ütlema	22494	179.1698	5.2533	y t l e m ɑ
+48	käsi	22030	175.4739	5.2442	k æ s i  |  k æ sʲ i
+49	õnnelik	21681	172.6941	5.2373	ɤ nː e l i k
+50	küsimus	20137	160.3958	5.2052	k y s i m u s
+51	kuus	19578	155.9432	5.193	k uː s
+52	kuu	17146	136.5718	5.1354	k uː
+53	öö	16538	131.7289	5.1197	øː
+54	ameerika	16383	130.4943	5.1156	ɑ m eː r i k ɑ
+55	kuningas	16032	127.6985	5.1062	k u n i ŋ ɡ̊ ɑ s
+56	lõpp	15106	120.3227	5.0803	l ɤ pː
+57	kiire	14358	114.3647	5.0583	k iː r e  |  k iːː r e
+58	noor	14113	112.4132	5.0508	n oː r
+59	õhtu	14058	111.9752	5.0491	ɤ h t u
+60	viin	13145	104.7029	5.02	v iː n
+61	must	12627	100.5769	5.0025	m u s t
+62	kõne	12466	99.2945	4.9969	k ɤ n e
+63	kümme	12360	98.4502	4.9932	k y mː e
+64	valge	12001	95.5907	4.9804	v ɑ l ɡ̊ e
+65	tugev	11931	95.0331	4.9779	t u ɡ̊ e v
+66	a	11903	94.8101	4.9769	ɑː
+67	mäng	11837	94.2844	4.9744	m æ ŋ ɡ̊
+68	armastus	11526	91.8072	4.9629	ɑ r m ɑ s t u s
+69	kaheksa	10933	87.0838	4.9399	k ɑ h e k s ɑ
+70	seitse	10586	84.3199	4.9259	s e i̯ t s e
+71	külm	9881	78.7044	4.896	k y lʲ m
+72	sööma	9659	76.9361	4.8861	s øː m ɑ
+73	kuum	9229	73.5111	4.8664	k uː m
+74	üksteist	8652	68.9151	4.8383	y k s t e i̯ s t
+75	vesi	8476	67.5133	4.8294	v e s i
+76	igaüks	7552	60.1534	4.7793	i ɡ̊ ɑ y k s
+77	õpetaja	7390	58.863	4.7698	ɤ p e t ɑ j ɑ
+78	üheksa	7206	57.3974	4.7589	y h e k s ɑ
+79	keset	6378	50.8022	4.7059	k e s e t
+80	muretsema	6344	50.5314	4.7036	m u r e t s e m ɑ
+81	b	6312	50.2765	4.7014	b̥ eː
+82	lõuna	6080	48.4286	4.6851	l ɤ u̯ n ɑ
+83	martin	5803	46.2222	4.6649	m ɑ r t i n
+84	toit	5696	45.3699	4.6568	t o i̯ t
+85	rooma	5624	44.7964	4.6512	r oː m ɑ
+86	õppima	5319	42.367	4.627	ɤ pː i m ɑ
+87	kõht	5301	42.2237	4.6256	k ɤ h t
+88	vene	5220	41.5785	4.6189	v e n e
+89	voodi	5159	41.0926	4.6138	v oː d̥ i
+90	nõu	5149	41.013	4.6129	n ɤ u  |  n ɤ u̯
+91	ajalugu	5101	40.6306	4.6089	ɑ j ɑ l u ɡ̊ u
+92	eesmärk	5065	40.3439	4.6058	eː s m æ r k
+93	sinine	5010	39.9058	4.601	s i n i n e
+94	kasutama	4856	38.6791	4.5875	k ɑ s u t ɑ m ɑ
+95	m	4826	38.4402	4.5848	e mː
+96	kott	4777	38.0499	4.5804	k o tʲː  |  k o tː
+97	maitse	4598	36.6241	4.5638	m ɑ i̯ t s e
+98	kood	4582	36.4967	4.5623	k oː d̥ʲ
+99	kass	4531	36.0904	4.5574	k ɑ sʲː
+99	nõrk	4531	36.0904	4.5574	n ɤ r k
+100	vapper	4453	35.4692	4.5499	v ɑ pː e r
+101	hirm	4438	35.3497	4.5484	h i r m
+102	keel	4397	35.0231	4.5444	k eː l
+103	palli	4222	33.6292	4.5267	p ɑ lː i
+104	d	4025	32.06	4.506	d̥ eː
+105	e	4014	31.9724	4.5048	eː
+106	c	3946	31.4308	4.4974	t s eː
+107	riik	3930	31.3033	4.4956	r iː k
+108	tuul	3716	29.5988	4.4713	t uː l
+109	s	3669	29.2244	4.4657	e sː
+110	laul	3657	29.1288	4.4643	l ɑ u̯ l
+111	loom	3640	28.9934	4.4623	l oː m
+112	jooma	3406	27.1296	4.4334	j oː m ɑ
+113	lind	3388	26.9862	4.4311	l i n d̥
+114	pall	3337	26.58	4.4246	p ɑ lʲː
+115	lõbu	3318	26.4286	4.4221	l ɤ b̥ u
+116	hispaania	3297	26.2614	4.4193	h i s p ɑː n i ɑ
+117	itaalia	3005	23.9355	4.379	i t ɑː l i ɑ
+118	ilu	2975	23.6965	4.3747	i l u
+119	r	2955	23.5372	4.3718	e rː
+120	jõulud	2811	22.3903	4.3501	j ɤ u̯ l u d̥
+121	neiu	2791	22.2309	4.347	n e i̯ u
+122	rida	2781	22.1513	4.3454	r i d̥ ɑ
+123	kõri	2685	21.3866	4.3301	k ɤ r i
+124	and	2651	21.1158	4.3246	ɑ nʲˑ t
+125	l	2638	21.0123	4.3225	e lː
+126	õpilane	2620	20.8689	4.3195	ɤ p i l ɑ n e
+127	king	2611	20.7972	4.318	k i ŋ ɡ̊
+128	albert	2610	20.7892	4.3178	ɑ l b̥ e r t
+129	kassi	2608	20.7733	4.3175	k ɑ sː i
+130	paat	2600	20.7096	4.3162	p ɑː t  |  p ɑː tʲ
+131	k	2590	20.6299	4.3145	k ɑː
+132	j	2558	20.375	4.3091	j o tʲː
+133	kättemaks	2504	19.9449	4.2998	k æ tː e m ɑ k s
+134	euroopa	2412	19.2121	4.2836	e u r oː p ɑ
+135	risti	2357	18.774	4.2736	r i s t i  |  r i sːʲ t i
+136	prantsusmaa	2318	18.4634	4.2663	p r ɑ n t s u s m ɑː
+137	käitumine	2316	18.4475	4.2659	k æ i̯ t u m i n e
+138	rott	2314	18.4315	4.2656	r o tʲː
+139	sõbranna	2278	18.1448	4.2588	s ɤ b̥ r ɑ nː ɑ
+140	kreeka	2259	17.9934	4.2551	k r eː k ɑ
+141	müts	2252	17.9377	4.2538	m y t s  |  m y tʲ s
+142	g	2216	17.6509	4.2468	ɡ̊ eː
+143	hall	2209	17.5952	4.2454	h ɑ lʲː  |  h ɑ lː
+144	p	2161	17.2129	4.2359	p eː
+145	lõvi	2022	16.1057	4.207	l ɤ v i
+146	kauboi	1990	15.8508	4.2001	k ɑ u̯ b̥ o i̯
+147	sügav	1988	15.8349	4.1996	s y ɡ̊ ɑ v
+148	sild	1983	15.795	4.1985	s i l d̥
+149	riist	1909	15.2056	4.182	r iː s t
+150	maine	1894	15.0861	4.1786	m ɑ i̯ n e
+151	venemaa	1880	14.9746	4.1754	v e n e m ɑː
+152	kontor	1858	14.7994	4.1702	k o n t o r
+153	angela	1853	14.7596	4.1691	ɑ ŋ ɡ̊ e l ɑ
+154	aafrika	1816	14.4649	4.1603	ɑː f r i k ɑ
+155	h	1798	14.3215	4.156	h ɑ ʃː  |  h ɑː
+156	mürk	1717	13.6763	4.136	m y r k
+157	f	1702	13.5568	4.1322	e fː
+158	o	1690	13.4612	4.1291	oː
+159	kalli	1669	13.294	4.1237	k ɑ lʲː i  |  k ɑ lʲːː i
+160	tool	1668	13.286	4.1234	t oː l  |  t oː lʲ
+161	iludus	1662	13.2382	4.1218	i l u d̥ u s
+162	saksamaa	1659	13.2143	4.121	s ɑ k s ɑ m ɑː
+163	lehm	1645	13.1028	4.1174	l e h m
+164	müüma	1634	13.0152	4.1145	m yː m ɑ
+165	munn	1624	12.9355	4.1118	m u nʲː
+166	pitsa	1610	12.824	4.108	p i t s ɑ
+167	pood	1568	12.4895	4.0965	p oː d̥ʲ
+168	kunst	1567	12.4815	4.0963	k u nʲ s t
+169	diana	1564	12.4576	4.0954	d̥ i ɑ n ɑ
+170	baar	1550	12.3461	4.0915	b̥ ɑː r
+171	lubama	1540	12.2664	4.0887	l u b̥ ɑ m ɑ
+172	kaksteist	1511	12.0355	4.0805	k ɑ k s t e i̯ s t
+173	õiglus	1487	11.8443	4.0735	ɤ i̯ ɡ̊ l u s
+174	piir	1458	11.6133	4.065	p iː r
+175	restoran	1416	11.2788	4.0523	r e s t o r ɑ n
+176	ratas	1395	11.1115	4.0458	r ɑ t ɑ s
+177	suits	1376	10.9602	4.0398	s u i̯ t s
+178	moskva	1337	10.6495	4.0273	m o s k v ɑ
+179	palk	1322	10.53	4.0224	p ɑ l k  |  p ɑ lʲ k
+180	n	1312	10.4504	4.0191	e nː
+181	piire	1304	10.3867	4.0165	p iː r e
+182	liin	1300	10.3548	4.0151	l iː n
+183	lift	1277	10.1716	4.0074	l i f t
+184	paber	1248	9.9406	3.9974	p ɑ b̥ e r
+185	pariis	1234	9.8291	3.9925	p ɑ r iː s
+186	terav	1226	9.7654	3.9897	t e r ɑ v
+187	nädalavahetus	1197	9.5344	3.9793	n æ d̥ ɑ l ɑ v ɑ h e t u s
+188	aine	1163	9.2636	3.9668	ɑ i̯ n e
+189	rootsi	1157	9.2158	3.9645	r oː t s i
+190	z	1139	9.0724	3.9577	t s e tː
+191	q	1130	9.0007	3.9543	k uː
+192	mõtlemine	1120	8.9211	3.9504	m ɤ t l e m i n e
+193	georgia	1117	8.8972	3.9493	d̥ ʒ oː r d̥ ʒ i ɑ  |  ɡ̊ e o r ɡ̊ i ɑ
+194	viisteist	1088	8.6662	3.9378	v iː s t e i̯ s t
+195	toote	1082	8.6184	3.9354	t oː tː e  |  t oː tːː e
+196	vandenõu	1077	8.5785	3.9334	v ɑ n d̥ e n ɤ u̯
+197	teo	1069	8.5148	3.9302	t e o̯̯
+198	aasia	1064	8.475	3.9281	ɑː s i ɑ
+199	iiri	1060	8.4431	3.9265	iː r i
+200	pärdik	996	7.9334	3.8995	p æ r d̥ i k
+201	poola	983	7.8298	3.8938	p oː l ɑ
+202	jumalanna	942	7.5032	3.8752	j u m ɑ l ɑ nː ɑ
+203	roman	929	7.3997	3.8692	r o m ɑ n
+204	pühapäev	922	7.3439	3.8659	p y h ɑ p æ e̯ v  |  p y h ɑ pː æ e̯ v
+205	maks	919	7.32	3.8645	m ɑ k s
+206	ühiskond	918	7.3121	3.864	y h i s k o n d̥
+207	sein	905	7.2085	3.8578	s e i̯ n
+208	laupäev	884	7.0413	3.8477	l ɑ u̯ p æ e̯ v  |  l ɑ u̯ pː æ e̯ v
+209	rand	856	6.8182	3.8337	r ɑ n d̥
+210	kõrv	834	6.643	3.8224	k ɤ r v
+211	peegel	815	6.4917	3.8124	p eː ɡ̊ e l
+212	porno	814	6.4837	3.8118	p o r n o
+213	iris	806	6.42	3.8075	i r i s
+214	äss	785	6.2527	3.7961	æ sː
+215	laisk	784	6.2447	3.7955	l ɑ i̯ s k
+216	tugevus	774	6.1651	3.7899	t u ɡ̊ e v u s
+217	ärkama	770	6.1332	3.7877	æ r k ɑ m ɑ
+218	teisipäev	753	5.9978	3.778	t e i̯ s i p æ e̯ v  |  t e i̯ s i pː æ e̯ v
+219	segama	725	5.7748	3.7615	s e ɡ̊ ɑ m ɑ
+220	neljapäev	721	5.7429	3.7591	n e l j ɑ p æ e̯ v  |  n e l j ɑ pː æ e̯ v
+221	sofia	712	5.6712	3.7537	s o f i ɑ
+222	ebaõnn	690	5.496	3.74	e b̥ ɑ ɤ nʲː
+223	kepp	681	5.4243	3.7343	k e pː
+224	müük	672	5.3526	3.7286	m yː k
+225	esmaspäev	663	5.2809	3.7227	e s m ɑ s p æ e̯ v
+226	varjupaik	629	5.0101	3.6998	v ɑ r j u p ɑ i̯ k
+227	wc	628	5.0022	3.6992	v eː t s eː
+228	pähkel	621	4.9464	3.6943	p æ h k e l
+229	soome	616	4.9066	3.6908	s oː m e
+230	lõug	583	4.6437	3.6669	l ɤ u̯ ɡ̊
+231	solvang	576	4.588	3.6616	s o l v ɑ ŋ ɡ̊
+232	kõrb	574	4.572	3.6601	k ɤ r b̥
+233	eesti	572	4.5561	3.6586	eː s t i
+234	berliin	571	4.5481	3.6578	b̥ e r l iː n
+235	kaja	560	4.4605	3.6494	k ɑ j ɑ
+235	taani	560	4.4605	3.6494	t ɑː n i
+236	emil	550	4.3809	3.6416	e m i l
+237	kett	541	4.3092	3.6344	k e tʲː
+238	kolmapäev	537	4.2773	3.6312	k o l m ɑ p æ e̯ v  |  k o l m ɑ pː æ e̯ v
+239	zombi	527	4.1977	3.623	s o m b̥ i
+240	seitseteist	502	3.9985	3.6019	s e i̯ t s e t e i̯ s t
+241	kuusteist	499	3.9746	3.5993	k uː s t e i̯ s t
+242	kolmteist	498	3.9667	3.5984	k o l m t e i̯ s t
+243	põlv	496	3.9508	3.5967	p ɤ l v  |  p ɤ lʲ v
+244	belgia	463	3.6879	3.5668	b̥ e l ɡ̊ i ɑ
+245	atmosfäär	462	3.6799	3.5658	ɑ t m o s f æː r
+246	sõltlane	460	3.664	3.564	s ɤ l t l ɑ n e
+247	hele	456	3.6321	3.5602	h e l e
+248	neliteist	446	3.5525	3.5505	n e l i t e i̯ s t
+249	vorst	439	3.4967	3.5437	v o r s t
+250	austria	429	3.4171	3.5337	ɑ u̯ s t r i ɑ
+251	jupiter	410	3.2657	3.514	j u p i t e r
+252	island	409	3.2578	3.5129	i s l ɑ n d̥
+253	haarama	408	3.2498	3.5119	h ɑː r ɑ m ɑ
+254	õppimine	398	3.1702	3.5011	ɤ pː i m i n e
+255	kaheksateist	386	3.0746	3.4878	k ɑ h e k s ɑ t e i̯ s t
+256	mars	379	3.0188	3.4798	m ɑ r s
+257	sulg	371	2.9551	3.4706	s u l ɡ̊  |  s u lʲ ɡ̊
+258	sülearvuti	368	2.9312	3.467	s y l e ɑ r v u t i
+259	kampsun	364	2.8993	3.4623	k ɑ m p s u n
+259	kann	364	2.8993	3.4623	k ɑ nʲː  |  k ɑ nː
+260	sõltuvus	361	2.8754	3.4587	s ɤ l t u v u s
+261	tõlk	360	2.8675	3.4575	t ɤ lʲ k
+262	depressioon	354	2.8197	3.4502	d̥ e p r e sː i oː n
+263	mood	346	2.756	3.4403	m oː d̥ʲ
+264	vatikan	339	2.7002	3.4314	v ɑ t i k ɑ n
+265	nats	329	2.6206	3.4184	n ɑ tʲ s
+266	pistma	327	2.6046	3.4157	p i s t m ɑ
+267	ekraan	322	2.5648	3.4091	e k r ɑː n
+268	väärikus	321	2.5568	3.4077	v æː r i k u s
+269	epideemia	319	2.5409	3.405	e p i d̥ eː m j ɑ
+269	piinama	319	2.5409	3.405	p iː n ɑ m ɑ
+270	rasv	318	2.5329	3.4036	r ɑ s v
+271	ukraina	315	2.509	3.3995	u k r ɑ i̯ n ɑ
+272	õhupall	305	2.4294	3.3855	ɤ h u p ɑ lʲː
+273	albaania	304	2.4214	3.3841	ɑ l b̥ ɑː n i ɑ
+274	mootorratas	302	2.4055	3.3812	m oː t o r r ɑ t ɑ s
+275	kauss	301	2.3975	3.3798	k ɑ u̯ sː
+276	tasand	293	2.3338	3.3681	t ɑ s ɑ n d̥
+277	mõis	288	2.294	3.3606	m ɤ i̯ s
+278	tiss	287	2.286	3.3591	t i sː
+279	kalamees	284	2.2621	3.3545	k ɑ l ɑ m eː s
+280	ungari	277	2.2064	3.3437	u ŋ ɡ̊ ɑ r i
+281	pott	275	2.1904	3.3405	p o tʲː
+282	kalender	271	2.1586	3.3342	k ɑ l e n d̥ e r
+283	marek	267	2.1267	3.3277	m ɑ r e k
+284	ühikas	261	2.0789	3.3178	y h i k ɑ s
+285	skorpion	259	2.063	3.3145	s k o r p j o n
+286	üheksateist	258	2.055	3.3128	y h e k s ɑ t e i̯ s t
+287	amulett	256	2.0391	3.3094	ɑ m u l e tʲː
+287	mõrsja	256	2.0391	3.3094	m ɤ r s j ɑ
+287	virsik	256	2.0391	3.3094	v i r s i k
+288	rumeenia	249	1.9833	3.2974	r u m eː n i ɑ
+289	asteroid	247	1.9674	3.2939	ɑ s t e r o i̯ d̥
+290	küüslauk	244	1.9435	3.2886	k yː s l ɑ u̯ k
+291	hambapasta	243	1.9356	3.2868	h ɑ m b̥ ɑ p ɑ s t ɑ
+292	krõbe	241	1.9196	3.2832	k r ɤ b̥ e
+293	ballett	237	1.8878	3.276	b̥ ɑ lː e tʲː
+294	türklane	223	1.7762	3.2495	t y r k l ɑ n e
+295	tünn	221	1.7603	3.2456	t y nʲː
+295	vimm	221	1.7603	3.2456	v i mː
+296	iirimaa	219	1.7444	3.2416	iː r i m ɑː
+297	jalka	218	1.7364	3.2396	j ɑ l k ɑ
+298	sittuma	214	1.7046	3.2316	s i tː u m ɑ
+299	kooliõpetaja	208	1.6568	3.2193	k oː l i ɤ p e t ɑ j ɑ
+300	praha	207	1.6488	3.2172	p r ɑ h ɑ
+300	sülg	207	1.6488	3.2172	s y lʲ ɡ̊
+301	bulgaaria	203	1.6169	3.2087	b̥ u l ɡ̊ ɑː r i ɑ
+301	pagar	203	1.6169	3.2087	p ɑ ɡ̊ ɑ r
+302	käivitama	201	1.601	3.2044	k æ i̯ v i t ɑ m ɑ
+302	vaheldus	201	1.601	3.2044	v ɑ h e l d̥ u s
+303	jana	200	1.593	3.2022	j ɑ n ɑ
+304	mast	198	1.5771	3.1979	m ɑ sʲ t
+305	pühamu	196	1.5612	3.1935	p y h ɑ m u
+306	saun	192	1.5293	3.1845	s ɑ u̯ n
+307	kapuuts	191	1.5214	3.1822	k ɑ p uː t s
+308	ühiskondlik	187	1.4895	3.173	y h i s k o n d̥ l i k
+309	bosnia	183	1.4576	3.1636	b̥ o s n j ɑ
+310	õpetamine	179	1.4258	3.1541	ɤ p e t ɑ m i n e
+311	tonn	178	1.4178	3.1516	t o nʲː
+312	öökima	176	1.4019	3.1467	øː k i m ɑ
+313	mulk	175	1.3939	3.1442	m u lʲ k
+314	niit	174	1.3859	3.1417	n iː t
+315	kaaren	171	1.3621	3.1342	k ɑː r e n
+316	erektsioon	168	1.3382	3.1265	e r e k t s i oː n
+317	rakk	164	1.3063	3.116	r ɑ kː
+318	aastaaeg	162	1.2904	3.1107	ɑː s t ɑ ɑ e̯ ɡ̊
+319	kriit	161	1.2824	3.108	k r iː t
+320	lebama	157	1.2505	3.0971	l e b̥ ɑ m ɑ
+321	džäss	154	1.2266	3.0887	d̥ ʒ æ sː
+322	jõululaupäev	153	1.2187	3.0859	j ɤ u̯ l u l ɑ u̯ p æ e̯ v
+323	andreas	152	1.2107	3.083	ɑ n d̥ r e ɑ̯ s
+324	genotsiid	147	1.1709	3.0685	ɡ̊ e n o t s iː d̥
+325	napoli	144	1.147	3.0596	n ɑː p o l i
+326	stsenarist	140	1.1151	3.0473	s t s e n ɑ r i s t
+327	elamu	139	1.1072	3.0442	e l ɑ m u
+328	madrid	137	1.0912	3.0379	m ɑ d̥ r i d̥
+329	kairo	134	1.0673	3.0283	k ɑ i̯ r o
+329	kruus	134	1.0673	3.0283	k r uː s  |  k r uː sʲ
+329	moor	134	1.0673	3.0283	m oː r
+330	geograafia	133	1.0594	3.0251	ɡ̊ e o̯ ɡ̊ r ɑː f j ɑ
+330	piiramine	133	1.0594	3.0251	p iː r ɑ m i n e
+330	põhiseadus	133	1.0594	3.0251	p ɤ h i s e ɑ̯ d̥ u s
+331	helisema	132	1.0514	3.0218	h e l i s e m ɑ
+331	piirang	132	1.0514	3.0218	p iː r ɑ ŋ ɡ̊
+331	vahetusõpilane	132	1.0514	3.0218	v ɑ h e t u s ɤ p i l ɑ n e
+332	heleda	129	1.0275	3.0118	h e l e d̥ ɑ
+332	lust	129	1.0275	3.0118	l u sʲ t
+332	uno	129	1.0275	3.0118	u n o
+333	känd	127	1.0116	3.005	k æ n d̥
+334	režissöör	125	0.9957	2.9981	r e ʒ i sː øː r
+335	entsüklopeedia	124	0.9877	2.9946	e n t s y k l o p eː d̥ i ɑ
+335	monument	124	0.9877	2.9946	m o n u m e nʲ t
+335	pornograafia	124	0.9877	2.9946	p o r n o ɡ̊ r ɑː f j ɑ
+336	purse	121	0.9638	2.984	p u r s e
+337	aitüma	120	0.9558	2.9804	ɑ i̯ t y m ɑ
+338	kiik	113	0.9001	2.9543	k iː k
+339	täi	112	0.8921	2.9504	t æ i̯
+340	armeenia	111	0.8841	2.9465	ɑ r m eː n i ɑ
+340	nuss	111	0.8841	2.9465	n u sʲː
+341	gruusia	109	0.8682	2.9386	ɡ̊ r uː s i ɑ
+342	kõrs	107	0.8523	2.9306	k ɤ r s
+343	põlvitama	105	0.8363	2.9224	p ɤ lʲ v i t ɑ m ɑ
+344	rahvaarv	103	0.8204	2.914	r ɑ h v ɑ ɑ r v
+345	valamu	100	0.7965	2.9012	v ɑ l ɑ m u
+346	kalamari	98	0.7806	2.8924	k ɑ l ɑ m ɑ r i
+346	urg	98	0.7806	2.8924	u rː k
+346	šotimaa	98	0.7806	2.8924	ʃ o t i m ɑː
+347	piiramisrõngas	96	0.7647	2.8835	p iː r ɑ m i s r ɤ ŋ ɡ̊ ɑ s
+347	pluuto	96	0.7647	2.8835	p l uː t o
+348	jääaeg	93	0.7408	2.8697	j æː ɑ e̯ ɡ̊
+348	möllama	93	0.7408	2.8697	m ø lː ɑ m ɑ
+349	misjonär	92	0.7328	2.865	m i s j o n æ r
+350	manner	91	0.7248	2.8602	m ɑ nː e r
+351	oslo	90	0.7169	2.8555	o s l o
+351	torino	90	0.7169	2.8555	t o r iː n o
+351	ükssarvik	90	0.7169	2.8555	y k s s ɑ r v i k
+352	meene	87	0.693	2.8407	m eː n e  |  m eːː n e
+353	jelena	86	0.685	2.8357	j e l e n ɑ
+354	aktiveerima	85	0.677	2.8306	ɑ k t i v eː r i m ɑ
+355	mastirida	83	0.6611	2.8203	m ɑ sʲ t i r i d̥ ɑ
+355	sinisilmne	83	0.6611	2.8203	s i n i s i l m n e
+356	mänd	82	0.6531	2.815	m æ n d̥  |  m æ nʲ d̥
+357	rutt	79	0.6293	2.7989	r u tː
+358	grammatika	75	0.5974	2.7763	ɡ̊ r ɑ mː ɑ tʲ i k ɑ
+358	valgevene	75	0.5974	2.7763	v ɑ l ɡ̊ e v e n e
+359	leedu	74	0.5894	2.7704	l eː d̥ u
+360	sarajevo	73	0.5815	2.7645	s ɑ r ɑ j e v o
+360	viieteistkümnes	73	0.5815	2.7645	v iː e t e i̯ s t k y m n e s
+361	riietumine	72	0.5735	2.7585	r iː e t u m i n e
+362	geoloogia	71	0.5655	2.7524	ɡ̊ e o̯ l oː ɡ̊ j ɑ
+363	aevastama	70	0.5576	2.7463	ɑ e̯ v ɑ s t ɑ m ɑ
+364	budapest	69	0.5496	2.74	b̥ u d̥ ɑ p e s t
+364	vikat	69	0.5496	2.74	v i k ɑ t
+364	ä	69	0.5496	2.74	æː
+365	laiskus	68	0.5416	2.7337	l ɑ i̯ s k u s
+366	mandariin	67	0.5337	2.7273	m ɑ n d̥ ɑ r iː n
+367	läti	66	0.5257	2.7207	l æ t i
+368	lagrits	64	0.5098	2.7074	l ɑ ɡ̊ r i t s
+368	õ	64	0.5098	2.7074	ɤ  |  ɤː
+369	vandenõuteooria	63	0.5018	2.7005	v ɑ n d̥ e n ɤ u̯ t e o̯ː r i ɑ
+370	sõnn	60	0.4779	2.6793	s ɤ nː
+370	ämblikuvõrk	60	0.4779	2.6793	æ m b̥ l i k u v ɤ r k
+371	sõnavabadus	57	0.454	2.6571	s ɤ n ɑ v ɑ b̥ ɑ d̥ u s
+372	barrikaad	55	0.4381	2.6416	b̥ ɑ rː i k ɑː d̥
+372	tšehhi	55	0.4381	2.6416	t ʃ e hː i
+373	eeden	54	0.4301	2.6336	eː d̥ e n
+374	malta	53	0.4222	2.6255	m ɑ l t ɑ
+375	kasahstan	52	0.4142	2.6172	k ɑ s ɑ h s t ɑ n
+375	singapur	52	0.4142	2.6172	s i ŋ ɡ̊ ɑ p u r
+376	belfast	50	0.3983	2.6002	b̥ e l f ɑ s t
+376	horvaatia	50	0.3983	2.6002	h o r v ɑː t i ɑ
+376	õunapuu	50	0.3983	2.6002	ɤ u̯ n ɑ p uː  |  ɤ u̯ n ɑ pː uː
+377	maailmavaade	49	0.3903	2.5914	m ɑː i l m ɑ v ɑː d̥ e
+378	hüüumärk	46	0.3664	2.564	h y i̯ u m æ r k
+378	nikkuma	46	0.3664	2.564	n i kː u m ɑ
+379	kuueteistkümnes	45	0.3584	2.5544	k uː e t e i̯ s t k y m n e s
+379	neljateistkümnes	45	0.3584	2.5544	n e l j ɑ t e i̯ s t k y m n e s
+379	okeaania	45	0.3584	2.5544	o k e ɑ̯ ɑ n i ɑ
+379	ööliblikas	45	0.3584	2.5544	øː l i b̥ l i k ɑ s
+380	belgrad	44	0.3505	2.5447	b̥ e l ɡ̊ r ɑ d̥
+380	minsk	44	0.3505	2.5447	m i n s k
+381	angelika	43	0.3425	2.5347	ɑ ŋ ɡ̊ e l i k ɑ
+381	mõla	43	0.3425	2.5347	m ɤ l ɑ
+381	šampoon	43	0.3425	2.5347	ʃ ɑ m p oː n
+382	eha	42	0.3345	2.5244	e h ɑ
+382	juurima	42	0.3345	2.5244	j uː r i m ɑ
+383	ablas	40	0.3186	2.5032	ɑ b̥ l ɑ s
+383	piiraja	40	0.3186	2.5032	p iː r ɑ j ɑ
+384	riia	39	0.3106	2.4922	r iː ɑ
+385	aleksandra	37	0.2947	2.4694	ɑ l e k s ɑ n d̥ r ɑ
+385	kiiev	37	0.2947	2.4694	k iː e v
+386	jalanõu	36	0.2867	2.4574	j ɑ l ɑ n ɤ u̯
+386	urr	36	0.2867	2.4574	u rː
+386	õrnus	36	0.2867	2.4574	ɤ r n u s
+387	šaakal	35	0.2788	2.4453	ʃ ɑː k ɑ l
+388	kiirusepiirang	33	0.2629	2.4198	k iː r u s e p iː r ɑ ŋ ɡ̊
+388	kopenhaagen	33	0.2629	2.4198	k o p e n h ɑː ɡ̊ e n
+388	kõõm	33	0.2629	2.4198	k ɤː m
+389	slovakkia	32	0.2549	2.4064	s l o v ɑ kː i ɑ
+390	kloor	31	0.2469	2.3925	k l oː r
+390	žürii	31	0.2469	2.3925	ʒ y r iː
+391	pahavara	30	0.239	2.3784	p ɑ h ɑ v ɑ r ɑ
+392	aplus	29	0.231	2.3636	ɑ p l u s
+392	brüssel	29	0.231	2.3636	b̥ r y sː e l
+392	nädalapäev	29	0.231	2.3636	n æ d̥ ɑ l ɑ p æ e̯ v
+392	tallinn	29	0.231	2.3636	t ɑ lʲ i n ɑ  |  t ɑ lʲ n ɑ  |  t ɑ lʲː i nː  |  t ɑ lʲːː i nː
+393	kiikuma	28	0.223	2.3483	k iː k u m ɑ
+393	põldpüü	28	0.223	2.3483	p ɤ l d̥ p yː
+393	seitsmeteistkümnes	28	0.223	2.3483	s e i̯ t s m e t e i̯ s t k y m n e s
+393	tallama	28	0.223	2.3483	t ɑ lː ɑ m ɑ
+394	bukarest	26	0.2071	2.3162	b̥ u k ɑ r e s t
+394	kastrul	26	0.2071	2.3162	k ɑ s t r u l
+395	käibemaks	24	0.1912	2.2815	k æ i̯ b̥ e m ɑ k s
+396	kõblas	22	0.1752	2.2435	k ɤ b̥ l ɑ s
+396	vagu	22	0.1752	2.2435	v ɑ ɡ̊ u
+397	tibla	20	0.1593	2.2022	t i b̥ l ɑ
+397	varamu	20	0.1593	2.2022	v ɑ r ɑ m u
+398	kaheksateistkümnes	19	0.1513	2.1798	k ɑ h e k s ɑ t e i̯ s t k y m n e s
+398	vall	19	0.1513	2.1798	v ɑ lʲː
+398	ühistransport	19	0.1513	2.1798	y h i s t r ɑ n s p o r t
+399	eramu	18	0.1434	2.1565	e r ɑ m u
+399	pürgima	18	0.1434	2.1565	p y r ɡ̊ i m ɑ
+400	siim	17	0.1354	2.1316	s iː m
+401	resto	16	0.1274	2.1052	r e s t o
+402	aituma	15	0.1195	2.0774	ɑ i̯ t u m ɑ
+402	lesima	15	0.1195	2.0774	l e s i m a
+402	sloveenia	15	0.1195	2.0774	s l o v eː n i ɑ
+403	küpros	14	0.1115	2.0473	k y p r o s
+403	piiramatus	14	0.1115	2.0473	p iː r ɑ m ɑ t u s
+403	žilett	14	0.1115	2.0473	ʒ i l e tʲː
+404	lissabon	13	0.1035	2.0149	l i sː ɑ b̥ o n
+405	piiratus	12	0.0956	1.9805	p iː r ɑ t u s
+405	suguti	12	0.0956	1.9805	s u ɡ̊ u t i
+406	aabits	11	0.0876	1.9425	ɑː b i t s
+406	ajapiirang	11	0.0876	1.9425	ɑ j ɑ p iː r ɑ ŋ ɡ̊
+406	kiiruspiirang	11	0.0876	1.9425	k iː r u s p iː r ɑ ŋ ɡ̊
+406	veevarustus	11	0.0876	1.9425	v eː v ɑ r u s t u s
+406	ümberlõikamine	11	0.0876	1.9425	y m b̥ e r l ɤ i̯ k ɑ m i n e
+407	üheksateistkümnes	10	0.0797	1.9015	y h e k s ɑ t e i̯ s t k y m n e s
+408	enesepiiramine	9	0.0717	1.8555	e n e s e p iː r ɑ m i n e
+409	džemper	8	0.0637	1.8041	d̥ ʒ e m p e r
+409	nuuk	8	0.0637	1.8041	n uː k
+409	seek	8	0.0637	1.8041	s eː k
+409	siimon	8	0.0637	1.8041	s iː m o n
+409	vanusepiirang	8	0.0637	1.8041	v ɑ n u s e p iː r ɑ ŋ ɡ̊
+410	jaanipäev	7	0.0558	1.7466	j ɑː n i p æ e̯ v
+410	soolama	7	0.0558	1.7466	s oː l ɑ m ɑ
+411	otsetõus	6	0.0478	1.6794	o t s e t ɤ u̯ s
+412	antarktis	5	0.0398	1.5999	ɑ n t ɑ r k t i s
+412	hertsegoviina	5	0.0398	1.5999	h e r t s e ɡ̊ o v iː n ɑ
+412	hoomama	5	0.0398	1.5999	h oː m ɑ m ɑ
+412	seljak	5	0.0398	1.5999	s e l j ɑ k
+413	alk	4	0.0319	1.5038	ɑ lʲ k
+413	liechtenstein	4	0.0319	1.5038	l i h t e n ʃ t ɑ i̯ n
+413	süvameri	4	0.0319	1.5038	s y v ɑ m e r i
+414	püü	3	0.0239	1.3784	p yː
+414	rikastuma	3	0.0239	1.3784	r i k ɑ s t u m ɑ
+414	saaremaa	3	0.0239	1.3784	s ɑː r e m ɑː
+414	süva	3	0.0239	1.3784	s y v ɑ
+415	andorra	2	0.0159	1.2014	ɑ n d̥ o rː ɑ
+415	aserbaidžaan	2	0.0159	1.2014	ɑ s e r b̥ ɑ i̯ d̥ ʒ ɑː n
+415	kahjurvara	2	0.0159	1.2014	k ɑ h j u r v ɑ r ɑ
+415	luide	2	0.0159	1.2014	l u i̯ d̥ e
+415	niidistik	2	0.0159	1.2014	n iː d̥ i s t i k
+415	piiramistorn	2	0.0159	1.2014	p iː r ɑ m i s t o r n
+415	valletta	2	0.0159	1.2014	v ɑ lː e tː ɑ
+416	piirdumine	1	0.008	0.9031	p iː r d̥ u m i n e
+416	siimeon	1	0.008	0.9031	s iː m e o̯ n
+416	š	1	0.008	0.9031	ʃ ɑː
+416	šiiit	1	0.008	0.9031	ʃ i iː t

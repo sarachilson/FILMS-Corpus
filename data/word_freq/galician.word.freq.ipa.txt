@@ -1,0 +1,2144 @@
+Rank	Word	Frequency	Frequency per million	Zipf value	IPA
+1	que	75767	41165.1218	7.6145	k ɪ
+2	a	61891	33626.1242	7.5267	a  |  a̝
+3	de	50115	27228.0818	7.435	d ɪ
+4	e	40336	21915.0336	7.3407	ɪ
+5	é	27880	15147.5391	7.1803	ɛ
+6	un	23041	12518.4522	7.0976	u ŋ
+7	os	16285	8847.8362	6.9468	ʊ s
+8	unha	15540	8443.0688	6.9265	u ŋ a̝
+9	do	13640	7410.7759	6.8699	d̪ ʊ
+10	en	13046	7088.0486	6.8505	e ŋ
+11	da	11322	6151.3787	6.789	d̪ ɐ
+12	as	9892	5374.4425	6.7303	ɐ s
+13	como	9209	5003.3604	6.6993	k ʊ m ʊ
+14	no	8084	4392.1344	6.6427	n ʊ
+15	ao	7819	4248.1567	6.6282	ɔ
+16	ben	7674	4169.3764	6.6201	b ɛ ŋ
+17	eu	7516	4083.5331	6.611	e w  |  j e w  |  ɛ w  |  ɪ w
+18	na	7251	3939.5555	6.5954	n ɐ
+19	con	7021	3814.5937	6.5814	k ɔ ŋ
+20	aquí	6614	3593.4657	6.5555	a k i
+21	son	6441	3499.4727	6.544	s̺ o ŋ
+22	meu	5578	3030.5944	6.4815	m e w  |  m ɛ w
+23	xa	5499	2987.6728	6.4753	ʃ a
+24	ti	5250	2852.3881	6.4552	t i
+25	dos	4630	2515.5346	6.4006	d̪ ʊ s̺
+26	miña	4323	2348.7379	6.3708	m i ɲ a̝
+27	moi	4058	2204.7602	6.3434	m o j
+28	onde	4028	2188.4608	6.3401	o n d e̝
+29	ten	3889	2112.9404	6.3249	t ɛ ŋ
+30	ser	3802	2065.6723	6.3151	s e ɾ
+31	el	3633	1973.8526	6.2953	e l
+32	teño	3568	1938.5373	6.2875	t e ɲ ʊ
+33	esta	3505	1904.3086	6.2797	ɛ s t ɐ
+34	quen	3432	1864.6468	6.2706	k e ŋ
+35	nos	3404	1849.4341	6.267	n ʊ s
+36	xente	2648	1438.6902	6.158	ʃ e n t e̝
+37	das	2600	1412.6112	6.15	d̪ ɐ s̺
+38	tamén	2598	1411.5246	6.1497	t a m ɛ ŋ
+39	señor	2580	1401.745	6.1467	s e ɲ o ɾ
+40	vez	2526	1372.4062	6.1375	b e s  |  b e θ
+41	teu	2449	1330.5711	6.124	t e w
+42	sen	2442	1326.768	6.1228	s ɛ ŋ
+43	vostede	2301	1250.161	6.097	b o s t e ð ɪ
+44	túa	2285	1241.468	6.0939	ʲt u ɐ
+45	dicir	2281	1239.2947	6.0932	d i θ i ɾ
+46	che	2241	1217.5622	6.0855	t͡ʃ e
+47	mesmo	2202	1196.3731	6.0779	m i h m o̝  |  m i ɾ m o̝  |  m ɛ s m o̝
+48	aos	2176	1182.247	6.0727	ɔ s
+49	nin	2131	1157.7979	6.0636	n i ŋ
+50	tes	2121	1152.3648	6.0616	t ɛ s
+51	nós	2111	1146.9317	6.0595	n ɔ s
+52	es	1943	1055.6553	6.0235	ɛ s
+53	temos	1881	1021.9699	6.0094	t e m ʊ s
+54	traballo	1846	1002.954	6.0013	t ɾ a β a ʎ o̝
+55	mundo	1795	975.2451	5.9891	m u n ð o̝
+56	ás	1792	973.6151	5.9884	a s
+57	ese	1759	955.6858	5.9803	e s ɪ
+58	esa	1722	935.5833	5.9711	ɛ s ɐ
+59	bo	1676	910.5909	5.9593	b o
+60	entón	1637	889.4018	5.9491	e n t o ŋ
+61	pai	1619	879.6222	5.9443	p a j
+62	eles	1567	851.3699	5.9301	e l ɪ s
+63	alí	1557	845.9368	5.9273	a l i
+64	nun	1503	816.598	5.912	n u ŋ
+65	falar	1476	801.9285	5.9041	f a l a ɾ
+66	noso	1421	772.0464	5.8876	n ɔ s ʊ
+67	pouco	1416	769.3298	5.8861	p o w k o̝
+68	nosa	1298	705.219	5.8483	n ɔ s ɐ
+69	mañá	1288	699.7859	5.845	m a ɲ a
+70	hoxe	1272	691.0929	5.8395	o ʃ e̝
+71	nai	1258	683.4865	5.8347	n a j
+72	ola	1222	663.9273	5.8221	ɔ l ɐ
+73	nas	1220	662.8407	5.8214	n ɐ s
+74	muller	1202	653.061	5.815	m u ɟ ɛ ɾ  |  m u ʎ ɛ ɾ
+75	meus	1199	651.4311	5.8139	m e w s
+76	tres	1197	650.3445	5.8131	t ɾ ɪ s
+77	guerra	1196	649.8012	5.8128	ɡ ɛ r a̝
+78	fillo	1192	647.6279	5.8113	f i ʎ o̝
+79	menos	1186	644.3681	5.8091	m e n ʊ s
+80	claro	1139	618.8324	5.7916	k l a ɾ o̝
+81	parte	1125	611.226	5.7862	p a ɾ t e̝
+82	nunha	1113	604.7063	5.7815	n u ŋ ɐ
+83	canto	1059	575.3674	5.7599	k a n t o̝
+84	teñen	1052	571.5642	5.7571	t ɛ ɲ e ŋ
+85	ó	1024	556.3515	5.7453	ɔ
+86	mal	964	523.7528	5.7191	m a l
+87	momento	957	519.9496	5.716	m o m e n t o̝
+87	terra	957	519.9496	5.716	t ɛ r a̝
+88	daquela	895	486.2643	5.6869	d a k e l a  |  d a k ɛ l a
+89	auga	862	468.335	5.6706	a w ɡ a
+90	xeito	836	454.2088	5.6573	ʃ e j t o̝
+91	saber	808	438.9961	5.6425	s a β e ɾ
+92	merda	802	435.7362	5.6392	m ɛ ɾ ð a̝
+93	país	798	433.563	5.6371	p a i s
+94	pobo	779	423.2401	5.6266	p ɔ β o̝
+95	ano	764	415.0904	5.6181	ɐ n ʊ
+95	morte	764	415.0904	5.6181	m ɔ ɾ t e̝
+96	desde	763	414.5471	5.6176	d e s ð e̝
+97	feito	752	408.5706	5.6113	f e j t o̝  |  f ɛ j t o̝
+97	uns	752	408.5706	5.6113	u ŋ s
+98	estes	723	392.8146	5.5942	e s t ɪ s
+99	cabeza	719	390.6413	5.5918	k a β e s a̝  |  k a β e θ a̝
+100	somos	715	388.4681	5.5894	s o m ʊ s
+101	ningún	710	385.7515	5.5863	n i ŋ ɡ u ŋ
+102	traballar	705	383.035	5.5832	t ɾ a β a ʎ a ɾ
+103	dar	681	369.9955	5.5682	d a ɾ
+104	policía	675	366.7356	5.5644	p ʊ l i θ j ɐ
+105	irmán	672	365.1057	5.5624	i ɾ m a o̯  |  i ɾ m a ŋ
+106	cal	642	348.8063	5.5426	k a l
+107	estas	639	347.1764	5.5406	ɛ s t ɐ s
+108	camiño	634	344.4598	5.5371	k a m i ɲ o̝
+109	vén	625	339.57	5.5309	b ɛ ŋ
+110	volta	623	338.4834	5.5295	b ɔ l t a̝
+111	algunha	612	332.507	5.5218	a l ɣ u ŋ a̝
+112	eses	605	328.7038	5.5168	e s ɪ s
+113	vivir	601	326.5305	5.5139	b i β i ɾ
+114	cinco	587	318.9242	5.5037	θ i ŋ k ʊ
+115	porta	580	315.121	5.4985	p ɔ ɾ t a̝
+116	chegar	546	296.6484	5.4722	t͡ʃ e ɣ a ɾ
+117	ningunha	540	293.3885	5.4674	n i ŋ ɡ u ŋ a̝
+118	matar	538	292.3019	5.4658	m a t a ɾ
+119	rapaz	527	286.3254	5.4569	r a p a s  |  r a p a θ
+120	corazón	519	281.9789	5.4502	k o ɾ a s o ŋ  |  k o ɾ a θ o ŋ
+121	cuarto	513	278.7191	5.4452	k w a ɾ t o̝
+122	pequeno	503	273.2859	5.4366	p e k e n o̝
+123	paz	501	272.1993	5.4349	p a s  |  p a θ
+123	vello	501	272.1993	5.4349	b ɛ ʎ o̝
+124	marchar	486	264.0496	5.4217	m a ɾ t͡ʃ a ɾ
+124	medio	486	264.0496	5.4217	m e ð i o̝  |  m e ð j o̝
+125	campo	485	263.5063	5.4208	k ã m p o̝
+126	forma	484	262.963	5.4199	f o ɾ m a̝
+127	esas	481	261.3331	5.4172	ɛ s ɐ s
+128	sorte	477	259.1598	5.4136	s ɔ ɾ t e̝
+129	levar	475	258.0732	5.4117	l e β a ɾ
+130	sangue	460	249.9235	5.3978	s a ŋ ɡ e̝
+131	irmá	450	244.4904	5.3883	i ɾ m a  |  i ɾ m a ŋ
+132	diñeiro	444	241.2305	5.3824	d i ɲ e j ɾ o̝
+133	neno	443	240.6872	5.3815	n e n ʊ
+134	del	440	239.0573	5.3785	d e l
+135	fala	434	235.7974	5.3725	f a l a̝
+136	moza	433	235.2541	5.3715	m o s a̝  |  m o θ a̝
+137	palabra	430	233.6242	5.3685	p a l a β̞ ɾ ɐ
+138	forte	424	230.3643	5.3624	f ɔ ɾ t e̝
+139	comida	418	227.1044	5.3562	k o m i ð a̝
+140	mozo	415	225.4745	5.3531	m o s o̝  |  m o θ o̝
+141	onte	413	224.3879	5.351	ɔ n t e̝
+142	tolo	403	218.9547	5.3404	t o l o̝
+143	atopar	401	217.8681	5.3382	a t o p a ɾ
+143	vosa	401	217.8681	5.3382	b ɔ s ɐ
+144	diante	396	215.1516	5.3327	d i a n t e̝  |  d j a n t e̝
+145	unhas	392	212.9783	5.3283	u ŋ ɐ s
+146	deles	388	210.8051	5.3239	d e l ɪ s
+147	alto	382	207.5452	5.3171	a l t o̝
+147	rapaza	382	207.5452	5.3171	r a p a s a  |  r a p a θ a
+148	pais	374	203.1987	5.3079	p a j s
+149	atrás	372	202.1121	5.3056	a t ɾ a s
+149	pé	372	202.1121	5.3056	p ɛ
+150	carallo	369	200.4821	5.3021	k a ɾ a ʎ o̝
+151	seis	366	198.8522	5.2985	s e j s
+152	tomar	361	196.1356	5.2926	t o m a ɾ
+153	mar	358	194.5057	5.2889	m a ɾ
+154	carta	353	191.7891	5.2828	k a ɾ t ɐ
+155	nena	352	191.2458	5.2816	n e n a
+156	loita	339	184.1828	5.2652	l o j t a̝
+157	branco	328	178.2063	5.2509	b ɾ a ŋ k ʊ
+158	buscar	324	176.0331	5.2456	b u s k a ɾ
+159	chama	321	174.4032	5.2416	t͡ʃ a m a̝
+160	cámara	320	173.8598	5.2402	k a m a̝ ɾ a̝
+161	pobre	302	164.0802	5.2151	p ɔ β ɾ e̝
+162	mil	295	160.277	5.2049	m i l
+163	xogo	290	157.5605	5.1974	ʃ ɔ ɣ o̝
+164	lei	286	155.3872	5.1914	l e i
+165	vostedes	285	154.8439	5.1899	b o s t e ð ɪ s
+166	chamar	284	154.3006	5.1884	t͡ʃ a m a ɾ
+167	coller	282	153.214	5.1853	k o ʎ e ɾ
+168	can	277	150.4974	5.1775	k a ŋ
+169	libro	275	149.4108	5.1744	l i β ɾ o̝
+169	mes	275	149.4108	5.1744	m e s
+170	sodes	274	148.8675	5.1728	s o d ɪ s
+171	intre	267	145.0643	5.1616	i n t ɾ e̝
+172	dela	263	142.8911	5.155	d ɛ l ɐ
+173	hospital	260	141.2611	5.15	ɔ s p i t a l
+173	loitar	260	141.2611	5.15	l o j t a ɾ
+173	vista	260	141.2611	5.15	b i s t a̝
+174	longo	259	140.7178	5.1483	l o ŋ ɡ o̝
+174	teléfono	259	140.7178	5.1483	t e l ɛ f ɔ n ʊ
+175	chan	258	140.1745	5.1467	t͡ʃ a ŋ
+176	pagar	257	139.6312	5.145	p a ɣ a ɾ
+176	raíña	257	139.6312	5.145	r a i ɲ a̝
+177	barco	254	138.0013	5.1399	b a ɾ k ʊ
+178	fábrica	252	136.9146	5.1364	f a β ɾ i k a̝
+178	media	252	136.9146	5.1364	m e ð j ɐ
+179	esposa	251	136.3713	5.1347	e s p o s a̝
+180	banda	250	135.828	5.133	b a n d a̝
+180	estraño	250	135.828	5.133	e s t ɾ a ɲ o̝
+181	aire	247	134.1981	5.1277	a j ɾ e̝
+181	hotel	247	134.1981	5.1277	ɔ t ɛ l
+181	mirar	247	134.1981	5.1277	m i ɾ a ɾ
+182	carne	244	132.5681	5.1224	k a ɾ n e̝
+182	gañar	244	132.5681	5.1224	ɡ a ɲ a ɾ
+183	muro	243	132.0248	5.1207	m u ɾ o̝
+184	abondo	242	131.4815	5.1189	a β o n d o̝
+185	ouro	234	127.135	5.1043	o w ɾ ʊ
+186	ós	232	126.0484	5.1005	ɔ s
+187	solar	231	125.5051	5.0987	s o l a ɾ
+188	pena	230	124.9618	5.0968	p e n a̝
+189	ollo	227	123.3318	5.0911	o ʎ ʊ  |  ɔ ʝ ʊ
+190	aquel	226	122.7885	5.0892	a k e l
+191	pan	225	122.2452	5.0872	p a ŋ
+192	oficina	221	120.072	5.0794	ʊ f i θ i n ɐ
+193	fondo	219	118.9853	5.0755	f o n d o̝
+193	médico	219	118.9853	5.0755	m ɛ ð i k ʊ
+193	parvo	219	118.9853	5.0755	p a ɾ β o̝
+194	ficar	218	118.442	5.0735	f i k a ɾ
+195	veñen	217	117.8987	5.0715	b e ɲ e ŋ
+196	planeta	213	115.7255	5.0634	p l a n e t a
+197	aqueles	212	115.1821	5.0614	a k e l ɪ s
+197	liña	212	115.1821	5.0614	l i ɲ a̝
+197	maio	212	115.1821	5.0614	m a j o̝
+197	tren	212	115.1821	5.0614	t ɾ ɛ ŋ
+198	oito	209	113.5522	5.0552	o j t o̝
+199	serán	207	112.4656	5.051	s e ɾ a ŋ
+200	lúa	204	110.8357	5.0447	l u ɐ
+201	comezo	202	109.749	5.0404	k o m e s o̝  |  k o m ɛ θ o̝
+202	caer	201	109.2057	5.0382	k a e ɾ
+202	verán	201	109.2057	5.0382	b ɾ a ŋ
+203	vila	197	107.0325	5.0295	b i l a̝
+204	escoitar	196	106.4892	5.0273	e s k o j t a ɾ  |  e s k u j t a ɾ
+204	manter	196	106.4892	5.0273	m a n t e ɾ
+205	igrexa	195	105.9458	5.0251	i ɣ ɾ e ʃ a̝
+206	elas	194	105.4025	5.0229	ɛ l ɐ s
+206	illa	194	105.4025	5.0229	i ʎ a
+207	vimos	193	104.8592	5.0206	b i m ʊ s
+208	vento	189	102.686	5.0115	b e n t o̝  |  b ɛ n t o̝
+209	dúbida	187	101.5993	5.0069	d u β i ð a̝
+209	ren	187	101.5993	5.0069	r e ŋ
+210	cadea	184	99.9694	4.9999	k a ð e a̝
+211	raro	182	98.8828	4.9951	r a ɾ o̝
+211	vinte	182	98.8828	4.9951	b i n t ɪ
+212	compostela	181	98.3395	4.9927	k o m p o s t ɛ l a
+213	cheo	178	96.7095	4.9855	t͡ʃ e o̝
+213	tenda	178	96.7095	4.9855	t e n d a̝  |  t ɛ n d a̝
+214	aquela	176	95.6229	4.9806	a k ɛ l ɐ
+214	francés	176	95.6229	4.9806	f ɾ a n θ ɛ s
+215	cea	175	95.0796	4.9781	s e a̝  |  θ e a̝
+215	mercar	175	95.0796	4.9781	m e r k a ɾ
+215	xunto	175	95.0796	4.9781	ʃ u n t o̝
+216	chea	174	94.5363	4.9756	t͡ʃ e a̝
+217	sentir	173	93.993	4.9731	s e n t i ɾ
+218	memoria	171	92.9064	4.968	m e m ɔ ɾ j a
+218	partir	171	92.9064	4.968	p a ɾ t i ɾ
+218	pedir	171	92.9064	4.968	p ɨ ð i ɾ
+219	botar	168	91.2764	4.9604	b o t a r
+219	cabo	168	91.2764	4.9604	k a β o̝
+220	aldea	167	90.7331	4.9578	a l d e a̝
+221	fogar	166	90.1898	4.9552	f o ɣ a ɾ
+222	rematar	164	89.1032	4.9499	r e m a t a ɾ
+223	baño	161	87.4732	4.9419	b a ɲ o̝
+224	consello	160	86.9299	4.9392	k o n s e ʎ o̝
+225	doado	158	85.8433	4.9337	d o a ð o̝  |  d u a ð o̝
+225	présa	158	85.8433	4.9337	p ɾ ɛ s a̝
+226	demo	156	84.7567	4.9282	d ɛ m o̝
+227	azul	153	83.1267	4.9197	a s u l  |  a θ u l
+228	tola	151	82.0401	4.914	t ɔ l a
+229	nove	149	80.9535	4.9082	n ɔ β e̝
+230	riba	148	80.4102	4.9053	r i β a̝
+231	andar	145	78.7802	4.8964	a n d a ɾ
+231	xuízo	145	78.7802	4.8964	ʃ w i s̻ ʊ  |  ʃ w i θ ʊ
+232	porco	144	78.2369	4.8934	p ɔ ɾ k o̝
+233	banco	143	77.6936	4.8904	b a ŋ k o̝
+233	estrada	143	77.6936	4.8904	e s t ɾ a ð a̝
+234	pra	142	77.1503	4.8873	p ɾ a
+234	sacar	142	77.1503	4.8873	s a k a ɾ
+235	cabrón	141	76.607	4.8843	k a β ɾ o ŋ
+236	teatro	140	76.0637	4.8812	t ɪ a t ɾ ʊ
+237	mestre	139	75.5204	4.8781	m ɛ s t ɾ ɪ
+237	veño	139	75.5204	4.8781	b e ɲ ʊ
+238	corte	138	74.9771	4.8749	k o ɾ t e̝  |  k ɔ ɾ t e̝
+239	chamas	136	73.8904	4.8686	t͡ʃ ɐ m ɐ s
+239	ferro	136	73.8904	4.8686	f ɛ r o̝
+240	conto	135	73.3471	4.8654	k o n t o̝
+240	árbore	135	73.3471	4.8654	a ɾ β o̝ ɾ e̝
+241	alemaña	134	72.8038	4.8622	a l e m ɐ ɲ ɐ
+241	sabelo	134	72.8038	4.8622	s a β ɛ l o̝
+242	anaco	133	72.2605	4.8589	a n a k o̝
+243	probar	132	71.7172	4.8556	p ɾ o β a ɾ
+244	ama	131	71.1739	4.8523	a m a̝
+244	carro	131	71.1739	4.8523	k a r o̝
+245	avó	130	70.6306	4.849	a β o̝
+245	reino	130	70.6306	4.849	r e j n o̝
+245	traxe	130	70.6306	4.849	t ɾ a ʃ e̝
+246	carreira	129	70.0873	4.8456	k a r e j ɾ a̝
+247	cabaleiro	128	69.5439	4.8423	k a β a l e j ɾ o̝
+247	chorar	128	69.5439	4.8423	t͡ʃ o ɾ a ɾ
+247	ho	128	69.5439	4.8423	ɔ
+248	sinal	127	69.0006	4.8389	s i n a l
+249	acabar	126	68.4573	4.8354	a k a b a ɾ
+249	pescozo	126	68.4573	4.8354	p e s k o s o̝  |  p e s k o θ o̝
+249	ruído	126	68.4573	4.8354	r u i ð o̝
+249	viña	126	68.4573	4.8354	b i ɲ a̝
+250	cervexa	125	67.914	4.832	s e ɾ β e ʃ a̝  |  θ e ɾ β e ʃ a̝
+250	costa	125	67.914	4.832	k ɔ s t a̝
+251	esquecer	124	67.3707	4.8285	e s k ɛ s e ɾ  |  e s k ɛ θ e ɾ
+252	cárcere	123	66.8274	4.825	k a ɾ s e̝ ɾ e̝  |  k a ɾ θ e̝ ɾ e̝
+252	rico	123	66.8274	4.825	r i k o̝
+253	alemán	122	66.2841	4.8214	a l e m a n
+253	ambos	122	66.2841	4.8214	a m b o̝ s
+254	corre	121	65.7408	4.8178	k o r e̝
+255	voda	120	65.1974	4.8142	b o d a
+256	caixa	118	64.1108	4.8069	k a j ʃ a̝
+257	monte	117	63.5675	4.8032	m o n t ɪ
+258	arroz	116	63.0242	4.7995	a r o s
+258	fiestra	116	63.0242	4.7995	f i ɛ s t ɾ a̝
+259	fogo	115	62.4809	4.7957	f o ɣ o  |  f ɔ ɣ o
+259	han	115	62.4809	4.7957	a n
+260	caste	114	61.9376	4.792	k a s t e̝
+260	doutro	114	61.9376	4.792	d o w t ɾ o
+260	has	114	61.9376	4.792	a s
+260	vira	114	61.9376	4.792	b i ɾ a̝
+261	amo	113	61.3943	4.7881	a m o̝
+261	beira	113	61.3943	4.7881	b e j ɾ a̝
+261	sinxelo	113	61.3943	4.7881	s i n ʃ ɛ l o̝
+261	trono	113	61.3943	4.7881	t ɾ o n o̝  |  t ɾ ɔ n o̝
+262	parede	112	60.8509	4.7843	p a ɾ e ð e̝
+262	tirar	112	60.8509	4.7843	t i ɾ a ɾ
+263	castelo	111	60.3076	4.7804	k a s t ɛ l o̝  |  k æ s t ɛ l o̝
+263	cen	111	60.3076	4.7804	θ e ŋ
+263	cristo	111	60.3076	4.7804	k ɾ i s t o̝
+263	saia	111	60.3076	4.7804	s a j a̝
+264	saída	109	59.221	4.7725	s a i ð a̝
+265	cear	108	58.6777	4.7685	s e a ɾ  |  θ e a ɾ
+266	abrir	107	58.1344	4.7644	a β r i r
+266	chave	107	58.1344	4.7644	t͡ʃ a β e̝
+266	próximo	107	58.1344	4.7644	p ɾ ɔ k s i m ʊ
+266	vés	107	58.1344	4.7644	b ɛ s
+267	querer	106	57.5911	4.7604	k e ɾ e ɾ
+268	lixo	105	57.0478	4.7562	l i ʃ o̝
+268	luns	105	57.0478	4.7562	l u ŋ s
+269	españa	104	56.5044	4.7521	e s p a ɲ ɐ
+270	val	103	55.9611	4.7479	b a l
+271	coidar	102	55.4178	4.7436	k o j ð a ɾ
+271	golpe	102	55.4178	4.7436	ɡ ɔ l p e̝
+272	abrigo	101	54.8745	4.7394	a β ɾ i ɣ o̝
+272	alén	101	54.8745	4.7394	a l e ŋ  |  a l ɛ ŋ
+272	inferno	101	54.8745	4.7394	i ɱ f ɛ ɾ n o̝
+273	nadal	100	54.3312	4.735	n a ð a l
+273	terreo	100	54.3312	4.735	t ɛ r e o̝
+274	meter	99	53.7879	4.7307	m e t e ɾ
+274	nariz	99	53.7879	4.7307	n a ɾ i s  |  n a ɾ i θ
+275	porén	98	53.2446	4.7263	p o ɾ e ŋ
+276	aceiro	96	52.158	4.7173	a s e j ɾ o̝  |  a θ e j ɾ o̝
+276	presa	96	52.158	4.7173	p ɾ e s a̝
+277	alcalde	95	51.6146	4.7128	a l k a l ð e̝
+277	bandeira	95	51.6146	4.7128	b a n d e j ɾ a̝
+277	delas	95	51.6146	4.7128	d ɛ l ɐ s
+277	piscina	95	51.6146	4.7128	p i s θ i n ɐ
+277	sombra	95	51.6146	4.7128	s o m b ɾ a
+278	roubar	94	51.0713	4.7082	r o w β a ɾ
+278	xuíz	94	51.0713	4.7082	ʃ u i θ
+279	lembrar	93	50.528	4.7035	l e m b ɾ a ɾ
+279	peixe	93	50.528	4.7035	p e j ʃ  |  p e j ʃ e̝
+279	risco	93	50.528	4.7035	r i s k o̝
+280	dona	92	49.9847	4.6988	d o n a̝
+280	escoller	92	49.9847	4.6988	e s k o ʎ e ɾ
+280	intención	92	49.9847	4.6988	i n t e n θ j o ŋ
+280	praza	92	49.9847	4.6988	p ɾ a s a̝  |  p ɾ a θ a̝
+280	trinta	92	49.9847	4.6988	t r i n t a̝
+281	cativo	91	49.4414	4.6941	k a t i β o̝
+281	imaxinar	91	49.4414	4.6941	i m a ʃ i n a ɾ
+281	pasada	91	49.4414	4.6941	p a s a ð a̝
+282	perda	89	48.3548	4.6844	p ɛ ɾ ð a̝
+283	granxa	88	47.8115	4.6795	ɡ ɾ a n ʃ a̝
+283	reloxo	88	47.8115	4.6795	r e l ɔ  |  r e l ɔ ʃ o̝
+283	rostro	88	47.8115	4.6795	r o s t ɾ o̝
+284	outeiro	87	47.2681	4.6746	o w t e j ɾ o
+285	bosque	86	46.7248	4.6695	b ɔ s k e
+286	cona	83	45.0949	4.6541	k o n a̝
+286	escenario	83	45.0949	4.6541	e s e n a ɾ j o  |  e s θ e n a ɾ j o
+287	area	82	44.5516	4.6489	a ɾ e a̝
+287	artista	82	44.5516	4.6489	a ɾ t i s t ɐ
+287	xantar	82	44.5516	4.6489	ʃ a n t a ɾ
+288	franco	81	44.0083	4.6435	f r a ŋ k o̝  |  f ɾ a ŋ k ʊ
+288	linguaxe	81	44.0083	4.6435	l i ŋ ɡ w a ʃ e̝
+289	arranxar	80	43.465	4.6381	a r a n ʃ a ɾ
+289	peito	80	43.465	4.6381	p e j t o̝
+290	acadar	79	42.9216	4.6327	a k a ð a ɾ
+290	perna	79	42.9216	4.6327	p ɛ ɾ n a̝
+291	coroa	78	42.3783	4.6271	k o ɾ o a̝  |  k ɾ o a̝
+292	foder	77	41.835	4.6215	f o ð e ɾ
+292	rexión	77	41.835	4.6215	r e ʃ j o ŋ
+292	rusia	77	41.835	4.6215	r u s j a
+293	maría	76	41.2917	4.6159	m ɐ ɾ i ɐ
+293	valente	76	41.2917	4.6159	b a l ɛ n t e̝
+294	actor	75	40.7484	4.6101	a k t o ɾ
+294	cincuenta	75	40.7484	4.6101	θ i n k w e n t ɐ
+295	berrar	74	40.2051	4.6043	b e r a ɾ
+295	botella	74	40.2051	4.6043	b o t ɛ ʎ ɐ
+295	limpar	74	40.2051	4.6043	l i m p a ɾ
+295	pago	74	40.2051	4.6043	p a ɣ o̝
+296	teito	73	39.6618	4.5984	t e j t o̝
+296	tormenta	73	39.6618	4.5984	t o ɾ m e n t a̝  |  t o ɾ m ɛ n t a̝
+297	paixón	72	39.1185	4.5924	p a j ʃ o ŋ
+298	cerca	71	38.5752	4.5863	s e ɾ k a̝  |  θ e ɾ k a̝
+298	cheiro	71	38.5752	4.5863	t͡ʃ e j ɾ o̝  |  t͡ʃ ɛ j ɾ o̝
+298	sopa	71	38.5752	4.5863	s o p a̝
+299	aninovo	70	38.0318	4.5801	a n i n ɔ β o̝
+299	canda	70	38.0318	4.5801	k a n d a̝
+299	gando	70	38.0318	4.5801	ɡ a n d o̝
+299	marca	70	38.0318	4.5801	m a ɾ k a̝
+299	orgulloso	70	38.0318	4.5801	ɔ ɾ ɣ u ʎ o s o̝
+299	quenda	70	38.0318	4.5801	k ɛ n d a̝
+299	venres	70	38.0318	4.5801	b ɛ n r e̝ s
+299	xeración	70	38.0318	4.5801	ʃ e ɾ a θ j o ŋ
+299	xudeu	70	38.0318	4.5801	ʃ u ð e w
+300	amizade	69	37.4885	4.5739	a m i θ a ð e̝
+300	chamo	69	37.4885	4.5739	t͡ʃ ɐ m ʊ
+300	colleita	69	37.4885	4.5739	k o ʎ e j t a̝
+300	ledicia	69	37.4885	4.5739	l e ð i θ j a̝
+300	rato	69	37.4885	4.5739	r a t o̝
+301	cobre	68	36.9452	4.5676	k ɔ β ɾ e̝
+301	cruz	68	36.9452	4.5676	k ɾ u s  |  k ɾ u θ
+301	limpo	68	36.9452	4.5676	l i m p o̝
+301	ocasión	68	36.9452	4.5676	ɔ k a s j o ŋ
+301	tira	68	36.9452	4.5676	t i ɾ a̝
+301	tiro	68	36.9452	4.5676	t i ɾ o̝
+302	coello	67	36.4019	4.5611	k o e ʎ o̝
+302	león	67	36.4019	4.5611	l ɪ ɔ ŋ
+302	ningures	67	36.4019	4.5611	n i ŋ ɡ u ɾ e̝ s
+302	pelexar	67	36.4019	4.5611	p e l e ʃ a ɾ
+302	rede	67	36.4019	4.5611	r e ð e̝
+302	xuramento	67	36.4019	4.5611	ʃ u ɾ a m e n t ʊ
+303	almorzo	66	35.8586	4.5546	a l m o ɾ s o̝  |  a l m o ɾ θ o̝
+303	amencer	66	35.8586	4.5546	a m e n s e ɾ  |  a m e n θ e ɾ
+303	chisco	66	35.8586	4.5546	t͡ʃ i s k o̝
+303	fume	66	35.8586	4.5546	f u m e̝
+303	rocha	66	35.8586	4.5546	r ɔ t͡ʃ a̝
+304	liscar	65	35.3153	4.548	l i s k a ɾ
+304	obreiro	65	35.3153	4.548	o β ɾ e j ɾ o  |  ɔ β ɾ e j ɾ o
+304	parabéns	65	35.3153	4.548	p a ɾ a β ɛ ŋ s
+305	camisa	64	34.772	4.5412	k a m i s a̝
+305	laboratorio	64	34.772	4.5412	l a β ʊ ɾ a t ɔ ɾ j ʊ
+305	tento	64	34.772	4.5412	t e n t o̝  |  t ɛ n t o̝
+306	cola	63	34.2287	4.5344	k ɔ l a̝
+306	coraxe	63	34.2287	4.5344	k o ɾ a ʃ e̝
+306	milagre	63	34.2287	4.5344	m i l a ɣ ɾ e̝
+306	noxento	63	34.2287	4.5344	n o ʃ e n t o̝  |  n o ʃ ɛ n t o̝
+306	peza	63	34.2287	4.5344	p ɛ s a̝  |  p ɛ θ a̝
+307	armadura	62	33.6853	4.5274	a ɾ m a d u ɾ a
+307	xunta	62	33.6853	4.5274	ʃ u n t a̝
+308	escándalo	61	33.142	4.5204	e s k a n d a̝ l o̝
+308	manda	61	33.142	4.5204	m a n d a̝
+308	quince	61	33.142	4.5204	k i n θ ɪ
+309	biblioteca	60	32.5987	4.5132	b i β l j ʊ t ɛ k ɐ
+309	móbil	60	32.5987	4.5132	m ɔ β i l
+309	queixo	60	32.5987	4.5132	k e j ʃ ʊ
+309	rastro	60	32.5987	4.5132	r a s t ɾ o̝
+309	saín	60	32.5987	4.5132	s a i ŋ
+309	xoves	60	32.5987	4.5132	ʃ ɔ β e̝ s
+310	bota	59	32.0554	4.5059	b o t a̝  |  b ɔ t a̝
+310	dragón	59	32.0554	4.5059	d ɾ a ɣ o ŋ
+310	gris	59	32.0554	4.5059	ɡ ɾ i s
+310	oso	59	32.0554	4.5059	o s o̝
+311	aeroporto	58	31.5121	4.4985	a ɛ ɾ ɔ p o ɾ t ʊ
+311	bravo	58	31.5121	4.4985	b ɾ a β o̝
+311	fumar	58	31.5121	4.4985	f u m a ɾ
+311	montar	58	31.5121	4.4985	m o n t a ɾ
+311	outono	58	31.5121	4.4985	o w t o n o̝
+311	parvada	58	31.5121	4.4985	p a ɾ β a ð a̝
+312	condutor	57	30.9688	4.4909	k o n d u t o ɾ
+312	cunca	57	30.9688	4.4909	k u ŋ k a̝
+312	esquina	57	30.9688	4.4909	e s k i n a̝
+312	lago	57	30.9688	4.4909	l a ɣ o
+312	mandar	57	30.9688	4.4909	m a n d a ɾ
+312	venda	57	30.9688	4.4909	b e n d a̝
+313	carbón	56	30.4255	4.4832	k a ɾ β o ŋ
+313	corenta	56	30.4255	4.4832	k ɔ r ɛ n t a̝
+313	cumprir	56	30.4255	4.4832	k u m p ɾ i ɾ
+313	paraíso	56	30.4255	4.4832	p a ɾ a i s o
+313	pelexa	56	30.4255	4.4832	p e l e ʃ a̝
+314	andas	55	29.8822	4.4754	a n d a̝ s
+314	cego	55	29.8822	4.4754	s ɛ ɣ o̝  |  θ ɛ ɣ o̝
+314	grolo	55	29.8822	4.4754	ɡ ɾ o l o̝
+314	martes	55	29.8822	4.4754	m a ɾ t e̝ s
+314	trigo	55	29.8822	4.4754	t ɾ i ɣ o̝
+314	xoga	55	29.8822	4.4754	ʃ ɔ ɣ a̝
+315	artigo	54	29.3388	4.4674	a ɾ t i ɣ o̝
+315	erguer	54	29.3388	4.4674	e ɾ ɡ e ɾ
+315	ollar	54	29.3388	4.4674	o ʎ a ɾ  |  ɔ ʎ a ɾ
+316	asinar	53	28.7955	4.4593	a s i n a ɾ
+316	balea	53	28.7955	4.4593	b a l e a̝
+316	bordo	53	28.7955	4.4593	b o ɾ ð o̝  |  b ɔ ɾ ð o̝
+316	cuba	53	28.7955	4.4593	k u β a̝
+316	feble	53	28.7955	4.4593	f ɛ β l e̝
+316	mércores	53	28.7955	4.4593	m ɛ ɾ k o̝ ɾ e̝ s
+316	méxico	53	28.7955	4.4593	m ɛ ʃ i k ʊ
+316	testa	53	28.7955	4.4593	t e s t a̝  |  t ɛ s t a̝
+317	derradeiro	52	28.2522	4.4511	d e r a ð e j ɾ o̝
+317	tendes	52	28.2522	4.4511	t e n d ɪ s
+318	carlos	51	27.7089	4.4426	k a ɾ l ʊ s
+318	cela	51	27.7089	4.4426	θ ɛ l a̝
+318	corvo	51	27.7089	4.4426	k ɔ ɾ β o̝
+318	lapis	51	27.7089	4.4426	l a p i s
+318	miga	51	27.7089	4.4426	m i ɣ a̝
+318	veciño	51	27.7089	4.4426	b e θ i ɲ o̝  |  b i s i ɲ o̝  |  b i θ i ɲ o̝
+319	curmán	50	27.1656	4.434	k u ɾ m a o̯  |  k u ɾ m a ŋ
+319	fresco	50	27.1656	4.434	f ɾ e s k o̝
+319	maleta	50	27.1656	4.434	m a l e t a̝
+319	masa	50	27.1656	4.434	m a s a̝
+319	pescar	50	27.1656	4.434	p e s k a ɾ
+319	pozo	50	27.1656	4.434	p o s o̝  |  p o θ o̝
+320	amodo	49	26.6223	4.4252	a m ɔ ð o̝
+320	chinés	49	26.6223	4.4252	t͡ʃ i n ɛ s
+320	comprar	49	26.6223	4.4252	k o m p ɾ a ɾ
+320	español	49	26.6223	4.4252	e s p a ɲ ɔ l
+320	feira	49	26.6223	4.4252	f e j ɾ a̝
+320	feo	49	26.6223	4.4252	f e o̝
+320	gardar	49	26.6223	4.4252	ɡ a ɾ ð a ɾ
+320	pano	49	26.6223	4.4252	p a n o
+320	restaurante	49	26.6223	4.4252	r ɪ s t a w ɾ ɐ n t ɪ
+320	roda	49	26.6223	4.4252	r ɔ ð a̝
+321	acá	48	26.079	4.4163	a k a
+321	barato	48	26.079	4.4163	b a ɾ a t o̝
+321	choio	48	26.079	4.4163	t͡ʃ ɔ j o̝
+321	cinta	48	26.079	4.4163	s i n t a̝  |  θ i n t a̝
+321	costume	48	26.079	4.4163	k o s t u m e̝
+321	decote	48	26.079	4.4163	d e k ɔ t e̝
+321	froita	48	26.079	4.4163	f ɾ o j t a̝
+321	noxo	48	26.079	4.4163	n o ʃ o̝
+321	once	48	26.079	4.4163	o n θ ɪ
+321	peto	48	26.079	4.4163	p e t o̝
+321	revolta	48	26.079	4.4163	r e β ɔ l t a̝
+321	xenio	48	26.079	4.4163	ʃ ɛ n j ʊ
+322	arco	47	25.5357	4.4071	a ɾ k o̝
+322	templo	47	25.5357	4.4071	t e m p l o
+323	manteiga	46	24.9924	4.3978	m a n t e j ɣ a̝
+323	ruso	46	24.9924	4.3978	r u s ʊ
+323	saco	46	24.9924	4.3978	s a k o̝
+323	sé	46	24.9924	4.3978	s ɛ
+323	vaca	46	24.9924	4.3978	b a k ɐ
+324	chuvia	45	24.449	4.3883	t͡ʃ u β j a̝
+324	entregar	45	24.449	4.3883	e n t ɾ e ɡ a ɾ
+324	escaleira	45	24.449	4.3883	e s k a l e j ɾ a̝
+324	peirao	45	24.449	4.3883	p e j ɾ a ʊ
+324	planta	45	24.449	4.3883	p l a n t a̝
+325	lobo	44	23.9057	4.3785	l o β o̝
+325	serpe	44	23.9057	4.3785	s ɛ ɾ p e̝
+326	bébedo	43	23.3624	4.3685	b e β e̝ ð o̝
+326	herdeiro	43	23.3624	4.3685	e r ð e j ɾ o
+326	medrar	43	23.3624	4.3685	m e ð ɾ a ɾ
+326	mercadoría	43	23.3624	4.3685	m e ɾ k a ð o ɾ i a̝
+326	nuns	43	23.3624	4.3685	n u ŋ s
+326	riqueza	43	23.3624	4.3685	r i k e s a̝  |  r i k e θ a̝
+327	aquelas	42	22.8191	4.3583	a k ɛ l ɐ s
+327	cabra	42	22.8191	4.3583	k a β ɾ a̝
+327	escolla	42	22.8191	4.3583	e s k o ʎ a̝
+327	marea	42	22.8191	4.3583	m a ɾ ɛ a̝
+328	andré	41	22.2758	4.3478	a n d ɾ ɛ
+328	cova	41	22.2758	4.3478	k ɔ β a̝
+328	diaño	41	22.2758	4.3478	d i a ɲ o̝
+328	figura	41	22.2758	4.3478	f i ɣ u ɾ a̝
+328	mazá	41	22.2758	4.3478	m a s aː  |  m a θ aː
+328	mestura	41	22.2758	4.3478	m e s t u ɾ a̝
+328	morro	41	22.2758	4.3478	m o r o̝
+328	vestir	41	22.2758	4.3478	b e s t i ɾ  |  b i s t i ɾ
+329	actriz	40	21.7325	4.3371	a k t ɾ i θ
+329	científico	40	21.7325	4.3371	θ j e n t i f i k ʊ
+329	cristal	40	21.7325	4.3371	k ɾ i s t a l
+329	fío	40	21.7325	4.3371	f i o̝  |  f i ʊ̯
+329	néboa	40	21.7325	4.3371	n ɛ β o̯ a̝
+329	pintor	40	21.7325	4.3371	p i n t o ɾ
+329	treboada	40	21.7325	4.3371	t ɾ e β o a ð a̝
+329	zapato	40	21.7325	4.3371	s a p a t o̝  |  θ a p a t o̝
+330	abra	39	21.1892	4.3261	a β ɾ a̝
+330	besta	39	21.1892	4.3261	b e s t a̝  |  b ɛ s t a̝
+330	chapeu	39	21.1892	4.3261	t͡ʃ a p e w  |  t͡ʃ a p ɛ w
+330	colo	39	21.1892	4.3261	k ɔ l o̝
+330	engadir	39	21.1892	4.3261	e ŋ ɡ a ð i ɾ
+330	lanza	39	21.1892	4.3261	l a n θ a̝
+330	pintar	39	21.1892	4.3261	p i n t a ɾ
+331	algodón	38	20.6459	4.3148	a l ɣ o ð o ŋ
+331	arroaz	38	20.6459	4.3148	a r o a s  |  a r o a θ
+331	deitar	38	20.6459	4.3148	d e j t a ɾ
+331	vingar	38	20.6459	4.3148	b i ŋ ɡ a ɾ
+332	adulto	37	20.1025	4.3033	a ð u l t ʊ
+332	algures	37	20.1025	4.3033	a l ɡ u ɾ e s
+332	bater	37	20.1025	4.3033	b a t e ɾ
+332	capa	37	20.1025	4.3033	k a p a̝
+332	cubo	37	20.1025	4.3033	k u β o̝
+332	disque	37	20.1025	4.3033	d i s k e̝  |  d i ħ k e̝
+332	malleira	37	20.1025	4.3033	m a ʎ e j ɾ a̝
+332	mi	37	20.1025	4.3033	m i
+332	moeda	37	20.1025	4.3033	m ʊ ɛ ð ɐ
+332	niño	37	20.1025	4.3033	n i ɲ o̝
+332	xaponés	37	20.1025	4.3033	ʃ a p ʊ n ɛ s
+333	berce	36	19.5592	4.2914	b ɛ ɾ s e̝  |  b ɛ ɾ θ e̝
+333	boto	36	19.5592	4.2914	b o t o̝  |  b ɔ t o̝
+333	cargar	36	19.5592	4.2914	k a ɾ ɣ a ɾ
+333	encanto	36	19.5592	4.2914	e ŋ k a n t o̝
+333	papa	36	19.5592	4.2914	p a p a̝
+333	sorrir	36	19.5592	4.2914	s o r i ɾ
+334	combater	35	19.0159	4.2791	k o m b a t e ɾ
+334	forno	35	19.0159	4.2791	f o ɾ n o̝
+334	gana	35	19.0159	4.2791	ɡ a n a̝
+334	marrón	35	19.0159	4.2791	m a r o ŋ
+334	parada	35	19.0159	4.2791	p a ɾ a ð a̝
+334	rapariga	35	19.0159	4.2791	r a p a ɾ i ɣ a̝
+334	solpor	35	19.0159	4.2791	s o l p o ɾ
+334	temporal	35	19.0159	4.2791	t ɛ m p o ɾ a l
+334	xanela	35	19.0159	4.2791	ʃ a n ɛ l a
+335	barón	34	18.4726	4.2665	b a ɾ o ŋ
+335	cobra	34	18.4726	4.2665	k ɔ β ɾ a̝
+335	compaña	34	18.4726	4.2665	k o m p a ɲ a̝
+335	enxeñeiro	34	18.4726	4.2665	e n ʃ e ɲ e j ɾ ʊ
+335	fresca	34	18.4726	4.2665	f ɾ e s k a̝
+335	guerreiro	34	18.4726	4.2665	ɡ ɛ r e j ɾ o̝
+335	lote	34	18.4726	4.2665	l ɔ t e̝
+335	orella	34	18.4726	4.2665	o ɾ e ʎ a̝
+335	pasear	34	18.4726	4.2665	p a s ɪ a ɾ
+336	cas	33	17.9293	4.2536	k a s
+336	derrubar	33	17.9293	4.2536	d e r u β a ɾ
+336	lento	33	17.9293	4.2536	l e n t o̝
+336	marta	33	17.9293	4.2536	m a ɾ t a̝
+336	marxe	33	17.9293	4.2536	m a ɾ ʃ e̝
+336	morea	33	17.9293	4.2536	m o ɾ e a̝
+336	raposo	33	17.9293	4.2536	r a p o s o̝
+336	tellado	33	17.9293	4.2536	t e ʎ a ð o̝
+336	vendedor	33	17.9293	4.2536	b e n d e ð o ɾ
+337	amarelo	32	17.386	4.2402	a m a ɾ ɛ l o̝
+337	catorce	32	17.386	4.2402	k a t o ɾ θ ɪ
+337	esposo	32	17.386	4.2402	e s p o s o̝
+337	fortaleza	32	17.386	4.2402	f o ɾ t a l e θ a
+337	indio	32	17.386	4.2402	i n d j ʊ
+337	italiano	32	17.386	4.2402	i t a l j ɐ n ʊ
+337	mecánico	32	17.386	4.2402	m e k a n i k ʊ
+337	pantasma	32	17.386	4.2402	p a n t a s m a̝
+337	proveito	32	17.386	4.2402	p ɾ o β e j t o̝
+337	queimar	32	17.386	4.2402	k e j m a ɾ
+337	zorra	32	17.386	4.2402	s o r a̝  |  θ o r a̝
+338	afogar	31	16.8427	4.2264	a f o ɣ a ɾ
+338	agochar	31	16.8427	4.2264	a ɣ o t͡ʃ a ɾ
+338	chao	31	16.8427	4.2264	t͡ʃ a o̯  |  t͡ʃ a w
+338	chover	31	16.8427	4.2264	t͡ʃ o β e ɾ
+338	chumbo	31	16.8427	4.2264	t͡ʃ u m b o̝
+338	estadounidense	31	16.8427	4.2264	ɪ s t a ð o w n i ð e n s ɪ
+338	graxa	31	16.8427	4.2264	ɡ ɾ a ʃ a̝
+338	mariñeiro	31	16.8427	4.2264	m a ɾ i ɲ e j ɾ o̝
+338	matadoiro	31	16.8427	4.2264	m a t a ð o j ɾ o̝
+338	mosca	31	16.8427	4.2264	m o s k a̝
+338	pegar	31	16.8427	4.2264	p e ɣ a ɾ
+338	semente	31	16.8427	4.2264	s e m ɛ n t e̝
+338	vixiar	31	16.8427	4.2264	b i ʃ i a ɾ
+339	berro	30	16.2994	4.2122	b ɛ r o̝
+339	carteira	30	16.2994	4.2122	k a ɾ t e j ɾ ɐ
+339	colar	30	16.2994	4.2122	k ʊ l a ɾ
+339	lembranza	30	16.2994	4.2122	l e m b ɾ a n θ a̝
+339	matanza	30	16.2994	4.2122	m a t a n s a̝  |  m a t a n θ a̝
+339	mexar	30	16.2994	4.2122	m e ʃ a ɾ
+339	polonia	30	16.2994	4.2122	p ʊ l ɔ n j ɐ
+339	vivenda	30	16.2994	4.2122	b i β e n d a̝  |  b i β ɛ n d a̝
+340	arquivo	29	15.756	4.1974	a ɾ k i β o̝
+340	holandés	29	15.756	4.1974	ɔ l ɐ n d ɛ s
+340	montón	29	15.756	4.1974	m o n t o ŋ
+340	seda	29	15.756	4.1974	s e ð a
+340	sombreiro	29	15.756	4.1974	s o m b ɾ e j ɾ o̝
+341	barra	28	15.2127	4.1822	b a r a̝
+341	cabana	28	15.2127	4.1822	k a β a n a̝
+341	canadá	28	15.2127	4.1822	k ɐ n ɐ ð a
+341	cervo	28	15.2127	4.1822	θ ɛ ɾ β o̝
+341	debuxo	28	15.2127	4.1822	d e β u ʃ o̝
+341	labrego	28	15.2127	4.1822	l a β ɾ ɛ ɣ o̝
+341	lagoa	28	15.2127	4.1822	l a ɣ o a̝
+341	lata	28	15.2127	4.1822	l a t a̝
+341	pau	28	15.2127	4.1822	p a w  |  p a ʊ̯
+341	rabo	28	15.2127	4.1822	r a β o̝
+341	tomada	28	15.2127	4.1822	t o m a ð a̝
+342	caldeiro	27	14.6694	4.1664	k a l d e j ɾ o̝
+342	esmagar	27	14.6694	4.1664	e s m a ɣ a ɾ
+342	espido	27	14.6694	4.1664	e s p i ð o̝
+342	irlandés	27	14.6694	4.1664	i ɾ l ɐ n d ɛ s
+342	mariña	27	14.6694	4.1664	m a ɾ i ɲ a̝
+342	oitenta	27	14.6694	4.1664	o j t e n t ɐ
+342	ruína	27	14.6694	4.1664	r u i n a̝
+342	soar	27	14.6694	4.1664	s o a ɾ
+342	tesouro	27	14.6694	4.1664	t e s o w ɾ o̝
+342	xenebra	27	14.6694	4.1664	ʃ e n ɛ β ɾ ɐ
+343	bicar	26	14.1261	4.15	b i k a ɾ
+343	botón	26	14.1261	4.15	b o t o ŋ
+343	cadela	26	14.1261	4.15	k a ð ɛ l a̝
+343	caixón	26	14.1261	4.15	k a j ʃ o ŋ
+343	facenda	26	14.1261	4.15	f a θ e n d a̝
+343	formal	26	14.1261	4.15	f o ɾ m a l
+343	mensaxeiro	26	14.1261	4.15	m e n s a ʃ e j ɾ o̝
+343	pailán	26	14.1261	4.15	p a j l a ŋ  |  p ɛ j l a o̯
+343	senso	26	14.1261	4.15	s ɛ n s ʊ
+343	xeonllo	26	14.1261	4.15	ʃ e o n ʎ o̝
+344	bici	25	13.5828	4.133	b i θ i
+344	cable	25	13.5828	4.133	k a β l e̝
+344	chantaxe	25	13.5828	4.133	t͡ʃ a n t a ʃ e̝
+344	culler	25	13.5828	4.133	k u ʎ ɛ ɾ
+344	españois	25	13.5828	4.133	e s p a ɲ ɔ j s  |  e s p a ɲ ɔ j ʃ
+344	gastar	25	13.5828	4.133	ɡ a s t a ɾ
+344	grego	25	13.5828	4.133	ɡ ɾ e ɣ ʊ
+344	leito	25	13.5828	4.133	l e j t o̝
+344	luvas	25	13.5828	4.133	l u β̞ ɐ s̺
+344	manta	25	13.5828	4.133	m a n t a̝
+344	mono	25	13.5828	4.133	m o n ʊ
+344	padriño	25	13.5828	4.133	p a ð ɾ i ɲ o̝
+344	pazo	25	13.5828	4.133	p a s o̝  |  p a θ o̝
+344	polaco	25	13.5828	4.133	p ʊ l a k ʊ
+344	roca	25	13.5828	4.133	r ɔ k a̝
+344	sesenta	25	13.5828	4.133	s e s e n t ɐ
+344	soto	25	13.5828	4.133	s o t o̝
+344	suor	25	13.5828	4.133	s u o ɾ
+345	agulla	24	13.0395	4.1153	a ɣ u ʎ a̝
+345	almorzar	24	13.0395	4.1153	a l m o ɾ s a ɾ  |  a l m o ɾ θ a ɾ
+345	apostar	24	13.0395	4.1153	a p o s t a ɾ
+345	aturar	24	13.0395	4.1153	a t u ɾ a ɾ
+345	balcón	24	13.0395	4.1153	b a l k o ŋ
+345	castro	24	13.0395	4.1153	k a s t ɾ o̝
+345	cruceiro	24	13.0395	4.1153	k ɾ u s e j ɾ o̝  |  k ɾ u θ e j ɾ o̝
+345	elefante	24	13.0395	4.1153	ɛ l e f a n t e̝
+345	escudeiro	24	13.0395	4.1153	e s k u ð e j ɾ o̝
+345	estourar	24	13.0395	4.1153	e s t o w ɾ a ɾ
+345	feixe	24	13.0395	4.1153	f e j ʃ  |  f e j ʃ e̝
+345	herdanza	24	13.0395	4.1153	ɛ ɾ ð a n θ a̝
+345	lombo	24	13.0395	4.1153	l o m b o̝
+345	prol	24	13.0395	4.1153	p ɾ ɔ l
+345	temer	24	13.0395	4.1153	t e m e ɾ
+345	tina	24	13.0395	4.1153	t i n a̝
+345	trece	24	13.0395	4.1153	t ɾ e θ ɪ
+346	adoito	23	12.4962	4.0968	a ð o j t o̝
+346	cinto	23	12.4962	4.0968	s i n t o̝  |  θ i n t o̝
+346	cristián	23	12.4962	4.0968	k ɾ i s t j a ŋ
+346	dourado	23	12.4962	4.0968	d o w ɾ a ð o̝
+346	fariña	23	12.4962	4.0968	f a ɾ i ɲ a̝
+346	liorta	23	12.4962	4.0968	l i ɔ ɾ t a̝
+346	mudo	23	12.4962	4.0968	m u ð o̝
+346	pelota	23	12.4962	4.0968	p e l ɔ t a̝
+346	rabaño	23	12.4962	4.0968	r a β a ɲ ʊ
+346	tremer	23	12.4962	4.0968	t ɾ e m e ɾ
+347	achegar	22	11.9529	4.0775	a t͡ʃ e ɣ a ɾ
+347	buraco	22	11.9529	4.0775	b u ɾ a k o̝
+347	campá	22	11.9529	4.0775	k a m p a
+347	cebola	22	11.9529	4.0775	s ɛ β ɔ l a̝  |  θ e β o l a̝
+347	curar	22	11.9529	4.0775	k u ɾ a ɾ
+347	estatua	22	11.9529	4.0775	e s t a t w a̝
+347	ferir	22	11.9529	4.0775	f e ɾ i ɾ
+347	leria	22	11.9529	4.0775	l ɛ ɾ j a̝
+347	marco	22	11.9529	4.0775	m a ɾ k o̝
+347	obradoiro	22	11.9529	4.0775	ɔ β ɾ a ð o j ɾ o̝
+347	penal	22	11.9529	4.0775	p e n a l
+347	pinga	22	11.9529	4.0775	p i ŋ ɡ a̝
+347	pomba	22	11.9529	4.0775	p ɔ m b a̝
+347	rexeitar	22	11.9529	4.0775	r e ʃ e j t a ɾ
+347	veo	22	11.9529	4.0775	b e o̝  |  b e ʊ̯
+347	virar	22	11.9529	4.0775	b i ɾ a ɾ
+347	xeada	22	11.9529	4.0775	ʃ e a ð a̝  |  ʃ i a ð a̝
+348	aceno	21	11.4096	4.0573	a θ e n o̝
+348	agua	21	11.4096	4.0573	a ɡ w a
+348	bolboreta	21	11.4096	4.0573	b o l β o ɾ e t a
+348	dezasete	21	11.4096	4.0573	d e θ a s ɛ t ɪ
+348	esmola	21	11.4096	4.0573	e s m ɔ l a̝
+348	fenda	21	11.4096	4.0573	f e n d a̝
+348	fraga	21	11.4096	4.0573	f ɾ a ɣ ɐ
+348	guindar	21	11.4096	4.0573	ɡ i n d a ɾ
+348	mantemento	21	11.4096	4.0573	m a n t e m e n t o̝  |  m a n t e m ɛ n t o̝
+348	palma	21	11.4096	4.0573	p a l m a̝
+348	pito	21	11.4096	4.0573	p i t o̝
+348	setenta	21	11.4096	4.0573	s ɛ t e n t ɐ
+348	taberna	21	11.4096	4.0573	t a β ɛ ɾ n a̝
+348	tea	21	11.4096	4.0573	t e a̝
+348	tinto	21	11.4096	4.0573	t i n t o̝
+348	turco	21	11.4096	4.0573	t u ɾ k ʊ
+349	alugar	20	10.8662	4.0361	a l u ɣ a ɾ
+349	arreo	20	10.8662	4.0361	a r e o̝
+349	bola	20	10.8662	4.0361	b o l a̝
+349	cima	20	10.8662	4.0361	s i m a̝  |  θ i m a̝
+349	curmá	20	10.8662	4.0361	k u ɾ m a
+349	empregar	20	10.8662	4.0361	e m p ɾ e ɣ a ɾ
+349	estoupar	20	10.8662	4.0361	e s t o w p a ɾ
+349	estragar	20	10.8662	4.0361	e s t ɾ a ɣ a ɾ
+349	lar	20	10.8662	4.0361	l a ɾ
+349	mancha	20	10.8662	4.0361	m a n t͡ʃ a̝
+349	paraugas	20	10.8662	4.0361	p a ɾ a w ɣ ɐ s̺
+349	portal	20	10.8662	4.0361	p o ɾ t a l
+349	recuncho	20	10.8662	4.0361	r e k u n t͡ʃ o̝
+349	sa	20	10.8662	4.0361	s a  |  s aː
+349	teima	20	10.8662	4.0361	t e j m a̝
+349	tigre	20	10.8662	4.0361	t i ɣ ɾ ɪ
+349	toalla	20	10.8662	4.0361	t o a ʎ a̝
+350	acender	19	10.3229	4.0138	a s e n d e ɾ  |  a θ e n d e ɾ
+350	asemade	19	10.3229	4.0138	a s e m a ð e̝
+350	bando	19	10.3229	4.0138	b a n d o̝
+350	bigote	19	10.3229	4.0138	b i ɣ ɔ t ɪ
+350	boh	19	10.3229	4.0138	b ɔ
+350	cacho	19	10.3229	4.0138	k a t͡ʃ o̝
+350	cachola	19	10.3229	4.0138	k a t͡ʃ ɔ l a̝
+350	crocodilo	19	10.3229	4.0138	k ɾ o k ʊ ð i l ʊ
+350	escoura	19	10.3229	4.0138	e s k o w ɾ a̝
+350	granxeiro	19	10.3229	4.0138	ɡ ɾ ɐ n ʃ e j ɾ ʊ
+350	leira	19	10.3229	4.0138	l e j ɾ a̝
+350	macho	19	10.3229	4.0138	m a t͡ʃ o̝
+350	nunhas	19	10.3229	4.0138	n u ŋ ɐ s
+350	piche	19	10.3229	4.0138	p i t͡ʃ e̝  |  p i t͡ʃ i
+350	porcallada	19	10.3229	4.0138	p ɔ ɾ k a ʎ a ð a
+350	queixar	19	10.3229	4.0138	k e j ʃ a ɾ
+350	rancor	19	10.3229	4.0138	r a ŋ k o ɾ
+350	raíz	19	10.3229	4.0138	r a i s  |  r a i θ
+350	rexeitamento	19	10.3229	4.0138	r e ʃ e j t a m e n t o̝  |  r e ʃ e j t a m ɛ n t o̝
+350	taxa	19	10.3229	4.0138	t a ʃ a̝
+350	óso	19	10.3229	4.0138	ɔ s o̝
+351	barreira	18	9.7796	3.9903	b a r e j ɾ a̝
+351	barril	18	9.7796	3.9903	b a r i l
+351	cravo	18	9.7796	3.9903	k ɾ a β o̝
+351	cuspir	18	9.7796	3.9903	k u s p i ɾ
+351	fachenda	18	9.7796	3.9903	f a t͡ʃ e n d a̝
+351	fato	18	9.7796	3.9903	f a t o̝
+351	lula	18	9.7796	3.9903	l u l a̝
+351	mellora	18	9.7796	3.9903	m e ʎ o ɾ a̝
+351	oliva	18	9.7796	3.9903	o l i b a  |  ɔ l i b a
+351	quer	18	9.7796	3.9903	k ɛ ɾ
+351	ruín	18	9.7796	3.9903	r u i ŋ
+351	vara	18	9.7796	3.9903	b a ɾ a̝
+352	alcanzar	17	9.2363	3.9655	a l k a n s a ɾ  |  a l k a n θ a ɾ
+352	altar	17	9.2363	3.9655	a l t a ɾ
+352	arre	17	9.2363	3.9655	a r e̝
+352	barca	17	9.2363	3.9655	b a ɾ k a̝
+352	boneca	17	9.2363	3.9655	b o n ɛ k a
+352	cabaza	17	9.2363	3.9655	k a β a s a̝  |  k a β a θ a̝
+352	casco	17	9.2363	3.9655	k a s k o̝
+352	castrón	17	9.2363	3.9655	k a s t ɾ o ŋ
+352	cavar	17	9.2363	3.9655	k a β a ɾ
+352	correa	17	9.2363	3.9655	k o r e a̝
+352	cortello	17	9.2363	3.9655	k o ɾ t e ʎ o̝
+352	cós	17	9.2363	3.9655	k ɔ s
+352	dezaoito	17	9.2363	3.9655	d e θ a o j t ʊ
+352	elo	17	9.2363	3.9655	ɛ l o̝
+352	gabia	17	9.2363	3.9655	ɡ a β i a̝  |  ɡ a β j a̝
+352	leña	17	9.2363	3.9655	l e ɲ a̝
+352	loitador	17	9.2363	3.9655	l o j t a ð o ɾ
+352	mesturar	17	9.2363	3.9655	m e s t u ɾ a ɾ
+352	noventa	17	9.2363	3.9655	n ɔ β e n t ɐ
+352	pecho	17	9.2363	3.9655	p e t͡ʃ o̝
+352	podre	17	9.2363	3.9655	p o ð ɾ e̝
+352	poxa	17	9.2363	3.9655	p o ʃ a̝
+352	ra	17	9.2363	3.9655	r aː
+352	recanto	17	9.2363	3.9655	r e k a n t o̝
+352	serra	17	9.2363	3.9655	s ɛ r a̝
+352	valado	17	9.2363	3.9655	b a l a ð o̝
+352	vides	17	9.2363	3.9655	b i ð ɪ s
+353	acubillo	16	8.693	3.9392	a k u β i ʎ o̝
+353	afastar	16	8.693	3.9392	a f a s t a ɾ
+353	amañar	16	8.693	3.9392	a m a ɲ a ɾ
+353	creba	16	8.693	3.9392	k ɾ ɛ β a̝
+353	cumio	16	8.693	3.9392	k u m i o̝  |  k u m j o̝
+353	des	16	8.693	3.9392	d e s
+353	eis	16	8.693	3.9392	e j s
+353	espionaxe	16	8.693	3.9392	e s p i o n a ʃ e̝
+353	ferreiro	16	8.693	3.9392	f e r e j ɾ o̝
+353	galiña	16	8.693	3.9392	ɡ a l i ɲ a̝
+353	guiar	16	8.693	3.9392	ɡ i a ɾ
+353	hábito	16	8.693	3.9392	a β i t o̝
+353	ledo	16	8.693	3.9392	l e ð o̝  |  l ɛ ð o̝
+353	nana	16	8.693	3.9392	n a n a̝
+353	nora	16	8.693	3.9392	n ɔ ɾ a̝
+353	pico	16	8.693	3.9392	p i k o̝
+353	puño	16	8.693	3.9392	p u ɲ o̝
+353	rifar	16	8.693	3.9392	r i f a ɾ
+353	serea	16	8.693	3.9392	s e ɾ e a̝
+353	terzo	16	8.693	3.9392	t e ɾ s o̝  |  t e ɾ θ o̝
+354	adiviñar	15	8.1497	3.9111	a ð i β i ɲ a ɾ
+354	alugueiro	15	8.1497	3.9111	a l u ɣ e j ɾ o̝
+354	arrincar	15	8.1497	3.9111	a r i ŋ k a ɾ
+354	bandullo	15	8.1497	3.9111	b a n d u ʎ o̝
+354	coca	15	8.1497	3.9111	k ɔ k a̝
+354	cociñeiro	15	8.1497	3.9111	k ʊ θ i ɲ e j ɾ ʊ
+354	colorado	15	8.1497	3.9111	k o l o ɾ a ð o̝
+354	cora	15	8.1497	3.9111	k ɔ ɾ a̝
+354	cume	15	8.1497	3.9111	k u m e̝
+354	cóbado	15	8.1497	3.9111	k o β a̝ ð o̝
+354	galería	15	8.1497	3.9111	ɡ a l e ɾ i a̝
+354	gota	15	8.1497	3.9111	ɡ o t a̝
+354	limiar	15	8.1497	3.9111	l i m j a ɾ
+354	manicomio	15	8.1497	3.9111	m a n i k ɔ m j o
+354	mato	15	8.1497	3.9111	m a t o̝
+354	neto	15	8.1497	3.9111	n ɛ t o̝
+354	pousada	15	8.1497	3.9111	p o w s a ð a̝
+354	prado	15	8.1497	3.9111	p ɾ a ð o̝
+354	póla	15	8.1497	3.9111	p ɔ l a̝
+354	táboa	15	8.1497	3.9111	t a β o̯ a̝
+354	varón	15	8.1497	3.9111	b a ɾ o ŋ
+354	vilar	15	8.1497	3.9111	b i l a ɾ
+355	abur	14	7.6064	3.8812	a β u ɾ
+355	alpendre	14	7.6064	3.8812	a l p e n d ɾ e̝  |  a l p ɛ n d ɾ e̝
+355	amolar	14	7.6064	3.8812	a m o l a ɾ
+355	aparello	14	7.6064	3.8812	a p a ɾ e ʎ o̝
+355	aplicar	14	7.6064	3.8812	a p l i k a ɾ
+355	cepillo	14	7.6064	3.8812	θ e p i ʎ ʊ
+355	convite	14	7.6064	3.8812	k o m b i t e̝
+355	crego	14	7.6064	3.8812	k ɾ ɛ ɣ o̝
+355	cóxegas	14	7.6064	3.8812	k ɔ ʃ e̝ ɣ a̝ s
+355	debuxar	14	7.6064	3.8812	d e β u ʃ a ɾ
+355	dubidar	14	7.6064	3.8812	d u β i ð a ɾ
+355	entendemento	14	7.6064	3.8812	e n t e n d e m e n t o̝
+355	horta	14	7.6064	3.8812	ɔ ɾ t a̝
+355	imitar	14	7.6064	3.8812	i m i t a ɾ
+355	levada	14	7.6064	3.8812	l e β a ð a̝
+355	louza	14	7.6064	3.8812	l o w s a̝  |  l o w θ a̝
+355	machado	14	7.6064	3.8812	m a t͡ʃ a ð o̝
+355	noitiña	14	7.6064	3.8812	n o j t i ɲ a̝
+355	palla	14	7.6064	3.8812	p a ʎ a̝
+355	pega	14	7.6064	3.8812	p e ɣ a̝
+355	regato	14	7.6064	3.8812	r e ɣ a t o̝
+355	soltar	14	7.6064	3.8812	s o l t a ɾ
+355	tebras	14	7.6064	3.8812	t ɛ β ɾ a̝ s
+355	valo	14	7.6064	3.8812	b a l o̝
+355	ventas	14	7.6064	3.8812	v e n t a s
+356	acotío	13	7.0631	3.849	a k o t i o̝
+356	ave	13	7.0631	3.849	a β ɪ
+356	cafetaría	13	7.0631	3.849	k a f e t a ɾ i ɐ
+356	canteira	13	7.0631	3.849	k a n t e j ɾ a̝
+356	compás	13	7.0631	3.849	k o m p a s
+356	eido	13	7.0631	3.849	e j ð o̝
+356	faiado	13	7.0631	3.849	f a j a ð o̝
+356	laranxa	13	7.0631	3.849	l a ɾ a n ʃ a̝
+356	lecer	13	7.0631	3.849	l e s e ɾ  |  l e θ e ɾ
+356	mexicano	13	7.0631	3.849	m e ʃ i k ɐ n ʊ
+356	morriña	13	7.0631	3.849	m o r i ɲ a  |  m u r i ɲ a
+356	muíño	13	7.0631	3.849	m u i ɲ o̝
+356	nata	13	7.0631	3.849	n a t a̝
+356	obrigar	13	7.0631	3.849	o β ɾ i ɣ a ɾ
+356	ordenador	13	7.0631	3.849	o ɾ ð e n ɐ ð o ɾ
+356	pillabán	13	7.0631	3.849	p i ʎ a β a ŋ
+356	pólvora	13	7.0631	3.849	p ɔ l β o̝ ɾ a̝
+356	secar	13	7.0631	3.849	s e k a r
+356	semellar	13	7.0631	3.849	s e m e ʎ a ɾ
+356	soro	13	7.0631	3.849	s o ɾ o̝̝
+356	trapo	13	7.0631	3.849	t ɾ a p o̝
+356	tronco	13	7.0631	3.849	t ɾ o ŋ k o̝
+356	u	13	7.0631	3.849	u
+357	aliviar	12	6.5197	3.8142	a l i β j a ɾ
+357	aparcar	12	6.5197	3.8142	a p a ɾ k a ɾ
+357	becho	12	6.5197	3.8142	b e t͡ʃ o̝
+357	beizón	12	6.5197	3.8142	b e j θ o ŋ
+357	cadaleito	12	6.5197	3.8142	k a ð a l e j t ʊ
+357	caldo	12	6.5197	3.8142	k a l d o̝
+357	canal	12	6.5197	3.8142	k a n a l
+357	carpinteiro	12	6.5197	3.8142	k a ɾ p i n t e j ɾ o̝
+357	caseiro	12	6.5197	3.8142	k a s e j ɾ o̝
+357	chanzo	12	6.5197	3.8142	t͡ʃ a n θ o̝
+357	cheirar	12	6.5197	3.8142	t͡ʃ e j ɾ a ɾ
+357	cirurxián	12	6.5197	3.8142	θ i ɾ u ɾ ʃ j a ŋ
+357	corra	12	6.5197	3.8142	k o r a̝
+357	cota	12	6.5197	3.8142	k ɔ t a̝
+357	curro	12	6.5197	3.8142	k u r o̝
+357	desfeita	12	6.5197	3.8142	d e s f e j t a̝
+357	famento	12	6.5197	3.8142	f a m e n t o̝  |  f a m ɛ n t o̝
+357	ferver	12	6.5197	3.8142	f e ɾ β e ɾ
+357	fita	12	6.5197	3.8142	f i t a̝
+357	machada	12	6.5197	3.8142	m a t͡ʃ a ð a̝
+357	mariño	12	6.5197	3.8142	m a ɾ i ɲ ʊ
+357	pascua	12	6.5197	3.8142	p a s k w a̝
+357	pataca	12	6.5197	3.8142	p a t a k a̝
+357	puñal	12	6.5197	3.8142	p u ɲ a l
+357	páramo	12	6.5197	3.8142	p a ɾ a̝ m o̝
+357	rinoceronte	12	6.5197	3.8142	r i n ɔ θ e ɾ o n t ɪ
+357	salto	12	6.5197	3.8142	s a l t ʊ
+357	tolleito	12	6.5197	3.8142	t o ʎ e j t o̝
+357	torno	12	6.5197	3.8142	t ɔ ɾ n o̝
+358	amiguiño	11	5.9764	3.7764	a m i ɣ i ɲ o̝
+358	apañar	11	5.9764	3.7764	a p a ɲ a ɾ
+358	boi	11	5.9764	3.7764	b ɔ j
+358	canguro	11	5.9764	3.7764	k ɐ ŋ ɡ u ɾ ʊ
+358	composta	11	5.9764	3.7764	k o m p ɔ s t a̝
+358	cruzado	11	5.9764	3.7764	k ɾ u s a ð o̝  |  k ɾ u θ a ð o̝
+358	desexar	11	5.9764	3.7764	d e s e ʃ a ɾ
+358	devagar	11	5.9764	3.7764	d e β a ɣ a ɾ
+358	esnaquizar	11	5.9764	3.7764	e s n a k i s a ɾ  |  e s n a k i θ a ɾ
+358	fecha	11	5.9764	3.7764	f e t͡ʃ a̝
+358	foxo	11	5.9764	3.7764	f o ʃ o̝
+358	franqueza	11	5.9764	3.7764	f ɾ a ŋ k e θ a̝
+358	lebre	11	5.9764	3.7764	l ɛ β ɾ e̝
+358	librar	11	5.9764	3.7764	l i β ɾ a ɾ
+358	mexo	11	5.9764	3.7764	m e ʃ o̝
+358	mordomo	11	5.9764	3.7764	m ɔ ɾ ð o m o̝
+358	orfo	11	5.9764	3.7764	ɔ ɾ f o̝
+358	papar	11	5.9764	3.7764	p a p a ɾ
+358	pescudar	11	5.9764	3.7764	p e s k u ð a ɾ
+358	prestar	11	5.9764	3.7764	p ɾ e s t a ɾ
+358	quenlla	11	5.9764	3.7764	k ɛ n ʎ a̝
+358	racha	11	5.9764	3.7764	r a t͡ʃ a̝
+358	raso	11	5.9764	3.7764	r a s o̝
+358	repugnante	11	5.9764	3.7764	r e p u n a n t e̝  |  r e p u ɡ n a n t e̝
+358	sementar	11	5.9764	3.7764	s e m e n t a ɾ
+358	servente	11	5.9764	3.7764	s e ɾ β e n t e̝
+358	soterrar	11	5.9764	3.7764	s o t e r a ɾ
+358	talla	11	5.9764	3.7764	t a ʎ a̝
+358	tesoiras	11	5.9764	3.7764	t e s o j ɾ a̝
+358	tirador	11	5.9764	3.7764	t i ɾ a ð o ɾ
+358	topar	11	5.9764	3.7764	t o p a ɾ
+358	touciño	11	5.9764	3.7764	t o w s i ɲ o̝  |  t o w θ i ɲ o̝
+358	veterinario	11	5.9764	3.7764	b e t e ɾ i n ɐ ɾ j ʊ
+358	xenro	11	5.9764	3.7764	ʃ e ŋ ɾ o̝  |  ʃ ɛ ŋ ɾ o̝
+359	apocalipse	10	5.4331	3.735	a p o k a l i p s e̝
+359	brindar	10	5.4331	3.735	b ɾ i n d a ɾ
+359	cana	10	5.4331	3.735	k a n a̝
+359	ceibe	10	5.4331	3.735	s e j β e̝  |  θ e j β e̝
+359	celeiro	10	5.4331	3.735	s e l e j ɾ o̝  |  θ e l e j ɾ o̝
+359	coco	10	5.4331	3.735	k o k o̝  |  k ɔ k o̝
+359	convidar	10	5.4331	3.735	k o m b i ð a ɾ
+359	coxo	10	5.4331	3.735	k o ʃ o̝
+359	decatar	10	5.4331	3.735	d e k a t a ɾ
+359	faro	10	5.4331	3.735	f a ɾ o̝
+359	fraco	10	5.4331	3.735	f ɾ a k o̝
+359	lene	10	5.4331	3.735	l ɛ n e̝
+359	lidar	10	5.4331	3.735	l i ð a ɾ
+359	mantelo	10	5.4331	3.735	m a n t ɛ l o̝
+359	marcar	10	5.4331	3.735	m a ɾ k a ɾ
+359	menciña	10	5.4331	3.735	m e n θ i ɲ a̝
+359	mentirán	10	5.4331	3.735	m e n t i ɾ a ŋ
+359	morar	10	5.4331	3.735	m o ɾ a ɾ
+359	mosteiro	10	5.4331	3.735	m o s t e j ɾ o̝
+359	notar	10	5.4331	3.735	n o t a ɾ
+359	panca	10	5.4331	3.735	p a ŋ k a̝
+359	pisar	10	5.4331	3.735	p i s a ɾ
+359	tecer	10	5.4331	3.735	t e s e ɾ  |  t e θ e ɾ
+359	teta	10	5.4331	3.735	t e t a̝
+359	xadrez	10	5.4331	3.735	ʃ a ð ɾ e s  |  ʃ a ð ɾ e θ
+359	xurdir	10	5.4331	3.735	ʃ u ɾ ð i ɾ
+360	araña	9	4.8898	3.6893	a ɾ a ɲ a̝
+360	barro	9	4.8898	3.6893	b a r o̝
+360	cagar	9	4.8898	3.6893	k a ħ a ɾ  |  k a ɣ a ɾ
+360	caldas	9	4.8898	3.6893	k a l d a̝ s
+360	cebada	9	4.8898	3.6893	θ e b a d a
+360	cortiza	9	4.8898	3.6893	k o ɾ t i s a̝  |  k o ɾ t i θ a̝
+360	dezaseis	9	4.8898	3.6893	d e θ a s e j s
+360	escuma	9	4.8898	3.6893	e s k u m a̝
+360	esterco	9	4.8898	3.6893	e s t e ɾ k o̝
+360	estrado	9	4.8898	3.6893	e s t ɾ a ð o̝
+360	fervenza	9	4.8898	3.6893	f e ɾ β ɛ n s a̝  |  f e ɾ β ɛ n θ a̝
+360	fregar	9	4.8898	3.6893	f ɾ e ɣ a ɾ
+360	lazo	9	4.8898	3.6893	l a θ o̝
+360	loro	9	4.8898	3.6893	l o ɾ o̝
+360	luar	9	4.8898	3.6893	l u a ɾ
+360	ordenanza	9	4.8898	3.6893	o ɾ ð e n a n θ a̝
+360	pendurar	9	4.8898	3.6893	p e n d u ɾ a ɾ
+360	pertencer	9	4.8898	3.6893	p e ɾ t e n θ e ɾ
+360	preguiceiro	9	4.8898	3.6893	p ɾ e ɣ i s e j ɾ o̝  |  p ɾ e ɣ i θ e j ɾ o̝
+360	rebumbio	9	4.8898	3.6893	r e β u m b j o̝
+360	ribeira	9	4.8898	3.6893	r i β e j ɾ a̝
+360	rifa	9	4.8898	3.6893	r i f a̝
+360	rolo	9	4.8898	3.6893	r o l o̝  |  r ɔ l o̝
+360	samesuga	9	4.8898	3.6893	s a m e s u ɣ a̝
+360	tambor	9	4.8898	3.6893	t a m b o ɾ
+360	tardiña	9	4.8898	3.6893	t a ɾ ð i ɲ a̝
+360	toco	9	4.8898	3.6893	t o k o̝  |  t ɔ k o̝
+360	tregua	9	4.8898	3.6893	t ɾ ɛ ɣ w a̝
+360	vencello	9	4.8898	3.6893	b e n s e ʎ o̝  |  b e n θ e ʎ o̝
+360	xardineiro	9	4.8898	3.6893	ʃ a ɾ ð i n e j ɾ o
+361	albanel	8	4.3465	3.6381	a l β ɐ n ɛ l
+361	aparcadoiro	8	4.3465	3.6381	a p a ɾ k a ð o j ɾ o̝
+361	avea	8	4.3465	3.6381	a β e a̝
+361	bafo	8	4.3465	3.6381	b a f o̝
+361	bogada	8	4.3465	3.6381	b o ɣ a ð a̝  |  b u ɣ a ð a̝
+361	bolo	8	4.3465	3.6381	b o l o̝  |  b ɔ l o̝
+361	bosta	8	4.3465	3.6381	b ɔ s t a̝
+361	cairo	8	4.3465	3.6381	k a j ɾ o̝
+361	candea	8	4.3465	3.6381	k a n d e a̝
+361	checo	8	4.3465	3.6381	t͡ʃ ɛ k ʊ
+361	cuspe	8	4.3465	3.6381	k u s p e̝
+361	eiruga	8	4.3465	3.6381	e j ɾ u ɣ a̝
+361	emprestar	8	4.3465	3.6381	e m p ɾ e s t a ɾ
+361	entroido	8	4.3465	3.6381	a n t ɾ o j ð o̝  |  e n t ɾ o j ð o̝  |  e n t ɾ u j ð o̝
+361	esquío	8	4.3465	3.6381	e s k i o̝
+361	estaca	8	4.3465	3.6381	e s t a k a̝
+361	fitar	8	4.3465	3.6381	f i t a ɾ
+361	formiga	8	4.3465	3.6381	f ʊ ɾ m i ɣ ɐ
+361	fornecer	8	4.3465	3.6381	f ɔ ɾ n ɛ s e ɾ  |  f ɔ ɾ n ɛ θ e ɾ
+361	freo	8	4.3465	3.6381	f ɾ e o̝
+361	garfo	8	4.3465	3.6381	ɡ a ɾ f o̝
+361	laceira	8	4.3465	3.6381	l a θ ɛ j ɾ a̝
+361	manto	8	4.3465	3.6381	m a n t o̝
+361	mera	8	4.3465	3.6381	m ɛ ɾ a̝
+361	mergullar	8	4.3465	3.6381	m e ɾ ɣ u ʎ a ɾ
+361	mergullo	8	4.3465	3.6381	m e ɾ ɣ u ʎ o̝
+361	morada	8	4.3465	3.6381	m o ɾ a ð a̝  |  m ɔ ɾ a ð a̝
+361	palmeira	8	4.3465	3.6381	p a l m e i ɾ a
+361	pampo	8	4.3465	3.6381	p a m p o̝
+361	pinto	8	4.3465	3.6381	p i n t o̝
+361	pita	8	4.3465	3.6381	p i t a̝
+361	premer	8	4.3465	3.6381	p ɾ e m e ɾ
+361	queimada	8	4.3465	3.6381	k e j m a ð a̝
+361	recuar	8	4.3465	3.6381	r e k u a ɾ
+361	redondo	8	4.3465	3.6381	r e ð o n d o̝
+361	ril	8	4.3465	3.6381	r i l
+361	roer	8	4.3465	3.6381	r o e ɾ
+361	saba	8	4.3465	3.6381	s a β a̝
+361	seita	8	4.3465	3.6381	s e j t a̝
+361	tapar	8	4.3465	3.6381	t a p a ɾ
+361	tornar	8	4.3465	3.6381	t o ɾ n a ɾ
+361	tremor	8	4.3465	3.6381	t ɾ e m o ɾ
+361	túzaro	8	4.3465	3.6381	t u s a̝ ɾ o̝  |  t u θ a̝ ɾ o̝
+361	verba	8	4.3465	3.6381	b e r β a̝
+361	xirafa	8	4.3465	3.6381	ʃ i ɾ a f ɐ
+361	xosé	8	4.3465	3.6381	ʃ o s ɛ  |  ʃ ʊ s ɛ
+361	xoán	8	4.3465	3.6381	ʃ o̯ a ŋ  |  ʃ ʊ a ŋ
+361	xurxo	8	4.3465	3.6381	ʃ u r ʃ o̝
+362	abrazar	7	3.8032	3.5801	a β ɾ a s a ɾ  |  a β ɾ a θ a ɾ
+362	aceso	7	3.8032	3.5801	a s e s o̝  |  a θ e s o̝
+362	adrede	7	3.8032	3.5801	a ð ɾ e ð e̝
+362	agoiro	7	3.8032	3.5801	a ɣ o j ɾ o̝
+362	apodrecer	7	3.8032	3.5801	a p o ð ɾ e s e ɾ  |  a p o ð ɾ e θ e ɾ
+362	arado	7	3.8032	3.5801	a ɾ a ð o̝
+362	arrefriar	7	3.8032	3.5801	a r e f ɾ i a ɾ
+362	arteiro	7	3.8032	3.5801	a ɾ t e j ɾ o̝
+362	baloncesto	7	3.8032	3.5801	b a l o n θ e s t o
+362	bufarda	7	3.8032	3.5801	b u f a ɾ ð a̝
+362	burla	7	3.8032	3.5801	b u ɾ l a̝
+362	burlar	7	3.8032	3.5801	b u ɾ l a ɾ
+362	bálsamo	7	3.8032	3.5801	b a l s a̝ m o̝
+362	calvo	7	3.8032	3.5801	k a l β o̝
+362	caña	7	3.8032	3.5801	k a ɲ a̝
+362	chapa	7	3.8032	3.5801	t͡ʃ a p a̝
+362	choiar	7	3.8032	3.5801	t͡ʃ ɔ j a ɾ
+362	costura	7	3.8032	3.5801	k o s t u ɾ a̝
+362	cru	7	3.8032	3.5801	k ɾ u
+362	dobrar	7	3.8032	3.5801	d o β ɾ a ɾ
+362	encaixar	7	3.8032	3.5801	e ŋ k a j ʃ a ɾ
+362	entullo	7	3.8032	3.5801	e n t u ʎ o̝
+362	espallar	7	3.8032	3.5801	e s p a ʎ a ɾ
+362	espeto	7	3.8032	3.5801	e s p e t o̝
+362	estirar	7	3.8032	3.5801	e s t i ɾ a ɾ
+362	estrondo	7	3.8032	3.5801	e s t ɾ o n d o̝
+362	feiticeiro	7	3.8032	3.5801	f e j t i θ e j ɾ o̝
+362	fiar	7	3.8032	3.5801	f i a ɾ
+362	forca	7	3.8032	3.5801	f ɔ ɾ k a̝
+362	guiso	7	3.8032	3.5801	ɡ i s o̝
+362	herdar	7	3.8032	3.5801	ɛ ɾ ð a ɾ
+362	lear	7	3.8032	3.5801	l e a ɾ
+362	lemos	7	3.8032	3.5801	l ɛ m o̝ s
+362	lera	7	3.8032	3.5801	l ɛ ɾ a̝
+362	libraría	7	3.8032	3.5801	l i β ɾ a ɾ i a̝
+362	maza	7	3.8032	3.5801	m a s a̝  |  m a θ a̝
+362	meiga	7	3.8032	3.5801	m e j ɣ a̝
+362	mesquita	7	3.8032	3.5801	m e s k i t a
+362	monarquía	7	3.8032	3.5801	m o n a ɾ k i a
+362	moneca	7	3.8032	3.5801	m o n ɛ k a
+362	morno	7	3.8032	3.5801	m o ɾ n o̝  |  m ɔ ɾ n o̝
+362	morteiro	7	3.8032	3.5801	m o ɾ t e j ɾ o̝
+362	nasa	7	3.8032	3.5801	n a s a̝
+362	outrora	7	3.8032	3.5801	o w t ɾ ɔ ɾ a
+362	palleiro	7	3.8032	3.5801	p a ʎ e j ɾ o̝
+362	pescuda	7	3.8032	3.5801	p e s k u ð a̝
+362	picar	7	3.8032	3.5801	p i k a ɾ
+362	piollo	7	3.8032	3.5801	p i o ʎ o̝
+362	poldro	7	3.8032	3.5801	p o l d ɾ o̝
+362	pousa	7	3.8032	3.5801	p o w s a̝
+362	rachar	7	3.8032	3.5801	r a t͡ʃ a ɾ
+362	rego	7	3.8032	3.5801	r e ɣ o̝  |  r ɛ ɣ o̝
+362	roxo	7	3.8032	3.5801	r o ʃ o̝
+362	saído	7	3.8032	3.5801	s a i ð o̝
+362	sino	7	3.8032	3.5801	s i n o̝
+362	tampa	7	3.8032	3.5801	t a m p a̝
+362	tormento	7	3.8032	3.5801	t o ɾ m e n t o̝
+362	torrente	7	3.8032	3.5801	t o r e n t e̝  |  t o r ɛ n t e̝
+362	toupa	7	3.8032	3.5801	t o w p a̝
+362	trapallada	7	3.8032	3.5801	t ɾ a p a ʎ a ð a̝
+362	trebón	7	3.8032	3.5801	t ɾ e β o ŋ
+362	treito	7	3.8032	3.5801	t ɾ e j t o̝
+362	troita	7	3.8032	3.5801	t ɾ o j t a̝  |  t ɾ u j t a̝  |  t ɾ u t a̝  |  t ɾ u t j a̝
+362	vendima	7	3.8032	3.5801	b e n d i m a̝
+362	xerga	7	3.8032	3.5801	ʃ ɛ ɾ ɣ a̝
+362	zapón	7	3.8032	3.5801	s a p o ŋ  |  θ a p o ŋ
+363	acougar	6	3.2599	3.5132	a k o w ɣ a ɾ
+363	anguria	6	3.2599	3.5132	a ŋ ɡ u ɾ j a̝
+363	anoxar	6	3.2599	3.5132	a n o ʃ a ɾ
+363	arrepentir	6	3.2599	3.5132	a r e p e n t i ɾ
+363	atar	6	3.2599	3.5132	a t a ɾ
+363	augardente	6	3.2599	3.5132	a w ɣ a ɾ ð ɛ n t e̝
+363	bastón	6	3.2599	3.5132	b a s t o ŋ
+363	bicho	6	3.2599	3.5132	b i t͡ʃ o̝
+363	burbulla	6	3.2599	3.5132	b u ɾ β u ʎ a̝
+363	carallada	6	3.2599	3.5132	k a ɾ a ʎ a ð a̝
+363	carozo	6	3.2599	3.5132	k a ɾ o s o̝  |  k a ɾ o θ o̝
+363	cascallo	6	3.2599	3.5132	k a s k a ʎ o̝
+363	ceibo	6	3.2599	3.5132	s e j β o̝  |  θ e j β o̝
+363	cerne	6	3.2599	3.5132	s ɛ ɾ n e̝  |  θ ɛ ɾ n e̝
+363	chamarse	6	3.2599	3.5132	t͡ʃ a m a ɾ s ɪ
+363	chimpar	6	3.2599	3.5132	t͡ʃ i m p a ɾ
+363	chisqueiro	6	3.2599	3.5132	t͡ʃ i s k e j ɾ o̝
+363	churrasco	6	3.2599	3.5132	t͡ʃ u r a s k o̝
+363	cocho	6	3.2599	3.5132	k o t͡ʃ o̝
+363	cocido	6	3.2599	3.5132	k o s i ð o̝  |  k o θ i ð o̝
+363	coitado	6	3.2599	3.5132	k o j t a ð o̝
+363	cotián	6	3.2599	3.5132	k ɔ t j a ŋ
+363	couce	6	3.2599	3.5132	k o w s e  |  k o w θ e
+363	cubano	6	3.2599	3.5132	k u β ɐ n ʊ
+363	curuxa	6	3.2599	3.5132	k u ɾ u ʃ a̝  |  k ɾ u ʃ a̝
+363	edén	6	3.2599	3.5132	ɛ ð ɛ ŋ
+363	egua	6	3.2599	3.5132	ɛ ɣ w ɐ
+363	empurrón	6	3.2599	3.5132	e m p u r o ŋ
+363	escada	6	3.2599	3.5132	e s k a ð a̝
+363	esvarar	6	3.2599	3.5132	e s β a ɾ a ɾ
+363	fartar	6	3.2599	3.5132	f a ɾ t a ɾ
+363	gallo	6	3.2599	3.5132	ħ a ʎ ʊ  |  ɡ a ʎ o̝
+363	gruta	6	3.2599	3.5132	ɡ ɾ u t a̝
+363	ladrar	6	3.2599	3.5132	l a ð ɾ a ɾ
+363	lapa	6	3.2599	3.5132	l a p a̝
+363	liño	6	3.2599	3.5132	l i ɲ o̝
+363	lodo	6	3.2599	3.5132	l o ð o̝
+363	mada	6	3.2599	3.5132	m a ð a̝
+363	misto	6	3.2599	3.5132	m i s t o̝
+363	moreira	6	3.2599	3.5132	m o ɾ e j ɾ a̝  |  m ɔ ɾ e j ɾ a̝
+363	morriñento	6	3.2599	3.5132	m o r i ɲ ɛ n t o̝
+363	mortaldade	6	3.2599	3.5132	m o ɾ t a l d a ð e̝
+363	navío	6	3.2599	3.5132	n a β i o̝
+363	papas	6	3.2599	3.5132	p a p a̝ s
+363	pardo	6	3.2599	3.5132	p a ɾ ð o̝
+363	pela	6	3.2599	3.5132	p ɛ l a̝
+363	pemento	6	3.2599	3.5132	p e m e n t o̝  |  p e m ɛ n t o̝
+363	peregrino	6	3.2599	3.5132	p e ɾ e ɣ ɾ i n o̝
+363	piñeiro	6	3.2599	3.5132	p i ɲ e j ɾ o̝
+363	raiola	6	3.2599	3.5132	r a j ɔ l a̝
+363	saboroso	6	3.2599	3.5132	s a β o ɾ o s o̝
+363	salmón	6	3.2599	3.5132	s a l m o ŋ
+363	sara	6	3.2599	3.5132	s a ɾ ɐ
+363	segar	6	3.2599	3.5132	s e ɣ a ɾ
+363	silla	6	3.2599	3.5132	s i ʎ a̝
+363	sola	6	3.2599	3.5132	s ɔ l a̝
+363	termar	6	3.2599	3.5132	t e ɾ m a ɾ
+363	torrada	6	3.2599	3.5132	t o r a ð a̝
+363	tortilla	6	3.2599	3.5132	t o ɾ t i ʎ a
+363	unto	6	3.2599	3.5132	u n t o̝
+363	vilán	6	3.2599	3.5132	b i l a ŋ
+363	xerar	6	3.2599	3.5132	ʃ e ɾ a ɾ
+363	xofre	6	3.2599	3.5132	ʃ ɔ f ɾ ɪ
+363	zoca	6	3.2599	3.5132	s ɔ k a̝  |  θ ɔ k a̝
+364	abeiro	5	2.7166	3.434	a β e j ɾ o̝
+364	achar	5	2.7166	3.434	a t͡ʃ a ɾ
+364	arando	5	2.7166	3.434	a ɾ a n d o̝
+364	asubiar	5	2.7166	3.434	a s u β i a ɾ
+364	bazar	5	2.7166	3.434	b a θ a ɾ
+364	bocoi	5	2.7166	3.434	b o k o j
+364	boliviano	5	2.7166	3.434	b o l i β j ɐ n ʊ
+364	bruar	5	2.7166	3.434	b ɾ u a ɾ
+364	caes	5	2.7166	3.434	k a j s
+364	callar	5	2.7166	3.434	k a ʎ a ɾ
+364	canadense	5	2.7166	3.434	k ɐ n ɐ ð e n s ɪ
+364	cantil	5	2.7166	3.434	k a n t i l
+364	caracol	5	2.7166	3.434	k a ɾ a k ɔ l
+364	carballo	5	2.7166	3.434	k a ɾ β a ʎ o̝
+364	carto	5	2.7166	3.434	k a ɾ t o̝
+364	centeo	5	2.7166	3.434	s e n t e o̝  |  θ e n t e o̝  |  θ e n t e w
+364	cerco	5	2.7166	3.434	s e ɾ k o̝  |  θ e ɾ k o̝
+364	chabola	5	2.7166	3.434	t͡ʃ a β ɔ l a̝
+364	cobiza	5	2.7166	3.434	k o β i s a̝̝  |  k o β i θ a̝
+364	coiraza	5	2.7166	3.434	k o j ɾ a θ a̝
+364	cueiro	5	2.7166	3.434	k u e j ɾ o
+364	ermo	5	2.7166	3.434	ɛ ɾ m o̝
+364	escarvadentes	5	2.7166	3.434	e s k a ɾ β a ð e n t e̝ s  |  e s k a ɾ β a ð ɛ n t e̝ s
+364	escorrentar	5	2.7166	3.434	e s k o r e n t a ɾ
+364	esfolar	5	2.7166	3.434	e s f o l a ɾ
+364	estrema	5	2.7166	3.434	e s t ɾ e m a̝
+364	faixa	5	2.7166	3.434	f a j ʃ ɐ
+364	farrapo	5	2.7166	3.434	f a r a p o̝
+364	fechadura	5	2.7166	3.434	f e t͡ʃ a ð u ɾ a̝
+364	feitizo	5	2.7166	3.434	f e j t i θ o̝
+364	ferrado	5	2.7166	3.434	f e r a ð o̝
+364	ferradura	5	2.7166	3.434	f e r a ð u ɾ a̝
+364	filipino	5	2.7166	3.434	f i l i p i n ʊ
+364	finar	5	2.7166	3.434	f i n a ɾ
+364	frito	5	2.7166	3.434	f ɾ i t o̝
+364	guiado	5	2.7166	3.434	ɡ i a ð o̝
+364	habitar	5	2.7166	3.434	a b i t a ɾ
+364	humillar	5	2.7166	3.434	u m i ʎ a ɾ
+364	louro	5	2.7166	3.434	l o w ɾ o̝
+364	magoar	5	2.7166	3.434	m a ɣ o a ɾ
+364	mailo	5	2.7166	3.434	m a j l o
+364	mallar	5	2.7166	3.434	m a ʎ a ɾ
+364	mecha	5	2.7166	3.434	m e t͡ʃ a̝
+364	miguel	5	2.7166	3.434	m i ɣ ɛ l
+364	mollar	5	2.7166	3.434	m o ʎ a ɾ
+364	noiteboa	5	2.7166	3.434	n o j t e β o a̝
+364	nordés	5	2.7166	3.434	n ɔ ɾ ð ɛ s
+364	oasis	5	2.7166	3.434	ɔ a s i s
+364	osa	5	2.7166	3.434	o s a̝  |  ɔ s a̝
+364	ostra	5	2.7166	3.434	o s t ɾ a̝
+364	penico	5	2.7166	3.434	p e n i k o̝
+364	pesqueira	5	2.7166	3.434	p e s k e j ɾ a̝
+364	pingo	5	2.7166	3.434	p i ŋ ɡ o̝
+364	poza	5	2.7166	3.434	p o s a̝  |  p o θ a̝
+364	prebe	5	2.7166	3.434	p ɾ ɛ β e̝
+364	prema	5	2.7166	3.434	p ɾ e m a̝
+364	primaveras	5	2.7166	3.434	p ɾ i m a β e ɾ a s
+364	queimadura	5	2.7166	3.434	k e j m a ð u ɾ ɐ
+364	queixada	5	2.7166	3.434	k e j ʃ a ð a̝
+364	querela	5	2.7166	3.434	k e ɾ e l a̝
+364	reinar	5	2.7166	3.434	r e j n a ɾ
+364	relear	5	2.7166	3.434	r e l e a ɾ
+364	revirado	5	2.7166	3.434	r e β i ɾ a ð o̝
+364	rosmar	5	2.7166	3.434	r o s m a ɾ  |  r ɔ s m a ɾ
+364	rubio	5	2.7166	3.434	r u β j o̝
+364	salgueiro	5	2.7166	3.434	s a l ɣ e j ɾ o̝
+364	sendeiro	5	2.7166	3.434	s e n d e j ɾ o̝
+364	sociable	5	2.7166	3.434	s ɔ θ j a b l e
+364	soneca	5	2.7166	3.434	s o n ɛ k a̝
+364	sésamo	5	2.7166	3.434	s e s a̝ m o̝
+364	tempestade	5	2.7166	3.434	t e m p ɛ s t a  |  t e m p ɛ s t a ð e̝
+364	tixola	5	2.7166	3.434	t i ʃ ɔ l a̝
+364	trabuco	5	2.7166	3.434	t ɾ a β u k o̝
+364	troula	5	2.7166	3.434	t ɾ o w l a̝
+364	vexiga	5	2.7166	3.434	b e ʃ i ɣ a̝  |  b i ʃ i ɣ a̝
+364	vindes	5	2.7166	3.434	b i n d ɪ s
+364	voitre	5	2.7166	3.434	b o j t ɾ e̝
+364	zoar	5	2.7166	3.434	s o a ɾ  |  z o a ɾ
+364	zoco	5	2.7166	3.434	θ o k o̝
+364	zorro	5	2.7166	3.434	s o r o̝  |  θ o r o̝
+365	abaixar	4	2.1732	3.3371	a β a j ʃ a ɾ
+365	aguia	4	2.1732	3.3371	a ɣ j a̝
+365	albergue	4	2.1732	3.3371	a l β ɛ ɾ ɣ e̝
+365	albiscar	4	2.1732	3.3371	a l β i s k a ɾ
+365	aldraxe	4	2.1732	3.3371	a l ð ɾ a ʃ e̝
+365	aloumiñar	4	2.1732	3.3371	a l o w m i ɲ a ɾ
+365	anguía	4	2.1732	3.3371	a ŋ ɡ i a̝
+365	antártida	4	2.1732	3.3371	a n t a ɾ t i ð a
+365	brancaneves	4	2.1732	3.3371	b ɾ a ŋ k a̝ n ɛ β e̝ s
+365	brea	4	2.1732	3.3371	b ɾ e a̝
+365	bruxas	4	2.1732	3.3371	b ɾ u ʃ a s
+365	busto	4	2.1732	3.3371	b u s t o̝
+365	caldeira	4	2.1732	3.3371	k a l d e j ɾ a̝
+365	caldeireiro	4	2.1732	3.3371	k a l d e j ɾ e j ɾ o̝
+365	calella	4	2.1732	3.3371	k a l e ʎ a̝
+365	ceibar	4	2.1732	3.3371	s e j β a ɾ  |  θ e j β a ɾ
+365	cepa	4	2.1732	3.3371	s e p a̝  |  θ e p a̝
+365	cereixa	4	2.1732	3.3371	s e ɾ e j ʃ a̝  |  θ e ɾ e j ʃ a̝  |  θ ɾ ɛ j ʃ a̝
+365	chau	4	2.1732	3.3371	t͡ʃ a w
+365	chisca	4	2.1732	3.3371	t͡ʃ i s k a̝
+365	choca	4	2.1732	3.3371	t͡ʃ o k a̝  |  t͡ʃ ɔ k a̝
+365	cisterna	4	2.1732	3.3371	θ i s t ɛ ɾ n a̝
+365	codia	4	2.1732	3.3371	k o ð i a̝  |  k o ð j a̝
+365	col	4	2.1732	3.3371	k ɔ l
+365	colmo	4	2.1732	3.3371	k o l m o̝  |  k ɔ l m o̝
+365	coral	4	2.1732	3.3371	k o ɾ a l
+365	costeiro	4	2.1732	3.3371	k o s t e j ɾ o̝  |  k ɔ s t e j ɾ o̝
+365	costela	4	2.1732	3.3371	k o s t ɛ l a̝
+365	couso	4	2.1732	3.3371	k o w s o̝
+365	couto	4	2.1732	3.3371	k o w t o̝
+365	crista	4	2.1732	3.3371	k ɾ i s t a̝
+365	cuncha	4	2.1732	3.3371	k u n t͡ʃ a̝
+365	degolar	4	2.1732	3.3371	d e ɣ o l a ɾ
+365	despeito	4	2.1732	3.3371	d e s p e j t o̝
+365	enredar	4	2.1732	3.3371	e n r e ð a ɾ
+365	enriquecer	4	2.1732	3.3371	e n r i k e θ e ɾ
+365	entrego	4	2.1732	3.3371	e n t ɾ ɛ ɣ o̝
+365	escachar	4	2.1732	3.3371	e s k a t͡ʃ a ɾ
+365	escaravello	4	2.1732	3.3371	e s k a ɾ a β ɛ ʎ o̝
+365	espelido	4	2.1732	3.3371	e s p e l i ð o̝
+365	espiar	4	2.1732	3.3371	e s p i a ɾ
+365	espichar	4	2.1732	3.3371	e s p i t͡ʃ a ɾ
+365	espir	4	2.1732	3.3371	e s p i ɾ
+365	espiña	4	2.1732	3.3371	e s p i ɲ a̝
+365	estaño	4	2.1732	3.3371	e s t a ɲ o̝
+365	facho	4	2.1732	3.3371	f a t͡ʃ o̝
+365	faisán	4	2.1732	3.3371	f a j s a ŋ
+365	fartura	4	2.1732	3.3371	f a ɾ t u ɾ a̝
+365	ferruxe	4	2.1732	3.3371	f e r u ʃ e̝
+365	fochanca	4	2.1732	3.3371	f o t͡ʃ a ŋ k a̝
+365	fouce	4	2.1732	3.3371	f o w s e̝  |  f o w θ e̝
+365	fritir	4	2.1732	3.3371	f ɾ i t i ɾ
+365	fumeira	4	2.1732	3.3371	f u m e j ɾ a̝
+365	gadaña	4	2.1732	3.3371	ɡ a ð a ɲ a̝
+365	golfiño	4	2.1732	3.3371	ɡ o l f i ɲ o̝
+365	guillerme	4	2.1732	3.3371	ɡ i ʎ ɛ ɾ m e
+365	illar	4	2.1732	3.3371	i ʎ a ɾ
+365	inés	4	2.1732	3.3371	i n ɛ s
+365	laiar	4	2.1732	3.3371	l a j a ɾ
+365	laretar	4	2.1732	3.3371	l a ɾ e t a ɾ
+365	leme	4	2.1732	3.3371	l ɛ m e̝
+365	lenzo	4	2.1732	3.3371	l ɛ n s o̝  |  l ɛ n θ o̝
+365	lide	4	2.1732	3.3371	l i ð e̝
+365	livián	4	2.1732	3.3371	l i β i a ŋ
+365	loiro	4	2.1732	3.3371	l o j ɾ o̝
+365	lontra	4	2.1732	3.3371	l o n t ɾ ɐ
+365	loureiro	4	2.1732	3.3371	l o w ɾ e j ɾ o̝
+365	lousa	4	2.1732	3.3371	l o w s a̝
+365	luva	4	2.1732	3.3371	l u β̞ ɐ
+365	meigo	4	2.1732	3.3371	m e j ɣ o̝
+365	merdento	4	2.1732	3.3371	m ɛ ɾ ð e n t o̝  |  m ɛ ɾ ð ɛ n t o̝
+365	mergullador	4	2.1732	3.3371	m e ɾ ɣ u ʎ a ð o ɾ
+365	mero	4	2.1732	3.3371	m ɛ ɾ o̝
+365	moca	4	2.1732	3.3371	m ɔ k a̝
+365	moer	4	2.1732	3.3371	m o e ɾ
+365	mol	4	2.1732	3.3371	m ɔ l
+365	monllo	4	2.1732	3.3371	m o n ʎ o̝  |  m ɔ n ʎ o̝
+365	mouro	4	2.1732	3.3371	m o w ɾ o̝
+365	moído	4	2.1732	3.3371	m o i ð o̝
+365	noz	4	2.1732	3.3371	n ɔ s  |  n ɔ θ
+365	nádega	4	2.1732	3.3371	n a ð e̝ ɣ a̝
+365	orballo	4	2.1732	3.3371	o ɾ β a ʎ o̝
+365	ouvear	4	2.1732	3.3371	o w β e a ɾ
+365	palleira	4	2.1732	3.3371	p a ʎ e j ɾ a̝
+365	palmo	4	2.1732	3.3371	p a l m o̝
+365	parrulo	4	2.1732	3.3371	p a r u l o̝
+365	paspallás	4	2.1732	3.3371	p a s p a ʎ a s
+365	peneque	4	2.1732	3.3371	p e n ɛ k e̝
+365	pereira	4	2.1732	3.3371	p e ɾ e j ɾ a̝
+365	petar	4	2.1732	3.3371	p e t a ɾ
+365	picote	4	2.1732	3.3371	p i k ɔ t e̝
+365	pitanza	4	2.1732	3.3371	p i t a n θ a̝
+365	pose	4	2.1732	3.3371	p ɔ s e̝
+365	pousar	4	2.1732	3.3371	p o w s a ɾ
+365	pía	4	2.1732	3.3371	p i a̝
+365	quecer	4	2.1732	3.3371	k ɛ s e ɾ  |  k ɛ θ e ɾ
+365	rañar	4	2.1732	3.3371	r a ɲ a ɾ
+365	requeixo	4	2.1732	3.3371	r e k e j ʃ o̝
+365	reseso	4	2.1732	3.3371	r e s ɛ s o̝
+365	rima	4	2.1732	3.3371	r i m a̝
+365	rollo	4	2.1732	3.3371	r o ʎ o̝
+365	sarna	4	2.1732	3.3371	s a ɾ n a̝
+365	saudades	4	2.1732	3.3371	s a w ð a ð e s
+365	silva	4	2.1732	3.3371	s i l β a̝
+365	solleiro	4	2.1732	3.3371	s o ʎ e j ɾ o̝
+365	tella	4	2.1732	3.3371	t e ʎ a̝
+365	teso	4	2.1732	3.3371	t e s o̝
+365	titor	4	2.1732	3.3371	t i t o ɾ
+365	tomé	4	2.1732	3.3371	t o m ɛ
+365	tona	4	2.1732	3.3371	t o n a̝
+365	torto	4	2.1732	3.3371	t ɔ ɾ t o̝
+365	trabar	4	2.1732	3.3371	t ɾ a β a ɾ
+365	trabe	4	2.1732	3.3371	t ɾ a β e̝
+365	trinque	4	2.1732	3.3371	t r i ŋ k e̝
+365	trocar	4	2.1732	3.3371	t ɾ o k a ɾ
+365	trola	4	2.1732	3.3371	t ɾ ɔ l a̝
+365	trousar	4	2.1732	3.3371	t ɾ o w s a ɾ
+365	vaxina	4	2.1732	3.3371	b a ʃ i n a
+365	vea	4	2.1732	3.3371	b e a̝
+365	vendimar	4	2.1732	3.3371	b e n d i m a ɾ
+365	vinagre	4	2.1732	3.3371	b i n a ɣ ɾ e̝
+365	viveiro	4	2.1732	3.3371	b i β e j ɾ o̝
+365	xacer	4	2.1732	3.3371	ʃ a θ e ɾ
+366	aba	3	1.6299	3.2122	a β a̝
+366	abafar	3	1.6299	3.2122	a β a f a ɾ
+366	abastecer	3	1.6299	3.2122	a β a s t e s e ɾ  |  a β a s t e θ e ɾ
+366	abondar	3	1.6299	3.2122	a β o n d a ɾ
+366	agromar	3	1.6299	3.2122	a ɣ ɾ o m a ɾ
+366	agudo	3	1.6299	3.2122	a ɣ u ð o̝
+366	apalpar	3	1.6299	3.2122	a p a l p a ɾ
+366	arca	3	1.6299	3.2122	a r k a̝
+366	armaría	3	1.6299	3.2122	a r m a ɾ i a̝
+366	arqueiro	3	1.6299	3.2122	a ɾ k e j ɾ o
+366	arredar	3	1.6299	3.2122	a r e ð a ɾ
+366	asa	3	1.6299	3.2122	a s a
+366	asma	3	1.6299	3.2122	a s m a̝
+366	atalaia	3	1.6299	3.2122	a t a l a j a̝
+366	atinxir	3	1.6299	3.2122	a t i ŋ ʃ i ɾ
+366	baralla	3	1.6299	3.2122	b a ɾ a ʎ a̝
+366	barreiro	3	1.6299	3.2122	b a r e j ɾ o̝
+366	bisonte	3	1.6299	3.2122	b i s o n t ɪ
+366	borralla	3	1.6299	3.2122	b o r a ʎ a̝
+366	bóveda	3	1.6299	3.2122	b ɔ β e̝ ð a̝
+366	caca	3	1.6299	3.2122	k a k a̝
+366	cadeado	3	1.6299	3.2122	k a ð e a ð o̝
+366	caloroso	3	1.6299	3.2122	k a l o ɾ o s o̝
+366	camioneiro	3	1.6299	3.2122	k a m j o n e ɾ o
+366	cancela	3	1.6299	3.2122	k a n s ɛ l a̝  |  k a n θ ɛ l a̝
+366	cano	3	1.6299	3.2122	k a n o̝
+366	cascabel	3	1.6299	3.2122	k a s k a β ɛ l
+366	cavorco	3	1.6299	3.2122	k a β ɔ ɾ k o̝
+366	cepillar	3	1.6299	3.2122	θ e p i ʎ a ɾ
+366	cerna	3	1.6299	3.2122	s ɛ ɾ n a̝  |  θ ɛ ɾ n a̝
+366	chifre	3	1.6299	3.2122	t͡ʃ i f ɾ e̝
+366	choqueiro	3	1.6299	3.2122	t͡ʃ ɔ k e j ɾ o̝
+366	choromicas	3	1.6299	3.2122	t͡ʃ o ɾ o m i k a̝ s
+366	choutar	3	1.6299	3.2122	t͡ʃ o w t a ɾ
+366	cisco	3	1.6299	3.2122	s i s k o̝  |  θ i s k o̝
+366	cisne	3	1.6299	3.2122	θ i s n ɪ
+366	coar	3	1.6299	3.2122	k o a ɾ
+366	colleitar	3	1.6299	3.2122	k o ʎ e j t a ɾ
+366	constipado	3	1.6299	3.2122	k o n s t i p a ð o
+366	corredoira	3	1.6299	3.2122	k o r e ð o j ɾ a̝
+366	crocante	3	1.6299	3.2122	k ɾ ɔ k a n t e̝
+366	cuspido	3	1.6299	3.2122	k u s p i ð o̝
+366	desfeito	3	1.6299	3.2122	d e s f e j t o̝
+366	distraer	3	1.6299	3.2122	d i s t ɾ a e ɾ
+366	doa	3	1.6299	3.2122	d o a̝
+366	doar	3	1.6299	3.2122	d o a ɾ
+366	empecer	3	1.6299	3.2122	e m p ɛ θ e ɾ
+366	encantamento	3	1.6299	3.2122	e ŋ k a n t a m ɛ n t o̝
+366	engorde	3	1.6299	3.2122	e ŋ ɡ ɔ ɾ ð e̝
+366	engulir	3	1.6299	3.2122	e ŋ ɡ u l i ɾ
+366	enlear	3	1.6299	3.2122	e n l e a ɾ
+366	envorcar	3	1.6299	3.2122	e m b ɔ ɾ k a ɾ
+366	ergueito	3	1.6299	3.2122	e ɾ ɣ e j t o̝
+366	escote	3	1.6299	3.2122	e s k ɔ t e̝
+366	espiño	3	1.6299	3.2122	e s p i ɲ o̝
+366	estala	3	1.6299	3.2122	e s t a l a̝
+366	estela	3	1.6299	3.2122	e s t ɛ l a̝
+366	estrume	3	1.6299	3.2122	e s t ɾ u m e̝
+366	faio	3	1.6299	3.2122	f a j o̝
+366	falabarato	3	1.6299	3.2122	f a l a β a ɾ a t o̝
+366	falcón	3	1.6299	3.2122	f a l k o ŋ
+366	fiado	3	1.6299	3.2122	f i a ð o̝
+366	fito	3	1.6299	3.2122	f i t o̝
+366	fochicar	3	1.6299	3.2122	f o t͡ʃ i k a ɾ
+366	friaxe	3	1.6299	3.2122	f ɾ i a ʃ e̝
+366	frouxo	3	1.6299	3.2122	f ɾ o w ʃ o̝
+366	furar	3	1.6299	3.2122	f u ɾ a ɾ
+366	fía	3	1.6299	3.2122	f i a̝
+366	gaivota	3	1.6299	3.2122	ɡ a j β ɔ t a̝
+366	garganta	3	1.6299	3.2122	ɡ a ɾ ɣ a n t a̝
+366	grea	3	1.6299	3.2122	ɡ ɾ e a̝
+366	gurgullo	3	1.6299	3.2122	ɡ u ɾ ɣ u ʎ o̝
+366	hoste	3	1.6299	3.2122	ɔ s t e̝
+366	lacazán	3	1.6299	3.2122	l a k a θ a ŋ
+366	lagarto	3	1.6299	3.2122	l a ɣ a ɾ t o̝
+366	lambecricas	3	1.6299	3.2122	l a m b e k ɾ i k a̝ s
+366	leituga	3	1.6299	3.2122	l e j t u ɣ a̝
+366	lercho	3	1.6299	3.2122	l ɛ ɾ t͡ʃ o̝
+366	linde	3	1.6299	3.2122	l i n d e̝
+366	machucar	3	1.6299	3.2122	m a t͡ʃ u k a ɾ
+366	mantenza	3	1.6299	3.2122	m a n t ɛ n s a̝  |  m a n t ɛ n θ a̝
+366	mazo	3	1.6299	3.2122	m a s o̝  |  m a θ o̝
+366	meigallo	3	1.6299	3.2122	m e j ɣ a ʎ o̝
+366	meixela	3	1.6299	3.2122	m e j ʃ ɛ l a̝
+366	menta	3	1.6299	3.2122	m e n t a̝  |  m ɛ n t a̝
+366	monto	3	1.6299	3.2122	m o n t o̝
+366	morcego	3	1.6299	3.2122	m o ɾ θ ɛ ɣ o̝
+366	mosquete	3	1.6299	3.2122	m o s k e t e̝
+366	mosquito	3	1.6299	3.2122	m ʊ s k i t ʊ
+366	natura	3	1.6299	3.2122	n a t u r a̝
+366	nervio	3	1.6299	3.2122	n e ɾ β j o̝
+366	obús	3	1.6299	3.2122	ɔ β u s
+366	olga	3	1.6299	3.2122	ɔ l ɣ a̝
+366	parolar	3	1.6299	3.2122	p a r ɔ l a r
+366	pendello	3	1.6299	3.2122	p e n d e ʎ o̝
+366	peteiro	3	1.6299	3.2122	p e t e j ɾ o̝
+366	peón	3	1.6299	3.2122	p e o ŋ
+366	podrecer	3	1.6299	3.2122	p o ð ɾ e s e ɾ  |  p o ð ɾ e θ e ɾ
+366	porcallán	3	1.6299	3.2122	p o ɾ k a ʎ a ŋ  |  p ɔ ɾ k a ʎ a ŋ
+366	pote	3	1.6299	3.2122	p ɔ t e̝
+366	prea	3	1.6299	3.2122	p ɾ e a̝
+366	quinteiro	3	1.6299	3.2122	k i n t e j ɾ o̝
+366	raiar	3	1.6299	3.2122	r a j a ɾ
+366	rancio	3	1.6299	3.2122	r a n s j o̝  |  r a n θ j o̝
+366	rebuldar	3	1.6299	3.2122	r e β u l d a ɾ
+366	refugallo	3	1.6299	3.2122	r e f u ɣ a ʎ o̝
+366	remexer	3	1.6299	3.2122	r e m e ʃ e ɾ
+366	remorso	3	1.6299	3.2122	r e m ɔ ɾ s o̝
+366	renxer	3	1.6299	3.2122	r e n ʃ e ɾ
+366	reo	3	1.6299	3.2122	r e o̝
+366	reviravolta	3	1.6299	3.2122	r e β i ɾ a β ɔ l t a̝
+366	rial	3	1.6299	3.2122	r i a l
+366	rodríguez	3	1.6299	3.2122	r o ð ɾ i ɣ e̝ s  |  r o ð ɾ i ɣ e̝ θ
+366	ruxido	3	1.6299	3.2122	r u ʃ i ð o̝
+366	siso	3	1.6299	3.2122	s i s o̝
+366	solaina	3	1.6299	3.2122	s o l a j n a̝
+366	teimudo	3	1.6299	3.2122	t e j m u ð o̝
+366	temón	3	1.6299	3.2122	t e m o ŋ
+366	tose	3	1.6299	3.2122	t ɔ s ɪ
+366	trabucar	3	1.6299	3.2122	t ɾ a β u k a ɾ
+366	trapela	3	1.6299	3.2122	t ɾ a p ɛ l a̝
+366	tripa	3	1.6299	3.2122	t ɾ i p a̝
+366	vacina	3	1.6299	3.2122	b a s i n a̝  |  b a θ i n a̝
+366	vougo	3	1.6299	3.2122	b o w ɣ o̝
+366	xunco	3	1.6299	3.2122	ʃ u ŋ k o̝
+366	zapateiro	3	1.6299	3.2122	s a p a t e j ɾ o̝  |  θ a p a t e j ɾ o̝
+366	zoupar	3	1.6299	3.2122	θ o w p a ɾ
+367	abadía	2	1.0866	3.0361	a b a d i a
+367	abalar	2	1.0866	3.0361	a β a l a ɾ
+367	abano	2	1.0866	3.0361	a β a n o̝
+367	abella	2	1.0866	3.0361	a β e ʎ a̝
+367	aceda	2	1.0866	3.0361	a θ e ð a̝
+367	acedo	2	1.0866	3.0361	a s e ð o̝  |  a θ e ð o̝
+367	adormentar	2	1.0866	3.0361	a ð o ɾ m e n t a ɾ  |  a ð o ɾ m ɛ n t a ɾ
+367	aguillón	2	1.0866	3.0361	a ɡ i ʎ o ŋ
+367	alvariza	2	1.0866	3.0361	a l β a ɾ i θ a̝
+367	amieiro	2	1.0866	3.0361	a m i e j ɾ o̝
+367	anduriña	2	1.0866	3.0361	a n d u ɾ i ɲ a̝
+367	anello	2	1.0866	3.0361	a n e ʎ o̝
+367	aplicado	2	1.0866	3.0361	a p l i k a ð o̝
+367	aramio	2	1.0866	3.0361	a ɾ a m j o̝
+367	arroutado	2	1.0866	3.0361	a r o w t a ð o̝
+367	asexar	2	1.0866	3.0361	a s e ʃ a ɾ
+367	ateigar	2	1.0866	3.0361	a t e j ɣ a ɾ
+367	australiano	2	1.0866	3.0361	a w s t ɾ a l j ɐ n ʊ
+367	bacoriño	2	1.0866	3.0361	b a k o ɾ i ɲ o̝
+367	baiuca	2	1.0866	3.0361	b a j u k a̝
+367	banqueta	2	1.0866	3.0361	b a ŋ k e t a̝
+367	bao	2	1.0866	3.0361	b a o̯
+367	barbuda	2	1.0866	3.0361	b a ɾ β u ð o̝
+367	barbudo	2	1.0866	3.0361	b a ɾ β u ð o̝
+367	beberaxe	2	1.0866	3.0361	b e β e ɾ a ʃ e̝
+367	becerro	2	1.0866	3.0361	b e s e r o̝  |  b e θ e r o̝
+367	belida	2	1.0866	3.0361	b e l i ð ɐ
+367	bidueiro	2	1.0866	3.0361	b i ð u e j ɾ o̝
+367	bigornia	2	1.0866	3.0361	b i ɣ ɔ ɾ n j a̝
+367	borra	2	1.0866	3.0361	b o r a̝
+367	brasa	2	1.0866	3.0361	b ɾ a s a̝
+367	brasileiro	2	1.0866	3.0361	b ɾ a s i l e j ɾ ʊ
+367	braza	2	1.0866	3.0361	b ɾ a s a̝  |  b ɾ a θ a̝
+367	brinco	2	1.0866	3.0361	b ɾ i ŋ k o̝
+367	brión	2	1.0866	3.0361	b ɾ i o ŋ
+367	brocha	2	1.0866	3.0361	b ɾ ɔ t͡ʃ a̝
+367	brosa	2	1.0866	3.0361	b ɾ ɔ s a̝
+367	brun	2	1.0866	3.0361	b ɾ u ŋ
+367	bruxaría	2	1.0866	3.0361	b ɾ u ʃ a ɾ i a
+367	bucina	2	1.0866	3.0361	b u s i n a̝  |  b u θ i n a̝
+367	cabezal	2	1.0866	3.0361	k a β e s a l  |  k a β e θ a l
+367	cachón	2	1.0866	3.0361	k a t͡ʃ o ŋ
+367	cadril	2	1.0866	3.0361	k a ð ɾ i l
+367	calcaño	2	1.0866	3.0361	k a l k a ɲ o̝
+367	calvario	2	1.0866	3.0361	k a l β a ɾ j o̝
+367	canada	2	1.0866	3.0361	k a n a ð a̝
+367	caneiro	2	1.0866	3.0361	k a n e j ɾ o̝
+367	canella	2	1.0866	3.0361	k a n e ʎ a̝
+367	carapucha	2	1.0866	3.0361	k a ɾ a p u t͡ʃ a̝
+367	carneiro	2	1.0866	3.0361	k a ɾ n e j ɾ o̝
+367	carracha	2	1.0866	3.0361	k a r a t͡ʃ a̝
+367	carrizo	2	1.0866	3.0361	k a r i s o̝  |  k a r i θ o̝
+367	casal	2	1.0866	3.0361	k a s a l
+367	cascuda	2	1.0866	3.0361	k a s k u ð a̝
+367	casta	2	1.0866	3.0361	k a s t a̝
+367	chaga	2	1.0866	3.0361	t͡ʃ a ɣ a̝
+367	chantar	2	1.0866	3.0361	t͡ʃ a n t a ɾ
+367	charco	2	1.0866	3.0361	t͡ʃ a ɾ k o̝
+367	cheirento	2	1.0866	3.0361	t͡ʃ e j ɾ e n t o̝  |  t͡ʃ e j ɾ ɛ n t o̝
+367	chiscar	2	1.0866	3.0361	t͡ʃ i s k a ɾ
+367	chorón	2	1.0866	3.0361	t͡ʃ o ɾ o ŋ
+367	choupar	2	1.0866	3.0361	t͡ʃ o w p a ɾ
+367	choza	2	1.0866	3.0361	t͡ʃ ɔ s a̝  |  t͡ʃ ɔ θ a̝
+367	chío	2	1.0866	3.0361	t͡ʃ i o̝
+367	cincha	2	1.0866	3.0361	s i n t͡ʃ a̝  |  θ i n t͡ʃ a̝
+367	cisma	2	1.0866	3.0361	s i s m a̝  |  ʃ i ɾ m a̝  |  θ i s m a̝
+367	cismar	2	1.0866	3.0361	s i s m a ɾ  |  θ i s m a ɾ
+367	cobizoso	2	1.0866	3.0361	k o β i s o s o̝  |  k o β i θ o s o̝
+367	coio	2	1.0866	3.0361	k ɔ j o̝
+367	coiote	2	1.0866	3.0361	k o j ɔ t e
+367	comarca	2	1.0866	3.0361	k o m a ɾ k a̝
+367	contía	2	1.0866	3.0361	k o n t i a̝
+367	coresma	2	1.0866	3.0361	k o r ɛ s m a̝
+367	coroar	2	1.0866	3.0361	k o ɾ o a ɾ
+367	cosco	2	1.0866	3.0361	k o s k o̝
+367	crebar	2	1.0866	3.0361	k ɾ e β a ɾ
+367	cubeta	2	1.0866	3.0361	k u β e t a̝
+367	dala	2	1.0866	3.0361	d a l a̝
+367	decotío	2	1.0866	3.0361	d e k o t i o̝
+367	demarcación	2	1.0866	3.0361	d e m a ɾ k a θ j o ŋ
+367	destripar	2	1.0866	3.0361	d e s t ɾ i p a ɾ
+367	dezanove	2	1.0866	3.0361	d e θ a n ɔ β ɪ
+367	dioivo	2	1.0866	3.0361	d i o j β o̝
+367	disentir	2	1.0866	3.0361	d i s e n t i ɾ
+367	eira	2	1.0866	3.0361	e j ɾ a̝
+367	eiva	2	1.0866	3.0361	e j β a̝  |  ɛ j β a̝
+367	elmo	2	1.0866	3.0361	ɛ l m ʊ
+367	escarallar	2	1.0866	3.0361	e s k a ɾ a ʎ a ɾ
+367	escavar	2	1.0866	3.0361	e s k a β a ɾ
+367	escorregar	2	1.0866	3.0361	e s k o r e ɣ a ɾ
+367	escurecer	2	1.0866	3.0361	e s k u ɾ e θ e ɾ
+367	escusar	2	1.0866	3.0361	e s k u s a ɾ
+367	eslava	2	1.0866	3.0361	e s l a β a̝
+367	esmorecer	2	1.0866	3.0361	e s m o ɾ e s e ɾ  |  e s m o ɾ e θ e ɾ
+367	esmorga	2	1.0866	3.0361	e s m ɔ ɾ ɣ a̝
+367	espantar	2	1.0866	3.0361	e s p a n t a ɾ
+367	espiñazo	2	1.0866	3.0361	e s p i ɲ a s o̝  |  e s p i ɲ a θ o̝
+367	estada	2	1.0866	3.0361	e s t a ð a̝
+367	esteiro	2	1.0866	3.0361	e s t e j ɾ o̝
+367	estremo	2	1.0866	3.0361	e s t ɾ e m o̝
+367	faca	2	1.0866	3.0361	f a k a̝
+367	facha	2	1.0866	3.0361	f a t͡ʃ a̝
+367	falangueiro	2	1.0866	3.0361	f a l a ŋ ɡ e j ɾ o̝
+367	falcatrueiro	2	1.0866	3.0361	f a l k a t ɾ u e j ɾ o̝
+367	fastío	2	1.0866	3.0361	f a s t i o̝
+367	fender	2	1.0866	3.0361	f e n d e ɾ
+367	ferrollo	2	1.0866	3.0361	f e r o ʎ o̝
+367	ferros	2	1.0866	3.0361	f ɛ r o̝ s
+367	figueira	2	1.0866	3.0361	f i ɣ e j ɾ a̝
+367	forxa	2	1.0866	3.0361	f ɔ ɾ ʃ a̝
+367	fozar	2	1.0866	3.0361	f o s a ɾ  |  f o θ a ɾ
+367	freixo	2	1.0866	3.0361	f ɾ e j ʃ o̝
+367	funil	2	1.0866	3.0361	f u n i l
+367	furón	2	1.0866	3.0361	f u ɾ ɔ ŋ
+367	gabear	2	1.0866	3.0361	ɡ a β e a ɾ
+367	galicia	2	1.0866	3.0361	ɡ a l i s j ɐ  |  ɡ a l i θ j ɐ
+367	galiñeiro	2	1.0866	3.0361	ɡ a l i ɲ e j ɾ o̝
+367	garrote	2	1.0866	3.0361	ɡ a r ɔ t e̝
+367	gorila	2	1.0866	3.0361	ɡ ʊ ɾ i l ɐ
+367	grama	2	1.0866	3.0361	ɡ ɾ a m a̝
+367	gume	2	1.0866	3.0361	ɡ u m e̝
+367	habelencia	2	1.0866	3.0361	a β e l ɛ n θ j a̝
+367	ladrillo	2	1.0866	3.0361	l a ð ɾ i ʎ o̝
+367	lagosta	2	1.0866	3.0361	l a ɣ o s t a̝
+367	lareira	2	1.0866	3.0361	l a ɾ e j ɾ a̝
+367	lavadoiro	2	1.0866	3.0361	l a β a ð o j ɾ o̝
+367	lercha	2	1.0866	3.0361	l ɛ ɾ t͡ʃ a̝
+367	liñaxe	2	1.0866	3.0361	l i ɲ a ʃ e
+367	lobishome	2	1.0866	3.0361	l o β i s ɔ m e̝
+367	longaínza	2	1.0866	3.0361	l o ŋ ɡ a i n θ a̝
+367	maceira	2	1.0866	3.0361	m a s e j ɾ a̝  |  m a θ e j ɾ a̝
+367	mamada	2	1.0866	3.0361	m a m a ð a
+367	manchea	2	1.0866	3.0361	m a n t͡ʃ e a̝
+367	marisco	2	1.0866	3.0361	m a ɾ i s k o̝
+367	maseira	2	1.0866	3.0361	m a s e j ɾ a̝
+367	mastro	2	1.0866	3.0361	m a s t ɾ o̝
+367	meda	2	1.0866	3.0361	m e ð a̝  |  m ɛ ð a̝
+367	melón	2	1.0866	3.0361	m e l o ŋ
+367	merenda	2	1.0866	3.0361	m e ɾ e n d a̝
+367	mexer	2	1.0866	3.0361	m e ʃ e ɾ
+367	mexericas	2	1.0866	3.0361	m e ʃ e ɾ i k a̝ s  |  m i ʃ i ɾ i k a̝ s
+367	mexillón	2	1.0866	3.0361	m e ʃ i ʎ o ŋ  |  m i ʃ i ʎ o ŋ
+367	miolo	2	1.0866	3.0361	m i o l o̝  |  m i ɔ l o̝
+367	monicreque	2	1.0866	3.0361	m o n i k ɾ ɛ k e̝
+367	monteiro	2	1.0866	3.0361	m o n t e j ɾ o̝
+367	morado	2	1.0866	3.0361	m o ɾ a ð o̝
+367	moucho	2	1.0866	3.0361	m o w t͡ʃ o̝
+367	negrón	2	1.0866	3.0361	n e ɣ ɾ o ŋ
+367	nembargantes	2	1.0866	3.0361	n ɛ m b a ɾ ɣ a̝ n t e̝ s
+367	nó	2	1.0866	3.0361	n ɔ
+367	olmo	2	1.0866	3.0361	o l m o̝
+367	papo	2	1.0866	3.0361	p a p o̝
+367	papuxa	2	1.0866	3.0361	p a p u ʃ a̝
+367	partilla	2	1.0866	3.0361	p a ɾ t i ʎ a̝
+367	pasamento	2	1.0866	3.0361	p a s a m e n t o̝  |  p a s a m ɛ n t o̝
+367	pechadura	2	1.0866	3.0361	p e t͡ʃ a ð u ɾ a̝
+367	penedo	2	1.0866	3.0361	p e n e ð o̝
+367	pergameo	2	1.0866	3.0361	p e ɾ ɣ a m e o̯
+367	piar	2	1.0866	3.0361	p i a ɾ
+367	pinchar	2	1.0866	3.0361	p i n t͡ʃ a ɾ
+367	pingar	2	1.0866	3.0361	p i ŋ ɡ a ɾ
+367	pior	2	1.0866	3.0361	p ɨ ɔ ɾ
+367	pitiño	2	1.0866	3.0361	p i t i ɲ o̝
+367	podar	2	1.0866	3.0361	m e n d ɾ e ʎ o̝
+367	polbo	2	1.0866	3.0361	p ɔ l β o̝
+367	pomar	2	1.0866	3.0361	p o m a ɾ
+367	porro	2	1.0866	3.0361	p ɔ r o
+367	poxar	2	1.0866	3.0361	p o ʃ a ɾ
+367	prego	2	1.0866	3.0361	p ɾ ɛ ɣ o̝
+367	preguiza	2	1.0866	3.0361	p ɾ e ɣ i s a̝  |  p ɾ e ɣ i θ a̝
+367	queixume	2	1.0866	3.0361	k e j ʃ u m e̝
+367	rabuxento	2	1.0866	3.0361	r a β u ʃ ɛ n t o̝
+367	rapar	2	1.0866	3.0361	r a p a ɾ
+367	regatear	2	1.0866	3.0361	r e ɣ a t e a ɾ
+367	remollar	2	1.0866	3.0361	r e m o ʎ a ɾ
+367	remuíño	2	1.0866	3.0361	r e m u i ɲ o̝
+367	res	2	1.0866	3.0361	r e s
+367	restra	2	1.0866	3.0361	r ɛ s t ɾ a̝
+367	reuma	2	1.0866	3.0361	r ɛ w m a̝
+367	rexurdir	2	1.0866	3.0361	r e ʃ u ɾ ð i ɾ
+367	riscar	2	1.0866	3.0361	r i s k a ɾ
+367	rodrigo	2	1.0866	3.0361	r o d ɾ i ɣ o̝
+367	roi	2	1.0866	3.0361	r o j
+367	roza	2	1.0866	3.0361	r o s a̝  |  r o θ a̝
+367	rozar	2	1.0866	3.0361	r o s a ɾ  |  r o θ a ɾ
+367	saleiro	2	1.0866	3.0361	s a l e j ɾ o̝
+367	saloucar	2	1.0866	3.0361	s a l o w k a ɾ
+367	sandar	2	1.0866	3.0361	s a n d a ɾ
+367	sementeira	2	1.0866	3.0361	s e m e n t e j ɾ a
+367	serrón	2	1.0866	3.0361	s e r o ŋ
+367	seta	2	1.0866	3.0361	s ɛ t a̝
+367	sobrado	2	1.0866	3.0361	s o β ɾ a ð o̝
+367	soldar	2	1.0866	3.0361	s o l ð a ɾ
+367	suspirar	2	1.0866	3.0361	s u s p i ɾ a ɾ
+367	taberneiro	2	1.0866	3.0361	t a β e ɾ n e j ɾ o̝  |  t a β ɛ ɾ n e j ɾ o̝
+367	tailandés	2	1.0866	3.0361	t a j l ɐ n d ɛ s
+367	tallar	2	1.0866	3.0361	t a ʎ a ɾ
+367	tarabela	2	1.0866	3.0361	t a ɾ a β ɛ l a̝
+367	tesoira	2	1.0866	3.0361	t e s o j ɾ a̝
+367	toa	2	1.0866	3.0361	t o a̝
+367	tobo	2	1.0866	3.0361	t o β o̝
+367	toro	2	1.0866	3.0361	t o ɾ o̝
+367	trabalinguas	2	1.0866	3.0361	t ɾ a β a l i ŋ ɡ w a̝ s
+367	tranca	2	1.0866	3.0361	t ɾ a ŋ k a̝
+367	trangallada	2	1.0866	3.0361	t ɾ a ŋ ɡ a ʎ a ð a̝
+367	trasnada	2	1.0866	3.0361	t ɾ a s n a ð a̝
+367	traveseiro	2	1.0866	3.0361	t ɾ a β e s e j ɾ̝ o
+367	tremo	2	1.0866	3.0361	t ɾ e m o̝
+367	trepar	2	1.0866	3.0361	t ɾ e p a ɾ
+367	trincheira	2	1.0866	3.0361	t ɾ i n t͡ʃ a ɾ
+367	trompa	2	1.0866	3.0361	t ɾ o m p a
+367	unlla	2	1.0866	3.0361	u n ʎ a̝
+367	uña	2	1.0866	3.0361	u ɲ a̝
+367	vao	2	1.0866	3.0361	b a o̯
+367	varga	2	1.0866	3.0361	b a ɾ ɣ a̝
+367	vaíña	2	1.0866	3.0361	b a i ɲ a̝
+367	videira	2	1.0866	3.0361	b i ð e j ɾ a̝
+367	vigo	2	1.0866	3.0361	b i ħ o̝  |  b i ɣ o̝
+367	vime	2	1.0866	3.0361	b i m e̝
+367	xato	2	1.0866	3.0361	ʃ a t o̝
+367	xeitoso	2	1.0866	3.0361	ʃ e j t o s o̝
+367	xermolar	2	1.0866	3.0361	ʃ e r m o l a ɾ
+367	xiao	2	1.0866	3.0361	ʃ i a o̯
+367	xiba	2	1.0866	3.0361	ʃ i β a̝
+367	xoaniña	2	1.0866	3.0361	ʃ o̯ a n i ɲ a̝  |  ʃ w a n i ɲ a̝
+367	xurro	2	1.0866	3.0361	ʃ u r o̝
+367	zoupón	2	1.0866	3.0361	s o w p o ŋ  |  θ o w p o ŋ
+368	abada	1	0.5433	2.735	a β a ð a̝
+368	abafo	1	0.5433	2.735	a β a f o̝
+368	abalo	1	0.5433	2.735	a β a l o̝
+368	abeto	1	0.5433	2.735	a β e t o̝
+368	abrigar	1	0.5433	2.735	a β ɾ i ɣ a ɾ
+368	acha	1	0.5433	2.735	a t͡ʃ a
+368	achantar	1	0.5433	2.735	a t͡ʃ a n t a ɾ
+368	acibeche	1	0.5433	2.735	a s i β ɛ t͡ʃ e̝  |  a θ i β ɛ t͡ʃ e̝
+368	acio	1	0.5433	2.735	a θ i o̝  |  a θ j o̝
+368	aciñeira	1	0.5433	2.735	a θ i ɲ e j ɾ a̝
+368	acoro	1	0.5433	2.735	a k o ɾ o̝
+368	adobe	1	0.5433	2.735	a ð ɔ β e̝
+368	agasallar	1	0.5433	2.735	a ɣ a s a ʎ a ɾ
+368	aixada	1	0.5433	2.735	a j ʃ a ð a̝
+368	albor	1	0.5433	2.735	a l β o ɾ
+368	alporizar	1	0.5433	2.735	a l p o ɾ i s a ɾ  |  a l p o ɾ i θ a ɾ
+368	ameixa	1	0.5433	2.735	a m e j ʃ a̝
+368	ames	1	0.5433	2.735	a m e̝ s
+368	amoucar	1	0.5433	2.735	a m o w k a ɾ
+368	améndoa	1	0.5433	2.735	a m e n d o̯ a̝
+368	anciño	1	0.5433	2.735	a n θ i ɲ o̝
+368	andaina	1	0.5433	2.735	a n d a j n a̝
+368	argola	1	0.5433	2.735	a ɾ ɣ ɔ l a̝
+368	arroiar	1	0.5433	2.735	a r o j a ɾ
+368	arroio	1	0.5433	2.735	a r o j o̝
+368	arxentino	1	0.5433	2.735	a ɾ ʃ e n t i n ʊ
+368	arzón	1	0.5433	2.735	a ɾ s o ŋ  |  a ɾ θ o ŋ
+368	asar	1	0.5433	2.735	a s a ɾ
+368	atoar	1	0.5433	2.735	a t o a ɾ
+368	atuar	1	0.5433	2.735	a t u a ɾ
+368	banzo	1	0.5433	2.735	b a n s o̝  |  b a n θ o̝
+368	barallar	1	0.5433	2.735	b a ɾ a ʎ a ɾ
+368	barbeito	1	0.5433	2.735	b a ɾ β e j t o̝
+368	baril	1	0.5433	2.735	b a ɾ i l
+368	barqueiro	1	0.5433	2.735	b a ɾ k e j ɾ o̝
+368	batel	1	0.5433	2.735	b a t ɛ l
+368	baña	1	0.5433	2.735	b a ɲ a̝
+368	birollo	1	0.5433	2.735	b i ɾ o ʎ o̝  |  b i ɾ ɔ ʎ o̝
+368	bisbar	1	0.5433	2.735	b i s β a ɾ
+368	bisbarra	1	0.5433	2.735	b i s b a r a̝
+368	bocexar	1	0.5433	2.735	b o s e ʃ a ɾ  |  b o θ e ʃ a ɾ
+368	bocha	1	0.5433	2.735	b ɔ t͡ʃ a̝
+368	boga	1	0.5433	2.735	b ɔ ɣ a̝
+368	boquexar	1	0.5433	2.735	b o k e ʃ a ɾ
+368	bordear	1	0.5433	2.735	b o ɾ ð e a ɾ
+368	bourar	1	0.5433	2.735	b o w ɾ a ɾ
+368	braña	1	0.5433	2.735	b ɾ a ɲ a̝
+368	brodio	1	0.5433	2.735	b ɾ ɔ ð j ʊ
+368	brúa	1	0.5433	2.735	b ɾ u a̝
+368	buceta	1	0.5433	2.735	b u s e t a̝  |  b u θ e t a̝
+368	bucio	1	0.5433	2.735	b u s j o̝  |  b u θ j o̝
+368	bulicio	1	0.5433	2.735	b u l i s j o̝  |  b u l i θ j o̝
+368	bulir	1	0.5433	2.735	b u l i ɾ
+368	bulleiro	1	0.5433	2.735	b u ʎ e j ɾ o̝  |  b u ʎ ɛ j ɾ o̝
+368	cabido	1	0.5433	2.735	k a β i ð o̝
+368	cacatúa	1	0.5433	2.735	k a k a t u ɐ
+368	cachada	1	0.5433	2.735	k a t͡ʃ a ð a̝
+368	cachar	1	0.5433	2.735	k a t͡ʃ a ɾ
+368	cacharela	1	0.5433	2.735	k a t͡ʃ a ɾ ɛ l a̝
+368	cacheira	1	0.5433	2.735	k a t͡ʃ e j ɾ a̝
+368	cadrar	1	0.5433	2.735	k a ð ɾ a ɾ
+368	caetano	1	0.5433	2.735	k a e t a n o̝  |  k a e̯ t a n o̝
+368	cagallón	1	0.5433	2.735	k a ɣ a ʎ o ŋ
+368	cai	1	0.5433	2.735	k a j
+368	campa	1	0.5433	2.735	k a m p a
+368	canario	1	0.5433	2.735	k ɐ n ɐ ɾ j ʊ
+368	cao	1	0.5433	2.735	k a o̯
+368	carambelo	1	0.5433	2.735	k a ɾ a m b e l o̝  |  k a ɾ a m b ɛ l o̝
+368	carraca	1	0.5433	2.735	k a r a k a̝
+368	carreiro	1	0.5433	2.735	k a r e j ɾ o̝
+368	casquete	1	0.5433	2.735	k a s k e t e̝
+368	castor	1	0.5433	2.735	k a s t o ɾ
+368	catar	1	0.5433	2.735	k a t a ɾ
+368	catarina	1	0.5433	2.735	k a t a ɾ i n ɐ
+368	cerrar	1	0.5433	2.735	s ɛ r a ɾ  |  θ ɛ r a ɾ
+368	chacina	1	0.5433	2.735	t͡ʃ a s i n a̝  |  t͡ʃ a θ i n a̝
+368	chamizo	1	0.5433	2.735	t͡ʃ a m i s o̝  |  t͡ʃ a m i θ o̝
+368	chamuscar	1	0.5433	2.735	t͡ʃ a m u s k a ɾ
+368	chantada	1	0.5433	2.735	t͡ʃ a n t a ð a̝
+368	chapapote	1	0.5433	2.735	t͡ʃ a p a p ɔ t e̝
+368	chata	1	0.5433	2.735	t͡ʃ a t a̝
+368	chiar	1	0.5433	2.735	t͡ʃ i a ɾ
+368	chimpo	1	0.5433	2.735	t͡ʃ i m p o̝
+368	chocallo	1	0.5433	2.735	t͡ʃ o k a ʎ o̝
+368	chosco	1	0.5433	2.735	t͡ʃ o s k o̝
+368	choupana	1	0.5433	2.735	t͡ʃ o w p a n a̝
+368	chuchar	1	0.5433	2.735	t͡ʃ u t͡ʃ a ɾ
+368	chufa	1	0.5433	2.735	t͡ʃ u f a̝
+368	chufar	1	0.5433	2.735	t͡ʃ u f a ɾ
+368	chupeta	1	0.5433	2.735	t͡ʃ u p e t a̝
+368	chá	1	0.5433	2.735	t͡ʃ a
+368	cincho	1	0.5433	2.735	s i n t͡ʃ o̝  |  θ i n t͡ʃ o̝
+368	cinguir	1	0.5433	2.735	s i ɲ i ɾ  |  θ i ŋ ɡ i ɾ
+368	coella	1	0.5433	2.735	k o e ʎ a̝
+368	colleito	1	0.5433	2.735	k o ʎ e j t o̝
+368	comechón	1	0.5433	2.735	k o m e t͡ʃ o ŋ  |  k o m i t͡ʃ o ŋ
+368	consonte	1	0.5433	2.735	k o n s o n t e̝
+368	cotarelo	1	0.5433	2.735	k o t a ɾ ɛ l o̝
+368	coto	1	0.5433	2.735	k o t o̝  |  k ɔ t o̝
+368	cotra	1	0.5433	2.735	k o t ɾ a̝
+368	couza	1	0.5433	2.735	k o w θ a̝
+368	cuartillo	1	0.5433	2.735	k w a ɾ t i ʎ o̝
+368	curuto	1	0.5433	2.735	k u ɾ u t o̝  |  k ɾ u t o̝
+368	cánabo	1	0.5433	2.735	k a n a̝ β o̝
+368	cántaro	1	0.5433	2.735	k a n t a̝ ɾ o̝
+368	desbotar	1	0.5433	2.735	d e s β o t a ɾ
+368	devalar	1	0.5433	2.735	d e β a l a ɾ
+368	doniña	1	0.5433	2.735	d o n i ɲ a̝
+368	eche	1	0.5433	2.735	e t͡ʃ e̝
+368	edificar	1	0.5433	2.735	e ð i f i k a ɾ
+368	eirado	1	0.5433	2.735	e j ɾ a ð o̝
+368	empuxón	1	0.5433	2.735	e m p u ʃ o ŋ
+368	enchenta	1	0.5433	2.735	e n t͡ʃ e n t a̝  |  e n t͡ʃ ɛ n t a̝  |  i n t͡ʃ ɛ n t a̝
+368	enchoupar	1	0.5433	2.735	e n t͡ʃ o w p a ɾ
+368	enfeita	1	0.5433	2.735	e ɱ f e j t a̝
+368	enfeitar	1	0.5433	2.735	e ɱ f e j t a ɾ
+368	envorco	1	0.5433	2.735	e m b ɔ ɾ k o̝
+368	esbardallar	1	0.5433	2.735	e s β a ɾ ð a ʎ a ɾ
+368	escaldar	1	0.5433	2.735	e s k a l ð a ɾ
+368	escangallar	1	0.5433	2.735	e s k a ŋ ɡ a ʎ a ɾ
+368	escaravellar	1	0.5433	2.735	e s k a ɾ a β e ʎ a ɾ
+368	escarpa	1	0.5433	2.735	e s k a ɾ p a̝
+368	escarvar	1	0.5433	2.735	e s k a ɾ β a ɾ
+368	escolmar	1	0.5433	2.735	e s k o l m a ɾ
+368	escribán	1	0.5433	2.735	e s k ɾ i β a ŋ
+368	esculca	1	0.5433	2.735	e s k u l k a̝
+368	esganar	1	0.5433	2.735	e s ɣ a n a ɾ
+368	esgrevio	1	0.5433	2.735	e s ɣ ɾ e β j o̝
+368	esnafrar	1	0.5433	2.735	e s n a f ɾ a ɾ
+368	esparto	1	0.5433	2.735	e s p a ɾ t o̝
+368	espirrar	1	0.5433	2.735	e s p i r a ɾ
+368	espremer	1	0.5433	2.735	e s p ɾ e m e ɾ
+368	estalar	1	0.5433	2.735	e s t a l a ɾ
+368	estampar	1	0.5433	2.735	e s t a m p a ɾ
+368	estarricar	1	0.5433	2.735	e s t a r i k a ɾ
+368	esterqueira	1	0.5433	2.735	e s t e ɾ k e j ɾ a̝
+368	estevo	1	0.5433	2.735	e s t e β o̝
+368	estruga	1	0.5433	2.735	e s t ɾ u ɣ a̝
+368	faba	1	0.5433	2.735	f a β a̝
+368	faragulla	1	0.5433	2.735	f a ɾ a ɣ u ʎ a̝
+368	farelo	1	0.5433	2.735	f a ɾ ɛ l o̝
+368	favo	1	0.5433	2.735	f a β o̝
+368	fazula	1	0.5433	2.735	f a s u l a̝  |  f a θ u l a̝
+368	fedello	1	0.5433	2.735	f e ð e ʎ o̝
+368	feder	1	0.5433	2.735	f e ð e ɾ
+368	feixón	1	0.5433	2.735	f e j ʃ o ŋ
+368	felpa	1	0.5433	2.735	f ɛ l p a̝
+368	feltro	1	0.5433	2.735	f ɛ l t ɾ o̝
+368	feluxe	1	0.5433	2.735	f e l u ʃ e̝
+368	fento	1	0.5433	2.735	f e n t o̝  |  f ɛ n t o̝
+368	fermento	1	0.5433	2.735	f e ɾ m e n t o̝  |  f e ɾ m ɛ n t o̝
+368	fero	1	0.5433	2.735	f ɛ ɾ o̝
+368	fibela	1	0.5433	2.735	f i β ɛ l a̝
+368	fiúncho	1	0.5433	2.735	f i u n t͡ʃ o̝
+368	fogaxe	1	0.5433	2.735	f o ɣ a ʃ e̝
+368	fol	1	0.5433	2.735	f ɔ l
+368	folerpa	1	0.5433	2.735	f o l ɛ ɾ p a̝
+368	fondal	1	0.5433	2.735	f o n d a l
+368	forrar	1	0.5433	2.735	f o r a ɾ
+368	foz	1	0.5433	2.735	f ɔ s  |  f ɔ θ
+368	frangulla	1	0.5433	2.735	f ɾ a ŋ ɡ u ʎ a̝
+368	fretar	1	0.5433	2.735	f ɾ e t a ɾ
+368	fumegar	1	0.5433	2.735	f u m e ɣ a ɾ
+368	fura	1	0.5433	2.735	f u ɾ a̝
+368	furna	1	0.5433	2.735	f u ɾ n a̝
+368	gabanza	1	0.5433	2.735	ɡ a β a n θ a̝
+368	gabar	1	0.5433	2.735	ɡ a β a ɾ
+368	gabeta	1	0.5433	2.735	ɡ a β e t a̝
+368	gago	1	0.5433	2.735	ɡ a ɣ o̝
+368	gaio	1	0.5433	2.735	ɡ a j o̝
+368	gaita	1	0.5433	2.735	ɡ a j t a̝
+368	galiza	1	0.5433	2.735	ɡ a l i s ɐ  |  ɡ a l i θ ɐ
+368	gallado	1	0.5433	2.735	ɡ a ʎ a ð o̝
+368	galván	1	0.5433	2.735	ħ a l b a ŋ  |  ɡ a l b a ŋ
+368	ganso	1	0.5433	2.735	ɡ a n s o̝
+368	gargallada	1	0.5433	2.735	ɡ a ɾ ɣ a ʎ a ð a̝
+368	golfe	1	0.5433	2.735	ɡ ɔ l f e̝
+368	gorgolexo	1	0.5433	2.735	ɡ o ɾ ɣ o l e ʃ o̝
+368	goro	1	0.5433	2.735	ɡ ɔ ɾ o̝
+368	goto	1	0.5433	2.735	ɡ o t o̝
+368	groria	1	0.5433	2.735	ɡ ɾ ɔ ɾ j a̝
+368	guinche	1	0.5433	2.735	ɡ i n t͡ʃ e̝
+368	guindastre	1	0.5433	2.735	ɡ i n d a s t ɾ e̝
+368	guisa	1	0.5433	2.735	ɡ i s a̝
+368	guisar	1	0.5433	2.735	ɡ i s a ɾ
+368	hedra	1	0.5433	2.735	ɛ ð ɾ a̝
+368	homofobia	1	0.5433	2.735	o̞ m o̞ f o̞ β j a̠
+368	hucha	1	0.5433	2.735	u t͡ʃ a̝
+368	incenso	1	0.5433	2.735	i n θ e n s o̝  |  i n θ ɛ n s o̝
+368	inchar	1	0.5433	2.735	i n t͡ʃ a ɾ
+368	insua	1	0.5433	2.735	i n s w a̝
+368	ladaíña	1	0.5433	2.735	l a ð a i ɲ a
+368	lagar	1	0.5433	2.735	l a ɣ a ɾ
+368	lamazal	1	0.5433	2.735	l a m a s a l  |  l a m a θ a l
+368	lambetada	1	0.5433	2.735	l a m b e t a ð a̝
+368	lampo	1	0.5433	2.735	l a m p o̝
+368	landra	1	0.5433	2.735	l a n d ɾ a̝
+368	langosta	1	0.5433	2.735	l a ŋ ɡ o s t a̝
+368	langrán	1	0.5433	2.735	l a ŋ ɡ ɾ a ŋ
+368	lastra	1	0.5433	2.735	l a s t ɾ a̝
+368	lavandeira	1	0.5433	2.735	l a β a n d e j ɾ a̝
+368	leitón	1	0.5433	2.735	l e j t o ŋ
+368	liame	1	0.5433	2.735	l i a m e̝
+368	lindeiro	1	0.5433	2.735	l i n d e j ɾ o̝
+368	lique	1	0.5433	2.735	l i k e̝
+368	lomba	1	0.5433	2.735	l o m b a̝
+368	londra	1	0.5433	2.735	l o n d ɾ a̝
+368	lousado	1	0.5433	2.735	l o w s a ð o̝
+368	lumbrigante	1	0.5433	2.735	l u m b ɾ i ɣ a n t e̝
+368	mantel	1	0.5433	2.735	m a n t ɛ l
+368	mapache	1	0.5433	2.735	m ɐ p a t͡ʃ ɪ
+368	maraña	1	0.5433	2.735	m a ɾ a ɲ a̝
+368	marear	1	0.5433	2.735	m a ɾ e a ɾ
+368	mariola	1	0.5433	2.735	m a ɾ j ɔ l a̝
+368	marrán	1	0.5433	2.735	m a r a ŋ
+368	mazaroca	1	0.5433	2.735	m a s a ɾ ɔ k a̝  |  m a θ a ɾ ɔ k a̝
+368	mestas	1	0.5433	2.735	m e s t a̝ s
+368	mexada	1	0.5433	2.735	m e ʃ a ð a̝
+368	milhomes	1	0.5433	2.735	m i l ɔ m e̝ s
+368	miñato	1	0.5433	2.735	m i ɲ a t o̝
+368	moa	1	0.5433	2.735	m ɔ a̝
+368	moio	1	0.5433	2.735	m o j o̝
+368	mosto	1	0.5433	2.735	m o s t o̝
+368	muiñeiro	1	0.5433	2.735	m u i ɲ e j ɾ o̝
+368	murcho	1	0.5433	2.735	m u ɾ t͡ʃ o̝
+368	muxir	1	0.5433	2.735	m u ʃ i ɾ
+368	nabo	1	0.5433	2.735	n a β o̝
+368	nao	1	0.5433	2.735	n a ʊ̯
+368	napia	1	0.5433	2.735	n a p j a̝
+368	nugalla	1	0.5433	2.735	n u ɣ a ʎ a̝
+368	nugallán	1	0.5433	2.735	n u ɣ a ʎ a̝ ŋ
+368	ollomol	1	0.5433	2.735	o ʎ o m ɔ l  |  ɔ ʎ o m ɔ l
+368	orela	1	0.5433	2.735	o ɾ ɛ l a̝
+368	orxo	1	0.5433	2.735	o ɾ ʃ o̝  |  ɔ ɾ ʃ o̝
+368	ourive	1	0.5433	2.735	o w ɾ i β e̝
+368	padal	1	0.5433	2.735	p a ð a l
+368	padrón	1	0.5433	2.735	p a ð ɾ o ŋ
+368	panxoliña	1	0.5433	2.735	p a n ʃ ɔ l i ɲ a
+368	paquistaní	1	0.5433	2.735	p a k i s t ɐ n i
+368	pardal	1	0.5433	2.735	p a ɾ ð a l
+368	patín	1	0.5433	2.735	p a t i ŋ
+368	peaxe	1	0.5433	2.735	p e a ʃ e̝
+368	peido	1	0.5433	2.735	p e j ð o̝
+368	peitoril	1	0.5433	2.735	p e j t o ɾ i l
+368	pelica	1	0.5433	2.735	p e l i k a̝  |  p ɪ l i k a̝
+368	peluxe	1	0.5433	2.735	p e l u ʃ e̝
+368	penuxe	1	0.5433	2.735	p e n u ʃ e̝
+368	pequeneiro	1	0.5433	2.735	p e k e n e j ɾ o̝
+368	perdiz	1	0.5433	2.735	p e ɾ ð i s  |  p e ɾ ð i θ
+368	perexil	1	0.5433	2.735	p e ɾ e ʃ i l  |  p ɾ e ʃ i l
+368	perrencha	1	0.5433	2.735	p e ɾ e n t͡ʃ a̝
+368	pesco	1	0.5433	2.735	p e s k o̝
+368	pestana	1	0.5433	2.735	p e s t a n a̝
+368	pichel	1	0.5433	2.735	p i t͡ʃ ɛ l
+368	pingueira	1	0.5433	2.735	p i ŋ ɡ e j ɾ a̝
+368	pino	1	0.5433	2.735	p i n o̝
+368	pirixel	1	0.5433	2.735	p i ɾ i ʃ ɛ l
+368	pitar	1	0.5433	2.735	p i t a ɾ
+368	pixa	1	0.5433	2.735	p i ʃ a̝
+368	poceiro	1	0.5433	2.735	p o s e j ɾ o̝  |  p o θ e j ɾ o̝
+368	pombo	1	0.5433	2.735	p ɔ m b o̝
+368	pontevedra	1	0.5433	2.735	p o n t e β ɛ ð ɾ a̝
+368	porfía	1	0.5433	2.735	p o ɾ f i a̝
+368	porqueira	1	0.5433	2.735	p ɔ ɾ k e i ɾ a̝
+368	portelo	1	0.5433	2.735	p o ɾ t e l o̝  |  p o ɾ t ɛ l o̝
+368	preguizoso	1	0.5433	2.735	p ɾ e ɣ i s o s o̝  |  p ɾ e ɣ i θ o s o̝
+368	presentir	1	0.5433	2.735	p r e s e n t i ɾ
+368	pálpebra	1	0.5433	2.735	p a l p e β ɾ a̝
+368	rabuñar	1	0.5433	2.735	r a β u ɲ a ɾ
+368	raxo	1	0.5433	2.735	r a ʃ o̝
+368	rebento	1	0.5433	2.735	r e b e n t o
+368	rebulir	1	0.5433	2.735	r e b u l i ɾ
+368	recepcionista	1	0.5433	2.735	r e θ e p θ j o n i s t ɐ
+368	refregar	1	0.5433	2.735	r e f ɾ e ɣ a ɾ
+368	regazo	1	0.5433	2.735	r e ɣ a s o̝  |  r e ɣ a θ o̝
+368	regueiro	1	0.5433	2.735	r e ɣ e j ɾ o̝
+368	rengo	1	0.5433	2.735	r ɛ ŋ ɡ o̝
+368	reste	1	0.5433	2.735	r ɛ s t e̝
+368	retorto	1	0.5433	2.735	r e t ɔ ɾ t o̝
+368	rifón	1	0.5433	2.735	r i f o ŋ
+368	robaliza	1	0.5433	2.735	r o β a l i s a̝  |  r o β a l i θ a̝
+368	rocho	1	0.5433	2.735	r o t͡ʃ o̝  |  r ɔ t͡ʃ o̝
+368	rosca	1	0.5433	2.735	r o s k a̝
+368	roseira	1	0.5433	2.735	r o s e j ɾ a̝
+368	ruada	1	0.5433	2.735	r u a ð a̝
+368	rustrir	1	0.5433	2.735	r u s t ɾ i ɾ
+368	sable	1	0.5433	2.735	s a β l e̝̝
+368	salgar	1	0.5433	2.735	s a l ɣ a ɾ
+368	sapoconcho	1	0.5433	2.735	s a p o k o n t͡ʃ o̝
+368	saramago	1	0.5433	2.735	s a ɾ a m a ɣ o̝
+368	sazón	1	0.5433	2.735	s a s o ŋ  |  s a θ o ŋ
+368	seareiro	1	0.5433	2.735	s e a ɾ e j ɾ o̝  |  s j a ɾ e j ɾ o̝
+368	sebe	1	0.5433	2.735	s e β e̝
+368	sebo	1	0.5433	2.735	s e β o̝
+368	sedela	1	0.5433	2.735	s e ð ɛ l a̝
+368	segur	1	0.5433	2.735	s e ɣ u ɾ
+368	sella	1	0.5433	2.735	s e ʎ a̝
+368	senlleiro	1	0.5433	2.735	s e n ʎ e j ɾ o̝
+368	sidra	1	0.5433	2.735	s i ð ɾ a̝
+368	soldadura	1	0.5433	2.735	s o l d a ð u ɾ a̝
+368	souto	1	0.5433	2.735	s o w t o̝
+368	tabán	1	0.5433	2.735	t a β a ŋ
+368	tacha	1	0.5433	2.735	t a t͡ʃ a̝
+368	tacón	1	0.5433	2.735	t a k o ŋ
+368	tallo	1	0.5433	2.735	t a ʎ o̝
+368	taro	1	0.5433	2.735	t a ɾ o̝
+368	tasca	1	0.5433	2.735	t a s k a̝
+368	tato	1	0.5433	2.735	t a t o̝
+368	tear	1	0.5433	2.735	t e a ɾ
+368	teixugo	1	0.5433	2.735	t e j ʃ u ɣ o̝
+368	tempas	1	0.5433	2.735	t̪ ɛ m p ɐ s̻
+368	tenza	1	0.5433	2.735	t e n s a̝̝  |  t e n θ a̝̝
+368	terrón	1	0.5433	2.735	t e r o ŋ
+368	testar	1	0.5433	2.735	t e s t a ɾ  |  t ɛ s t a ɾ
+368	toller	1	0.5433	2.735	t o ʎ e ɾ
+368	tolosa	1	0.5433	2.735	t o l o s a
+368	tombo	1	0.5433	2.735	t o m b o̝
+368	tosca	1	0.5433	2.735	t o s k a̝
+368	touza	1	0.5433	2.735	t o w s a̝  |  t o w θ a̝
+368	trabada	1	0.5433	2.735	t ɾ a β a ð a
+368	trangallo	1	0.5433	2.735	t ɾ a ŋ ɡ a ʎ o̝
+368	travesa	1	0.5433	2.735	t ɾ a β ɛ s a̝
+368	trebello	1	0.5433	2.735	t ɾ e β e ʎ o̝
+368	trema	1	0.5433	2.735	t ɾ e m a̝
+368	tripar	1	0.5433	2.735	t ɾ i p a ɾ
+368	tufo	1	0.5433	2.735	t u f o̝
+368	turuleque	1	0.5433	2.735	t u r u l ɛ k e̝
+368	vagalume	1	0.5433	2.735	b a ɣ a l u m e̝
+368	valgada	1	0.5433	2.735	b a l ɣ a ð a̝
+368	vendaval	1	0.5433	2.735	b e n d a β a l
+368	verza	1	0.5433	2.735	b e ɾ θ a̝
+368	viana	1	0.5433	2.735	b i a n a̝
+368	virxinidade	1	0.5433	2.735	b i ɾ ʃ i n i ð a  |  b i ɾ ʃ i n i ð a ð e̝
+368	voleibol	1	0.5433	2.735	b o̞ l e̞ i β̞ o̞ l
+368	wifi	1	0.5433	2.735	w i f i
+368	xan	1	0.5433	2.735	ʃ a ŋ
+368	xaxún	1	0.5433	2.735	ʃ a ʃ u ŋ
+368	xear	1	0.5433	2.735	ʃ e a ɾ  |  ʃ i a ɾ
+368	xeira	1	0.5433	2.735	ʃ e j ɾ a̝̝
+368	xergón	1	0.5433	2.735	x e ɾ ɣ o ŋ
+368	xermolo	1	0.5433	2.735	ʃ e ɾ m o l o̝
+368	xesta	1	0.5433	2.735	ʃ ɛ s t a̝
+368	xiringa	1	0.5433	2.735	ʃ i ɾ i ŋ ɡ a̝
+368	xolda	1	0.5433	2.735	ʃ ɔ l d a̝
+368	zapping	1	0.5433	2.735	θ a p i n
+368	zoscar	1	0.5433	2.735	s o s k a ɾ  |  θ o s k a ɾ
+368	zugar	1	0.5433	2.735	s u ɣ a ɾ  |  θ u ɣ a ɾ
+368	ámbar	1	0.5433	2.735	a m b a̝ ɾ
+368	áspero	1	0.5433	2.735	a s p e̝ ɾ o̝  |  a s p ɾ o̝

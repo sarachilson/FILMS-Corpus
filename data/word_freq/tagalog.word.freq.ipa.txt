@@ -1,0 +1,1643 @@
+Rank	Word	Frequency	Frequency per million	Zipf value	IPA
+1	ang	4471	44001.5746	7.6435	a ŋ
+2	sa	4410	43401.24	7.6375	s a
+3	na	3749	36895.9748	7.567	n a
+4	ng	3152	31020.5688	7.4916	n ɐ ŋ
+5	mo	2177	21425.0566	7.3309	m o
+6	ko	1886	18561.1652	7.2686	k o  |  k ɔ
+7	hindi	1602	15766.1647	7.1977	h i n d e ʔ  |  h i n d i ʔ
+8	ay	1466	14427.7138	7.1592	ʔ a i
+9	mga	1442	14191.5166	7.152	m a ŋ a
+10	at	1398	13758.4883	7.1386	ʔ a t
+11	ako	1373	13512.4496	7.1307	ʔ a k o  |  ʔ a k o ʔ
+12	ka	1266	12459.4036	7.0955	k a
+13	lang	909	8945.9699	6.9516	l a ŋ
+14	ba	865	8512.9416	6.9301	b a  |  b a ʔ
+15	ito	859	8453.8923	6.9271	ʔ i t o
+16	para	708	6967.8181	6.8431	p aː ɾ a
+17	kung	701	6898.9273	6.8388	k u ŋ
+18	siya	686	6751.304	6.8294	s i a  |  s i j a
+19	ano	556	5471.9024	6.7381	ʔ a n o
+20	dito	464	4566.4797	6.6596	d i t o
+21	alam	446	4389.3318	6.6424	ʔ a l a m
+22	lahat	443	4359.8071	6.6395	l a h a t
+23	tayo	417	4103.9268	6.6132	t a j o  |  t a j o ʔ
+24	nga	344	3385.4936	6.5296	ŋ a ʔ
+25	wala	332	3267.3949	6.5142	w a l a ʔ
+26	gusto	330	3247.7118	6.5116	ɡ u s t o
+26	natin	330	3247.7118	6.5116	n a t i n  |  n a t ɛ n
+27	ni	328	3228.0287	6.5089	n iː
+27	oo	328	3228.0287	6.5089	oː ʔ o
+28	niya	319	3139.4548	6.4969	n i j a  |  ɲ a
+29	ngayon	312	3070.5639	6.4872	ŋ a j o n
+29	o	312	3070.5639	6.4872	ʔ o
+30	naman	305	3001.6731	6.4774	n a m a n
+31	di	303	2981.99	6.4745	d e ʔ  |  d i ʔ
+32	kami	295	2903.2576	6.4629	k a m ɛ  |  k a m ɪ
+33	kailangan	291	2863.8913	6.457	k a i l a ŋ a n  |  k a ʔ i l a ŋ a n  |  k e l a ŋ a n
+34	sige	289	2844.2082	6.454	s i ɡ e
+35	namin	286	2814.6836	6.4494	n aː m ɛ n  |  n aː m ɪ n
+36	tao	284	2795.0005	6.4464	t a ʔ o
+37	bakit	276	2716.2681	6.434	b a k e t  |  b a k i t  |  b a t
+38	kaya	273	2686.7434	6.4292	k a ɪ a ʔ  |  k aː ɪ a
+39	ikaw	261	2568.6448	6.4097	ʔ i k a u
+40	akin	254	2499.754	6.3979	ʔ a k i n
+40	yan	254	2499.754	6.3979	j a n
+41	iyon	240	2361.9722	6.3733	j o n  |  ʔ i o n
+42	isa	231	2273.3983	6.3567	ʔ i s a
+42	kang	231	2273.3983	6.3567	k a ŋ
+43	sabihin	225	2214.349	6.3452	s a b i h i n
+44	nang	216	2125.775	6.3275	n ɐ ŋ
+45	kong	213	2096.2504	6.3214	k ɔ ŋ
+46	dahil	206	2027.3595	6.3069	d a h i l
+47	niyo	197	1938.7856	6.2875	n i o
+48	huwag	191	1879.7362	6.2741	h u a ɡ  |  w a ɡ
+48	nila	191	1879.7362	6.2741	n i l a
+49	buhay	189	1860.0531	6.2695	b u h a i
+50	iyo	188	1850.2116	6.2672	ʔ i o
+51	yung	182	1791.1623	6.2531	j ɐ ŋ  |  j ʊ ŋ
+52	sino	174	1712.4299	6.2336	s i n o
+53	kita	170	1673.0637	6.2235	k i t a
+54	saan	160	1574.6482	6.1972	s a n  |  s a ʔ a n
+55	diyos	158	1554.9651	6.1917	d i o s
+56	rin	151	1486.0742	6.172	ɾ e n  |  ɾ i n
+57	araw	143	1407.3418	6.1484	ʔ a ɾ a u
+58	salamat	141	1387.6587	6.1423	s a l a m a t
+59	sabi	140	1377.8171	6.1392	s a b i
+60	wag	136	1338.4509	6.1266	w a ɡ
+61	taon	135	1328.6094	6.1234	t a ʔ o n
+62	dapat	134	1318.7678	6.1202	d a p a t
+63	din	133	1308.9263	6.1169	d e n  |  d i n
+63	umalis	133	1308.9263	6.1169	ʔ u m a l i s
+64	tubig	128	1259.7185	6.1003	t u b i ɡ
+65	doon	127	1249.877	6.0969	d o n  |  d o ʔ o n
+65	po	127	1249.877	6.0969	p o ʔ  |  p ɔ
+65	siguro	127	1249.877	6.0969	s i ɡ u ɾ o
+66	iyan	124	1220.3523	6.0865	i j a n  |  j a n  |  ʔ i a n
+67	paano	121	1190.8277	6.0758	p a n o  |  p a ʔ a n o
+68	gawin	119	1171.1446	6.0686	ɡ a w i n
+68	tulad	119	1171.1446	6.0686	t u l a d
+69	kay	117	1151.4615	6.0612	k a i
+70	iba	107	1053.046	6.0224	ʔ i b a  |  ʔ i b a ʔ
+71	kaibigan	106	1043.2044	6.0184	k a i b i ɡ a n
+72	hoy	105	1033.3629	6.0143	h o i
+73	pumunta	104	1023.5213	6.0101	p u m u n t a
+74	tapos	101	993.9967	5.9974	t a p o s  |  t a s
+75	ibig	100	984.1551	5.9931	ʔ i b i ɡ
+76	bago	97	954.6304	5.9798	b a ɡ o
+76	kapag	97	954.6304	5.9798	k a p a ɡ
+77	nasaan	96	944.7889	5.9753	n a s a n  |  n a s a ʔ a n
+78	tingnan	95	934.9473	5.9708	t i ŋ n a n
+79	lamang	92	905.4227	5.9569	l a m a ŋ
+79	pala	92	905.4227	5.9569	p a l a  |  p a l a ʔ
+80	gabi	90	885.7396	5.9473	ɡ a b i
+80	nito	90	885.7396	5.9473	n i t o
+81	bahay	86	846.3734	5.9276	b a h a i
+81	muna	86	846.3734	5.9276	m u n a
+82	tungkol	85	836.5318	5.9225	t u ŋ k o l
+83	to	84	826.6903	5.9173	t o
+84	sana	82	807.0072	5.9069	s a n a
+84	totoo	82	807.0072	5.9069	t o t o o
+85	ayaw	77	757.7994	5.8796	ʔ a j a u
+86	anak	76	747.9579	5.8739	ʔ a n a k
+86	ha	76	747.9579	5.8739	h a
+86	inyo	76	747.9579	5.8739	ʔ i n j o
+86	pangalan	76	747.9579	5.8739	p a ŋ a l a n
+87	bilis	75	738.1163	5.8681	b i l i s
+88	igik	74	728.2748	5.8623	ʔ i ɡ i k
+88	panahon	74	728.2748	5.8623	p a n a h o n
+89	baka	73	718.4332	5.8564	b a k a  |  b a k a ʔ
+89	galing	73	718.4332	5.8564	ɡ a l i ŋ
+90	maganda	72	708.5917	5.8504	m a ɡ a n d a
+90	pag	72	708.5917	5.8504	p a ɡ
+90	pang	72	708.5917	5.8504	p a ŋ
+91	bagay	70	688.9086	5.8382	b a ɡ a i
+91	bata	70	688.9086	5.8382	b a t a  |  b a t a ʔ
+92	lugar	68	669.2255	5.8256	l u ɡ a ɾ
+93	ayos	66	649.5424	5.8126	ʔ a j o s
+94	palabas	63	620.0177	5.7924	p a l a b a s
+95	loob	61	600.3346	5.7784	l o ʔ o b
+95	man	61	600.3346	5.7784	m a n
+96	halika	60	590.4931	5.7712	h a l i k a
+96	rito	60	590.4931	5.7712	ɾ i t o
+97	dalawa	57	560.9684	5.7489	d a l a w a
+97	lupa	57	560.9684	5.7489	l u p a ʔ
+97	sandali	57	560.9684	5.7489	s a n d a l i ʔ  |  s a n d ɐ l i ʔ
+98	trabaho	55	541.2853	5.7334	t r a b a h o
+99	hanggang	54	531.4438	5.7255	h a ŋ ɡ a ŋ
+99	patay	54	531.4438	5.7255	p a t a ɪ
+99	silang	54	531.4438	5.7255	s i l a ŋ
+100	tingin	53	521.6022	5.7173	t i ŋ i n
+101	kunin	52	511.7607	5.7091	k u n i n
+101	mahal	52	511.7607	5.7091	m a h a l
+101	pulis	52	511.7607	5.7091	p u l i s
+102	diyan	51	501.9191	5.7006	d i a n  |  d i ʔ a n  |  d j a ʔ a n
+102	lalaki	51	501.9191	5.7006	l a l a k i
+102	malaman	51	501.9191	5.7006	m a l a m a n
+102	papa	51	501.9191	5.7006	p a p a  |  p a p a ʔ
+103	habang	50	492.0776	5.692	h a b a ŋ
+103	mabuti	50	492.0776	5.692	m a b u t i
+104	labas	49	482.236	5.6833	l a b a s
+104	patayin	49	482.236	5.6833	p a t a j i n
+105	amin	48	472.3944	5.6743	ʔ a m i n
+105	pumatay	48	472.3944	5.6743	p u m a t a i
+106	ama	47	462.5529	5.6652	ʔ a m a
+106	magaling	47	462.5529	5.6652	m a ɡ a l i ŋ
+106	puso	47	462.5529	5.6652	p u s o ʔ
+107	akala	46	452.7113	5.6558	ʔ a k a l a  |  ʔ a k a l a ʔ
+107	duke	46	452.7113	5.6558	d u k e
+107	heto	46	452.7113	5.6558	h e t o
+107	tulong	46	452.7113	5.6558	t u l o ŋ
+108	dati	45	442.8698	5.6463	d a t i
+108	ilang	45	442.8698	5.6463	ʔ i l a ŋ
+109	dahilan	43	423.1867	5.6265	d a h i l a n
+110	babae	42	413.3451	5.6163	b a b a ʔ e
+110	bukas	42	413.3451	5.6163	b u k a s
+110	diba	42	413.3451	5.6163	d i b a
+110	dumating	42	413.3451	5.6163	d u m a t i ŋ
+110	malapit	42	413.3451	5.6163	m a l a p i t
+111	bansa	41	403.5036	5.6058	b a n s a  |  b a n s a ʔ
+111	espada	41	403.5036	5.6058	ʔ e s p a d a
+111	hayop	41	403.5036	5.6058	h a j o p
+111	higit	41	403.5036	5.6058	h i ɡ i t
+111	makakuha	41	403.5036	5.6058	m a k a k u h a
+112	alis	40	393.662	5.5951	ʔ a l i s
+112	beses	40	393.662	5.5951	b e s e s
+112	enerhiya	40	393.662	5.5951	ʔ e n e ɾ h i a
+113	atin	39	383.8205	5.5841	ʔ a t i n
+113	gubat	39	383.8205	5.5841	ɡ u b a t
+113	noon	39	383.8205	5.5841	n o o n
+114	aso	38	373.9789	5.5728	ʔ a s o
+114	hangin	38	373.9789	5.5728	h a ŋ i n
+114	hari	38	373.9789	5.5728	h a ɾ i  |  h a ɾ i ʔ
+115	daan	37	364.1374	5.5613	d a ʔ a n
+115	halos	37	364.1374	5.5613	h a l o s
+115	huli	37	364.1374	5.5613	h u l i  |  h u l i ʔ
+115	ilalim	37	364.1374	5.5613	ʔ i l a l i m
+115	linggo	37	364.1374	5.5613	l i ŋ ɡ o
+116	bilang	36	354.2958	5.5494	b i l a ŋ
+117	bawat	35	344.4543	5.5371	b a w a t
+117	dagat	35	344.4543	5.5371	d a ɡ a t
+117	gamit	35	344.4543	5.5371	ɡ a m i t
+118	bilisan	34	334.6127	5.5245	b i l i s a n
+118	bumalik	34	334.6127	5.5245	b u m a l i k
+118	hayaan	34	334.6127	5.5245	h a j a ʔ a n
+118	kasalanan	34	334.6127	5.5245	k a s a l a n a n
+118	mamatay	34	334.6127	5.5245	m a m a t a j
+119	kumuha	33	324.7712	5.5116	k u m u h a
+119	lungsod	33	324.7712	5.5116	l u ŋ s o d
+119	paraan	33	324.7712	5.5116	p a ɾ a ʔ a n
+119	takbo	33	324.7712	5.5116	t a k b o
+120	lumabas	32	314.9296	5.4982	l u m a b a s
+120	tanga	32	314.9296	5.4982	t a ŋ a
+121	ganito	31	305.0881	5.4844	ɡ a n i t o
+121	gumawa	31	305.0881	5.4844	ɡ u m a w a ʔ
+121	maghintay	31	305.0881	5.4844	m a ɡ h i n t a j
+121	mukha	31	305.0881	5.4844	m u k a ʔ  |  m u k h a ʔ
+121	yaon	31	305.0881	5.4844	j a o n
+122	huy	30	295.2465	5.4702	h u i
+122	kotse	30	295.2465	5.4702	k o t s e  |  k o t͡ʃ e
+123	planeta	29	285.405	5.4555	p l a n e t a
+123	tumahimik	29	285.405	5.4555	t u m a h i m i k
+124	ilog	28	275.5634	5.4402	ʔ i l o ɡ
+124	kada	28	275.5634	5.4402	k a d a
+124	pumasok	28	275.5634	5.4402	p u m a s o k
+124	tumingin	28	275.5634	5.4402	t u m i ŋ i n
+125	buwan	27	265.7219	5.4244	b u a n
+125	langis	27	265.7219	5.4244	l a ŋ i s
+125	mabilis	27	265.7219	5.4244	m a b i l i s
+125	makina	27	265.7219	5.4244	m a k i n a
+125	masaya	27	265.7219	5.4244	m a s a j a
+126	makuha	26	255.8803	5.408	m a k u h a
+126	naku	26	255.8803	5.408	n a k u
+126	sumama	26	255.8803	5.408	s u m a m a  |  s u m a m a ʔ
+126	ulo	26	255.8803	5.408	u l o
+127	asawa	25	246.0388	5.391	ʔ a s a w a
+127	bigyan	25	246.0388	5.391	b i ɡ j a n
+127	virus	25	246.0388	5.391	b a i ɾ u s  |  b i ɾ u s
+128	buksan	24	236.1972	5.3733	b u k s a n
+128	eksena	24	236.1972	5.3733	ʔ e k s e n a
+128	likod	24	236.1972	5.3733	l i k o d
+128	yaman	24	236.1972	5.3733	j a m a n
+129	basta	23	226.3557	5.3548	b a s t a  |  b a s t a ʔ
+129	ganoon	23	226.3557	5.3548	ɡ a n o n  |  ɡ a n o ʔ o n
+129	ganyan	23	226.3557	5.3548	ɡ a n j a n
+129	halaman	23	226.3557	5.3548	h a l a m a n
+129	ipakita	23	226.3557	5.3548	ʔ i p a k i t a  |  ʔ i p a k i t a ʔ
+129	kausapin	23	226.3557	5.3548	k a u s a p i n
+129	lakas	23	226.3557	5.3548	l a k a s
+129	liwanag	23	226.3557	5.3548	l i w a n a ɡ
+129	mahirap	23	226.3557	5.3548	m a h i ɾ a p
+129	pagkakataon	23	226.3557	5.3548	p a ɡ k a k a t a ʔ o n
+129	puno	23	226.3557	5.3548	p u n o ʔ
+129	wakas	23	226.3557	5.3548	w a k a s
+129	yang	23	226.3557	5.3548	j a ŋ
+130	agad	22	216.5141	5.3355	ʔ a ɡ a d
+130	dugo	22	216.5141	5.3355	d u ɡ o ʔ
+130	gobyerno	22	216.5141	5.3355	ɡ o b j e ɾ n o
+130	harap	22	216.5141	5.3355	h a ɾ a p
+130	kumusta	22	216.5141	5.3355	k u m u s t a
+130	lawa	22	216.5141	5.3355	l a w a ʔ
+130	libo	22	216.5141	5.3355	l i b o
+130	ligtas	22	216.5141	5.3355	l i ɡ t a s
+130	pangako	22	216.5141	5.3355	p a ŋ a k o ʔ
+130	siyempre	22	216.5141	5.3355	s i e m p ɾ e
+130	so	22	216.5141	5.3355	s ɔ
+130	tawag	22	216.5141	5.3355	t a w a ɡ
+130	telepono	22	216.5141	5.3355	t e l e p o n o
+131	hanapin	21	206.6726	5.3153	h a n a p i n
+131	hirap	21	206.6726	5.3153	h i ɾ a p
+131	kahoy	21	206.6726	5.3153	k a h o i
+131	kamatayan	21	206.6726	5.3153	k a m a t a j a n
+131	kanina	21	206.6726	5.3153	k a n i n a
+131	kumain	21	206.6726	5.3153	k u m a ʔ i n
+131	laban	21	206.6726	5.3153	l a b a n
+131	magkaroon	21	206.6726	5.3153	m a ɡ k a r o ʔ o n
+131	pakialam	21	206.6726	5.3153	p a k i ɐ l a m  |  p a k ɛ ɐ l a m
+132	guwapo	20	196.831	5.2941	ɡ u a p o
+132	ilan	20	196.831	5.2941	ʔ i l a n
+132	kailan	20	196.831	5.2941	k a ʔ i l a n  |  k e l a n
+132	klima	20	196.831	5.2941	k l i m a
+132	lagi	20	196.831	5.2941	l a ɡ i  |  l a ɡ i ʔ
+133	bahala	19	186.9895	5.2718	b a h a l a ʔ
+133	grabe	19	186.9895	5.2718	ɡ ɾ a b e
+133	kuha	19	186.9895	5.2718	k u h a  |  k u h a ʔ
+133	mama	19	186.9895	5.2718	m a m a  |  m a m a ʔ
+133	mismo	19	186.9895	5.2718	m ɪ s m ɔ
+133	sakit	19	186.9895	5.2718	s a k i t
+134	agrikultura	18	177.1479	5.2483	ʔ a ɡ ɾ i k u l t u ɾ a
+134	aleman	18	177.1479	5.2483	ʔ a l e m a n
+134	gutom	18	177.1479	5.2483	ɡ u t o m
+134	inumin	18	177.1479	5.2483	ʔ i n u m i n
+134	katawan	18	177.1479	5.2483	k a t a u ʔ a n  |  k a t a w a n
+134	mabuhay	18	177.1479	5.2483	m a b u h a y
+134	mahalaga	18	177.1479	5.2483	m a h a l a ɡ a
+134	tignan	18	177.1479	5.2483	t i ɡ n a n
+134	tuloy	18	177.1479	5.2483	t u l o i
+134	tunay	18	177.1479	5.2483	t u n a i
+135	aba	17	167.3064	5.2235	ʔ a b a  |  ʔ a b a ʔ
+135	baba	17	167.3064	5.2235	b a b a  |  b a b a ʔ
+135	bakla	17	167.3064	5.2235	b a k l a  |  b a k l a ʔ
+135	daw	17	167.3064	5.2235	d a u
+135	dragon	17	167.3064	5.2235	d ɾ a ɡ o n
+135	galit	17	167.3064	5.2235	ɡ a l i t
+135	gaya	17	167.3064	5.2235	ɡ a j a
+135	krus	17	167.3064	5.2235	k ɾ u s
+135	litrato	17	167.3064	5.2235	l i t ɾ a t o
+135	mahilig	17	167.3064	5.2235	m a h i l i ɡ
+135	mata	17	167.3064	5.2235	m a t a
+135	uy	17	167.3064	5.2235	u i
+136	bayag	16	157.4648	5.1972	b a j a ɡ
+136	buti	16	157.4648	5.1972	b u t i
+136	dali	16	157.4648	5.1972	d a l i  |  d a l i ʔ
+136	dating	16	157.4648	5.1972	d a t i ŋ
+136	estudyante	16	157.4648	5.1972	ʔ e s t u d j a n t e
+136	eto	16	157.4648	5.1972	ʔ e t o
+136	gawa	16	157.4648	5.1972	ɡ a w a ʔ
+136	halimbawa	16	157.4648	5.1972	h a l i m b a w a ʔ
+136	handa	16	157.4648	5.1972	h a n d a ʔ
+136	hubad	16	157.4648	5.1972	h u b a d
+136	laman	16	157.4648	5.1972	l a m a n
+136	lampin	16	157.4648	5.1972	l a m p i n
+136	likas	16	157.4648	5.1972	l i k a s
+136	natural	16	157.4648	5.1972	n a t u ɾ a l
+136	punta	16	157.4648	5.1972	p u n t a  |  p u n t a ʔ
+136	puro	16	157.4648	5.1972	p u ɾ o
+137	apoy	15	147.6233	5.1692	ʔ a p o i
+137	are	15	147.6233	5.1692	ʔ a ɾ e
+137	baril	15	147.6233	5.1692	b a ɾ i l
+137	bundok	15	147.6233	5.1692	b u n d o k
+137	dalhin	15	147.6233	5.1692	d a l h i n
+137	gayon	15	147.6233	5.1692	ɡ a j o n
+137	isda	15	147.6233	5.1692	ʔ i s d a ʔ
+137	isipin	15	147.6233	5.1692	ʔ i s i p i n
+137	kuya	15	147.6233	5.1692	k u j a
+137	mangyari	15	147.6233	5.1692	m a ŋ j a ɾ i
+137	nakakatakot	15	147.6233	5.1692	n a k a k a t a k o t
+137	pasensya	15	147.6233	5.1692	p a s ɛ n sʲ a  |  p a s ɛ n ɕ a
+137	tiwala	15	147.6233	5.1692	t i w a l a ʔ
+138	apat	14	137.7817	5.1392	ʔ a p a t
+138	baliw	14	137.7817	5.1392	b a l i u
+138	bumili	14	137.7817	5.1392	b u m i l i
+138	gaano	14	137.7817	5.1392	ɡ a ʔ a n o
+138	gago	14	137.7817	5.1392	ɡ a ɡ o
+138	hesus	14	137.7817	5.1392	h e s u s
+138	ina	14	137.7817	5.1392	ʔ i n a  |  ʔ i n a ʔ
+138	itlog	14	137.7817	5.1392	ʔ i t l o ɡ
+138	itsura	14	137.7817	5.1392	ʔ i t͡ʃ u ɾ a
+138	kayamanan	14	137.7817	5.1392	k a j a m a n a n
+138	labi	14	137.7817	5.1392	l a b i  |  l a b i ʔ
+138	libro	14	137.7817	5.1392	l i b ɾ o
+138	lumaki	14	137.7817	5.1392	l u m a k i
+138	pasko	14	137.7817	5.1392	p a s k o
+138	pusa	14	137.7817	5.1392	p u s a ʔ
+138	tumakbo	14	137.7817	5.1392	t u m a k b ɔ
+138	tumayo	14	137.7817	5.1392	t u m a j o ʔ
+138	yelo	14	137.7817	5.1392	j e l o
+139	ate	13	127.9402	5.107	ʔ a t e  |  ʔ a t e ʔ
+139	aya	13	127.9402	5.107	ʔ a j a  |  ʔ a j a ʔ
+139	bumaba	13	127.9402	5.107	b u m a b a  |  b u m a b a ʔ
+139	ibabaw	13	127.9402	5.107	ʔ i b a b a u
+139	inay	13	127.9402	5.107	ʔ i n a i
+139	lalo	13	127.9402	5.107	l a l o ʔ
+139	tapusin	13	127.9402	5.107	t a p u s i n
+140	alisin	12	118.0986	5.0722	ʔ a l i s i n
+140	balanse	12	118.0986	5.0722	b a l a n s e
+140	balita	12	118.0986	5.0722	b a l i t a ʔ
+140	bola	12	118.0986	5.0722	b o l a
+140	dala	12	118.0986	5.0722	d a l a  |  d a l a ʔ
+140	datu	12	118.0986	5.0722	d a t u
+140	ewan	12	118.0986	5.0722	ʔ e w a n
+140	gas	12	118.0986	5.0722	ɡ a s
+140	huminto	12	118.0986	5.0722	h u m i n t o ʔ
+140	itim	12	118.0986	5.0722	ʔ i t i m
+140	lebel	12	118.0986	5.0722	l e b e l
+140	lumayo	12	118.0986	5.0722	l u m a j o ʔ
+140	mabait	12	118.0986	5.0722	m a b a ʔ i t
+140	magnanakaw	12	118.0986	5.0722	m a ɡ n a n a k a u
+140	paborito	12	118.0986	5.0722	p a b o ɾ a b l e
+140	papel	12	118.0986	5.0722	p a p e l
+140	pasok	12	118.0986	5.0722	p a s ɔ k  |  p aː s ɔ k
+140	sira	12	118.0986	5.0722	s i ɾ a ʔ
+140	suot	12	118.0986	5.0722	s u o t
+140	tatlo	12	118.0986	5.0722	t a t l ɔ
+140	tumpok	12	118.0986	5.0722	t u m p o k
+140	umupo	12	118.0986	5.0722	ʔ u m u p o ʔ
+141	aktor	11	108.2571	5.0345	ʔ a k t o ɾ
+141	alalahanin	11	108.2571	5.0345	ʔ a l a l a h a n i n
+141	banda	11	108.2571	5.0345	b a n d a
+141	bartender	11	108.2571	5.0345	b a ɾ t e n d e ɾ
+141	espesyal	11	108.2571	5.0345	ʔ e s p e s j a l
+141	gunggong	11	108.2571	5.0345	ɡ u ŋ ɡ o ŋ
+141	halaga	11	108.2571	5.0345	h a l a ɡ a
+141	hingal	11	108.2571	5.0345	h i ŋ a l
+141	ingat	11	108.2571	5.0345	ʔ i ŋ a t
+141	itay	11	108.2571	5.0345	ʔ i t a i
+141	kuneho	11	108.2571	5.0345	k u n e h o
+141	langit	11	108.2571	5.0345	l a ŋ i t
+141	linya	11	108.2571	5.0345	l i n j a
+141	lupain	11	108.2571	5.0345	l u p a ʔ i n
+141	misyon	11	108.2571	5.0345	m i s j o n
+141	paalam	11	108.2571	5.0345	p ɐ ʔ aː l a m  |  p ɐ ʔ ɐ l a m
+141	pagitan	11	108.2571	5.0345	p a ɡ i t a n
+141	tugtog	11	108.2571	5.0345	t u ɡ t o ɡ
+141	yata	11	108.2571	5.0345	j a t a ʔ
+142	balik	10	98.4155	4.9931	b a l i k
+142	bisita	10	98.4155	4.9931	b i s i t a
+142	brad	10	98.4155	4.9931	b ɾ a d
+142	butas	10	98.4155	4.9931	b u t a s
+142	butil	10	98.4155	4.9931	b u t i l
+142	gumising	10	98.4155	4.9931	ɡ u m i s i ŋ
+142	hawak	10	98.4155	4.9931	h a w a k
+142	ibon	10	98.4155	4.9931	ʔ i b o n
+142	impormasyon	10	98.4155	4.9931	ʔ i m p o ɾ m a s j o n
+142	importante	10	98.4155	4.9931	ʔ i m p o ɾ t a n t e
+142	isla	10	98.4155	4.9931	ʔ i s l a
+142	iwan	10	98.4155	4.9931	ʔ i w a n
+142	kapangyarihan	10	98.4155	4.9931	k a p a ŋ j a ɾ i h a n
+142	karapatan	10	98.4155	4.9931	k a ɾ a p a t a n
+142	lihim	10	98.4155	4.9931	l i h i m
+142	madali	10	98.4155	4.9931	m a d a l i ʔ
+142	mainit	10	98.4155	4.9931	m a ʔ i n i t
+142	malamang	10	98.4155	4.9931	m a l a m a ŋ
+142	pangit	10	98.4155	4.9931	p a ŋ i t
+142	puntahan	10	98.4155	4.9931	p u n t a h a n
+142	raw	10	98.4155	4.9931	ɾ a u
+142	relo	10	98.4155	4.9931	ɾ ɛ l o
+142	sala	10	98.4155	4.9931	s a l a
+142	teritoryo	10	98.4155	4.9931	t e ɾ i t o ɾ j o
+142	tong	10	98.4155	4.9931	t o ŋ
+142	umuwi	10	98.4155	4.9931	ʔ u m u w i ʔ
+142	utot	10	98.4155	4.9931	ʔ u t o t
+143	ahas	9	88.574	4.9473	ʔ a h a s
+143	alak	9	88.574	4.9473	ʔ a l a k
+143	ayon	9	88.574	4.9473	ʔ a j o n
+143	bariles	9	88.574	4.9473	b a ɾ i l e s
+143	bato	9	88.574	4.9473	b a t o  |  b a t o ʔ
+143	boss	9	88.574	4.9473	b o s
+143	bumagsak	9	88.574	4.9473	b u m a ɡ s a k
+143	damit	9	88.574	4.9473	d a m i t
+143	ebidensiya	9	88.574	4.9473	ʔ e b i d e n s i a
+143	edukasyon	9	88.574	4.9473	ʔ e d u k a s j o n
+143	gulo	9	88.574	4.9473	ɡ u l o  |  ɡ u l o ʔ
+143	gumamit	9	88.574	4.9473	ɡ u m a m i t
+143	gumulong	9	88.574	4.9473	ɡ u m u l o ŋ
+143	hawakan	9	88.574	4.9473	h a w a k a n
+143	isip	9	88.574	4.9473	ʔ i s i p
+143	kaharian	9	88.574	4.9473	k a h a ɾ i a n
+143	kanta	9	88.574	4.9473	k a n t a
+143	kulungan	9	88.574	4.9473	k u l u ŋ a n
+143	layo	9	88.574	4.9473	l a j o ʔ
+143	lobo	9	88.574	4.9473	l o b o
+143	lumayas	9	88.574	4.9473	l u m a j a s
+143	magbigay	9	88.574	4.9473	m a ɡ b i ɡ a i
+143	maghanap	9	88.574	4.9473	m a ɡ h a n a p
+143	mamamayan	9	88.574	4.9473	m a m a m a j a n
+143	mang	9	88.574	4.9473	m a ŋ
+143	matulog	9	88.574	4.9473	m a t u l o ɡ
+143	pintuan	9	88.574	4.9473	p i n t u ʔ a n
+143	ruta	9	88.574	4.9473	ɾ u t a
+143	sasakyan	9	88.574	4.9473	s a s a k j a n
+143	sitwasyon	9	88.574	4.9473	s i t w a s j o n
+143	tigilan	9	88.574	4.9473	t i ɡ i l a n
+143	uminom	9	88.574	4.9473	ʔ u m i n o m
+143	utak	9	88.574	4.9473	ʔ u t a k
+144	anim	8	78.7324	4.8962	ʔ a n i m
+144	bagsak	8	78.7324	4.8962	b a ɡ s a k
+144	banal	8	78.7324	4.8962	b a n a l
+144	bangkay	8	78.7324	4.8962	b a ŋ k a i
+144	bantay	8	78.7324	4.8962	b a n t a i
+144	bayan	8	78.7324	4.8962	b a j a n
+144	bibig	8	78.7324	4.8962	b i b i ɡ
+144	bilangguan	8	78.7324	4.8962	b i l a ŋ ɡ u ʔ a n
+144	bobo	8	78.7324	4.8962	b o b o
+144	bulag	8	78.7324	4.8962	b u l a ɡ
+144	digmaan	8	78.7324	4.8962	d i ɡ m a ʔ a n
+144	doktor	8	78.7324	4.8962	d o k t o ɾ
+144	gitna	8	78.7324	4.8962	ɡ i t n a ʔ
+144	guro	8	78.7324	4.8962	ɡ u ɾ o ʔ
+144	halimaw	8	78.7324	4.8962	h a l i m a u
+144	ho	8	78.7324	4.8962	h o  |  h o ʔ  |  h ɔ
+144	humpay	8	78.7324	4.8962	h u m p a i
+144	imposible	8	78.7324	4.8962	ʔ i m p o s i b l e
+144	kaaway	8	78.7324	4.8962	k a a w a i
+144	kahalagahan	8	78.7324	4.8962	k a h a l a ɡ a h a n
+144	kana	8	78.7324	4.8962	k a n a ʔ
+144	karamihan	8	78.7324	4.8962	k a ɾ a m i h a n
+144	kasaysayan	8	78.7324	4.8962	k a s a i s a j a n
+144	kaso	8	78.7324	4.8962	k a s ɔ
+144	kriminal	8	78.7324	4.8962	k ɾ i m i n a l
+144	kunan	8	78.7324	4.8962	k u n a n
+144	la	8	78.7324	4.8962	l a
+144	lason	8	78.7324	4.8962	l a s o n
+144	lider	8	78.7324	4.8962	l i d e ɾ
+144	luma	8	78.7324	4.8962	l u m a  |  l u m a ʔ
+144	madilim	8	78.7324	4.8962	m a d i l i m
+144	magbubukid	8	78.7324	4.8962	m a ɡ b u b u k i d
+144	magtrabaho	8	78.7324	4.8962	m a ɡ t ɾ a b a h o
+144	manok	8	78.7324	4.8962	m a n o k
+144	modelo	8	78.7324	4.8962	m o d e l o
+144	paa	8	78.7324	4.8962	p a ʔ a
+144	panalo	8	78.7324	4.8962	p a n a l o
+144	pelikula	8	78.7324	4.8962	p e l i k u l a
+144	sirain	8	78.7324	4.8962	s i ɾ a ʔ i n
+144	uling	8	78.7324	4.8962	ʔ u l i ŋ
+145	amoy	7	68.8909	4.8382	ʔ a m o i
+145	ashley	7	68.8909	4.8382	a ʃ l i
+145	ayan	7	68.8909	4.8382	ʔ a j a n
+145	baboy	7	68.8909	4.8382	b a b o i
+145	bahagi	7	68.8909	4.8382	b a h a ɡ i ʔ
+145	balon	7	68.8909	4.8382	b a l o n
+145	bangka	7	68.8909	4.8382	b a ŋ k a ʔ
+145	biro	7	68.8909	4.8382	b i ɾ o ʔ
+145	dahon	7	68.8909	4.8382	d a h o n
+145	epekto	7	68.8909	4.8382	ʔ e p e k t o
+145	gamot	7	68.8909	4.8382	ɡ a m o t
+145	grupo	7	68.8909	4.8382	ɡ ɾ u p o
+145	gulong	7	68.8909	4.8382	ɡ u l o ŋ
+145	habulin	7	68.8909	4.8382	h a b u l i n
+145	hanay	7	68.8909	4.8382	h a n a i
+145	hilig	7	68.8909	4.8382	h i l i ɡ
+145	hitsura	7	68.8909	4.8382	h i t͡ʃ u ɾ a
+145	hiyas	7	68.8909	4.8382	h i a s
+145	hudyat	7	68.8909	4.8382	h u d j a t
+145	ibalik	7	68.8909	4.8382	ʔ i b a l i k
+145	ika	7	68.8909	4.8382	ʔ i k a ʔ
+145	ilong	7	68.8909	4.8382	ʔ i l o ŋ
+145	ilusyon	7	68.8909	4.8382	ʔ i l u s j o n
+145	impiyerno	7	68.8909	4.8382	ʔ i m p i e ɾ n o
+145	kakulangan	7	68.8909	4.8382	k a k u l a ŋ a n
+145	kampanya	7	68.8909	4.8382	k a m p a n j a
+145	kilos	7	68.8909	4.8382	k i l o s
+145	kombinasyon	7	68.8909	4.8382	k o m b i n a s j o n
+145	lasing	7	68.8909	4.8382	l a s i ŋ
+145	linisin	7	68.8909	4.8382	l i n i s i n
+145	lola	7	68.8909	4.8382	l o l a
+145	magmadali	7	68.8909	4.8382	m a ɡ m a d a l i ʔ
+145	maliban	7	68.8909	4.8382	m a l i b a n
+145	masyado	7	68.8909	4.8382	m a s j a d o
+145	milya	7	68.8909	4.8382	m i l j a
+145	numero	7	68.8909	4.8382	n u m ɛ ɾ ɔ
+145	pugad	7	68.8909	4.8382	p u ɡ a d
+145	puti	7	68.8909	4.8382	p u t ɪ ʔ
+145	sampu	7	68.8909	4.8382	s a m p u ʔ
+145	santiago	7	68.8909	4.8382	s a n t j a ɡ o
+145	sapatos	7	68.8909	4.8382	s a p a t o s
+145	tsaka	7	68.8909	4.8382	t͡ʃ a k a
+145	tumira	7	68.8909	4.8382	t u m i ɾ a
+145	tunog	7	68.8909	4.8382	t u n o ɡ
+146	aktibidad	6	59.0493	4.7712	ʔ a k t i b i d a d
+146	alagad	6	59.0493	4.7712	ʔ a l a ɡ a d
+146	apektado	6	59.0493	4.7712	ʔ a p e k t a d o
+146	artista	6	59.0493	4.7712	ʔ a ɾ t i s t a
+146	asya	6	59.0493	4.7712	ʔ a s j a
+146	away	6	59.0493	4.7712	ʔ a w a i
+146	ayusin	6	59.0493	4.7712	ʔ a j u s i n
+146	bag	6	59.0493	4.7712	b a ɡ
+146	balang	6	59.0493	4.7712	b a l a ŋ
+146	baso	6	59.0493	4.7712	b a s o  |  b a s o ʔ
+146	basura	6	59.0493	4.7712	b a s u ɾ a
+146	batas	6	59.0493	4.7712	b a t a s
+146	bigla	6	59.0493	4.7712	b i ɡ l a ʔ
+146	bituin	6	59.0493	4.7712	b i t u i n  |  b i t u ʔ i n
+146	biyahe	6	59.0493	4.7712	b i a h e
+146	biyernes	6	59.0493	4.7712	b i e ɾ n e s
+146	bukid	6	59.0493	4.7712	b u k i d
+146	bulaklak	6	59.0493	4.7712	b u l a k l a k
+146	chang	6	59.0493	4.7712	t͡ʃ a ŋ
+146	dahan	6	59.0493	4.7712	d a h a n
+146	dakila	6	59.0493	4.7712	d a k i l a ʔ
+146	desisyon	6	59.0493	4.7712	d e s i s j o n
+146	disenyo	6	59.0493	4.7712	d i s e n j o
+146	dulo	6	59.0493	4.7712	d u l o
+146	dumaan	6	59.0493	4.7712	d u m a ʔ a n
+146	ganda	6	59.0493	4.7712	ɡ a n d a
+146	ganiyan	6	59.0493	4.7712	ɡ a n i a n
+146	gastos	6	59.0493	4.7712	ɡ a s t o s
+146	gawain	6	59.0493	4.7712	ɡ a w a i n  |  ɡ a w a ʔ i n
+146	gilid	6	59.0493	4.7712	ɡ i l i d
+146	ginto	6	59.0493	4.7712	ɡ i n t o ʔ
+146	hakbang	6	59.0493	4.7712	h a k b a ŋ
+146	halip	6	59.0493	4.7712	h a l i p
+146	harapan	6	59.0493	4.7712	h a ɾ a p a n
+146	ilaw	6	59.0493	4.7712	ʔ i l a u
+146	industriyal	6	59.0493	4.7712	ʔ i n d u s t ɾ i a l
+146	isara	6	59.0493	4.7712	ʔ i s a ɾ a
+146	itaas	6	59.0493	4.7712	ʔ i t a ʔ a s
+146	kabukiran	6	59.0493	4.7712	k a b u k i ɾ a n
+146	kahinaan	6	59.0493	4.7712	k a h i n a ʔ a n
+146	kahulugan	6	59.0493	4.7712	k a h u l u ɡ a n
+146	kapalaran	6	59.0493	4.7712	k a p a l a ɾ a n
+146	katarungan	6	59.0493	4.7712	k a t a ɾ u ŋ a n
+146	kausap	6	59.0493	4.7712	k a u s a p
+146	kilometro	6	59.0493	4.7712	k i l o m e t ɾ o
+146	kutsara	6	59.0493	4.7712	k u t s a ɾ a  |  k u t͡ʃ a ɾ a
+146	latag	6	59.0493	4.7712	l a t a ɡ
+146	layas	6	59.0493	4.7712	l a j a s
+146	lumapit	6	59.0493	4.7712	l u m a p i t
+146	maalat	6	59.0493	4.7712	m a ʔ a l a t
+146	magustuhan	6	59.0493	4.7712	m a ɡ u s t u h a n
+146	mahuli	6	59.0493	4.7712	m a h u l i  |  m a h u l i ʔ  |  m aː h u l i
+146	manood	6	59.0493	4.7712	m a n o o d
+146	masakit	6	59.0493	4.7712	m a s a k i t
+146	matalino	6	59.0493	4.7712	m a t a l i n o
+146	misteryo	6	59.0493	4.7712	m i s t e ɾ j o
+146	pabor	6	59.0493	4.7712	p a b o ɾ
+146	pangkaraniwan	6	59.0493	4.7712	p a ŋ k a ɾ a n i w a n
+146	pugon	6	59.0493	4.7712	p u ɡ o n
+146	siglo	6	59.0493	4.7712	s i ɡ l o
+146	tagtuyot	6	59.0493	4.7712	t a ɡ t u j o t
+146	tapat	6	59.0493	4.7712	t a p a t
+146	tirahan	6	59.0493	4.7712	t i ɾ a h a n
+146	tulog	6	59.0493	4.7712	t u l o ɡ
+146	utang	6	59.0493	4.7712	ʔ u t a ŋ
+147	abang	5	49.2078	4.692	ʔ a b a ŋ
+147	alas	5	49.2078	4.692	ʔ a l a s
+147	alipin	5	49.2078	4.692	ʔ a l i p i n
+147	anino	5	49.2078	4.692	ʔ a n i n o
+147	ardilya	5	49.2078	4.692	ʔ a ɾ d i l j a
+147	ari	5	49.2078	4.692	ʔ a ɾ e  |  ʔ a ɾ i  |  ʔ a ɾ i ʔ
+147	babayaran	5	49.2078	4.692	b a b a j a ɾ a n
+147	bale	5	49.2078	4.692	b a l e
+147	bantayan	5	49.2078	4.692	b a n t a j a n
+147	banyo	5	49.2078	4.692	b a n j o
+147	barko	5	49.2078	4.692	b a ɾ k o
+147	binili	5	49.2078	4.692	b i n i l i
+147	bintana	5	49.2078	4.692	b i n t a n a ʔ
+147	burol	5	49.2078	4.692	b u ɾ o l
+147	day	5	49.2078	4.692	d a i
+147	detalye	5	49.2078	4.692	d e t a l j e
+147	dingding	5	49.2078	4.692	d i ŋ d i ŋ
+147	dinggin	5	49.2078	4.692	d i ŋ ɡ i n
+147	direktor	5	49.2078	4.692	d i ɾ e k t o ɾ
+147	eroplano	5	49.2078	4.692	ʔ e ɾ o p l a n o
+147	espiya	5	49.2078	4.692	ʔ e s p i a
+147	galaw	5	49.2078	4.692	ɡ a l a u
+147	ginang	5	49.2078	4.692	ɡ i n a ŋ
+147	gising	5	49.2078	4.692	ɡ i s i ŋ
+147	giyera	5	49.2078	4.692	ɡ i e ɾ a
+147	halikan	5	49.2078	4.692	h a l i k a n
+147	handog	5	49.2078	4.692	h a n d o ɡ
+147	hangal	5	49.2078	4.692	h a ŋ a l
+147	hayan	5	49.2078	4.692	h a j a n
+147	henerasyon	5	49.2078	4.692	h e n e ɾ a s j o n
+147	hila	5	49.2078	4.692	h i l a
+147	hininga	5	49.2078	4.692	h i n i ŋ a
+147	hudyo	5	49.2078	4.692	h u d j o
+147	humingi	5	49.2078	4.692	h u m i ŋ i ʔ
+147	ibenta	5	49.2078	4.692	ʔ i b e n t a
+147	ilagay	5	49.2078	4.692	ʔ i l a ɡ a i
+147	industriya	5	49.2078	4.692	ʔ i n d u s t ɾ i a
+147	ingay	5	49.2078	4.692	ʔ i ŋ a i
+147	init	5	49.2078	4.692	ʔ i n i t
+147	itago	5	49.2078	4.692	ʔ i t a ɡ o ʔ
+147	iwanan	5	49.2078	4.692	ʔ i w a n a n
+147	kanino	5	49.2078	4.692	k a n i n o
+147	karakter	5	49.2078	4.692	k a ɾ a k t e ɾ
+147	kelan	5	49.2078	4.692	k e l a n
+147	kulay	5	49.2078	4.692	k u l a i
+147	lalaban	5	49.2078	4.692	l a l a b a n
+147	lamesa	5	49.2078	4.692	l a m e s a
+147	leeg	5	49.2078	4.692	l e ʔ e ɡ
+147	libre	5	49.2078	4.692	l i b ɾ e
+147	lolo	5	49.2078	4.692	l o l o
+147	lubos	5	49.2078	4.692	l u b o s
+147	lumaban	5	49.2078	4.692	l u m a b a n
+147	malalim	5	49.2078	4.692	m a l a l i m
+147	malinis	5	49.2078	4.692	m a l i n i s
+147	maliwanag	5	49.2078	4.692	m a l i w a n a ɡ
+147	manalo	5	49.2078	4.692	m a n a l o
+147	matigas	5	49.2078	4.692	m a t i ɡ a s
+147	nabasa	5	49.2078	4.692	n a b a s a  |  n a b a s a ʔ
+147	pader	5	49.2078	4.692	p a d e ɾ
+147	palitan	5	49.2078	4.692	p a l i t a n
+147	parusa	5	49.2078	4.692	p a ɾ u s a
+147	pasyente	5	49.2078	4.692	p a s j e n t e
+147	pulgada	5	49.2078	4.692	p u l ɡ a d a
+147	putulin	5	49.2078	4.692	p u t u l i n
+147	saktan	5	49.2078	4.692	s a k t a n
+147	sarhento	5	49.2078	4.692	s a ɾ h ɛ n t o
+147	siguraduhin	5	49.2078	4.692	s i ɡ u ɾ a d u h i n
+147	swerte	5	49.2078	4.692	s w e r t e
+147	tanggal	5	49.2078	4.692	t a ŋ ɡ a l
+147	timog	5	49.2078	4.692	t i m o ɡ
+147	video	5	49.2078	4.692	b i d e o
+148	abala	4	39.3662	4.5951	ʔ a b a l a
+148	abo	4	39.3662	4.5951	ʔ a b o
+148	aga	4	39.3662	4.5951	ʔ a ɡ a
+148	agwat	4	39.3662	4.5951	ʔ a ɡ w a t
+148	aksyon	4	39.3662	4.5951	ʔ a k s j o n
+148	alamat	4	39.3662	4.5951	ʔ a l a m a t
+148	alat	4	39.3662	4.5951	ʔ a l a t
+148	angkan	4	39.3662	4.5951	ʔ a ŋ k a n
+148	asukal	4	39.3662	4.5951	ʔ a s u k a l
+148	bagyo	4	39.3662	4.5951	b a ɡ j o
+148	baha	4	39.3662	4.5951	b a h a ʔ
+148	bakas	4	39.3662	4.5951	b a k a s
+148	bakasyon	4	39.3662	4.5951	b a k a s j o n
+148	balak	4	39.3662	4.5951	b a l a k
+148	balat	4	39.3662	4.5951	b a l a t
+148	balbas	4	39.3662	4.5951	b a l b a s
+148	baliktad	4	39.3662	4.5951	b a l i k t a d
+148	basagin	4	39.3662	4.5951	b a s a ɡ i n
+148	bastos	4	39.3662	4.5951	b a s t o s
+148	bayad	4	39.3662	4.5951	b a j a d
+148	bayaran	4	39.3662	4.5951	b a j a ɾ a n
+148	baybay	4	39.3662	4.5951	b a i b a i
+148	bigote	4	39.3662	4.5951	b i ɡ o t e
+148	bilhin	4	39.3662	4.5951	b i l h i n
+148	bili	4	39.3662	4.5951	b i l i
+148	bilyon	4	39.3662	4.5951	b i l j o n
+148	boses	4	39.3662	4.5951	b o s e s
+148	bote	4	39.3662	4.5951	b o t e
+148	bubong	4	39.3662	4.5951	b u b o ŋ
+148	buhangin	4	39.3662	4.5951	b u h a ŋ i n
+148	buhok	4	39.3662	4.5951	b u h o k
+148	bulsa	4	39.3662	4.5951	b u l s a
+148	buto	4	39.3662	4.5951	b o t ʔ o  |  b u t o  |  b u t o ʔ
+148	dale	4	39.3662	4.5951	d a l e
+148	dapa	4	39.3662	4.5951	d a p a ʔ
+148	dasal	4	39.3662	4.5951	d a s a l
+148	dekada	4	39.3662	4.5951	d e k a d a
+148	demonyo	4	39.3662	4.5951	d e m o n j o
+148	diretso	4	39.3662	4.5951	d i ɾ e t͡ʃ o
+148	disyembre	4	39.3662	4.5951	d i s j e m b ɾ e
+148	doble	4	39.3662	4.5951	d o b l e
+148	don	4	39.3662	4.5951	d o n
+148	duwag	4	39.3662	4.5951	d u a ɡ
+148	edad	4	39.3662	4.5951	ʔ e d a d
+148	ektarya	4	39.3662	4.5951	ʔ e k t a ɾ j a
+148	elemento	4	39.3662	4.5951	ʔ e l e m e n t o
+148	gatong	4	39.3662	4.5951	ɡ a t o ŋ
+148	ginhawa	4	39.3662	4.5951	ɡ i n h a w a
+148	go	4	39.3662	4.5951	ɡ ɔ
+148	gumalaw	4	39.3662	4.5951	ɡ u m a l a u
+148	gumaling	4	39.3662	4.5951	ɡ a ɡ a l i ŋ
+148	gumastos	4	39.3662	4.5951	ɡ u m a s t o s
+148	habol	4	39.3662	4.5951	h a b o l
+148	halik	4	39.3662	4.5951	h a l i k
+148	hanapbuhay	4	39.3662	4.5951	h a n a p b u h a i
+148	hintay	4	39.3662	4.5951	h i n t a i
+148	hukbo	4	39.3662	4.5951	h u k b o  |  h u k b o ʔ
+148	humiga	4	39.3662	4.5951	h u m i ɡ a ʔ
+148	huwebes	4	39.3662	4.5951	h u e b e s
+148	imahe	4	39.3662	4.5951	ʔ i m a h e
+148	inosente	4	39.3662	4.5951	ʔ i n o s e n t e
+148	ipadala	4	39.3662	4.5951	ʔ i p a d a l a
+148	isulat	4	39.3662	4.5951	ʔ i s u l a t
+148	iuwi	4	39.3662	4.5951	ʔ i ʔ u w i ʔ
+148	juan	4	39.3662	4.5951	h w a n  |  h w ɐ n
+148	kadena	4	39.3662	4.5951	k a d e n a
+148	kakayahan	4	39.3662	4.5951	k a k a j a h a n
+148	kanlungan	4	39.3662	4.5951	k a n l u ŋ a n
+148	kapitan	4	39.3662	4.5951	k a p i t a n
+148	karunungan	4	39.3662	4.5951	k a ɾ u n u ŋ a n
+148	kaunti	4	39.3662	4.5951	k a ʔ u n t i ʔ  |  k ɔ n t ɛ ʔ
+148	kinabukasan	4	39.3662	4.5951	k i n a b u k a s a n
+148	komunikasyon	4	39.3662	4.5951	k o m u n i k a s j o n
+148	konduktor	4	39.3662	4.5951	k o n d u k t o ɾ
+148	kusa	4	39.3662	4.5951	k u s a ʔ
+148	labis	4	39.3662	4.5951	l a b i s
+148	lagos	4	39.3662	4.5951	l a ɡ o s
+148	laki	4	39.3662	4.5951	l a k i
+148	lalamunan	4	39.3662	4.5951	l a l a m u n a n
+148	lamig	4	39.3662	4.5951	l a m i ɡ
+148	lawak	4	39.3662	4.5951	l a w a k
+148	leon	4	39.3662	4.5951	l e o n
+148	lima	4	39.3662	4.5951	l i m a
+148	listahan	4	39.3662	4.5951	l i s t a h a n
+148	litro	4	39.3662	4.5951	l i t ɾ o
+148	lokal	4	39.3662	4.5951	l o k a l
+148	lumakad	4	39.3662	4.5951	l u m a k a d
+148	lunes	4	39.3662	4.5951	l u n e s
+148	mababa	4	39.3662	4.5951	m a b a b a ʔ
+148	mabigat	4	39.3662	4.5951	m a b i ɡ a t
+148	mabuhok	4	39.3662	4.5951	m a b u h o k
+148	madalas	4	39.3662	4.5951	m a d a l a s
+148	martinez	4	39.3662	4.5951	m a ɾ t i n e s
+148	matapang	4	39.3662	4.5951	m a t a p a ŋ
+148	mensahe	4	39.3662	4.5951	m e n s a h e
+148	mesa	4	39.3662	4.5951	m e s a
+148	orasan	4	39.3662	4.5951	o r a s a n
+148	padre	4	39.3662	4.5951	p a d ɾ e
+148	pari	4	39.3662	4.5951	p a ɾ i ʔ
+148	pestisidyo	4	39.3662	4.5951	p e s t i s i d j o
+148	pista	4	39.3662	4.5951	p i s t a
+148	pumayag	4	39.3662	4.5951	p u m a j a ɡ
+148	pustahan	4	39.3662	4.5951	p u s t a h a n
+148	riles	4	39.3662	4.5951	ɾ i l e s
+148	roon	4	39.3662	4.5951	ɾ o ʔ o n
+148	saksi	4	39.3662	4.5951	s a k s i
+148	salapi	4	39.3662	4.5951	s a l a p i ʔ
+148	siyam	4	39.3662	4.5951	s i j a m  |  ʃ j a m
+148	sumulat	4	39.3662	4.5951	s u m u l a t
+148	suntok	4	39.3662	4.5951	s u n t o k
+148	tanikala	4	39.3662	4.5951	t a n i k a l a ʔ
+148	tauhan	4	39.3662	4.5951	t a ʔ u h a n
+148	tawanan	4	39.3662	4.5951	t a w a n a n
+148	tenga	4	39.3662	4.5951	t e ŋ a
+148	tumulong	4	39.3662	4.5951	t u m u l o ŋ
+148	tupa	4	39.3662	4.5951	t u p a
+148	umasa	4	39.3662	4.5951	ʔ u m a s a
+148	umiyak	4	39.3662	4.5951	ʔ u m i j a k
+148	usapan	4	39.3662	4.5951	u s a p a n
+149	abante	3	29.5247	4.4702	ʔ a b a n t e
+149	alamin	3	29.5247	4.4702	ʔ a l a m i n
+149	alikabok	3	29.5247	4.4702	ʔ a l i k a b o k
+149	aminin	3	29.5247	4.4702	ʔ a m i n i n
+149	angal	3	29.5247	4.4702	ʔ a ŋ a l
+149	aparador	3	29.5247	4.4702	ʔ a p a ɾ a d o ɾ
+149	asahan	3	29.5247	4.4702	ʔ a s a h a n
+149	astig	3	29.5247	4.4702	ʔ a s t i ɡ
+149	ata	3	29.5247	4.4702	ʔ a t a  |  ʔ a t a ʔ
+149	atake	3	29.5247	4.4702	ʔ a t a k e
+149	aw	3	29.5247	4.4702	ʔ a u
+149	babasagin	3	29.5247	4.4702	b a b a s a ɡ i n
+149	baga	3	29.5247	4.4702	b a ɡ a  |  b a ɡ a ʔ
+149	bangungot	3	29.5247	4.4702	b a ŋ u ŋ o t
+149	barangay	3	29.5247	4.4702	b a ɾ a ŋ ɡ a i
+149	basag	3	29.5247	4.4702	b a s a ɡ
+149	base	3	29.5247	4.4702	b a s e
+149	bawal	3	29.5247	4.4702	b a w a l
+149	baybayin	3	29.5247	4.4702	b a i b a j i n
+149	bibili	3	29.5247	4.4702	b i b i l i
+149	bigas	3	29.5247	4.4702	b i ɡ a s
+149	bihasa	3	29.5247	4.4702	b i h a s a  |  b i h a s a ʔ
+149	bilanggo	3	29.5247	4.4702	b i l a ŋ ɡ o ʔ
+149	bisitahin	3	29.5247	4.4702	b i s i t a h i n
+149	bitag	3	29.5247	4.4702	b i t a ɡ
+149	bukod	3	29.5247	4.4702	b u k o d
+149	bumibili	3	29.5247	4.4702	b u m i b i l i
+149	bumuo	3	29.5247	4.4702	b u m u ʔ o ʔ
+149	burahin	3	29.5247	4.4702	b u ɾ a h i n
+149	daga	3	29.5247	4.4702	d a ɡ a  |  d a ɡ a ʔ
+149	daigdig	3	29.5247	4.4702	d a ʔ i ɡ d i ɡ
+149	dalang	3	29.5247	4.4702	d a l a ŋ
+149	daloy	3	29.5247	4.4702	d a l o i
+149	delikado	3	29.5247	4.4702	d e l i k a d o
+149	delubyo	3	29.5247	4.4702	d e l u b j o
+149	depende	3	29.5247	4.4702	d e p e n d e
+149	dibdib	3	29.5247	4.4702	d i b d i b
+149	dugtong	3	29.5247	4.4702	d u ɡ t o ŋ
+149	estasyon	3	29.5247	4.4702	ʔ e s t a s j o n
+149	gagamba	3	29.5247	4.4702	ɡ a ɡ a m b a
+149	gana	3	29.5247	4.4702	ɡ a n a
+149	gobernador	3	29.5247	4.4702	ɡ o b e ɾ n a d o ɾ
+149	gusali	3	29.5247	4.4702	ɡ u s a l i ʔ
+149	haba	3	29.5247	4.4702	h a b a  |  h a b a ʔ
+149	halata	3	29.5247	4.4702	h a l a t a ʔ
+149	hamak	3	29.5247	4.4702	h a m a k
+149	hanap	3	29.5247	4.4702	h a n a p
+149	hapon	3	29.5247	4.4702	h a p o n
+149	hapunan	3	29.5247	4.4702	h a p u n a n
+149	hayskul	3	29.5247	4.4702	h a i s k u l
+149	henyo	3	29.5247	4.4702	h e n j o
+149	hilaga	3	29.5247	4.4702	h i l a ɡ a ʔ
+149	himala	3	29.5247	4.4702	h i m a l a ʔ
+149	hiya	3	29.5247	4.4702	h i a  |  h i j a ʔ
+149	hugis	3	29.5247	4.4702	h u ɡ i s
+149	hula	3	29.5247	4.4702	h u l a ʔ
+149	humanda	3	29.5247	4.4702	h u m a n d a ʔ
+149	idea	3	29.5247	4.4702	ʔ i d e j a
+149	ihagis	3	29.5247	4.4702	ʔ i h a ɡ i s
+149	iho	3	29.5247	4.4702	ʔ i h o
+149	inang	3	29.5247	4.4702	ʔ i n a ŋ
+149	inodoro	3	29.5247	4.4702	ʔ i n o d o ɾ o
+149	itapon	3	29.5247	4.4702	ʔ i t a p o n
+149	kabaligtaran	3	29.5247	4.4702	k a b a l i ɡ t a ɾ a n
+149	kabayo	3	29.5247	4.4702	k a b a j o
+149	kahihiyan	3	29.5247	4.4702	k a h i h i a n
+149	kakainin	3	29.5247	4.4702	k a k a ʔ i n i n
+149	kalendaryo	3	29.5247	4.4702	k a l e n d a ɾ j o
+149	kalooban	3	29.5247	4.4702	k a l o ʔ o b a n
+149	kapalit	3	29.5247	4.4702	k a p a l i t
+149	kasinungalingan	3	29.5247	4.4702	k a s i n u ŋ a l i ŋ a n
+149	katropa	3	29.5247	4.4702	k a t r o p a
+149	katungkulan	3	29.5247	4.4702	k a t u ŋ k u l a n
+149	kilo	3	29.5247	4.4702	k i l o  |  k i l o ʔ
+149	kinalaman	3	29.5247	4.4702	k i n a l a m a n
+149	konsul	3	29.5247	4.4702	k o n s u l
+149	kopya	3	29.5247	4.4702	k o p j a
+149	krimen	3	29.5247	4.4702	k ɾ i m e n
+149	kusina	3	29.5247	4.4702	k u s i n a
+149	labag	3	29.5247	4.4702	l a b a ɡ
+149	lagay	3	29.5247	4.4702	l a ɡ a i
+149	lahi	3	29.5247	4.4702	l a h i ʔ
+149	lakad	3	29.5247	4.4702	l a k a d
+149	lalagyan	3	29.5247	4.4702	l a l a ɡ j a n
+149	lapis	3	29.5247	4.4702	l a p i s
+149	larawan	3	29.5247	4.4702	l a ɾ a w a n
+149	lawin	3	29.5247	4.4702	l a w i n
+149	lee	3	29.5247	4.4702	l i
+149	ligaw	3	29.5247	4.4702	l i ɡ a u
+149	lipunan	3	29.5247	4.4702	l i p u n a n
+149	look	3	29.5247	4.4702	l o ʔ o k
+149	lumangoy	3	29.5247	4.4702	l u m a ŋ o i
+149	lumikha	3	29.5247	4.4702	l u m i k h a ʔ
+149	lumipad	3	29.5247	4.4702	l u m i p a d
+149	luntian	3	29.5247	4.4702	l u n t i ʔ a n
+149	mababaw	3	29.5247	4.4702	m a b a b a u
+149	mabagsik	3	29.5247	4.4702	m a b a ɡ s i k
+149	maglaro	3	29.5247	4.4702	m a ɡ l a ɾ o ʔ
+149	magnakaw	3	29.5247	4.4702	m a ɡ n a k a u
+149	makakita	3	29.5247	4.4702	m a k a k i t a
+149	malay	3	29.5247	4.4702	m a l a i
+149	mamimili	3	29.5247	4.4702	m a m i m i l i
+149	manggulo	3	29.5247	4.4702	m a ŋ ɡ u l o
+149	mangingisda	3	29.5247	4.4702	m a ŋ i ŋ i s d a ʔ
+149	mangkok	3	29.5247	4.4702	m a ŋ k o k
+149	mental	3	29.5247	4.4702	m e n t a l
+149	militar	3	29.5247	4.4702	m i l i t a ɾ
+149	motor	3	29.5247	4.4702	m o t o ɾ
+149	mura	3	29.5247	4.4702	m u ɾ a
+149	negro	3	29.5247	4.4702	n e ɡ ɾ o
+149	pagnanakaw	3	29.5247	4.4702	p a ɡ n a n a k a u
+149	palaboy	3	29.5247	4.4702	p a l a b o i
+149	pamahalaan	3	29.5247	4.4702	p a m a h a l a a n
+149	password	3	29.5247	4.4702	p a s w o ɾ d
+149	patatas	3	29.5247	4.4702	p a t a t a s
+149	payapa	3	29.5247	4.4702	p a j a p a ʔ
+149	pilat	3	29.5247	4.4702	p i l a t
+149	pinsan	3	29.5247	4.4702	p i n s a n
+149	premyo	3	29.5247	4.4702	p ɾ e m j o
+149	preso	3	29.5247	4.4702	p ɾ e s o
+149	propesyonal	3	29.5247	4.4702	p ɾ o p e s j o n a l
+149	pusta	3	29.5247	4.4702	p u s t a
+149	rantso	3	29.5247	4.4702	ɾ a n t͡ʃ o
+149	rebulto	3	29.5247	4.4702	ɾ e b u l t o
+149	sabon	3	29.5247	4.4702	s a b o n
+149	sagana	3	29.5247	4.4702	s a ɡ a n a
+149	saglit	3	29.5247	4.4702	s a ɡ l i t
+149	saka	3	29.5247	4.4702	s a k a
+149	sakali	3	29.5247	4.4702	s a k a l i ʔ
+149	samahan	3	29.5247	4.4702	s a m a h a n
+149	saranggola	3	29.5247	4.4702	s a ɾ a ŋ ɡ o l a
+149	sikreto	3	29.5247	4.4702	s i k ɾ e t o
+149	silangan	3	29.5247	4.4702	s i l a ŋ a n
+149	simbahan	3	29.5247	4.4702	s i m b a h a n
+149	simple	3	29.5247	4.4702	s i m p l ɛ
+149	sipsip	3	29.5247	4.4702	s i p s i p
+149	susmaryosep	3	29.5247	4.4702	s u s m a ɾ j o s e p
+149	syota	3	29.5247	4.4702	s j o t a ʔ
+149	talento	3	29.5247	4.4702	t a l e n t o
+149	talo	3	29.5247	4.4702	t a l o
+149	talunan	3	29.5247	4.4702	t a l u n a n
+149	tato	3	29.5247	4.4702	t a t o ʔ
+149	tiyan	3	29.5247	4.4702	t i a n
+149	tonelada	3	29.5247	4.4702	t o n e l a d a
+149	tore	3	29.5247	4.4702	t o ɾ e
+149	trono	3	29.5247	4.4702	t ɾ o n o
+149	tumawa	3	29.5247	4.4702	t u m a w a
+149	ugat	3	29.5247	4.4702	ʔ u ɡ a t
+149	umihi	3	29.5247	4.4702	ʔ u m i h i ʔ
+149	van	3	29.5247	4.4702	b a n
+150	abot	2	19.6831	4.2941	ʔ a b o t
+150	abutin	2	19.6831	4.2941	ʔ a b u t i n
+150	adik	2	19.6831	4.2941	ʔ a d i k
+150	aklat	2	19.6831	4.2941	ʔ a k l a t
+150	aksaya	2	19.6831	4.2941	ʔ a k s a j a
+150	aksidente	2	19.6831	4.2941	ʔ a k s i d e n t e
+150	alaala	2	19.6831	4.2941	ʔ a l a ʔ a l a
+150	alahas	2	19.6831	4.2941	ʔ a l a h a s
+150	aling	2	19.6831	4.2941	ʔ a l i ŋ
+150	alintana	2	19.6831	4.2941	ʔ a l i n t a n a
+150	alkohol	2	19.6831	4.2941	ʔ a l k o h o l
+150	alon	2	19.6831	4.2941	ʔ a l o n
+150	altar	2	19.6831	4.2941	ʔ a l t a ɾ
+150	ambisyon	2	19.6831	4.2941	ʔ a m b i s j o n
+150	angkop	2	19.6831	4.2941	ʔ a ŋ k o p
+150	ani	2	19.6831	4.2941	ʔ a n i
+150	apelyido	2	19.6831	4.2941	ʔ a p e l j i d o
+150	arabo	2	19.6831	4.2941	ʔ a ɾ a b o
+150	aral	2	19.6831	4.2941	ʔ a ɾ a l
+150	aray	2	19.6831	4.2941	ʔ a ɾ a i
+150	armado	2	19.6831	4.2941	ʔ a ɾ m a d o
+150	asa	2	19.6831	4.2941	ʔ a s a
+150	asap	2	19.6831	4.2941	ʔ a s a p
+150	asinta	2	19.6831	4.2941	ʔ a s i n t a
+150	awa	2	19.6831	4.2941	ʔ a w a ʔ
+150	awayin	2	19.6831	4.2941	ʔ a w a j i n
+150	bading	2	19.6831	4.2941	b a d i ŋ
+150	bagaman	2	19.6831	4.2941	b a ɡ a m a n
+150	bagamat	2	19.6831	4.2941	b a ɡ a m a t
+150	baguhan	2	19.6831	4.2941	b a ɡ u h a n
+150	baho	2	19.6831	4.2941	b a h o  |  b a h o ʔ
+150	bakal	2	19.6831	4.2941	b a k a l
+150	bala	2	19.6831	4.2941	b a l a  |  b a l a ʔ
+150	balikat	2	19.6831	4.2941	b a l i k a t
+150	baling	2	19.6831	4.2941	b a l i ŋ
+150	bangin	2	19.6831	4.2941	b a ŋ i n
+150	bangko	2	19.6831	4.2941	b a ŋ k o  |  b a ŋ k o ʔ
+150	barya	2	19.6831	4.2941	b a ɾ j a
+150	baryo	2	19.6831	4.2941	b a ɾ j o
+150	basehan	2	19.6831	4.2941	b a s e h a n
+150	batay	2	19.6831	4.2941	b a t a i
+150	baterya	2	19.6831	4.2941	b a t e ɾ j a
+150	batis	2	19.6831	4.2941	b a t i s
+150	bayani	2	19.6831	4.2941	b a j a n i
+150	bayarin	2	19.6831	4.2941	b a j a ɾ i n
+150	bersiyon	2	19.6831	4.2941	b e ɾ s i o n
+150	bida	2	19.6831	4.2941	b i d a
+150	bigat	2	19.6831	4.2941	b i ɡ a t  |  b i ɡ ʔ a t
+150	bigay	2	19.6831	4.2941	b i ɡ a i
+150	bihag	2	19.6831	4.2941	b i h a ɡ
+150	binti	2	19.6831	4.2941	b i n t i ʔ
+150	bisyo	2	19.6831	4.2941	b i s j o
+150	bituka	2	19.6831	4.2941	b i t u k a
+150	biyaya	2	19.6831	4.2941	b i a j a ʔ
+150	boba	2	19.6831	4.2941	b o b a
+150	bulkan	2	19.6831	4.2941	b u l k a n
+150	bumisita	2	19.6831	4.2941	b u m i s i t a
+150	bumitiw	2	19.6831	4.2941	b u m i t i u
+150	bunga	2	19.6831	4.2941	b u ŋ a
+150	bunganga	2	19.6831	4.2941	b u ŋ a ŋ a ʔ
+150	buntis	2	19.6831	4.2941	b u n t i s
+150	buo	2	19.6831	4.2941	b u o ʔ
+150	bus	2	19.6831	4.2941	b a s  |  b u s
+150	buwisit	2	19.6831	4.2941	b u i s i t
+150	bwisit	2	19.6831	4.2941	b u i s i t
+150	chi	2	19.6831	4.2941	t ʃ i
+150	corazon	2	19.6831	4.2941	k o ɾ a s o n
+150	dagta	2	19.6831	4.2941	d a ɡ t a ʔ
+150	dako	2	19.6831	4.2941	d a k o
+150	damdamin	2	19.6831	4.2941	d a m d a m i n
+150	damo	2	19.6831	4.2941	d a m o
+150	damuhan	2	19.6831	4.2941	d a m u h a n
+150	daungan	2	19.6831	4.2941	d a ʔ u ŋ a n
+150	desperado	2	19.6831	4.2941	d e s p e ɾ a d o
+150	desyerto	2	19.6831	4.2941	d e s j e ɾ t o
+150	dilaw	2	19.6831	4.2941	d i l a u
+150	donasyon	2	19.6831	4.2941	d o n a s j o n
+150	drama	2	19.6831	4.2941	d ɾ a m a
+150	ekonomiya	2	19.6831	4.2941	ʔ e k o n o m i a
+150	engot	2	19.6831	4.2941	ʔ e ŋ o t
+150	espanya	2	19.6831	4.2941	ʔ e s p a n j a
+150	gabon	2	19.6831	4.2941	ɡ a b o n
+150	ganap	2	19.6831	4.2941	ɡ a n a p
+150	gasolina	2	19.6831	4.2941	ɡ a s o l i n a
+150	gastusin	2	19.6831	4.2941	ɡ a s t u s i n
+150	gatas	2	19.6831	4.2941	ɡ a t a s
+150	gayunman	2	19.6831	4.2941	ɡ a j u n m a n
+150	granada	2	19.6831	4.2941	ɡ ɾ a n a d a
+150	gulang	2	19.6831	4.2941	ɡ u l a ŋ
+150	gulay	2	19.6831	4.2941	ɡ u l a i
+150	gumala	2	19.6831	4.2941	ɡ u m a l a ʔ
+150	gunting	2	19.6831	4.2941	ɡ u n t i ŋ
+150	haha	2	19.6831	4.2941	h a h a  |  h a h a ʔ
+150	hambog	2	19.6831	4.2941	h a m b o ɡ
+150	hamog	2	19.6831	4.2941	h a m o ɡ
+150	hamon	2	19.6831	4.2941	h a m o n
+150	hanggan	2	19.6831	4.2941	h a ŋ ɡ a n
+150	hangganan	2	19.6831	4.2941	h a ŋ ɡ a n a n
+150	hardin	2	19.6831	4.2941	h a ɾ d i n
+150	hatol	2	19.6831	4.2941	h a t o l
+150	hibla	2	19.6831	4.2941	h i b l a
+150	himig	2	19.6831	4.2941	h i m i ɡ
+150	hinahabol	2	19.6831	4.2941	h i n a h a b o l
+150	hinala	2	19.6831	4.2941	h i n a l a ʔ
+150	hinog	2	19.6831	4.2941	h i n o ɡ
+150	hinto	2	19.6831	4.2941	h i n t o ʔ
+150	hita	2	19.6831	4.2941	h i t a ʔ
+150	hiwalay	2	19.6831	4.2941	h i w a l a i
+150	hudas	2	19.6831	4.2941	h u d a s
+150	hunghang	2	19.6831	4.2941	h u ŋ h a ŋ
+150	husay	2	19.6831	4.2941	h u s a i
+150	husgahan	2	19.6831	4.2941	h u s ɡ a h a n
+150	ibahin	2	19.6831	4.2941	ʔ i b a h i n
+150	ikuha	2	19.6831	4.2941	ʔ i k u h a
+150	imbentaryo	2	19.6831	4.2941	ʔ i m b e n t a ɾ j o
+150	imperial	2	19.6831	4.2941	ʔ i m p e ɾ j a l
+150	inggit	2	19.6831	4.2941	ʔ i ŋ ɡ i t
+150	ingles	2	19.6831	4.2941	ʔ i ŋ ɡ l e s
+150	insidente	2	19.6831	4.2941	ʔ i n s i d e n t e
+150	intindihin	2	19.6831	4.2941	ʔ i n t i n d i h i n
+150	inunan	2	19.6831	4.2941	ʔ i n u n a n
+150	ipit	2	19.6831	4.2941	ʔ i p i t
+150	iskor	2	19.6831	4.2941	ʔ i s k o ɾ
+150	israel	2	19.6831	4.2941	ʔ i s ɾ a ʔ e l
+150	istatwa	2	19.6831	4.2941	ʔ i s t a t w a
+150	istorya	2	19.6831	4.2941	ʔ i s t o ɾ j a
+150	isuot	2	19.6831	4.2941	ʔ i s u ʔ o t
+150	kababaihan	2	19.6831	4.2941	k a b a b a ʔ i h a n
+150	kabisado	2	19.6831	4.2941	k a b i s a d o
+150	kalat	2	19.6831	4.2941	k a l a t
+150	kalayaan	2	19.6831	4.2941	k a l ɐ i ɪ a ʔ ɐ n
+150	kaligayahan	2	19.6831	4.2941	k a l i ɡ a j a h a n
+150	kaliskis	2	19.6831	4.2941	k a l i s k i s
+150	kamukha	2	19.6831	4.2941	k a m u k h a ʔ
+150	kandidato	2	19.6831	4.2941	k a n d i d a t o
+150	kandila	2	19.6831	4.2941	k a n d i l a ʔ
+150	kanluran	2	19.6831	4.2941	k a n l u ɾ a n
+150	kapakanan	2	19.6831	4.2941	k a p a k a n a n  |  k a p a k a n ʔ a n
+150	karanasan	2	19.6831	4.2941	k a ɾ a n a s a n
+150	karayom	2	19.6831	4.2941	k a ɾ a j o m
+150	kasintahan	2	19.6831	4.2941	k a s i n t a h a n
+150	katibayan	2	19.6831	4.2941	k a t i b a j a n
+150	kidlat	2	19.6831	4.2941	k i d l a t
+150	kliyente	2	19.6831	4.2941	k l i e n t e
+150	konsehal	2	19.6831	4.2941	k o n s e h a l
+150	kulog	2	19.6831	4.2941	k u l o ɡ
+150	kumanta	2	19.6831	4.2941	k u m a n t a
+150	kumot	2	19.6831	4.2941	k u m o t
+150	kunwari	2	19.6831	4.2941	k u n w a ɾ e ʔ  |  k u n w a ɾ i ʔ
+150	kurbata	2	19.6831	4.2941	k u ɾ b a t a
+150	kuting	2	19.6831	4.2941	k u t i ŋ
+150	labasan	2	19.6831	4.2941	l a b a s a n
+150	labing	2	19.6831	4.2941	l a b i ŋ
+150	landas	2	19.6831	4.2941	l a n d a s
+150	lapit	2	19.6831	4.2941	l a p i t
+150	laro	2	19.6831	4.2941	l a ɾ o  |  l a ɾ o ʔ
+150	lasa	2	19.6831	4.2941	l a s a  |  l a s a ʔ
+150	lasinggero	2	19.6831	4.2941	l a s i ŋ ɡ e ɾ o
+150	lasunin	2	19.6831	4.2941	l a s u n i n
+150	latigo	2	19.6831	4.2941	l a t i ɡ o
+150	legal	2	19.6831	4.2941	l e ɡ a l
+150	liban	2	19.6831	4.2941	l i b a n
+150	libingan	2	19.6831	4.2941	l i b i ŋ a n
+150	likido	2	19.6831	4.2941	l i k i d o
+150	lilim	2	19.6831	4.2941	l i l i m
+150	lipat	2	19.6831	4.2941	l i p a t
+150	longganisa	2	19.6831	4.2941	l o ŋ ɡ a n i s a
+150	lubog	2	19.6831	4.2941	l u b o ɡ
+150	luha	2	19.6831	4.2941	l u h a ʔ
+150	lumalaban	2	19.6831	4.2941	l u m a l a b a n
+150	lumamig	2	19.6831	4.2941	l u m a m i ɡ
+150	lumaya	2	19.6831	4.2941	l u m a j a ʔ
+150	lumiit	2	19.6831	4.2941	l u m i ʔ i t
+150	lumot	2	19.6831	4.2941	l u m o t
+150	lunas	2	19.6831	4.2941	l u n a s
+150	lungkot	2	19.6831	4.2941	l u ŋ k o t
+150	luwang	2	19.6831	4.2941	l u a ŋ
+150	magbasa	2	19.6831	4.2941	m a ɡ b a s a  |  m a ɡ b a s a ʔ
+150	magbayad	2	19.6831	4.2941	m a ɡ b a j a d
+150	magbihis	2	19.6831	4.2941	m a ɡ b i h i s
+150	maghapon	2	19.6831	4.2941	m a ɡ h a p o n
+150	maghugas	2	19.6831	4.2941	m a ɡ h u ɡ a s
+150	magturo	2	19.6831	4.2941	m a ɡ t u ɾ o ʔ
+150	magulo	2	19.6831	4.2941	m a ɡ u l o
+150	mahulog	2	19.6831	4.2941	m a h u l o ɡ
+150	maingay	2	19.6831	4.2941	m a ʔ i ŋ a i
+150	makatulog	2	19.6831	4.2941	m a k a t u l o ɡ
+150	malambot	2	19.6831	4.2941	m a l a m b o t
+150	malaya	2	19.6831	4.2941	m a l a j a ʔ
+150	malusog	2	19.6831	4.2941	m a l u s o ɡ
+150	mamamana	2	19.6831	4.2941	m a m a m a n a ʔ
+150	mandirigma	2	19.6831	4.2941	m a n d i ɾ i ɡ m a ʔ
+150	mangmang	2	19.6831	4.2941	m a ŋ m a ŋ
+150	mapagmatyag	2	19.6831	4.2941	m a p a ɡ m a t j a ɡ
+150	maselan	2	19.6831	4.2941	m a s e l a n
+150	masikip	2	19.6831	4.2941	m a s i k i p
+150	megumi	2	19.6831	4.2941	m e ɡ u m i
+150	modernisasyon	2	19.6831	4.2941	m o d e ɾ n i s a s j o n
+150	nakakaalarma	2	19.6831	4.2941	n a k a k a a l a ɾ m a
+150	nako	2	19.6831	4.2941	n a k o
+150	ngumiti	2	19.6831	4.2941	ŋ u m i t i ʔ
+150	nilabasan	2	19.6831	4.2941	n i l a b a s a n
+150	paaralan	2	19.6831	4.2941	p a a ɾ ɐ l a n
+150	pagbati	2	19.6831	4.2941	p a ɡ b a t i  |  p a ɡ b a t i ʔ
+150	pagkabuhay	2	19.6831	4.2941	p a ɡ k a b u h a i
+150	pahintulot	2	19.6831	4.2941	p a h i n t u l o t
+150	pamilyar	2	19.6831	4.2941	p a m i l j a ɾ
+150	pasyal	2	19.6831	4.2941	p a s j a l
+150	pawikan	2	19.6831	4.2941	p a w i k a n
+150	pawis	2	19.6831	4.2941	p a w i s
+150	piraso	2	19.6831	4.2941	p i ɾ a s o
+150	plato	2	19.6831	4.2941	p l a t o
+150	pondo	2	19.6831	4.2941	p o n d o
+150	pulubi	2	19.6831	4.2941	p u l u b i
+150	punto	2	19.6831	4.2941	p u n t o
+150	pusod	2	19.6831	4.2941	p u s o d
+150	rebelyon	2	19.6831	4.2941	r ɛ b ɛ l j o n
+150	see	2	19.6831	4.2941	s iː
+150	selyo	2	19.6831	4.2941	s e l j o
+150	sumagot	2	19.6831	4.2941	s u m a ɡ o t
+150	tagal	2	19.6831	4.2941	t a ɡ a l
+150	tinapay	2	19.6831	4.2941	t i n a p a i
+150	tinig	2	19.6831	4.2941	t i n i ɡ
+150	tita	2	19.6831	4.2941	t i t a
+150	tiyaga	2	19.6831	4.2941	t i a ɡ a ʔ
+150	trip	2	19.6831	4.2941	t ɾ i p
+150	tuhod	2	19.6831	4.2941	t u h o d
+150	tulak	2	19.6831	4.2941	t u l a k
+150	tulay	2	19.6831	4.2941	t u l a i
+150	tumalon	2	19.6831	4.2941	t u m a l o n
+150	tuwalya	2	19.6831	4.2941	t u a l j a
+150	ulila	2	19.6831	4.2941	ʔ u l i l a
+150	umakyat	2	19.6831	4.2941	ʔ u m a k j a t
+150	umayos	2	19.6831	4.2941	ʔ u m a j o s
+150	umpisa	2	19.6831	4.2941	ʔ u m p i s a
+150	umunlad	2	19.6831	4.2941	ʔ u m u n l a d
+150	ung	2	19.6831	4.2941	j u ŋ
+150	walo	2	19.6831	4.2941	w a l o
+150	wika	2	19.6831	4.2941	w i k a ʔ
+151	aa	1	9.8416	3.9931	ʔ a a  |  ʔ a ʔ a ʔ
+151	aaa	1	9.8416	3.9931	ʔ a ʔ a ʔ a ʔ
+151	aakyat	1	9.8416	3.9931	ʔ a ʔ a k j a t
+151	aber	1	9.8416	3.9931	ʔ a b e ɾ
+151	abril	1	9.8416	3.9931	ʔ a b ɾ i l
+151	abusado	1	9.8416	3.9931	ʔ a b u s a d o
+151	agam	1	9.8416	3.9931	ʔ a ɡ a m
+151	agimat	1	9.8416	3.9931	ʔ a ɡ i m a t
+151	agos	1	9.8416	3.9931	ʔ a ɡ o s
+151	agosto	1	9.8416	3.9931	ʔ a ɡ o s t o
+151	alahero	1	9.8416	3.9931	ʔ a l a h e ɾ o
+151	alala	1	9.8416	3.9931	ʔ a l a l a
+151	alalay	1	9.8416	3.9931	ʔ a l a l a i
+151	alanganin	1	9.8416	3.9931	ʔ a l a ŋ a n i n
+151	alin	1	9.8416	3.9931	ʔ a l i n
+151	alingawngaw	1	9.8416	3.9931	ʔ a l i ŋ a u ŋ a u
+151	alinlangan	1	9.8416	3.9931	ʔ a l i n l a ŋ a n
+151	alisto	1	9.8416	3.9931	ʔ a l i s t o
+151	alma	1	9.8416	3.9931	ʔ a l m a
+151	almusal	1	9.8416	3.9931	ʔ a l m u s a l
+151	alok	1	9.8416	3.9931	ʔ a l o k
+151	alupihan	1	9.8416	3.9931	ʔ a l u p i h a n
+151	ambulansiya	1	9.8416	3.9931	ʔ a m b u l a n s j a
+151	amen	1	9.8416	3.9931	ʔ a m e n
+151	amo	1	9.8416	3.9931	ʔ a m o  |  ʔ a m o ʔ
+151	anggulo	1	9.8416	3.9931	ʔ a ŋ ɡ u l o
+151	anghel	1	9.8416	3.9931	ʔ a ŋ h e l
+151	animal	1	9.8416	3.9931	ʔ a n i m a l
+151	antok	1	9.8416	3.9931	ʔ a n t o k
+151	antukin	1	9.8416	3.9931	ʔ a n t u k i n
+151	anyo	1	9.8416	3.9931	ʔ a n j o  |  ʔ a n j o ʔ
+151	aplikante	1	9.8416	3.9931	ʔ a p l i k a n t e
+151	apo	1	9.8416	3.9931	ʔ a p o  |  ʔ a p o ʔ
+151	arestado	1	9.8416	3.9931	ʔ a ɾ e s t a d o
+151	armas	1	9.8416	3.9931	ʔ a ɾ m a s
+151	artikulo	1	9.8416	3.9931	ʔ a ɾ t i k u l o
+151	asal	1	9.8416	3.9931	ʔ a s a l
+151	asam	1	9.8416	3.9931	ʔ a s a m
+151	asin	1	9.8416	3.9931	ʔ a s i n
+151	atang	1	9.8416	3.9931	ʔ a t a ŋ
+151	atat	1	9.8416	3.9931	ʔ a t a t
+151	atay	1	9.8416	3.9931	ʔ a t a i
+151	atras	1	9.8416	3.9931	ʔ a t ɾ a s
+151	awang	1	9.8416	3.9931	ʔ a w a ŋ
+151	awat	1	9.8416	3.9931	ʔ a w a t
+151	awit	1	9.8416	3.9931	ʔ a w i t
+151	ba't	1	9.8416	3.9931	b a t
+151	babaan	1	9.8416	3.9931	b a b a ʔ a n
+151	babad	1	9.8416	3.9931	b a b a d
+151	babala	1	9.8416	3.9931	b a b a l a ʔ
+151	bagahe	1	9.8416	3.9931	b a ɡ a h e
+151	bagama't	1	9.8416	3.9931	b a ɡ a m a t
+151	bait	1	9.8416	3.9931	b a ʔ i t
+151	bakante	1	9.8416	3.9931	b a k a n t e
+151	bakunahan	1	9.8416	3.9931	b a k u n a h a n
+151	bakuran	1	9.8416	3.9931	b a k u ɾ a n
+151	balaan	1	9.8416	3.9931	b a l a a n
+151	balahibo	1	9.8416	3.9931	b a l a h i b o
+151	balangay	1	9.8416	3.9931	b a l a ŋ a i
+151	bali	1	9.8416	3.9931	b a l i  |  b a l i ʔ
+151	baligtad	1	9.8416	3.9931	b a l i ɡ t a d
+151	balikan	1	9.8416	3.9931	b a l i k a n
+151	baluktot	1	9.8416	3.9931	b a l u k t o t
+151	bandila	1	9.8416	3.9931	b a n d i l a ʔ
+151	bangag	1	9.8416	3.9931	b a ŋ a ɡ
+151	bangga	1	9.8416	3.9931	b a ŋ ɡ a ʔ
+151	bangis	1	9.8416	3.9931	b a ŋ i s
+151	bansot	1	9.8416	3.9931	b a n s o t
+151	banta	1	9.8416	3.9931	b a n t a ʔ
+151	baog	1	9.8416	3.9931	b a ʔ o ɡ
+151	bartolome	1	9.8416	3.9931	b a ɾ t o l o m e
+151	basa	1	9.8416	3.9931	b a s a  |  b a s a ʔ
+151	basahin	1	9.8416	3.9931	b a s a h i n
+151	bathala	1	9.8416	3.9931	b a t h a l a ʔ
+151	bati	1	9.8416	3.9931	b a t i  |  b a t i ʔ
+151	batid	1	9.8416	3.9931	b a t i d
+151	batugan	1	9.8416	3.9931	b a t u ɡ a n
+151	bawas	1	9.8416	3.9931	b a w a s
+151	bayaw	1	9.8416	3.9931	b a j a u
+151	bayoneta	1	9.8416	3.9931	b a j o n e t a
+151	bentilador	1	9.8416	3.9931	b e n t i l a d o ɾ
+151	betsin	1	9.8416	3.9931	b e t͡ʃ i n
+151	bewang	1	9.8416	3.9931	b e w a ŋ
+151	bibliya	1	9.8416	3.9931	b i b l i a
+151	bigkas	1	9.8416	3.9931	b i ɡ k a s
+151	bihira	1	9.8416	3.9931	b i h i ɾ a ʔ
+151	bihis	1	9.8416	3.9931	b i h i s
+151	biktima	1	9.8416	3.9931	b i k t i m a
+151	bilog	1	9.8416	3.9931	b i l o ɡ
+151	binabasa	1	9.8416	3.9931	b i n a b a s a
+151	binago	1	9.8416	3.9931	b i n a ɡ o
+151	binibini	1	9.8416	3.9931	b i n i b i n i
+151	bintang	1	9.8416	3.9931	b i n t a ŋ
+151	bisikleta	1	9.8416	3.9931	b i s i k l e t a
+151	bisperas	1	9.8416	3.9931	b i s p e ɾ a s
+151	bitin	1	9.8416	3.9931	b i t i n
+151	bodega	1	9.8416	3.9931	b o d e ɡ a
+151	bombilya	1	9.8416	3.9931	b o m b i l j a
+151	bongga	1	9.8416	3.9931	b o ŋ ɡ a
+151	braso	1	9.8416	3.9931	b ɾ a s o
+151	bruha	1	9.8416	3.9931	b ɾ u h a
+151	bubuyog	1	9.8416	3.9931	b u b u j o ɡ
+151	bubwit	1	9.8416	3.9931	b u b w i t
+151	bugtong	1	9.8416	3.9931	b u ɡ t o ŋ
+151	bukal	1	9.8416	3.9931	b u k a l
+151	bulakbol	1	9.8416	3.9931	b u l a k b o l
+151	bulalakaw	1	9.8416	3.9931	b u l a l a k a u
+151	bulate	1	9.8416	3.9931	b u l a t e
+151	bulati	1	9.8416	3.9931	b u l a t e  |  b u l a t i
+151	bulok	1	9.8416	3.9931	b u l o k
+151	bulong	1	9.8416	3.9931	b u l o ŋ
+151	bulubundukin	1	9.8416	3.9931	b u l u b u n d u k i n
+151	bumoto	1	9.8416	3.9931	b u m o t o
+151	bungal	1	9.8416	3.9931	b u ŋ a l
+151	bunot	1	9.8416	3.9931	b u n o t
+151	buntot	1	9.8416	3.9931	b u n t o t
+151	busog	1	9.8416	3.9931	b u s o ɡ
+151	butiki	1	9.8416	3.9931	b u t i k i ʔ
+151	buwaya	1	9.8416	3.9931	b u a j a
+151	ching	1	9.8416	3.9931	t͡ʃ i ŋ
+151	dagdag	1	9.8416	3.9931	d a ɡ d a ɡ
+151	dahas	1	9.8416	3.9931	d a h a s
+151	dakota	1	9.8416	3.9931	d a k o t a
+151	dalawampu	1	9.8416	3.9931	d a l a w a m p u ʔ
+151	daldal	1	9.8416	3.9931	d a l d a l
+151	daliri	1	9.8416	3.9931	d a l i ɾ i ʔ
+151	dama	1	9.8416	3.9931	d a m a
+151	damay	1	9.8416	3.9931	d a m a i
+151	dangal	1	9.8416	3.9931	d a ŋ a l
+151	dayap	1	9.8416	3.9931	d a j a p
+151	dayo	1	9.8416	3.9931	d a j o
+151	demonstrasyon	1	9.8416	3.9931	d e m o n s t ɾ a s j o n
+151	dignidad	1	9.8416	3.9931	d i ɡ n i d a d
+151	dila	1	9.8416	3.9931	d i l a ʔ
+151	dili	1	9.8416	3.9931	d i l i  |  d i l i ʔ
+151	dilim	1	9.8416	3.9931	d i l i m
+151	dipa	1	9.8416	3.9931	d i p a
+151	diperensiya	1	9.8416	3.9931	d i p e ɾ e n s i a
+151	diplomatiko	1	9.8416	3.9931	d i p l o m a t i k o
+151	direktoryo	1	9.8416	3.9931	d i ɾ e k t o ɾ j o
+151	diwa	1	9.8416	3.9931	d i w a  |  d i w a ʔ
+151	diyeta	1	9.8416	3.9931	d i e t a
+151	dokumentaryo	1	9.8416	3.9931	d o k u m e n t a ɾ j o
+151	dokumento	1	9.8416	3.9931	d o k u m e n t o
+151	dosena	1	9.8416	3.9931	d o s e n a
+151	duda	1	9.8416	3.9931	d u d a
+151	duguan	1	9.8416	3.9931	d u ɡ u ʔ a n
+151	dumal	1	9.8416	3.9931	d u m a l
+151	dumapa	1	9.8416	3.9931	d u m a p a ʔ
+151	dumi	1	9.8416	3.9931	d u m i
+151	dumungaw	1	9.8416	3.9931	d u m u ŋ a u
+151	edukado	1	9.8416	3.9931	ʔ e d u k a d o
+151	ehipto	1	9.8416	3.9931	ʔ e h i p t o
+151	ekis	1	9.8416	3.9931	ʔ e k i s
+151	eksakto	1	9.8416	3.9931	ʔ e k s a k t o
+151	eksperto	1	9.8416	3.9931	ʔ e k s p e ɾ t o
+151	eleksiyon	1	9.8416	3.9931	ʔ e l e k s i o n
+151	emosyon	1	9.8416	3.9931	ʔ e m o s j o n
+151	emosyonal	1	9.8416	3.9931	ʔ e m o s j o n a l
+151	emperador	1	9.8416	3.9931	ʔ e m p e ɾ a d o ɾ
+151	empleyado	1	9.8416	3.9931	ʔ e m p l e j a d o
+151	ensayo	1	9.8416	3.9931	ʔ e n s a j o
+151	epal	1	9.8416	3.9931	ʔ e p a l
+151	ere	1	9.8416	3.9931	ʔ e ɾ e
+151	eskuwela	1	9.8416	3.9931	ʔ e s k u e l a
+151	este	1	9.8416	3.9931	ʔ e s t e
+151	estilo	1	9.8416	3.9931	ʔ e s t i l o
+151	gagapang	1	9.8416	3.9931	ɡ a ɡ a p a ŋ
+151	galang	1	9.8416	3.9931	ɡ a l a ŋ
+151	galos	1	9.8416	3.9931	ɡ a l o s
+151	gamutin	1	9.8416	3.9931	ɡ a m u t i n
+151	gantimpala	1	9.8416	3.9931	ɡ a n t i m p a l a ʔ
+151	gasolinahan	1	9.8416	3.9931	ɡ a s o l i n a h a n
+151	gawan	1	9.8416	3.9931	ɡ a w a n
+151	gawi	1	9.8416	3.9931	ɡ a w i  |  ɡ a w i ʔ
+151	gets	1	9.8416	3.9931	ɡ e t s
+151	gilas	1	9.8416	3.9931	ɡ i l a s
+151	ginoo	1	9.8416	3.9931	ɡ i n o ʔ o
+151	gitling	1	9.8416	3.9931	ɡ i t l i ŋ
+151	gugol	1	9.8416	3.9931	ɡ u ɡ o l
+151	gulod	1	9.8416	3.9931	ɡ u l o d
+151	guluhin	1	9.8416	3.9931	ɡ u l u h i n
+151	gumanap	1	9.8416	3.9931	ɡ u m a n a p
+151	gumuho	1	9.8416	3.9931	ɡ u m u h o ʔ
+151	habilin	1	9.8416	3.9931	h a b i l i n
+151	habla	1	9.8416	3.9931	h a b l a
+151	hagdan	1	9.8416	3.9931	h a ɡ d a n
+151	hain	1	9.8416	3.9931	h a ʔ i n
+151	halina	1	9.8416	3.9931	h a l i n a
+151	hanep	1	9.8416	3.9931	h a n e p
+151	hanga	1	9.8416	3.9931	h a ŋ a  |  h a ŋ a ʔ
+151	hangad	1	9.8416	3.9931	h a ŋ a d
+151	harang	1	9.8416	3.9931	h a ɾ a ŋ
+151	hardinero	1	9.8416	3.9931	h a ɾ d i n e ɾ o
+151	hatinggabi	1	9.8416	3.9931	h a t i ŋ ɡ a b i
+151	hepe	1	9.8416	3.9931	h e p e
+151	hesukristo	1	9.8416	3.9931	h e s u k ɾ i s t o
+151	hibang	1	9.8416	3.9931	h i b a ŋ
+151	higante	1	9.8416	3.9931	h i ɡ a n t e
+151	higanti	1	9.8416	3.9931	h i ɡ a n t i
+151	hikbi	1	9.8416	3.9931	h i k b i  |  h i k b i ʔ
+151	hilik	1	9.8416	3.9931	h i l i k
+151	hiling	1	9.8416	3.9931	h i l i ŋ
+151	himpilan	1	9.8416	3.9931	h i m p i l a n
+151	hinay	1	9.8416	3.9931	h i n a i
+151	hinga	1	9.8416	3.9931	h i ŋ a
+151	hingi	1	9.8416	3.9931	h i ŋ i ʔ
+151	hipan	1	9.8416	3.9931	h i p a n
+151	hipon	1	9.8416	3.9931	h i p o n
+151	hirang	1	9.8416	3.9931	h i ɾ a ŋ
+151	hunyo	1	9.8416	3.9931	h u n j o
+151	hustisya	1	9.8416	3.9931	h u s t i s j a
+151	ibagsak	1	9.8416	3.9931	ʔ i b a ɡ s a k
+151	ichiro	1	9.8416	3.9931	ʔ i t͡ʃ i ɾ o
+151	iha	1	9.8416	3.9931	ʔ i h a
+151	ihi	1	9.8416	3.9931	ʔ i h i ʔ
+151	iilan	1	9.8416	3.9931	ʔ i ʔ i l a n
+151	ikabit	1	9.8416	3.9931	ʔ i k a b i t
+151	ikalawa	1	9.8416	3.9931	ʔ i k a l a w a
+151	imahinasyon	1	9.8416	3.9931	ʔ i m a h i n a s j o n
+151	imbestigasyon	1	9.8416	3.9931	ʔ i m b e s t i ɡ a s j o n
+151	imburnal	1	9.8416	3.9931	ʔ i m b u ɾ n a l
+151	impormante	1	9.8416	3.9931	ʔ i m p o ɾ m a n t e
+151	inhinyero	1	9.8416	3.9931	ʔ i n h i n j e ɾ o
+151	inis	1	9.8416	3.9931	ʔ i n i s
+151	initan	1	9.8416	3.9931	ʔ i n i t a n
+151	inom	1	9.8416	3.9931	ʔ i n o m
+151	insekto	1	9.8416	3.9931	ʔ i n s e k t o
+151	insenso	1	9.8416	3.9931	ʔ i n s e n s o
+151	instrumento	1	9.8416	3.9931	ʔ i n s t ɾ u m e n t o
+151	interesado	1	9.8416	3.9931	ʔ i n t e ɾ e s a d o
+151	interogasyon	1	9.8416	3.9931	ʔ i n t e ɾ o ɡ a s j o n
+151	intriga	1	9.8416	3.9931	ʔ i n t ɾ i ɡ a
+151	inuman	1	9.8416	3.9931	ʔ i n u m a n
+151	ipaintindi	1	9.8416	3.9931	ʔ i p a ʔ i n t i n d i
+151	ipangako	1	9.8416	3.9931	ʔ i p a ŋ a k o ʔ
+151	ipatong	1	9.8416	3.9931	ʔ i p a t o ŋ
+151	ipunin	1	9.8416	3.9931	ʔ i p u n i n
+151	isama	1	9.8416	3.9931	ʔ i s a m a  |  ʔ i s a m a ʔ
+151	isauli	1	9.8416	3.9931	ʔ i s a ʔ u l i ʔ  |  ʔ i s o l i ʔ
+151	istorbo	1	9.8416	3.9931	ʔ i s t o ɾ b o
+151	isumbong	1	9.8416	3.9931	ʔ i s u m b o ŋ
+151	italya	1	9.8416	3.9931	ʔ i t a l j a
+151	iyakin	1	9.8416	3.9931	ʔ i a k i n
+151	kababaan	1	9.8416	3.9931	k a b a b a ʔ a n
+151	kabayanihan	1	9.8416	3.9931	k a b a j a n i h a n
+151	kabit	1	9.8416	3.9931	k a b i t
+151	kain	1	9.8416	3.9931	k a ʔ i n
+151	kainan	1	9.8416	3.9931	k a ʔ i n a n
+151	kakanin	1	9.8416	3.9931	k a k a n i n
+151	kalagitnaan	1	9.8416	3.9931	k a l a ɡ i t n a ʔ a n
+151	kalaguyo	1	9.8416	3.9931	k a l a ɡ u j o ʔ
+151	kalaliman	1	9.8416	3.9931	k a l a l i m a n
+151	kalapati	1	9.8416	3.9931	k a l a p a t i
+151	kalbaryo	1	9.8416	3.9931	k a l b a ɾ j o
+151	kalusugan	1	9.8416	3.9931	k a l u s u ɡ a n
+151	kampana	1	9.8416	3.9931	k a m p a n a ʔ
+151	kampeon	1	9.8416	3.9931	k a m p e o n
+151	kampyon	1	9.8416	3.9931	k a m p j o n
+151	kantahin	1	9.8416	3.9931	k a n t a h i n
+151	karpintero	1	9.8416	3.9931	k a ɾ p i n t e ɾ o
+151	kasambahay	1	9.8416	3.9931	k a s a m b a h a i
+151	kasiguraduhan	1	9.8416	3.9931	k a s i ɡ u ɾ a d u h a n
+151	katangahan	1	9.8416	3.9931	k a t a ŋ a h a n
+151	katedral	1	9.8416	3.9931	k a t e d ɾ a l
+151	katuwang	1	9.8416	3.9931	k a t u a ŋ
+151	keso	1	9.8416	3.9931	k e s o
+151	kilay	1	9.8416	3.9931	k i l a i
+151	kinatawan	1	9.8416	3.9931	k i n a t a w a n
+151	king	1	9.8416	3.9931	k i ŋ
+151	komedyante	1	9.8416	3.9931	k o m e d j a n t e
+151	koneksiyon	1	9.8416	3.9931	k o n e k s i o n
+151	konseho	1	9.8416	3.9931	k o n s e h o
+151	konsensya	1	9.8416	3.9931	k o n s e n s j a
+151	kristo	1	9.8416	3.9931	k ɾ i s t o
+151	labahin	1	9.8416	3.9931	l a b a h i n
+151	lagas	1	9.8416	3.9931	l a ɡ a s
+151	lagayan	1	9.8416	3.9931	l a ɡ a j a n
+151	lagnat	1	9.8416	3.9931	l a ɡ n a t
+151	lagok	1	9.8416	3.9931	l a ɡ o k
+151	lalawigan	1	9.8416	3.9931	l a l a w i ɡ a n
+151	lampa	1	9.8416	3.9931	l a m p a
+151	lampas	1	9.8416	3.9931	l a m p a s
+151	langaw	1	9.8416	3.9931	l a ŋ a u
+151	lansangan	1	9.8416	3.9931	l a n s a ŋ a n
+151	laos	1	9.8416	3.9931	l a ʔ o s
+151	lapastangan	1	9.8416	3.9931	l a p a s t a ŋ a n
+151	laruan	1	9.8416	3.9931	l a ɾ u ʔ a n
+151	lasenggo	1	9.8416	3.9931	l a s e ŋ ɡ o
+151	laslas	1	9.8416	3.9931	l a s l a s
+151	laso	1	9.8416	3.9931	l a s o  |  l a s o ʔ
+151	lelang	1	9.8416	3.9931	l e l a ŋ
+151	letra	1	9.8416	3.9931	l e t ɾ a
+151	ligaya	1	9.8416	3.9931	l i ɡ a j a
+151	ligta	1	9.8416	3.9931	l i ɡ t a ʔ
+151	liksi	1	9.8416	3.9931	l i k s i ʔ
+151	likuran	1	9.8416	3.9931	l i k u ɾ a n
+151	lindol	1	9.8416	3.9931	l i n d o l
+151	lingkod	1	9.8416	3.9931	l i ŋ k o d
+151	lingo	1	9.8416	3.9931	l i ŋ o
+151	literatura	1	9.8416	3.9931	l i t e ɾ a t u ɾ a
+151	lo	1	9.8416	3.9931	l o
+151	logo	1	9.8416	3.9931	l o ɡ o
+151	loko	1	9.8416	3.9931	l o k o
+151	lugaw	1	9.8416	3.9931	l u ɡ a u
+151	lumabag	1	9.8416	3.9931	l u m a b a ɡ
+151	lumabo	1	9.8416	3.9931	l u m a b o  |  l u m a b o ʔ
+151	lumakas	1	9.8416	3.9931	l u m a k a s
+151	lupalop	1	9.8416	3.9931	l u p a l o p
+151	lusob	1	9.8416	3.9931	l u s o b
+151	lutas	1	9.8416	3.9931	l u t a s
+151	luto	1	9.8416	3.9931	l u t o  |  l u t o ʔ
+151	maarte	1	9.8416	3.9931	m a ʔ a ɾ t e
+151	mabagal	1	9.8416	3.9931	m a b a ɡ a l
+151	madamay	1	9.8416	3.9931	m a d a m a i
+151	maganap	1	9.8416	3.9931	m a ɡ a n a p
+151	magdamag	1	9.8416	3.9931	m a ɡ d a m a ɡ
+151	magdasal	1	9.8416	3.9931	m a ɡ d a s a l
+151	maghanda	1	9.8416	3.9931	m a ɡ h a n d a ʔ
+151	maghiganti	1	9.8416	3.9931	m a ɡ h i ɡ a n t i
+151	maghirap	1	9.8416	3.9931	m a ɡ h i ɾ a p
+151	maghubad	1	9.8416	3.9931	m a ɡ h u b a d
+151	magigi	1	9.8416	3.9931	m a ɡ i ɡ i ʔ
+151	maglingkod	1	9.8416	3.9931	m a ɡ l i ŋ k o d
+151	magmahal	1	9.8416	3.9931	m a ɡ m a h a l
+151	magmaneho	1	9.8416	3.9931	m a ɡ m a n e h o
+151	magsinungaling	1	9.8416	3.9931	m a ɡ s i n u ŋ a l i ŋ
+151	mahalay	1	9.8416	3.9931	m a h a l a i
+151	mahiyain	1	9.8416	3.9931	m a h i j a ʔ i n
+151	makatotohanan	1	9.8416	3.9931	m a k a t o t o h a n a n
+151	makibahagi	1	9.8416	3.9931	m a k i b a h a ɡ i ʔ
+151	makulog	1	9.8416	3.9931	m a k u l o ɡ
+151	malas	1	9.8416	3.9931	m a l a s
+151	maligaw	1	9.8416	3.9931	m a l i ɡ a u
+151	mambabatas	1	9.8416	3.9931	m a m b a b a t a s
+151	manakit	1	9.8416	3.9931	m a n a k i t
+151	manamit	1	9.8416	3.9931	m a n a m i t
+151	mangailangan	1	9.8416	3.9931	m a ŋ a ʔ i l a ŋ a n
+151	manigarilyo	1	9.8416	3.9931	m a n i ɡ a ɾ i l j o
+151	manlalakbay	1	9.8416	3.9931	m a n l a l a k b a i
+151	mantika	1	9.8416	3.9931	m a n t i k a ʔ
+151	manyak	1	9.8416	3.9931	m a n j a k
+151	mapalad	1	9.8416	3.9931	m a p a l a d
+151	mapatay	1	9.8416	3.9931	m a p a t a j
+151	masaktan	1	9.8416	3.9931	m a s a k t a n
+151	masamain	1	9.8416	3.9931	m a s a m a i n
+151	maski	1	9.8416	3.9931	m a s k i
+151	maunahan	1	9.8416	3.9931	m a u n a h a n
+151	mayo	1	9.8416	3.9931	m a j o
+151	milagro	1	9.8416	3.9931	m i l a ɡ ɾ o
+151	miranda	1	9.8416	3.9931	m i ɾ a n d a
+151	miyembro	1	9.8416	3.9931	m i e m b ɾ o
+151	monica	1	9.8416	3.9931	m o n i k a
+151	musta	1	9.8416	3.9931	m u s t a
+151	na'ng	1	9.8416	3.9931	n ɐ ŋ
+151	nakawin	1	9.8416	3.9931	n a k a w i n
+151	nancy	1	9.8416	3.9931	n a n s i
+151	ngalan	1	9.8416	3.9931	ŋ a l a n
+151	nganga	1	9.8416	3.9931	ŋ a ŋ a  |  ŋ a ŋ a ʔ
+151	niyog	1	9.8416	3.9931	n i o ɡ
+151	opera	1	9.8416	3.9931	ʔ o p e ɾ a
+151	pagbabalik	1	9.8416	3.9931	p a ɡ b a b a l i k
+151	pagbabasa	1	9.8416	3.9931	p a ɡ b a b a s a  |  p a ɡ b a b a s a ʔ
+151	pagka	1	9.8416	3.9931	p a ɡ k a
+151	pagsuway	1	9.8416	3.9931	p a ɡ s u a i
+151	pagtae	1	9.8416	3.9931	p a ɡ t a ʔ e
+151	pagtawanan	1	9.8416	3.9931	p a ɡ t a w a n a n
+151	pahayagan	1	9.8416	3.9931	p aː h a i a ɡ a n
+151	pahinga	1	9.8416	3.9931	p a h i ŋ a
+151	pain	1	9.8416	3.9931	p a ʔ i n
+151	pakulo	1	9.8416	3.9931	p a k u l o ʔ
+151	palakol	1	9.8416	3.9931	p a l a k o l
+151	palikuran	1	9.8416	3.9931	p a l i k u ɾ a n
+151	palit	1	9.8416	3.9931	p a l i t
+151	paliwanag	1	9.8416	3.9931	p a l i w a n a ɡ
+151	pangangasiwa	1	9.8416	3.9931	p a ŋ a ŋ a s i w a ʔ
+151	paninigarilyo	1	9.8416	3.9931	p a n i n i ɡ a ɾ i l j o
+151	pansamantala	1	9.8416	3.9931	p a n s a m a n t a l a
+151	pansin	1	9.8416	3.9931	p a n s i n
+151	pasabugin	1	9.8416	3.9931	p a s a b u ɡ i n
+151	pastol	1	9.8416	3.9931	p a s t o l
+151	pasukan	1	9.8416	3.9931	p a s u k a n
+151	pasukin	1	9.8416	3.9931	p a s u k i n
+151	patakbuhin	1	9.8416	3.9931	p a t a k b u h i n
+151	patawanin	1	9.8416	3.9931	p a t a w a n i n
+151	pato	1	9.8416	3.9931	p aː t ɔ
+151	pedal	1	9.8416	3.9931	p e d a l
+151	peke	1	9.8416	3.9931	p e k e ʔ
+151	pilipinas	1	9.8416	3.9931	p i l i p i n a s
+151	pilosopiya	1	9.8416	3.9931	p i l o s o p i a
+151	pilyo	1	9.8416	3.9931	p i l j o
+151	pipi	1	9.8416	3.9931	p i p i  |  p i p i ʔ
+151	pirmahan	1	9.8416	3.9931	p i ɾ m a h a n
+151	pisngi	1	9.8416	3.9931	p i s ŋ i
+151	pito	1	9.8416	3.9931	p i t ɔ
+151	pokpok	1	9.8416	3.9931	p ɔ k p ɔ k
+151	politiko	1	9.8416	3.9931	p o l i t i k o
+151	post	1	9.8416	3.9931	p o u s t
+151	poster	1	9.8416	3.9931	p o s t e ɾ
+151	promdi	1	9.8416	3.9931	p r a m d i  |  p r o m d i
+151	propesyon	1	9.8416	3.9931	p ɾ o p e s j o n
+151	pumalakpak	1	9.8416	3.9931	p u m a l a k p a k
+151	pumila	1	9.8416	3.9931	p u m i l a
+151	pumula	1	9.8416	3.9931	p u m u l a
+151	pumutok	1	9.8416	3.9931	p u m u t o k
+151	pundasyon	1	9.8416	3.9931	p u n d a s j o n
+151	punongkahoy	1	9.8416	3.9931	p u n o ŋ k a h o i
+151	puntirya	1	9.8416	3.9931	p u n t i ɾ j a
+151	putik	1	9.8416	3.9931	p u t i k
+151	puyat	1	9.8416	3.9931	p u j a t
+151	rebelde	1	9.8416	3.9931	ɾ e b e l d e
+151	relihiyon	1	9.8416	3.9931	ɾ e l i h i o n
+151	resistensya	1	9.8416	3.9931	ɾ e s i s t e n s j a
+151	responsable	1	9.8416	3.9931	ɾ e s p o n s a b l e
+151	reyna	1	9.8416	3.9931	ɾ e i n a
+151	rusya	1	9.8416	3.9931	ɾ u s j a
+151	saging	1	9.8416	3.9931	s a ɡ i ŋ
+151	salawal	1	9.8416	3.9931	s a l a w a l
+151	salinlahi	1	9.8416	3.9931	s a l i n l a h i ʔ
+151	sara	1	9.8416	3.9931	s ɐ ɾ a
+151	sawa	1	9.8416	3.9931	s a w a  |  s a w a ʔ
+151	saway	1	9.8416	3.9931	s a w a i
+151	sekreto	1	9.8416	3.9931	s e k ɾ e t o
+151	seminar	1	9.8416	3.9931	s e m i n a ɾ
+151	seremonya	1	9.8416	3.9931	s e ɾ e m o n j a
+151	shabu	1	9.8416	3.9931	s j a b u
+151	sibuyas	1	9.8416	3.9931	s i b u j a s
+151	sindikato	1	9.8416	3.9931	s ɪ n d ɪ k a t o
+151	sine	1	9.8416	3.9931	s i n e
+151	siyesta	1	9.8416	3.9931	s i e s t a
+151	siyete	1	9.8416	3.9931	s i e t e
+151	sosyal	1	9.8416	3.9931	s o s j a l
+151	sumuka	1	9.8416	3.9931	s u m u k a
+151	suweldo	1	9.8416	3.9931	s w e l d o
+151	tagalog	1	9.8416	3.9931	t ɐ ɡ aː l o ɡ
+151	tagapagmana	1	9.8416	3.9931	t a ɡ a p a ɡ m a n a
+151	talag	1	9.8416	3.9931	t a l a ɡ
+151	talon	1	9.8416	3.9931	t a l o n
+151	talulot	1	9.8416	3.9931	t a l u l o t
+151	tanghali	1	9.8416	3.9931	t a ŋ h a l i ʔ
+151	tanghalian	1	9.8416	3.9931	t a ŋ h a l i ʔ a n
+151	tigas	1	9.8416	3.9931	t i ɡ a s
+151	tiktik	1	9.8416	3.9931	t i k t i k
+151	tindero	1	9.8416	3.9931	t i n d e ɾ o
+151	tipon	1	9.8416	3.9931	t i p o n
+151	tira	1	9.8416	3.9931	t i ɾ a  |  t i ɾ a ʔ
+151	tito	1	9.8416	3.9931	t i t o  |  t i t o ʔ
+151	tiwali	1	9.8416	3.9931	t i w a l i ʔ
+151	trahedya	1	9.8416	3.9931	t ɾ a h e d j a
+151	traydor	1	9.8416	3.9931	t ɾ a i d o ɾ
+151	tseke	1	9.8416	3.9931	t͡ʃ e k e
+151	tsonggo	1	9.8416	3.9931	t͡ʃ o ŋ ɡ o
+151	tubero	1	9.8416	3.9931	t u b e ɾ o
+151	tubo	1	9.8416	3.9931	t u b o  |  t u b o ʔ
+151	tugtugin	1	9.8416	3.9931	t u ɡ t u ɡ i n
+151	tukso	1	9.8416	3.9931	t u k s o
+151	tumaba	1	9.8416	3.9931	t u m a b a ʔ
+151	tumanggi	1	9.8416	3.9931	t u m a ŋ ɡ i
+151	turnilyo	1	9.8416	3.9931	t u ɾ n i l j o
+151	ubo	1	9.8416	3.9931	ʔ u b o  |  ʔ u b o ʔ
+151	uhaw	1	9.8416	3.9931	ʔ u h a u
+151	umawit	1	9.8416	3.9931	ʔ u m a w i t
+151	umiwas	1	9.8416	3.9931	ʔ u m i w a s
+151	un	1	9.8416	3.9931	j u n
+151	uso	1	9.8416	3.9931	ʔ u s o
+151	utong	1	9.8416	3.9931	ʔ u t o ŋ
+151	uwi	1	9.8416	3.9931	ʔ u w i ʔ
+151	waley	1	9.8416	3.9931	w a l e ɪ
+151	wari	1	9.8416	3.9931	w a ɾ i  |  w a ɾ i ʔ
+151	young	1	9.8416	3.9931	j ɐ ŋ
+151	yumi	1	9.8416	3.9931	j u m i ʔ

@@ -1,0 +1,1453 @@
+Rank	Word	Frequency	Frequency per million	Zipf value	IPA
+1	mi	17500	39501.5135	7.5966	m i
+2	estas	12039	27174.784	7.4342	e s t a s
+3	ĉu	6498	14667.4763	7.1664	t͡ʃ u
+4	ni	5920	13362.7977	7.1259	n i
+5	ĉi	3288	7421.7701	6.8705	t ʃ i
+6	volas	1548	3494.191	6.5433	v o l a s
+7	bone	1462	3300.0693	6.5185	b o n e
+8	lin	1084	2446.8366	6.3886	l i n
+9	sur	853	1925.4166	6.2845	s u r
+10	da	831	1875.7576	6.2732	d a
+11	nu	818	1846.4136	6.2663	n u
+12	ilin	743	1677.1214	6.2246	i l i n
+13	estos	739	1668.0925	6.2222	e s t o s
+14	du	509	1148.9297	6.0603	d u
+15	fari	501	1130.8719	6.0534	f a r i
+16	ol	483	1090.2418	6.0375	o l
+17	bona	465	1049.6116	6.021	b o n a
+18	patro	432	975.1231	5.9891	p a t r o
+19	ŝin	361	814.8598	5.9111	ʃ i n
+20	vidas	360	812.6026	5.9099	v i d a s
+21	ci	344	776.4869	5.8901	t͡s i
+22	pensas	343	774.2297	5.8889	p e n s a s
+23	iom	318	717.7989	5.856	i o m
+24	mondo	299	674.9116	5.8292	m o n d o
+25	ha	295	665.8827	5.8234	h a
+26	ĉiu	278	627.5098	5.7976	t ʃ i u
+27	iras	275	620.7381	5.7929	i r a s
+28	kien	269	607.1947	5.7833	k i e n
+29	rapide	268	604.9375	5.7817	r a p i d e
+30	ŝatas	260	586.8796	5.7685	ʃ a t a s
+31	kontraŭ	248	559.7929	5.748	k o n t r a w
+32	volis	241	543.9923	5.7356	v o l i s
+33	bela	237	534.9634	5.7283	b e l a
+34	ĝuste	224	505.6194	5.7038	d ʒ u s t e
+35	unua	222	501.1049	5.6999	u n u a
+36	iros	208	469.5037	5.6716	i r o s
+37	venos	180	406.3013	5.6088	v e n o s
+38	morto	177	399.5296	5.6015	m o r t o
+39	simple	174	392.7579	5.5941	s i m p l e
+40	longe	173	390.5007	5.5916	l o n ɡ e
+41	pensis	169	381.4718	5.5815	p e n s i s
+42	kompreneble	167	376.9573	5.5763	k o m p r e n e b l e
+43	kvazaŭ	148	334.0699	5.5238	k v a z a w
+44	zorgu	144	325.041	5.5119	z o r ɡ u
+45	memoras	141	318.2693	5.5028	m e m o r a s
+46	nova	140	316.0121	5.4997	n o v a
+47	lian	128	288.9254	5.4608	l i a n
+48	akvo	126	284.4109	5.4539	a k v o
+49	malbona	118	266.3531	5.4255	m a l b o n a
+50	malbone	114	257.3241	5.4105	m a l b o n e
+51	koro	112	252.8097	5.4028	k o r o
+52	dek	111	250.5525	5.3989	d e k
+53	grava	106	239.2663	5.3789	ɡ r a v a
+54	decidis	103	232.4946	5.3664	d e t͡s i d i s
+55	apud	101	227.9802	5.3579	a p u d
+55	l'	101	227.9802	5.3579	l
+55	liaj	101	227.9802	5.3579	l i a j
+56	laboras	98	221.2085	5.3448	l a b o r a s
+57	havi	95	214.4368	5.3313	h a v i
+58	fakte	93	209.9223	5.3221	f a k t e
+58	hejme	93	209.9223	5.3221	h e j m e
+58	kvar	93	209.9223	5.3221	k v a r
+59	facile	89	200.8934	5.303	f a t s i l e
+60	nokto	88	198.6362	5.2981	n o k t o
+61	neniun	87	196.379	5.2931	n e n i u n
+61	rigardi	87	196.379	5.2931	r i ɡ a r d i
+62	nederlanda	85	191.8645	5.283	n e d e r l a n d a
+62	problemo	85	191.8645	5.283	p r o b l e m o
+63	planedo	84	189.6073	5.2779	p l a n e d o
+64	ŝatus	83	187.35	5.2727	ʃ a t u s
+65	esperas	82	185.0928	5.2674	e s p e r a s
+65	prenos	82	185.0928	5.2674	p r e n o s
+66	volus	79	178.3211	5.2512	v o l u s
+67	momento	78	176.0639	5.2457	m o m e n t o
+68	ludi	75	169.2922	5.2286	l u d i
+69	korpo	73	164.7777	5.2169	k o r p o
+70	pastro	71	160.2633	5.2048	p a s t r o
+71	feliĉa	70	158.0061	5.1987	f e l i t͡ʃ a
+71	prefere	70	158.0061	5.1987	p r e f e r e
+72	celas	69	155.7488	5.1924	t s e l a s
+73	helpos	68	153.4916	5.1861	h e l p o s
+73	skribis	68	153.4916	5.1861	s k r i b i s
+74	malaperis	66	148.9771	5.1731	m a l a p e r i s
+75	dormas	65	146.7199	5.1665	d o r m a s
+76	dormi	64	144.4627	5.1598	d o r m i
+76	kies	64	144.4627	5.1598	k i e s
+77	arbo	62	139.9482	5.146	a r b o
+77	ekzemple	62	139.9482	5.146	e k z e m p l e
+77	timo	62	139.9482	5.146	t i m o
+78	lasi	61	137.691	5.1389	l a s i
+79	longa	60	135.4338	5.1317	l o n ɡ a
+79	staras	60	135.4338	5.1317	s t a r a s
+79	zorgas	60	135.4338	5.1317	z o r ɡ a s
+80	ludas	56	126.4048	5.1018	l u d a s
+81	skribi	55	124.1476	5.0939	s k r i b i
+81	ĉambro	55	124.1476	5.0939	t͡ʃ a m b r o
+82	atingis	53	119.6332	5.0779	a t i n ɡ i s
+82	serĉi	53	119.6332	5.0779	s e r t͡ʃ i
+83	bebo	52	117.3759	5.0696	b e b o
+83	festo	52	117.3759	5.0696	f e s t o
+83	filon	52	117.3759	5.0696	f i l o n
+83	malgranda	52	117.3759	5.0696	m a l ɡ r a n d a
+84	esperanto	51	115.1187	5.0611	e s p e r a n t o
+84	kristo	51	115.1187	5.0611	k r i s t o
+85	freneza	50	112.8615	5.0525	f r e n e z a
+85	instruisto	50	112.8615	5.0525	i n s t r u i s t o
+85	nomas	50	112.8615	5.0525	n o m a s
+86	ĉiutage	48	108.347	5.0348	t͡ʃ i u t a ɡ e
+87	dubi	47	106.0898	5.0257	d u b i
+87	plena	47	106.0898	5.0257	p l e n a
+88	aĉetis	46	103.8325	5.0163	a t ʃ e t i s
+88	bedaŭrinde	46	103.8325	5.0163	b e d a w r i n d e
+88	forte	46	103.8325	5.0163	f o r t e
+88	instruis	46	103.8325	5.0163	i n s t r u i s
+88	ĝenas	46	103.8325	5.0163	d ʒ e n a s
+88	ŝatis	46	103.8325	5.0163	ʃ a t i s
+89	birdo	45	101.5753	5.0068	b i r d o
+89	mallumo	45	101.5753	5.0068	m a l l u m o
+90	helpas	44	99.3181	4.997	h e l p a s
+90	perfekta	44	99.3181	4.997	p e r f e k t a
+90	sep	44	99.3181	4.997	s e p
+91	ses	43	97.0609	4.987	s e s
+92	dorso	42	94.8036	4.9768	d o r s o
+92	imperiestro	42	94.8036	4.9768	i m p e r i e s t r o
+93	atenton	41	92.5464	4.9664	a t e n t o n
+93	forto	41	92.5464	4.9664	f o r t o
+93	monto	41	92.5464	4.9664	m o n t o
+93	nura	41	92.5464	4.9664	n u r a
+93	rizo	41	92.5464	4.9664	r i z o
+94	gesinjoroj	40	90.2892	4.9556	ɡ e s i n j o r o j
+94	kantas	40	90.2892	4.9556	k a n t a s
+94	pagos	40	90.2892	4.9556	p a ɡ o s
+95	nomis	39	88.0319	4.9446	n o m i s
+95	sekura	39	88.0319	4.9446	s e k u r a
+96	avo	38	85.7747	4.9334	a v o
+96	b	38	85.7747	4.9334	b  |  b o
+96	sal	38	85.7747	4.9334	s a l
+96	ĉarma	38	85.7747	4.9334	t͡ʃ a r m a
+97	danki	37	83.5175	4.9218	d a n k i
+97	iĝas	37	83.5175	4.9218	i d ʒ a s
+97	kelkfoje	37	83.5175	4.9218	k e l k f o j e
+97	klaso	37	83.5175	4.9218	k l a s o
+97	kulpo	37	83.5175	4.9218	k u l p o
+97	morta	37	83.5175	4.9218	m o r t a
+97	pafi	37	83.5175	4.9218	p a f i
+98	besto	36	81.2603	4.9099	b e s t o
+98	malfermi	36	81.2603	4.9099	m a l f e r m i
+98	ricevi	36	81.2603	4.9099	r i t͡s e v i
+98	serioze	36	81.2603	4.9099	s e r i o z e
+99	kuraĝa	35	79.003	4.8976	k u r a d͡ʒ a
+99	malbenita	35	79.003	4.8976	m a l b e n i t a
+99	mirinde	35	79.003	4.8976	m i r i n d e
+100	atingos	34	76.7458	4.8851	a t i n ɡ o s
+100	centro	34	76.7458	4.8851	t͡s e n t r o
+100	falas	34	76.7458	4.8851	f a l a s
+100	majstro	34	76.7458	4.8851	m a j s t r o
+100	muso	34	76.7458	4.8851	m u s o
+100	sklavoj	34	76.7458	4.8851	s k l a v o j
+101	aperis	33	74.4886	4.8721	a p e r i s
+101	aĉetos	33	74.4886	4.8721	a t ʃ e t o s
+101	cetere	33	74.4886	4.8721	t͡s e t e r e
+101	helpis	33	74.4886	4.8721	h e l p i s
+101	malrapide	33	74.4886	4.8721	m a l r a p i d e
+101	respondi	33	74.4886	4.8721	r e s p o n d i
+101	ĉefe	33	74.4886	4.8721	t͡ʃ e f e
+102	berlino	32	72.2313	4.8587	b e r l i n o
+102	neniel	32	72.2313	4.8587	n e n i e l
+102	ok	32	72.2313	4.8587	o k
+102	peza	32	72.2313	4.8587	p e z a
+102	skribas	32	72.2313	4.8587	s k r i b a s
+103	akcepti	31	69.9741	4.8449	a k t͡s e p t i
+103	rakonti	31	69.9741	4.8449	r a k o n t i
+104	ekster	30	67.7169	4.8307	e k s t e r
+104	facila	30	67.7169	4.8307	f a t͡s i l a
+104	liajn	30	67.7169	4.8307	l i a j n
+104	nelonge	30	67.7169	4.8307	n e l o n ɡ e
+104	respondo	30	67.7169	4.8307	r e s p o n d o
+105	formo	29	65.4597	4.816	f o r m o
+105	malfermita	29	65.4597	4.816	m a l f e r m i t a
+106	aperas	28	63.2024	4.8007	a p e r a s
+106	buŝon	28	63.2024	4.8007	b u ʃ o n
+106	fronto	28	63.2024	4.8007	f r o n t o
+106	normale	28	63.2024	4.8007	n o r m a l e
+106	provi	28	63.2024	4.8007	p r o v i
+106	sistemo	28	63.2024	4.8007	s i s t e m o
+107	agrable	27	60.9452	4.7849	a ɡ r a b l e
+107	atakis	27	60.9452	4.7849	a t a k i s
+107	aĝa	27	60.9452	4.7849	a d͡ʒ a
+107	hazarde	27	60.9452	4.7849	h a z a r d e
+107	kosmo	27	60.9452	4.7849	k o s m o
+107	murdo	27	60.9452	4.7849	m u r d o
+107	palaco	27	60.9452	4.7849	p a l a t͡s o
+108	aperos	26	58.688	4.7685	a p e r o s
+108	rakonto	26	58.688	4.7685	r a k o n t o
+108	vane	26	58.688	4.7685	v a n e
+109	afabla	25	56.4307	4.7515	a f a b l a
+109	eviti	25	56.4307	4.7515	e v i t i
+109	sendi	25	56.4307	4.7515	s e n d i
+109	servo	25	56.4307	4.7515	s e r v o
+109	v	25	56.4307	4.7515	v  |  v o
+110	e	24	54.1735	4.7338	e
+110	eterne	24	54.1735	4.7338	e t e r n e
+110	igas	24	54.1735	4.7338	i ɡ a s
+110	krei	24	54.1735	4.7338	k r e i
+110	leŭtenanto	24	54.1735	4.7338	l e w t e n a n t o
+110	malsanas	24	54.1735	4.7338	m a l s a n a s
+110	nokta	24	54.1735	4.7338	n o k t a
+111	grupo	23	51.9163	4.7153	ɡ r u p o
+111	instruas	23	51.9163	4.7153	i n s t r u a s
+111	laca	23	51.9163	4.7153	l a t͡s a
+111	legas	23	51.9163	4.7153	l e ɡ a s
+111	potenco	23	51.9163	4.7153	p o t e n t s o
+111	precipe	23	51.9163	4.7153	p r e t͡s i p e
+112	agrabla	22	49.659	4.696	a ɡ r a b l a
+112	akceptas	22	49.659	4.696	a k t s e p t a s
+112	akompanu	22	49.659	4.696	a k o m p a n u
+112	feliĉon	22	49.659	4.696	f e l i t ʃ o n
+112	i	22	49.659	4.696	i
+112	kaŝita	22	49.659	4.696	k a ʃ i t a
+112	komenciĝas	22	49.659	4.696	k o m e n t s i d ʒ a s
+112	kuraĝo	22	49.659	4.696	k u r a d ʒ o
+112	malbela	22	49.659	4.696	m a l b e l a
+112	neĝo	22	49.659	4.696	n e d ʒ o
+112	pagas	22	49.659	4.696	p a ɡ a s
+113	celon	21	47.4018	4.6758	t s e l o n
+113	fermita	21	47.4018	4.6758	f e r m i t a
+113	interalie	21	47.4018	4.6758	i n t e r a l i e
+113	konservi	21	47.4018	4.6758	k o n s e r v i
+113	malforta	21	47.4018	4.6758	m a l f o r t a
+113	miraklo	21	47.4018	4.6758	m i r a k l o
+113	naskiĝtago	21	47.4018	4.6758	n a s k i d͡ʒ t a ɡ o
+113	nazo	21	47.4018	4.6758	n a z o
+113	prezidento	21	47.4018	4.6758	p r e z i d e n t o
+113	projekto	21	47.4018	4.6758	p r o j e k t o
+113	respekto	21	47.4018	4.6758	r e s p e k t o
+113	ruĝan	21	47.4018	4.6758	r u d͡ʒ a n
+113	spaco	21	47.4018	4.6758	s p a t s o
+113	staru	21	47.4018	4.6758	s t a r u
+113	suda	21	47.4018	4.6758	s u d a
+113	ŝanco	21	47.4018	4.6758	ʃ a n t s o
+114	aldone	20	45.1446	4.6546	a l d o n e
+114	kutima	20	45.1446	4.6546	k u t i m a
+114	malaperos	20	45.1446	4.6546	m a l a p e r o s
+114	pentristo	20	45.1446	4.6546	p e n t r i s t o
+114	perforto	20	45.1446	4.6546	p e r f o r t o
+114	senĉese	20	45.1446	4.6546	s e n t ʃ e s e
+114	zorgos	20	45.1446	4.6546	z o r ɡ o s
+115	aliloke	19	42.8874	4.6323	a l i l o k e
+115	dekstra	19	42.8874	4.6323	d e k s t r a
+115	gasto	19	42.8874	4.6323	ɡ a s t o
+115	kaŭzo	19	42.8874	4.6323	k a w z o
+115	kuraĝon	19	42.8874	4.6323	k u r a d ʒ o n
+115	kutimo	19	42.8874	4.6323	k u t i m o
+115	simila	19	42.8874	4.6323	s i m i l a
+115	solvi	19	42.8874	4.6323	s o l v i
+115	supozeble	19	42.8874	4.6323	s u p o z e b l e
+116	antikva	18	40.6301	4.6088	a n t i k v a
+116	bildo	18	40.6301	4.6088	b i l d o
+116	brava	18	40.6301	4.6088	b r a v a
+116	d	18	40.6301	4.6088	d  |  d o
+116	danci	18	40.6301	4.6088	d a n t͡s i
+116	delikata	18	40.6301	4.6088	d e l i k a t a
+116	diskuti	18	40.6301	4.6088	d i s k u t i
+116	dormo	18	40.6301	4.6088	d o r m o
+116	juĝisto	18	40.6301	4.6088	j u d͡ʒ i s t o
+116	kanti	18	40.6301	4.6088	k a n t i
+116	malaperi	18	40.6301	4.6088	m a l a p e r i
+116	malĝusta	18	40.6301	4.6088	m a l d ʒ u s t a
+116	metas	18	40.6301	4.6088	m e t a s
+116	minuto	18	40.6301	4.6088	m i n u t o
+116	preter	18	40.6301	4.6088	p r e t e r
+116	senti	18	40.6301	4.6088	s e n t i
+116	skribita	18	40.6301	4.6088	s k r i b i t a
+116	ĉeesto	18	40.6301	4.6088	t͡ʃ e e s t o
+116	ŝercas	18	40.6301	4.6088	ʃ e r t s a s
+117	ajna	17	38.3729	4.584	a j n a
+117	dezerto	17	38.3729	4.584	d e z e r t o
+117	dolĉa	17	38.3729	4.584	d o l t͡ʃ a
+117	emas	17	38.3729	4.584	e m a s
+117	giganta	17	38.3729	4.584	ɡ i ɡ a n t a
+117	inteligenta	17	38.3729	4.584	i n t e l i ɡ e n t a
+117	lakto	17	38.3729	4.584	l a k t o
+117	malaperu	17	38.3729	4.584	m a l a p e r u
+117	permesi	17	38.3729	4.584	p e r m e s i
+117	pluvas	17	38.3729	4.584	p l u v a s
+117	pluvo	17	38.3729	4.584	p l u v o
+117	situacion	17	38.3729	4.584	s i t u a t͡s i o n
+117	sonon	17	38.3729	4.584	s o n o n
+117	studento	17	38.3729	4.584	s t u d e n t o
+118	adreso	16	36.1157	4.5577	a d r e s o
+118	batas	16	36.1157	4.5577	b a t a s
+118	defendi	16	36.1157	4.5577	d e f e n d i
+118	feliĉe	16	36.1157	4.5577	f e l i t͡ʃ e
+118	fenestron	16	36.1157	4.5577	f e n e s t r o n
+118	gardi	16	36.1157	4.5577	ɡ a r d i
+118	juste	16	36.1157	4.5577	j u s t e
+118	limo	16	36.1157	4.5577	l i m o
+118	maldekstra	16	36.1157	4.5577	m a l d e k s t r a
+118	menso	16	36.1157	4.5577	m e n s o
+118	movas	16	36.1157	4.5577	m o v a s
+118	naĝi	16	36.1157	4.5577	n a d͡ʒ i
+118	nobla	16	36.1157	4.5577	n o b l a
+118	paradizo	16	36.1157	4.5577	p a r a d i z o
+118	serioza	16	36.1157	4.5577	s e r i o z a
+118	skribos	16	36.1157	4.5577	s k r i b o s
+118	staris	16	36.1157	4.5577	s t a r i s
+118	viruso	16	36.1157	4.5577	v i r u s o
+118	ĉesi	16	36.1157	4.5577	t͡ʃ e s i
+119	aĉetu	15	33.8584	4.5297	a t ʃ e t u
+119	decidu	15	33.8584	4.5297	d e t s i d u
+119	due	15	33.8584	4.5297	d u e
+119	frapis	15	33.8584	4.5297	f r a p i s
+119	horloĝo	15	33.8584	4.5297	h o r l o d͡ʒ o
+119	informi	15	33.8584	4.5297	i n f o r m i
+119	kantis	15	33.8584	4.5297	k a n t i s
+119	kuglo	15	33.8584	4.5297	k u ɡ l o
+119	laciĝis	15	33.8584	4.5297	l a t s i d ʒ i s
+119	n	15	33.8584	4.5297	n  |  n o
+119	o	15	33.8584	4.5297	o
+119	pendas	15	33.8584	4.5297	p e n d a s
+119	placo	15	33.8584	4.5297	p l a t͡s o
+119	proceso	15	33.8584	4.5297	p r o t͡s e s o
+119	s	15	33.8584	4.5297	s  |  s o
+119	scienco	15	33.8584	4.5297	s t͡s i e n t͡s o
+119	ĵurnalon	15	33.8584	4.5297	ʒ u r n a l o n
+120	armilon	14	31.6012	4.4997	a r m i l o n
+120	atakas	14	31.6012	4.4997	a t a k a s
+120	brusto	14	31.6012	4.4997	b r u s t o
+120	dancas	14	31.6012	4.4997	d a n t͡s a s
+120	defendas	14	31.6012	4.4997	d e f e n d a s
+120	ekstera	14	31.6012	4.4997	e k s t e r a
+120	elektro	14	31.6012	4.4997	e l e k t r o
+120	esperis	14	31.6012	4.4997	e s p e r i s
+120	fidela	14	31.6012	4.4997	f i d e l a
+120	forkuri	14	31.6012	4.4997	f o r k u r i
+120	hodiaŭa	14	31.6012	4.4997	h o d i a w a
+120	inviti	14	31.6012	4.4997	i n v i t i
+120	irus	14	31.6012	4.4997	i r u s
+120	jaraĝa	14	31.6012	4.4997	j a r a d͡ʒ a
+120	jarcento	14	31.6012	4.4997	j a r t͡s e n t o
+120	kaŭzas	14	31.6012	4.4997	k a w z a s
+120	kuraci	14	31.6012	4.4997	k u r a t͡s i
+120	m	14	31.6012	4.4997	m  |  m o
+120	mallonge	14	31.6012	4.4997	m a l l o n ɡ e
+120	malpeza	14	31.6012	4.4997	m a l p e z a
+120	malseka	14	31.6012	4.4997	m a l s e k a
+120	natura	14	31.6012	4.4997	n a t u r a
+120	poŝo	14	31.6012	4.4997	p o ʃ o
+120	pripensi	14	31.6012	4.4997	p r i p e n s i
+120	sukcesi	14	31.6012	4.4997	s u k t͡s e s i
+120	verko	14	31.6012	4.4997	v e r k o
+120	volos	14	31.6012	4.4997	v o l o s
+120	ŝuo	14	31.6012	4.4997	ʃ u o
+121	bovlo	13	29.344	4.4675	b o v l o
+121	celis	13	29.344	4.4675	t s e l i s
+121	distanco	13	29.344	4.4675	d i s t a n t͡s o
+121	espereble	13	29.344	4.4675	e s p e r e b l e
+121	kolektis	13	29.344	4.4675	k o l e k t i s
+121	neeble	13	29.344	4.4675	n e e b l e
+121	paŝo	13	29.344	4.4675	p a ʃ o
+121	severa	13	29.344	4.4675	s e v e r a
+121	silenti	13	29.344	4.4675	s i l e n t i
+121	solvo	13	29.344	4.4675	s o l v o
+121	ŝtormo	13	29.344	4.4675	ʃ t o r m o
+122	ameriko	12	27.0868	4.4328	a m e r i k o
+122	blovas	12	27.0868	4.4328	b l o v a s
+122	c	12	27.0868	4.4328	t s  |  t s o
+122	definitive	12	27.0868	4.4328	d e f i n i t i v e
+122	frapo	12	27.0868	4.4328	f r a p o
+122	hazardo	12	27.0868	4.4328	h a z a r d o
+122	honesta	12	27.0868	4.4328	h o n e s t a
+122	interkonsento	12	27.0868	4.4328	i n t e r k o n s e n t o
+122	k	12	27.0868	4.4328	k  |  k o
+122	konstrui	12	27.0868	4.4328	k o n s t r u i
+122	kvieta	12	27.0868	4.4328	k v i e t a
+122	murdi	12	27.0868	4.4328	m u r d i
+122	nekonata	12	27.0868	4.4328	n e k o n a t a
+122	nordo	12	27.0868	4.4328	n o r d o
+122	pasi	12	27.0868	4.4328	p a s i
+122	potenca	12	27.0868	4.4328	p o t e n t s a
+122	rekomendas	12	27.0868	4.4328	r e k o m e n d a s
+122	saluti	12	27.0868	4.4328	s a l u t i
+122	subskribi	12	27.0868	4.4328	s u b s k r i b i
+122	suferi	12	27.0868	4.4328	s u f e r i
+122	sukceso	12	27.0868	4.4328	s u k t͡s e s o
+122	t	12	27.0868	4.4328	t  |  t o
+122	ĝenos	12	27.0868	4.4328	d ʒ e n o s
+122	ŝatos	12	27.0868	4.4328	ʃ a t o s
+123	akompanos	11	24.8295	4.395	a k o m p a n o s
+123	aĉetas	11	24.8295	4.395	a t ʃ e t a s
+123	decidas	11	24.8295	4.395	d e t͡s i d a s
+123	decidos	11	24.8295	4.395	d e t͡s i d o s
+123	distrikto	11	24.8295	4.395	d i s t r i k t o
+123	flari	11	24.8295	4.395	f l a r i
+123	gorĝo	11	24.8295	4.395	ɡ o r d͡ʒ o
+123	ktp	11	24.8295	4.395	k o t o p o
+123	liveri	11	24.8295	4.395	l i v e r i
+123	malhela	11	24.8295	4.395	m a l h e l a
+123	malproksima	11	24.8295	4.395	m a l p r o k s i m a
+123	malvarmo	11	24.8295	4.395	m a l v a r m o
+123	monda	11	24.8295	4.395	m o n d a
+123	monumento	11	24.8295	4.395	m o n u m e n t o
+123	nedankinde	11	24.8295	4.395	n e d a n k i n d e
+123	nomata	11	24.8295	4.395	n o m a t a
+123	nomi	11	24.8295	4.395	n o m i
+123	p	11	24.8295	4.395	p  |  p o
+123	pafo	11	24.8295	4.395	p a f o
+123	planti	11	24.8295	4.395	p l a n t i
+123	premo	11	24.8295	4.395	p r e m o
+123	preparas	11	24.8295	4.395	p r e p a r a s
+123	servisto	11	24.8295	4.395	s e r v i s t o
+123	sinmortigo	11	24.8295	4.395	s i n m o r t i ɡ o
+123	supera	11	24.8295	4.395	s u p e r a
+123	usona	11	24.8295	4.395	u s o n a
+123	zorgis	11	24.8295	4.395	z o r ɡ i s
+123	ĉiaokaze	11	24.8295	4.395	t͡ʃ i a o k a z e
+124	ago	10	22.5723	4.3536	a ɡ o
+124	alarmo	10	22.5723	4.3536	a l a r m o
+124	alfronti	10	22.5723	4.3536	a l f r o n t i
+124	aranĝi	10	22.5723	4.3536	a r a n d͡ʒ i
+124	bombo	10	22.5723	4.3536	b o m b o
+124	boris	10	22.5723	4.3536	b o r i s
+124	fali	10	22.5723	4.3536	f a l i
+124	forĵetis	10	22.5723	4.3536	f o r ʒ e t i s
+124	funebra	10	22.5723	4.3536	f u n e b r a
+124	g	10	22.5723	4.3536	ɡ  |  ɡ o
+124	kanto	10	22.5723	4.3536	k a n t o
+124	kapabla	10	22.5723	4.3536	k a p a b l a
+124	katastrofo	10	22.5723	4.3536	k a t a s t r o f o
+124	kreski	10	22.5723	4.3536	k r e s k i
+124	l	10	22.5723	4.3536	l  |  l o
+124	lukto	10	22.5723	4.3536	l u k t o
+124	malaperas	10	22.5723	4.3536	m a l a p e r a s
+124	malfeliĉa	10	22.5723	4.3536	m a l f e l i t͡ʃ a
+124	malica	10	22.5723	4.3536	m a l i t͡s a
+124	mortigo	10	22.5723	4.3536	m o r t i ɡ o
+124	nesto	10	22.5723	4.3536	n e s t o
+124	norda	10	22.5723	4.3536	n o r d a
+124	organizas	10	22.5723	4.3536	o r ɡ a n i z a s
+124	pago	10	22.5723	4.3536	p a ɡ o
+124	pensos	10	22.5723	4.3536	p e n s o s
+124	perforte	10	22.5723	4.3536	p e r f o r t e
+124	pinto	10	22.5723	4.3536	p i n t o
+124	progreso	10	22.5723	4.3536	p r o ɡ r e s o
+124	puno	10	22.5723	4.3536	p u n o
+124	situas	10	22.5723	4.3536	s i t u a s
+124	tagmanĝo	10	22.5723	4.3536	t a ɡ m a n d͡ʒ o
+124	templo	10	22.5723	4.3536	t e m p l o
+124	vidpunkto	10	22.5723	4.3536	v i d p u n k t o
+124	volante	10	22.5723	4.3536	v o l a n t e
+124	ĉapitro	10	22.5723	4.3536	t͡ʃ a p i t r o
+125	alvoki	9	20.3151	4.3078	a l v o k i
+125	aroganta	9	20.3151	4.3078	a r o ɡ a n t a
+125	atakos	9	20.3151	4.3078	a t a k o s
+125	atento	9	20.3151	4.3078	a t e n t o
+125	atingas	9	20.3151	4.3078	a t i n ɡ a s
+125	damo	9	20.3151	4.3078	d a m o
+125	eleganta	9	20.3151	4.3078	e l e ɡ a n t a
+125	f	9	20.3151	4.3078	f  |  f o
+125	faŝismo	9	20.3151	4.3078	f a ʃ i s m o
+125	fermi	9	20.3151	4.3078	f e r m i
+125	forĵetu	9	20.3151	4.3078	f o r ʒ e t u
+125	fumo	9	20.3151	4.3078	f u m o
+125	h	9	20.3151	4.3078	h  |  h o
+125	kantos	9	20.3151	4.3078	k a n t o s
+125	kelka	9	20.3151	4.3078	k e l k a
+125	konvinki	9	20.3151	4.3078	k o n v i n k i
+125	moderna	9	20.3151	4.3078	m o d e r n a
+125	murdita	9	20.3151	4.3078	m u r d i t a
+125	nevo	9	20.3151	4.3078	n e v o
+125	nomos	9	20.3151	4.3078	n o m o s
+125	nubo	9	20.3151	4.3078	n u b o
+125	oka	9	20.3151	4.3078	o k a
+125	parte	9	20.3151	4.3078	p a r t e
+125	pomon	9	20.3151	4.3078	p o m o n
+125	pordisto	9	20.3151	4.3078	p o r d i s t o
+125	prezidanto	9	20.3151	4.3078	p r e z i d a n t o
+125	provinco	9	20.3151	4.3078	p r o v i n t͡s o
+125	sekure	9	20.3151	4.3078	s e k u r e
+125	senĉesa	9	20.3151	4.3078	s e n t ʃ e s a
+125	serpento	9	20.3151	4.3078	s e r p e n t o
+125	surfaco	9	20.3151	4.3078	s u r f a t s o
+125	tricent	9	20.3151	4.3078	t r i t͡s e n t
+125	ĝenis	9	20.3151	4.3078	d ʒ e n i s
+125	ĝenu	9	20.3151	4.3078	d ʒ e n u
+125	ŝercis	9	20.3151	4.3078	ʃ e r t s i s
+126	adoras	8	18.0578	4.2567	a d o r a s
+126	agento	8	18.0578	4.2567	a ɡ e n t o
+126	aparte	8	18.0578	4.2567	a p a r t e
+126	babili	8	18.0578	4.2567	b a b i l i
+126	bazo	8	18.0578	4.2567	b a z o
+126	bruli	8	18.0578	4.2567	b r u l i
+126	cian	8	18.0578	4.2567	t͡s i a n
+126	faŝisto	8	18.0578	4.2567	f a ʃ i s t o
+126	fingro	8	18.0578	4.2567	f i n ɡ r o
+126	forveturi	8	18.0578	4.2567	f o r v e t u r i
+126	frapas	8	18.0578	4.2567	f r a p a s
+126	komuna	8	18.0578	4.2567	k o m u n a
+126	konduti	8	18.0578	4.2567	k o n d u t i
+126	konsideri	8	18.0578	4.2567	k o n s i d e r i
+126	kontinento	8	18.0578	4.2567	k o n t i n e n t o
+126	kruela	8	18.0578	4.2567	k r u e l a
+126	kvadrato	8	18.0578	4.2567	k v a d r a t o
+126	ligno	8	18.0578	4.2567	l i ɡ n o
+126	malami	8	18.0578	4.2567	m a l a m i
+126	maldorma	8	18.0578	4.2567	m a l d o r m a
+126	mezo	8	18.0578	4.2567	m e z o
+126	mistera	8	18.0578	4.2567	m i s t e r a
+126	monton	8	18.0578	4.2567	m o n t o n
+126	naski	8	18.0578	4.2567	n a s k i
+126	nepo	8	18.0578	4.2567	n e p o
+126	nombro	8	18.0578	4.2567	n o m b r o
+126	preferis	8	18.0578	4.2567	p r e f e r i s
+126	prenante	8	18.0578	4.2567	p r e n a n t e
+126	ringo	8	18.0578	4.2567	r i n ɡ o
+126	salti	8	18.0578	4.2567	s a l t i
+126	ŝuldo	8	18.0578	4.2567	ʃ u l d o
+127	aperu	7	15.8006	4.1987	a p e r u
+127	aŭgusto	7	15.8006	4.1987	a w ɡ u s t o
+127	distingi	7	15.8006	4.1987	d i s t i n ɡ i
+127	donaci	7	15.8006	4.1987	d o n a t͡s i
+127	ekzemplo	7	15.8006	4.1987	e k z e m p l o  |  e ɡ z e m p l o
+127	ekzerco	7	15.8006	4.1987	e k z e r t͡s o
+127	elektra	7	15.8006	4.1987	e l e k t r a
+127	elŝalti	7	15.8006	4.1987	e l ʃ a l t i
+127	favorata	7	15.8006	4.1987	f a v o r a t a
+127	festi	7	15.8006	4.1987	f e s t i
+127	frapos	7	15.8006	4.1987	f r a p o s
+127	gaje	7	15.8006	4.1987	ɡ a j e
+127	helpus	7	15.8006	4.1987	h e l p u s
+127	inventi	7	15.8006	4.1987	i n v e n t i
+127	j	7	15.8006	4.1987	j  |  j o
+127	kalsonon	7	15.8006	4.1987	k a l s o n o n
+127	komplete	7	15.8006	4.1987	k o m p l e t e
+127	korto	7	15.8006	4.1987	k o r t o
+127	kuŝi	7	15.8006	4.1987	k u ʃ i
+127	malŝalti	7	15.8006	4.1987	m a l ʃ a l t i
+127	memoris	7	15.8006	4.1987	m e m o r i s
+127	modesta	7	15.8006	4.1987	m o d e s t a
+127	murdinto	7	15.8006	4.1987	m u r d i n t o
+127	necesa	7	15.8006	4.1987	n e t͡s e s a
+127	olda	7	15.8006	4.1987	o l d a
+127	organizis	7	15.8006	4.1987	o r ɡ a n i z i s
+127	piloto	7	15.8006	4.1987	p i l o t o
+127	preteksto	7	15.8006	4.1987	p r e t e k s t o
+127	priskribas	7	15.8006	4.1987	p r i s k r i b a s
+127	promeso	7	15.8006	4.1987	p r o m e s o
+127	pupo	7	15.8006	4.1987	p u p o
+127	registri	7	15.8006	4.1987	r e ɡ i s t r i
+127	respekti	7	15.8006	4.1987	r e s p e k t i
+127	skribite	7	15.8006	4.1987	s k r i b i t e
+127	stabila	7	15.8006	4.1987	s t a b i l a
+127	stomako	7	15.8006	4.1987	s t o m a k o
+127	teksto	7	15.8006	4.1987	t e k s t o
+127	tutmonda	7	15.8006	4.1987	t u t m o n d a
+127	uzita	7	15.8006	4.1987	u z i t a
+127	varmo	7	15.8006	4.1987	v a r m o
+127	venko	7	15.8006	4.1987	v e n k o
+127	ventron	7	15.8006	4.1987	v e n t r o n
+127	vespera	7	15.8006	4.1987	v e s p e r a
+127	ŝercu	7	15.8006	4.1987	ʃ e r t s u
+128	agnoskas	6	13.5434	4.1317	a ɡ n o s k a s
+128	ataku	6	13.5434	4.1317	a t a k u
+128	atingu	6	13.5434	4.1317	a t i n ɡ u
+128	babilu	6	13.5434	4.1317	b a b i l u
+128	brakhorloĝo	6	13.5434	4.1317	b r a k h o r l o d͡ʒ o
+128	bubo	6	13.5434	4.1317	b u b o
+128	celu	6	13.5434	4.1317	t s e l u
+128	dikfingro	6	13.5434	4.1317	d i k f i n ɡ r o
+128	eksterlande	6	13.5434	4.1317	e k s t e r l a n d e
+128	elpensi	6	13.5434	4.1317	e l p e n s i
+128	fajrobrigadisto	6	13.5434	4.1317	f a j r o b r i ɡ a d i s t o
+128	feroca	6	13.5434	4.1317	f e r o t s a
+128	frazo	6	13.5434	4.1317	f r a z o
+128	frukto	6	13.5434	4.1317	f r u k t o
+128	fusilo	6	13.5434	4.1317	f u s i l o
+128	ghis	6	13.5434	4.1317	d͡ʒ i s
+128	gratuli	6	13.5434	4.1317	ɡ r a t u l i
+128	insultas	6	13.5434	4.1317	i n s u l t a s
+128	kaŭzis	6	13.5434	4.1317	k a w z i s
+128	kolektas	6	13.5434	4.1317	k o l e k t a s
+128	kolektu	6	13.5434	4.1317	k o l e k t u
+128	kosmoŝipo	6	13.5434	4.1317	k o s m o ʃ i p o
+128	kurso	6	13.5434	4.1317	k u r s o
+128	larĝa	6	13.5434	4.1317	l a r d͡ʒ a
+128	ledo	6	13.5434	4.1317	l e d o
+128	lisbono	6	13.5434	4.1317	l i s b o n o
+128	lunon	6	13.5434	4.1317	l u n o n
+128	malrespekto	6	13.5434	4.1317	m a l r e s p e k t o
+128	membro	6	13.5434	4.1317	m e m b r o
+128	memoros	6	13.5434	4.1317	m e m o r o s
+128	minus	6	13.5434	4.1317	m i n u s
+128	motorciklo	6	13.5434	4.1317	m o t o r t͡s i k l o
+128	movo	6	13.5434	4.1317	m o v o
+128	muŝo	6	13.5434	4.1317	m u ʃ o
+128	nenial	6	13.5434	4.1317	n e n i a l
+128	noktomezo	6	13.5434	4.1317	n o k t o m e z o
+128	novjorko	6	13.5434	4.1317	n o v j o r k o
+128	organizo	6	13.5434	4.1317	o r ɡ a n i z o
+128	organizos	6	13.5434	4.1317	o r ɡ a n i z o s
+128	pafado	6	13.5434	4.1317	p a f a d o
+128	peniso	6	13.5434	4.1317	p e n i s o
+128	pensus	6	13.5434	4.1317	p e n s u s
+128	plimulto	6	13.5434	4.1317	p l i m u l t o
+128	polvo	6	13.5434	4.1317	p o l v o
+128	prezento	6	13.5434	4.1317	p r e z e n t o
+128	proverbo	6	13.5434	4.1317	p r o v e r b o
+128	rimarki	6	13.5434	4.1317	r i m a r k i
+128	roto	6	13.5434	4.1317	r o t o
+128	rubo	6	13.5434	4.1317	r u b o
+128	rusujo	6	13.5434	4.1317	r u s u j o
+128	sablon	6	13.5434	4.1317	s a b l o n
+128	sata	6	13.5434	4.1317	s a t a
+128	spite	6	13.5434	4.1317	s p i t e
+128	starante	6	13.5434	4.1317	s t a r a n t e
+128	tondro	6	13.5434	4.1317	t o n d r o
+128	trapasi	6	13.5434	4.1317	t r a p a s i
+128	turnis	6	13.5434	4.1317	t u r n i s
+128	varmiĝi	6	13.5434	4.1317	v a r m i d ʒ i
+128	vodko	6	13.5434	4.1317	v o d k o
+128	ĉefkomandanto	6	13.5434	4.1317	t͡ʃ e f k o m a n d a n t o
+128	ĉerizarbo	6	13.5434	4.1317	t͡ʃ e r i z a r b o
+128	ĵurnalisto	6	13.5434	4.1317	ʒ u r n a l i s t o
+128	ŝovu	6	13.5434	4.1317	ʃ o v u
+128	ŝpari	6	13.5434	4.1317	ʃ p a r i
+128	ŭ	6	13.5434	4.1317	w  |  w o
+129	absurda	5	11.2861	4.0525	a b s u r d a
+129	admiranto	5	11.2861	4.0525	a d m i r a n t o
+129	akompanis	5	11.2861	4.0525	a k o m p a n i s
+129	altiris	5	11.2861	4.0525	a l t i r i s
+129	aranĝo	5	11.2861	4.0525	a r a n d ʒ o
+129	arda	5	11.2861	4.0525	a r d a
+129	aresti	5	11.2861	4.0525	a r e s t i
+129	atenteme	5	11.2861	4.0525	a t e n t e m e
+129	atentis	5	11.2861	4.0525	a t e n t i s
+129	blovos	5	11.2861	4.0525	b l o v o s
+129	bruselo	5	11.2861	4.0525	b r u s e l o
+129	bukedo	5	11.2861	4.0525	b u k e d o
+129	cedas	5	11.2861	4.0525	t͡s e d a s
+129	ducent	5	11.2861	4.0525	d u t͡s e n t
+129	eblo	5	11.2861	4.0525	e b l o
+129	ekzekuto	5	11.2861	4.0525	e ɡ z e k u t o
+129	elefanto	5	11.2861	4.0525	e l e f a n t o
+129	esperanta	5	11.2861	4.0525	e s p e r a n t a
+129	etendi	5	11.2861	4.0525	e t e n d i
+129	eventuale	5	11.2861	4.0525	e v e n t u a l e
+129	fendas	5	11.2861	4.0525	f e n d a s
+129	fluo	5	11.2861	4.0525	f l u o
+129	fornon	5	11.2861	4.0525	f o r n o n
+129	funde	5	11.2861	4.0525	f u n d e
+129	funebro	5	11.2861	4.0525	f u n e b r o
+129	greka	5	11.2861	4.0525	ɡ r e k a
+129	hele	5	11.2861	4.0525	h e l e
+129	herbo	5	11.2861	4.0525	h e r b o
+129	hommortigo	5	11.2861	4.0525	h o m o r t i ɡ o
+129	iluzio	5	11.2861	4.0525	i l u z i o
+129	kaduka	5	11.2861	4.0525	k a d u k a
+129	kaŭzos	5	11.2861	4.0525	k a w z o s
+129	klera	5	11.2861	4.0525	k l e r a
+129	klifo	5	11.2861	4.0525	k l i f o
+129	konsento	5	11.2861	4.0525	k o n s e n t o
+129	kopio	5	11.2861	4.0525	k o p i o
+129	kredeble	5	11.2861	4.0525	k r e d e b l e
+129	kremo	5	11.2861	4.0525	k r e m o
+129	kuniklo	5	11.2861	4.0525	k u n i k l o
+129	logi	5	11.2861	4.0525	l o ɡ i
+129	malkuraĝa	5	11.2861	4.0525	m a l k u r a d͡ʒ a
+129	malĝuste	5	11.2861	4.0525	m a l d ʒ u s t e
+129	mango	5	11.2861	4.0525	m a n ɡ o
+129	metodo	5	11.2861	4.0525	m e t o d o
+129	metro	5	11.2861	4.0525	m e t r o
+129	modo	5	11.2861	4.0525	m o d o
+129	mojosa	5	11.2861	4.0525	m o j o s a
+129	mola	5	11.2861	4.0525	m o l a
+129	nekutima	5	11.2861	4.0525	n e k u t i m a
+129	norde	5	11.2861	4.0525	n o r d e
+129	pacienco	5	11.2861	4.0525	p a t͡s i e n t͡s o
+129	pagita	5	11.2861	4.0525	p a ɡ i t a
+129	paragrafo	5	11.2861	4.0525	p a r a ɡ r a f o
+129	protokolo	5	11.2861	4.0525	p r o t o k o l o
+129	pulvoro	5	11.2861	4.0525	p u l v o r o
+129	sektoro	5	11.2861	4.0525	s e k t o r o
+129	semo	5	11.2861	4.0525	s e m o
+129	senfine	5	11.2861	4.0525	s e n f i n e
+129	spekti	5	11.2861	4.0525	s p e k t i
+129	subtera	5	11.2861	4.0525	s u b t e r a  |  s u p t e r a
+129	sugesti	5	11.2861	4.0525	s u ɡ e s t i
+129	time	5	11.2861	4.0525	t i m e
+129	transformi	5	11.2861	4.0525	t r a n s f o r m i
+129	troa	5	11.2861	4.0525	t r o a
+129	u	5	11.2861	4.0525	u
+129	urinan	5	11.2861	4.0525	u r i n a n
+129	uzado	5	11.2861	4.0525	u z a d o
+129	zorgeme	5	11.2861	4.0525	z o r ɡ e m e
+129	ĝui	5	11.2861	4.0525	d͡ʒ u i
+129	ŝalti	5	11.2861	4.0525	ʃ a l t i
+129	ŝovis	5	11.2861	4.0525	ʃ o v i s
+130	aera	4	9.0289	3.9556	a e r a
+130	agnoskis	4	9.0289	3.9556	a ɡ n o s k i s
+130	akompanas	4	9.0289	3.9556	a k o m p a n a s
+130	akra	4	9.0289	3.9556	a k r a
+130	ambulanco	4	9.0289	3.9556	a m b u l a n t s o
+130	atakita	4	9.0289	3.9556	a t a k i t a
+130	atenta	4	9.0289	3.9556	a t e n t a
+130	decidite	4	9.0289	3.9556	d e t͡s i d i t e
+130	delikate	4	9.0289	3.9556	d e l i k a t e
+130	dipatrino	4	9.0289	3.9556	d i p a t r i n o
+130	dorno	4	9.0289	3.9556	d o r n o
+130	duope	4	9.0289	3.9556	d u o p e
+130	eksperimento	4	9.0289	3.9556	e k s p e r i m e n t o
+130	eksplikos	4	9.0289	3.9556	e k s p l i k o s
+130	ekzerci	4	9.0289	3.9556	e k z e r t͡s i
+130	erare	4	9.0289	3.9556	e r a r e
+130	farbo	4	9.0289	3.9556	f a r b o
+130	favoras	4	9.0289	3.9556	f a v o r a s
+130	feliĉecon	4	9.0289	3.9556	f e l i t ʃ e t s o n
+130	fiksa	4	9.0289	3.9556	f i k s a
+130	forĵetas	4	9.0289	3.9556	f o r ʒ e t a s
+130	frapi	4	9.0289	3.9556	f r a p i
+130	fulmotondro	4	9.0289	3.9556	f u l m o t o n d r o
+130	grimpi	4	9.0289	3.9556	ɡ r i m p i
+130	helpante	4	9.0289	3.9556	h e l p a n t e
+130	helpanto	4	9.0289	3.9556	h e l p a n t o
+130	instrumento	4	9.0289	3.9556	i n s t r u m e n t o
+130	invento	4	9.0289	3.9556	i n v e n t o
+130	iranta	4	9.0289	3.9556	i r a n t a
+130	jesa	4	9.0289	3.9556	j e s a
+130	kantisto	4	9.0289	3.9556	k a n t i s t o
+130	kaptito	4	9.0289	3.9556	k a p t i t o
+130	kolbaso	4	9.0289	3.9556	k o l b a s o
+130	kolera	4	9.0289	3.9556	k o l e r a
+130	komerco	4	9.0289	3.9556	k o m e r t͡s o
+130	konato	4	9.0289	3.9556	k o n a t o
+130	korekta	4	9.0289	3.9556	k o r e k t a
+130	kovri	4	9.0289	3.9556	k o v r i
+130	kvincent	4	9.0289	3.9556	k v i n t͡s e n t
+130	liberigo	4	9.0289	3.9556	l i b e r i ɡ o
+130	lobo	4	9.0289	3.9556	l o b o
+130	luma	4	9.0289	3.9556	l u m a
+130	malafabla	4	9.0289	3.9556	m a l a f a b l a
+130	malfermo	4	9.0289	3.9556	m a l f e r m o
+130	malkovro	4	9.0289	3.9556	m a l k o v r o
+130	malsupra	4	9.0289	3.9556	m a l s u p r a
+130	meleagro	4	9.0289	3.9556	m e l e a ɡ r o
+130	militisto	4	9.0289	3.9556	m i l i t i s t o
+130	neordinara	4	9.0289	3.9556	n e o r d i n a r a
+130	noto	4	9.0289	3.9556	n o t o
+130	oficisto	4	9.0289	3.9556	o f i t͡s i s t o
+130	omaĝi	4	9.0289	3.9556	o m a d͡ʒ i
+130	orbito	4	9.0289	3.9556	o r b i t o
+130	peka	4	9.0289	3.9556	p e k a
+130	plejmulto	4	9.0289	3.9556	p l e j m u l t o
+130	povra	4	9.0289	3.9556	p o v r a
+130	preĝi	4	9.0289	3.9556	p r e d͡ʒ i
+130	promesi	4	9.0289	3.9556	p r o m e s i
+130	prudenta	4	9.0289	3.9556	p r u d e n t a
+130	pulso	4	9.0289	3.9556	p u l s o
+130	r	4	9.0289	3.9556	r  |  r o
+130	rajto	4	9.0289	3.9556	r a j t o
+130	respondeci	4	9.0289	3.9556	r e s p o n d e t͡s i
+130	ruse	4	9.0289	3.9556	r u s e
+130	senhonta	4	9.0289	3.9556	s e n h o n t a
+130	situacioj	4	9.0289	3.9556	s i t u a t͡s i o j
+130	staros	4	9.0289	3.9556	s t a r o s
+130	starus	4	9.0289	3.9556	s t a r u s
+130	supozi	4	9.0289	3.9556	s u p o z i
+130	tajpi	4	9.0289	3.9556	t a j p i
+130	tendon	4	9.0289	3.9556	t e n d o n
+130	tradukisto	4	9.0289	3.9556	t r a d u k i s t o
+130	tranokti	4	9.0289	3.9556	t r a n o k t i
+130	tuja	4	9.0289	3.9556	t u j a
+130	varmigi	4	9.0289	3.9556	v a r m i ɡ i
+130	videble	4	9.0289	3.9556	v i d e b l e
+130	volu	4	9.0289	3.9556	v o l u
+130	z	4	9.0289	3.9556	z  |  z o
+130	ĉemizo	4	9.0289	3.9556	t͡ʃ e m i z o
+130	ĥaoso	4	9.0289	3.9556	x a o s o
+130	ŝovas	4	9.0289	3.9556	ʃ o v a s
+131	adopti	3	6.7717	3.8307	a d o p t i
+131	akuzanto	3	6.7717	3.8307	a k u z a n t o
+131	altiras	3	6.7717	3.8307	a l t i r a s
+131	anima	3	6.7717	3.8307	a n i m a
+131	arĝenta	3	6.7717	3.8307	a r d͡ʒ e n t a
+131	atentos	3	6.7717	3.8307	a t e n t o s
+131	babilas	3	6.7717	3.8307	b a b i l a s
+131	blovu	3	6.7717	3.8307	b l o v u
+131	bolas	3	6.7717	3.8307	b o l a s
+131	bopatro	3	6.7717	3.8307	b o p a t r o
+131	borde	3	6.7717	3.8307	b o r d e
+131	celante	3	6.7717	3.8307	t s e l a n t e
+131	char	3	6.7717	3.8307	t͡ʃ a r
+131	cirko	3	6.7717	3.8307	t s i r k o
+131	damaĝi	3	6.7717	3.8307	d a m a d͡ʒ i
+131	deprimo	3	6.7717	3.8307	d e p r i m o
+131	difinita	3	6.7717	3.8307	d i f i n i t a
+131	diservo	3	6.7717	3.8307	d i s e r v o
+131	dominus	3	6.7717	3.8307	d o m i n u s
+131	dĵ	3	6.7717	3.8307	d o ʒ o
+131	ekspliku	3	6.7717	3.8307	e k s p l i k u
+131	eksplodigas	3	6.7717	3.8307	e k s p l o d i ɡ a s
+131	ekstertera	3	6.7717	3.8307	e k s t e r t e r a
+131	ekzekutis	3	6.7717	3.8307	e ɡ z e k u t i s
+131	ekzemplon	3	6.7717	3.8307	e ɡ z e m p l o n
+131	eldonisto	3	6.7717	3.8307	e l d o n i s t o
+131	elsendi	3	6.7717	3.8307	e l s e n d i
+131	enua	3	6.7717	3.8307	e n u a
+131	estingi	3	6.7717	3.8307	e s t i n ɡ i
+131	fekas	3	6.7717	3.8307	f e k a s
+131	fondos	3	6.7717	3.8307	f o n d o s
+131	fotografis	3	6.7717	3.8307	f o t o ɡ r a f i s
+131	frago	3	6.7717	3.8307	f r a ɡ o
+131	fumtubo	3	6.7717	3.8307	f u m t u b o
+131	fundamento	3	6.7717	3.8307	f u n d a m e n t o
+131	glaco	3	6.7717	3.8307	ɡ l a t͡s o
+131	hazarda	3	6.7717	3.8307	h a z a r d a
+131	helpita	3	6.7717	3.8307	h e l p i t a
+131	indulgi	3	6.7717	3.8307	i n d u l ɡ i
+131	insulti	3	6.7717	3.8307	i n s u l t i
+131	insulto	3	6.7717	3.8307	i n s u l t o
+131	inteligento	3	6.7717	3.8307	i n t e l i ɡ e n t o
+131	interpretisto	3	6.7717	3.8307	i n t e r p r e t i s t o
+131	iutage	3	6.7717	3.8307	i u t a ɡ e
+131	kajto	3	6.7717	3.8307	k a j t o
+131	kajuto	3	6.7717	3.8307	k a j u t o
+131	kalva	3	6.7717	3.8307	k a l v a
+131	kapro	3	6.7717	3.8307	k a p r o
+131	kombinanto	3	6.7717	3.8307	k o m b i n a n t o
+131	kompoto	3	6.7717	3.8307	k o m p o t o
+131	konkuri	3	6.7717	3.8307	k o n k u r i
+131	kontraŭstari	3	6.7717	3.8307	k o n t r a w s t a r i
+131	krucumita	3	6.7717	3.8307	k r u t͡s u m i t a
+131	kulpa	3	6.7717	3.8307	k u l p a
+131	kultura	3	6.7717	3.8307	k u l t u r a
+131	kunlaboros	3	6.7717	3.8307	k u n l a b o r o s
+131	kverko	3	6.7717	3.8307	k v e r k o
+131	lardo	3	6.7717	3.8307	l a r d o
+131	leda	3	6.7717	3.8307	l e d a
+131	ligo	3	6.7717	3.8307	l i ɡ o
+131	malagrabla	3	6.7717	3.8307	m a l a ɡ r a b l a
+131	malantaŭo	3	6.7717	3.8307	m a l a n t a w o
+131	malluma	3	6.7717	3.8307	m a l l u m a
+131	malorda	3	6.7717	3.8307	m a l o r d a
+131	malsane	3	6.7717	3.8307	m a l s a n e
+131	malsovaĝa	3	6.7717	3.8307	m a l s o v a d͡ʒ a
+131	malvenko	3	6.7717	3.8307	m a l v e n k o
+131	masto	3	6.7717	3.8307	m a s t o
+131	meblo	3	6.7717	3.8307	m e b l o
+131	milimetro	3	6.7717	3.8307	m i l i m e t r o
+131	modeste	3	6.7717	3.8307	m o d e s t e
+131	mutaciinto	3	6.7717	3.8307	m u t a t͡s i i n t o
+131	naŭcent	3	6.7717	3.8307	n a w t͡s e n t
+131	neeviteble	3	6.7717	3.8307	n e e v i t e b l e
+131	normalan	3	6.7717	3.8307	n o r m a l a n
+131	normo	3	6.7717	3.8307	n o r m o
+131	ordinare	3	6.7717	3.8307	o r d i n a r e
+131	organismo	3	6.7717	3.8307	o r ɡ a n i s m o
+131	organizanto	3	6.7717	3.8307	o r ɡ a n i z a n t o
+131	papilio	3	6.7717	3.8307	p a p i l i o
+131	parazito	3	6.7717	3.8307	p a r a z i t o
+131	paso	3	6.7717	3.8307	p a s o
+131	penetri	3	6.7717	3.8307	p e n e t r i
+131	pezo	3	6.7717	3.8307	p e z o
+131	postvivi	3	6.7717	3.8307	p o s t v i v i
+131	printempe	3	6.7717	3.8307	p r i n t e m p e
+131	priskribis	3	6.7717	3.8307	p r i s k r i b i s
+131	prudente	3	6.7717	3.8307	p r u d e n t e
+131	purpura	3	6.7717	3.8307	p u r p u r a
+131	recepto	3	6.7717	3.8307	r e t s e p t o
+131	reganto	3	6.7717	3.8307	r e ɡ a n t o
+131	regule	3	6.7717	3.8307	r e ɡ u l e
+131	respekte	3	6.7717	3.8307	r e s p e k t e
+131	respondeca	3	6.7717	3.8307	r e s p o n d e t s a
+131	retiras	3	6.7717	3.8307	r e t i r a s
+131	retiros	3	6.7717	3.8307	r e t i r o s
+131	sandaloj	3	6.7717	3.8307	s a n d a l o j
+131	simbolas	3	6.7717	3.8307	s i m b o l a s
+131	skribisto	3	6.7717	3.8307	s k r i b i s t o
+131	spaca	3	6.7717	3.8307	s p a t s a
+131	specife	3	6.7717	3.8307	s p e t s i f e
+131	staranta	3	6.7717	3.8307	s t a r a n t a
+131	sunlumo	3	6.7717	3.8307	s u n l u m o
+131	terapio	3	6.7717	3.8307	t e r a p i o
+131	turnas	3	6.7717	3.8307	t u r n a s
+131	turnos	3	6.7717	3.8307	t u r n o s
+131	uzo	3	6.7717	3.8307	u z o
+131	vagas	3	6.7717	3.8307	v a ɡ a s
+131	venena	3	6.7717	3.8307	v e n e n a
+131	vira	3	6.7717	3.8307	v i r a
+131	ĉefministro	3	6.7717	3.8307	t͡ʃ e f m i n i s t r o
+131	ĉiumonate	3	6.7717	3.8307	t͡ʃ i u m o n a t e
+131	ŝ	3	6.7717	3.8307	ʃ  |  ʃ o
+131	ŝiras	3	6.7717	3.8307	ʃ i r a s
+132	abdikas	2	4.5145	3.6546	a b d i k a s
+132	absolutan	2	4.5145	3.6546	a p s o l u t a n
+132	aerajn	2	4.5145	3.6546	a e r a j n
+132	agnoskita	2	4.5145	3.6546	a ɡ n o s k i t a
+132	agnosku	2	4.5145	3.6546	a ɡ n o s k u
+132	akuta	2	4.5145	3.6546	a k u t a
+132	akuzas	2	4.5145	3.6546	a k u z a s
+132	akuzi	2	4.5145	3.6546	a k u z i
+132	akuzita	2	4.5145	3.6546	a k u z i t a
+132	alko	2	4.5145	3.6546	a l k o
+132	alo	2	4.5145	3.6546	a l o
+132	amaton	2	4.5145	3.6546	a m a t o n
+132	anonci	2	4.5145	3.6546	a n o n t͡s i
+132	aperta	2	4.5145	3.6546	a p e r t a
+132	aprobi	2	4.5145	3.6546	a p r o b i
+132	arbalesto	2	4.5145	3.6546	a r b a l e s t o
+132	arbitracianto	2	4.5145	3.6546	a r b i t r a t͡s i a n t o
+132	aĉetante	2	4.5145	3.6546	a t ʃ e t a n t e
+132	aĉetita	2	4.5145	3.6546	a t ʃ e t i t a
+132	aŭdaci	2	4.5145	3.6546	a w d a t͡s i
+132	aŭguri	2	4.5145	3.6546	a w ɡ u r i
+132	aŭtenta	2	4.5145	3.6546	a w t e n t a
+132	babilis	2	4.5145	3.6546	b a b i l i s
+132	babilos	2	4.5145	3.6546	b a b i l o s
+132	bakas	2	4.5145	3.6546	b a k a s
+132	bankisto	2	4.5145	3.6546	b a n k i s t o
+132	batante	2	4.5145	3.6546	b a t a n t e
+132	baze	2	4.5145	3.6546	b a z e
+132	blasfemo	2	4.5145	3.6546	b l a s f e m o
+132	bonfaranto	2	4.5145	3.6546	b o n f a r a n t o
+132	brulvundos	2	4.5145	3.6546	b r u l v u n d o s
+132	bruto	2	4.5145	3.6546	b r u t o
+132	buĉi	2	4.5145	3.6546	b u t͡ʃ i
+132	citi	2	4.5145	3.6546	t s i t i
+132	daŭri	2	4.5145	3.6546	d a w r i
+132	decidinton	2	4.5145	3.6546	d e t s i d i n t o n
+132	decidita	2	4.5145	3.6546	d e t͡s i d i t a
+132	demonstras	2	4.5145	3.6546	d e m o n s t r a s
+132	demonstri	2	4.5145	3.6546	d e m o n s t r i
+132	disciplinita	2	4.5145	3.6546	d i s t s i p l i n i t a
+132	dividas	2	4.5145	3.6546	d i v i d a s
+132	duonpatro	2	4.5145	3.6546	d u o n p a t r o
+132	ekbruligos	2	4.5145	3.6546	e k b r u l i ɡ o s
+132	ekbruligu	2	4.5145	3.6546	e k b r u l i ɡ u
+132	ekbrulis	2	4.5145	3.6546	e k b r u l i s
+132	eksciti	2	4.5145	3.6546	e k s t͡s i t i
+132	ekskurso	2	4.5145	3.6546	e k s k u r s o
+132	eksplodo	2	4.5145	3.6546	e k s p l o d o
+132	eksterlanda	2	4.5145	3.6546	e k s t e r l a n d a
+132	ekzekutita	2	4.5145	3.6546	e ɡ z e k u t i t a
+132	ekzisto	2	4.5145	3.6546	e k z i s t o
+132	endormiĝu	2	4.5145	3.6546	e n d o r m i d ʒ u
+132	enorma	2	4.5145	3.6546	e n o r m a
+132	esperantismo	2	4.5145	3.6546	e s p e r a n t i s m o
+132	faktoro	2	4.5145	3.6546	f a k t o r o
+132	favoris	2	4.5145	3.6546	f a v o r i s
+132	festa	2	4.5145	3.6546	f e s t a
+132	feĉo	2	4.5145	3.6546	f e t͡ʃ o
+132	folkloro	2	4.5145	3.6546	f o l k l o r o
+132	fondi	2	4.5145	3.6546	f o n d i
+132	forgeson	2	4.5145	3.6546	f o r ɡ e s o n
+132	forvojaĝi	2	4.5145	3.6546	f o r v o j a d͡ʒ i
+132	forĵetita	2	4.5145	3.6546	f o r ʒ e t i t a
+132	forĵetos	2	4.5145	3.6546	f o r ʒ e t o s
+132	frapante	2	4.5145	3.6546	f r a p a n t e
+132	frapus	2	4.5145	3.6546	f r a p u s
+132	fundamenta	2	4.5145	3.6546	f u n d a m e n t a
+132	furzoj	2	4.5145	3.6546	f u r z o j
+132	furzojn	2	4.5145	3.6546	f u r z o j n
+132	generi	2	4.5145	3.6546	ɡ e n e r i
+132	gluti	2	4.5145	3.6546	ɡ l u t i
+132	glutis	2	4.5145	3.6546	ɡ l u t i s
+132	glutu	2	4.5145	3.6546	ɡ l u t u
+132	graviton	2	4.5145	3.6546	ɡ r a v i t o n
+132	hipotezo	2	4.5145	3.6546	h i p o t e z o
+132	horizonton	2	4.5145	3.6546	h o r i z o n t o n
+132	humida	2	4.5145	3.6546	h u m i d a
+132	impreso	2	4.5145	3.6546	i m p r e s o
+132	interezo	2	4.5145	3.6546	i n t e r e z o
+132	invadas	2	4.5145	3.6546	i n v a d a s
+132	invadis	2	4.5145	3.6546	i n v a d i s
+132	irante	2	4.5145	3.6546	i r a n t e
+132	ironta	2	4.5145	3.6546	i r o n t a
+132	izolita	2	4.5145	3.6546	i z o l i t a
+132	kantanto	2	4.5145	3.6546	k a n t a n t o
+132	karto	2	4.5145	3.6546	k a r t o
+132	kasisto	2	4.5145	3.6546	k a s i s t o
+132	katekismo	2	4.5145	3.6546	k a t e k i s m o
+132	kolektado	2	4.5145	3.6546	k o l e k t a d o
+132	kolektiva	2	4.5145	3.6546	k o l e k t i v a
+132	kolektus	2	4.5145	3.6546	k o l e k t u s
+132	komerca	2	4.5145	3.6546	k o m e r t s a
+132	komerci	2	4.5145	3.6546	k o m e r t s i
+132	komercisto	2	4.5145	3.6546	k o m e r t s i s t o
+132	konkuranta	2	4.5145	3.6546	k o n k u r a n t a
+132	konkuranto	2	4.5145	3.6546	k o n k u r a n t o
+132	konkuru	2	4.5145	3.6546	k o n k u r u
+132	kordo	2	4.5145	3.6546	k o r d o
+132	krevi	2	4.5145	3.6546	k r e v i
+132	krevo	2	4.5145	3.6546	k r e v o
+132	kruca	2	4.5145	3.6546	k r u t s a
+132	kultivi	2	4.5145	3.6546	k u l t i v i
+132	kulturoj	2	4.5145	3.6546	k u l t u r o j
+132	kunlaboranto	2	4.5145	3.6546	k u n l a b o r a n t o
+132	kunlaboris	2	4.5145	3.6546	k u n l a b o r i s
+132	kunteksto	2	4.5145	3.6546	k u n t e k s t o
+132	kuraĝi	2	4.5145	3.6546	k u r a d͡ʒ i
+132	kvitanco	2	4.5145	3.6546	k v i t a n t͡s o
+132	labirinto	2	4.5145	3.6546	l a b i r i n t o
+132	laciĝas	2	4.5145	3.6546	l a t s i d ʒ a s
+132	lanĉis	2	4.5145	3.6546	l a n t͡ʃ i s
+132	leganto	2	4.5145	3.6546	l e ɡ a n t o
+132	lekcio	2	4.5145	3.6546	l e k t͡s i o
+132	maizo	2	4.5145	3.6546	m a i z o
+132	malaperinta	2	4.5145	3.6546	m a l a p e r i n t a
+132	malaperus	2	4.5145	3.6546	m a l a p e r u s
+132	malferma	2	4.5145	3.6546	m a l f e r m a
+132	malhonesta	2	4.5145	3.6546	m a l h o n e s t a
+132	malhumana	2	4.5145	3.6546	m a l h u m a n a
+132	mallaŭta	2	4.5145	3.6546	m a l l a w t a
+132	malproksimo	2	4.5145	3.6546	m a l p r o k s i m o
+132	malrespekta	2	4.5145	3.6546	m a l r e s p e k t a
+132	malsupera	2	4.5145	3.6546	m a l s u p e r a
+132	malvarmumo	2	4.5145	3.6546	m a l v a r m u m o
+132	malvera	2	4.5145	3.6546	m a l v e r a
+132	mamon	2	4.5145	3.6546	m a m o n
+132	matroso	2	4.5145	3.6546	m a t r o s o
+132	mejlo	2	4.5145	3.6546	m e j l o
+132	mekanismo	2	4.5145	3.6546	m e k a n i s m o
+132	memorus	2	4.5145	3.6546	m e m o r u s
+132	miksas	2	4.5145	3.6546	m i k s a s
+132	monako	2	4.5145	3.6546	m o n a k o
+132	monta	2	4.5145	3.6546	m o n t a
+132	murmuras	2	4.5145	3.6546	m u r m u r a s
+132	naŭzo	2	4.5145	3.6546	n a w z o
+132	neceso	2	4.5145	3.6546	n e t͡s e s o
+132	nervo	2	4.5145	3.6546	n e r v o
+132	nuklea	2	4.5145	3.6546	n u k l e a
+132	nunaj	2	4.5145	3.6546	n u n a j
+132	obstaklo	2	4.5145	3.6546	o p s t a k l o
+132	optimisto	2	4.5145	3.6546	o p t i m i s t o
+132	organizita	2	4.5145	3.6546	o r ɡ a n i z i t a
+132	organizu	2	4.5145	3.6546	o r ɡ a n i z u
+132	pafisto	2	4.5145	3.6546	p a f i s t o
+132	paki	2	4.5145	3.6546	p a k i
+132	partneron	2	4.5145	3.6546	p a r t n e r o n
+132	penetras	2	4.5145	3.6546	p e n e t r a s
+132	pigo	2	4.5145	3.6546	p i ɡ o
+132	placon	2	4.5145	3.6546	p l a t s o n
+132	planeda	2	4.5145	3.6546	p l a n e d a
+132	pliaĝa	2	4.5145	3.6546	p l i a d͡ʒ a
+132	polusa	2	4.5145	3.6546	p o l u s a
+132	prezidas	2	4.5145	3.6546	p r e z i d a s
+132	priskribita	2	4.5145	3.6546	p r i s k r i b i t a
+132	procento	2	4.5145	3.6546	p r o t͡s e n t o
+132	procezo	2	4.5145	3.6546	p r o t͡s e z o
+132	progresi	2	4.5145	3.6546	p r o ɡ r e s i
+132	prosperi	2	4.5145	3.6546	p r o s p e r i
+132	rekomendus	2	4.5145	3.6546	r e k o m e n d u s
+132	rigora	2	4.5145	3.6546	r i ɡ o r a
+132	rilata	2	4.5145	3.6546	r i l a t a
+132	rusta	2	4.5145	3.6546	r u s t a
+132	ruĝo	2	4.5145	3.6546	r u d͡ʒ o
+132	sabate	2	4.5145	3.6546	s a b a t e
+132	sapon	2	4.5145	3.6546	s a p o n
+132	senespera	2	4.5145	3.6546	s e n e s p e r a
+132	sepcent	2	4.5145	3.6546	s e p t͡s e n t
+132	situaciojn	2	4.5145	3.6546	s i t u a t͡s i o j n
+132	sklavon	2	4.5145	3.6546	s k l a v o n
+132	socialismo	2	4.5145	3.6546	s o t͡s i a l i s m o
+132	somera	2	4.5145	3.6546	s o m e r a
+132	subjekto	2	4.5145	3.6546	s u b j e k t o
+132	submondo	2	4.5145	3.6546	s u b m o n d o
+132	subpremo	2	4.5145	3.6546	s u p p r e m o
+132	subtenanto	2	4.5145	3.6546	s u b t e n a n t o
+132	tenera	2	4.5145	3.6546	t e n e r a
+132	terakoto	2	4.5145	3.6546	t e r a k o t o
+132	torturas	2	4.5145	3.6546	t o r t u r a s
+132	triope	2	4.5145	3.6546	t r i o p e
+132	trompe	2	4.5145	3.6546	t r o m p e
+132	urbocentro	2	4.5145	3.6546	u r b o t͡s e n t r o
+132	uzata	2	4.5145	3.6546	u z a t a
+132	vekiĝi	2	4.5145	3.6546	v e k i d͡ʒ i
+132	vetera	2	4.5145	3.6546	v e t e r a
+132	ĉefverko	2	4.5145	3.6546	t͡ʃ e f v e r k o
+132	ĉinion	2	4.5145	3.6546	t͡ʃ i n i o n
+132	ĉirkaŭi	2	4.5145	3.6546	t͡ʃ i r k a w i
+132	ĝenus	2	4.5145	3.6546	d ʒ e n u s
+132	ĥemiisto	2	4.5145	3.6546	x e m i i s t o
+132	ĵ	2	4.5145	3.6546	ʒ  |  ʒ o
+132	ŝafon	2	4.5145	3.6546	ʃ a f o n
+132	ŝiris	2	4.5145	3.6546	ʃ i r i s
+132	ŝovos	2	4.5145	3.6546	ʃ o v o s
+132	ŝtipo	2	4.5145	3.6546	ʃ t i p o
+132	ŝtona	2	4.5145	3.6546	ʃ t o n a
+132	ŝultro	2	4.5145	3.6546	ʃ u l t r o
+133	abrikotarbo	1	2.2572	3.3536	a b r i k o t a r b o
+133	abrupta	1	2.2572	3.3536	a b r u p t a
+133	absolutaj	1	2.2572	3.3536	a p s o l u t a j
+133	abstrakta	1	2.2572	3.3536	a p s t r a k t a
+133	adepto	1	2.2572	3.3536	a d e p t o
+133	administranto	1	2.2572	3.3536	a d m i n i s t r a n t o
+133	administris	1	2.2572	3.3536	a d m i n i s t r i s
+133	admirantoj	1	2.2572	3.3536	a d m i r a n t o j
+133	adopta	1	2.2572	3.3536	a d o p t a
+133	adoptos	1	2.2572	3.3536	a d o p t o s
+133	adoranta	1	2.2572	3.3536	a d o r a n t a
+133	adorata	1	2.2572	3.3536	a d o r a t a
+133	adorita	1	2.2572	3.3536	a d o r i t a
+133	adoros	1	2.2572	3.3536	a d o r o s
+133	adresu	1	2.2572	3.3536	a d r e s u
+133	afiŝo	1	2.2572	3.3536	a f i ʃ o
+133	agnoskon	1	2.2572	3.3536	a ɡ n o s k o n
+133	agnoskos	1	2.2572	3.3536	a ɡ n o s k o s
+133	agordo	1	2.2572	3.3536	a ɡ o r d o
+133	agreso	1	2.2572	3.3536	a ɡ r e s o
+133	akompanata	1	2.2572	3.3536	a k o m p a n a t a
+133	akva	1	2.2572	3.3536	a k v a
+133	alkohola	1	2.2572	3.3536	a l k o h o l a
+133	alskribi	1	2.2572	3.3536	a l s k r i b i
+133	altirante	1	2.2572	3.3536	a l t i r a n t e
+133	altirus	1	2.2572	3.3536	a l t i r u s
+133	amaro	1	2.2572	3.3536	a m a r o
+133	amatojn	1	2.2572	3.3536	a m a t o j n
+133	amikumis	1	2.2572	3.3536	a m i k u m i s
+133	amuzi	1	2.2572	3.3536	a m u z i
+133	anekdoto	1	2.2572	3.3536	a n e k d o t o
+133	anonima	1	2.2572	3.3536	a n o n i m a
+133	antaŭenigo	1	2.2572	3.3536	a n t a w e n i ɡ o
+133	anticipo	1	2.2572	3.3536	a n t i t͡s i p o
+133	anĝela	1	2.2572	3.3536	a n d ʒ e l a
+133	apartigo	1	2.2572	3.3536	a p a r t i ɡ o
+133	aperanta	1	2.2572	3.3536	a p e r a n t a
+133	aperintan	1	2.2572	3.3536	a p e r i n t a n
+133	aplikis	1	2.2572	3.3536	a p l i k i s
+133	apliku	1	2.2572	3.3536	a p l i k u
+133	arkipelago	1	2.2572	3.3536	a r k i p e l a ɡ o
+133	aroga	1	2.2572	3.3536	a r o ɡ a
+133	atakus	1	2.2572	3.3536	a t a k u s
+133	atingita	1	2.2572	3.3536	a t i n ɡ i t a
+133	aĉetus	1	2.2572	3.3536	a t ʃ e t u s
+133	babilante	1	2.2572	3.3536	b a b i l a n t e
+133	babilus	1	2.2572	3.3536	b a b i l u s
+133	bakisto	1	2.2572	3.3536	b a k i s t o
+133	barata	1	2.2572	3.3536	b a r a t a
+133	bardo	1	2.2572	3.3536	b a r d o
+133	baza	1	2.2572	3.3536	b a z a
+133	bazi	1	2.2572	3.3536	b a z i
+133	blovis	1	2.2572	3.3536	b l o v i s
+133	bluzo	1	2.2572	3.3536	b l u z o
+133	bolanta	1	2.2572	3.3536	b o l a n t a
+133	bolantan	1	2.2572	3.3536	b o l a n t a n
+133	boligita	1	2.2572	3.3536	b o l i ɡ i t a
+133	boligos	1	2.2572	3.3536	b o l i ɡ o s
+133	boligu	1	2.2572	3.3536	b o l i ɡ u
+133	bolis	1	2.2572	3.3536	b o l i s
+133	bombas	1	2.2572	3.3536	b o m b a s
+133	brulvundis	1	2.2572	3.3536	b r u l v u n d i s
+133	bumerango	1	2.2572	3.3536	b u m e r a n ɡ o
+133	buŝe	1	2.2572	3.3536	b u ʃ e
+133	cento	1	2.2572	3.3536	t s e n t o
+133	chapelo	1	2.2572	3.3536	t͡ʃ a p e l o
+133	cirkuli	1	2.2572	3.3536	t s i r k u l i
+133	citos	1	2.2572	3.3536	t͡s i t o s
+133	cxar	1	2.2572	3.3536	t͡ʃ a r
+133	datumo	1	2.2572	3.3536	d a t u m o
+133	daŭrigota	1	2.2572	3.3536	d a w r i ɡ o t a
+133	decidata	1	2.2572	3.3536	d e t͡s i d a t a
+133	decidus	1	2.2572	3.3536	d e t͡s i d u s
+133	dekdua	1	2.2572	3.3536	d e k d u a
+133	dekunua	1	2.2572	3.3536	d e k u n u a
+133	demonstris	1	2.2572	3.3536	d e m o n s t r i s
+133	difini	1	2.2572	3.3536	d i f i n i
+133	disputo	1	2.2572	3.3536	d i s p u t o
+133	diversa	1	2.2572	3.3536	d i v e r s a
+133	duopo	1	2.2572	3.3536	d u o p o
+133	edikto	1	2.2572	3.3536	e d i k t o
+133	efektivigo	1	2.2572	3.3536	e f e k t i v i ɡ o
+133	egoismo	1	2.2572	3.3536	e ɡ o i s m o
+133	ekbrulas	1	2.2572	3.3536	e k b r u l a s
+133	ekbruligas	1	2.2572	3.3536	e k b r u l i ɡ a s
+133	ekbruligis	1	2.2572	3.3536	e k b r u l i ɡ i s
+133	ekbrulus	1	2.2572	3.3536	e k b r u l u s
+133	ekflamis	1	2.2572	3.3536	e k f l a m i s
+133	eksplikis	1	2.2572	3.3536	e k s p l i k i s
+133	eksplikitan	1	2.2572	3.3536	e k s p l i k i t a n
+133	eksplodi	1	2.2572	3.3536	e k s p l o d i
+133	eksplodigita	1	2.2572	3.3536	e k s p l o d i ɡ i t a
+133	eksplodigos	1	2.2572	3.3536	e k s p l o d i ɡ o s
+133	eksplodigu	1	2.2572	3.3536	e k s p l o d i ɡ u
+133	ekstravaganca	1	2.2572	3.3536	e k s t r a v a ɡ a n t s a
+133	ekzekutisto	1	2.2572	3.3536	e k z e k u t i s t o
+133	ekzemploj	1	2.2572	3.3536	e ɡ z e m p l o j
+133	elizabeta	1	2.2572	3.3536	e l i z a b e t a
+133	eltrinki	1	2.2572	3.3536	e l t r i n k i
+133	endormiĝis	1	2.2572	3.3536	e n d o r m i d ʒ i s
+133	engluti	1	2.2572	3.3536	e n ɡ l u t i
+133	enhavo	1	2.2572	3.3536	e n h a v o
+133	enterigo	1	2.2572	3.3536	e n t e r i ɡ o
+133	enzimo	1	2.2572	3.3536	e n z i m o
+133	estona	1	2.2572	3.3536	e s t o n a
+133	etfingro	1	2.2572	3.3536	e t f i n ɡ r o
+133	etikedo	1	2.2572	3.3536	e t i k e d o
+133	facilanima	1	2.2572	3.3536	f a t͡s i l a n i m a
+133	fasado	1	2.2572	3.3536	f a s a d o
+133	favorataj	1	2.2572	3.3536	f a v o r a t a j
+133	favoros	1	2.2572	3.3536	f a v o r o s
+133	fekos	1	2.2572	3.3536	f e k o s
+133	feku	1	2.2572	3.3536	f e k u
+133	feŭda	1	2.2572	3.3536	f e w d a
+133	filtras	1	2.2572	3.3536	f i l t r a s
+133	financa	1	2.2572	3.3536	f i n a n t s a
+133	financi	1	2.2572	3.3536	f i n a n t͡s i
+133	finus	1	2.2572	3.3536	f i n u s
+133	flua	1	2.2572	3.3536	f l u a
+133	flui	1	2.2572	3.3536	f l u i
+133	fluto	1	2.2572	3.3536	f l u t o
+133	fondas	1	2.2572	3.3536	f o n d a s
+133	forgeso	1	2.2572	3.3536	f o r ɡ e s o
+133	foro	1	2.2572	3.3536	f o r o
+133	fortigis	1	2.2572	3.3536	f o r t i ɡ i s
+133	fortigos	1	2.2572	3.3536	f o r t i ɡ o s
+133	forĵetanta	1	2.2572	3.3536	f o r ʒ e t a n t a
+133	fragmento	1	2.2572	3.3536	f r a ɡ m e n t o
+133	frekventi	1	2.2572	3.3536	f r e k v e n t i
+133	froti	1	2.2572	3.3536	f r o t i
+133	fumante	1	2.2572	3.3536	f u m a n t e
+133	fundamentan	1	2.2572	3.3536	f u n d a m e n t a n
+133	furzon	1	2.2572	3.3536	f u r z o n
+133	generatoro	1	2.2572	3.3536	ɡ e n e r a t o r o
+133	glutas	1	2.2572	3.3536	ɡ l u t a s
+133	glutos	1	2.2572	3.3536	ɡ l u t o s
+133	grasa	1	2.2572	3.3536	ɡ r a s a
+133	graso	1	2.2572	3.3536	ɡ r a s o
+133	groteska	1	2.2572	3.3536	ɡ r o t e s k a
+133	hamburgo	1	2.2572	3.3536	h a m b u r ɡ o
+133	heliumo	1	2.2572	3.3536	h e l i u m o
+133	helpanta	1	2.2572	3.3536	h e l p a n t a
+133	helpite	1	2.2572	3.3536	h e l p i t e
+133	himno	1	2.2572	3.3536	h i m n o
+133	indulgo	1	2.2572	3.3536	i n d u l ɡ o
+133	injekto	1	2.2572	3.3536	i n j e k t o
+133	insultis	1	2.2572	3.3536	i n s u l t i s
+133	insultu	1	2.2572	3.3536	i n s u l t u
+133	inteligente	1	2.2572	3.3536	i n t e l i ɡ e n t e
+133	intesto	1	2.2572	3.3536	i n t e s t o
+133	inventas	1	2.2572	3.3536	i n v e n t a s
+133	inventisto	1	2.2572	3.3536	i n v e n t i s t o
+133	itinero	1	2.2572	3.3536	i t i n e r o
+133	juvelisto	1	2.2572	3.3536	j u v e l i s t o
+133	jxauxdo	1	2.2572	3.3536	ʒ a w d o
+133	kamela	1	2.2572	3.3536	k a m e l a
+133	kanada	1	2.2572	3.3536	k a n a d a
+133	kantanta	1	2.2572	3.3536	k a n t a n t a
+133	kantante	1	2.2572	3.3536	k a n t a n t e
+133	kare	1	2.2572	3.3536	k a r e
+133	katastrofa	1	2.2572	3.3536	k a t a s t r o f a
+133	kaŭzus	1	2.2572	3.3536	k a w z u s
+133	kievo	1	2.2572	3.3536	k i e v o
+133	kilometro	1	2.2572	3.3536	k i l o m e t r o
+133	klopodo	1	2.2572	3.3536	k l o p o d o
+133	kolektos	1	2.2572	3.3536	k o l e k t o s
+133	komercado	1	2.2572	3.3536	k o m e r t s a d o
+133	komplezi	1	2.2572	3.3536	k o m p l e z i
+133	kompliku	1	2.2572	3.3536	k o m p l i k u
+133	konfuzi	1	2.2572	3.3536	k o n f u z i
+133	konko	1	2.2572	3.3536	k o n k o
+133	konkreta	1	2.2572	3.3536	k o n k r e t a
+133	konkuros	1	2.2572	3.3536	k o n k u r o s
+133	konsili	1	2.2572	3.3536	k o n s i l i
+133	konsisto	1	2.2572	3.3536	k o n s i s t o
+133	kontuzo	1	2.2572	3.3536	k o n t u z o
+133	korako	1	2.2572	3.3536	k o r a k o
+133	korespondi	1	2.2572	3.3536	k o r e s p o n d i
+133	kosmonaŭto	1	2.2572	3.3536	k o s m o n a w t o
+133	kosti	1	2.2572	3.3536	k o s t i
+133	kresto	1	2.2572	3.3536	k r e s t o
+133	kripla	1	2.2572	3.3536	k r i p l a
+133	kunan	1	2.2572	3.3536	k u n a n
+133	kunesti	1	2.2572	3.3536	k u n e s t i
+133	kvarope	1	2.2572	3.3536	k v a r o p e
+133	kvine	1	2.2572	3.3536	k v i n e
+133	labortago	1	2.2572	3.3536	l a b o r t a ɡ o
+133	lacerto	1	2.2572	3.3536	l a t s e r t o
+133	laktozo	1	2.2572	3.3536	l a k t o z o
+133	lamentu	1	2.2572	3.3536	l a m e n t u
+133	lanĉas	1	2.2572	3.3536	l a n t͡ʃ a s
+133	lanĉu	1	2.2572	3.3536	l a n t͡ʃ u
+133	laŭdi	1	2.2572	3.3536	l a w d i
+133	laŭlonge	1	2.2572	3.3536	l a w l o n ɡ e
+133	lemo	1	2.2572	3.3536	l e m o
+133	likanta	1	2.2572	3.3536	l i k a n t a
+133	likas	1	2.2572	3.3536	l i k a s
+133	liku	1	2.2572	3.3536	l i k u
+133	lingvisto	1	2.2572	3.3536	l i n ɡ v i s t o
+133	loĝanto	1	2.2572	3.3536	l o d͡ʒ a n t o
+133	luo	1	2.2572	3.3536	l u o
+133	luu	1	2.2572	3.3536	l u u
+133	madrido	1	2.2572	3.3536	m a d r i d o
+133	magnetan	1	2.2572	3.3536	m a ɡ n e t a n
+133	maksimo	1	2.2572	3.3536	m a k s i m o
+133	malakcepti	1	2.2572	3.3536	m a l a k t͡s e p t i
+133	maldiligenta	1	2.2572	3.3536	m a l d i l i ɡ e n t a
+133	malforto	1	2.2572	3.3536	m a l f o r t o
+133	malico	1	2.2572	3.3536	m a l i t͡s o
+133	malklare	1	2.2572	3.3536	m a l k l a r e
+133	malkompleta	1	2.2572	3.3536	m a l k o m p l e t a
+133	malmulto	1	2.2572	3.3536	m a l m u l t o
+133	malnobla	1	2.2572	3.3536	m a l n o b l a
+133	malpaki	1	2.2572	3.3536	m a l p a k i
+133	malplaĉa	1	2.2572	3.3536	m a l p l a t͡ʃ a
+133	malplimulto	1	2.2572	3.3536	m a l p l i m u l t o
+133	malsanos	1	2.2572	3.3536	m a l s a n o s
+133	malsimpla	1	2.2572	3.3536	m a l s i m p l a
+133	malsukcesi	1	2.2572	3.3536	m a l s u k t͡s e s i
+133	malsukceso	1	2.2572	3.3536	m a l s u k t͡s e s o
+133	malsupro	1	2.2572	3.3536	m a l s u p r o
+133	malva	1	2.2572	3.3536	m a l v a
+133	mangon	1	2.2572	3.3536	m a n ɡ o n
+133	mangxi	1	2.2572	3.3536	m a n d͡ʒ i
+133	manipuli	1	2.2572	3.3536	m a n i p u l i
+133	manki	1	2.2572	3.3536	m a n k i
+133	manovro	1	2.2572	3.3536	m a n o v r o
+133	markizo	1	2.2572	3.3536	m a r k i z o
+133	marshi	1	2.2572	3.3536	m a r ʃ i
+133	materialismo	1	2.2572	3.3536	m a t e r i a l i s m o
+133	meditas	1	2.2572	3.3536	m e d i t a s
+133	mediti	1	2.2572	3.3536	m e d i t i
+133	memorigo	1	2.2572	3.3536	m e m o r i ɡ o
+133	mezuri	1	2.2572	3.3536	m e z u r i
+133	mezurunuo	1	2.2572	3.3536	m e z u r u n u o
+133	militservo	1	2.2572	3.3536	m i l i t s e r v o
+133	militŝipo	1	2.2572	3.3536	m i l i t ʃ i p o
+133	mineralakvo	1	2.2572	3.3536	m i n e r a l a k v o
+133	minimumo	1	2.2572	3.3536	m i n i m u m o
+133	minusklo	1	2.2572	3.3536	m i n u s k l o
+133	misiisto	1	2.2572	3.3536	m i s i i s t o
+133	mitingo	1	2.2572	3.3536	m i t i n ɡ o
+133	molekula	1	2.2572	3.3536	m o l e k u l a
+133	monata	1	2.2572	3.3536	m o n a t a
+133	montopinto	1	2.2572	3.3536	m o n t o p i n t o
+133	morgaŭo	1	2.2572	3.3536	m o r ɡ a w o
+133	morte	1	2.2572	3.3536	m o r t e
+133	mortpuno	1	2.2572	3.3536	m o r t p u n o
+133	moruso	1	2.2572	3.3536	m o r u s o
+133	multobla	1	2.2572	3.3536	m u l t o b l a
+133	municipa	1	2.2572	3.3536	m u n i t s i p a
+133	municipo	1	2.2572	3.3536	m u n i t͡s i p o
+133	murda	1	2.2572	3.3536	m u r d a
+133	mustardo	1	2.2572	3.3536	m u s t a r d o
+133	naciismo	1	2.2572	3.3536	n a t͡s i i s m o
+133	najlon	1	2.2572	3.3536	n a j l o n
+133	nasko	1	2.2572	3.3536	n a s k o
+133	navigante	1	2.2572	3.3536	n a v i ɡ a n t e
+133	nenormalan	1	2.2572	3.3536	n e n o r m a l a n
+133	nihilismo	1	2.2572	3.3536	n i h i l i s m o
+133	nombroj	1	2.2572	3.3536	n o m b r o j
+133	norma	1	2.2572	3.3536	n o r m a
+133	nudecon	1	2.2572	3.3536	n u d e t s o n
+133	nuntempo	1	2.2572	3.3536	n u n t e m p o
+133	oazo	1	2.2572	3.3536	o a z o
+133	obeemo	1	2.2572	3.3536	o b e e m o
+133	ofendas	1	2.2572	3.3536	o f e n d a s
+133	oficis	1	2.2572	3.3536	o f i t͡s i s
+133	okcent	1	2.2572	3.3536	o k t͡s e n t
+133	opera	1	2.2572	3.3536	o p e r a
+133	optimismo	1	2.2572	3.3536	o p t i m i s m o
+133	orienta	1	2.2572	3.3536	o r i e n t a
+133	originale	1	2.2572	3.3536	o r i ɡ i n a l e
+133	papo	1	2.2572	3.3536	p a p o
+133	parko	1	2.2572	3.3536	p a r k o
+133	parlamento	1	2.2572	3.3536	p a r l a m e n t o
+133	parole	1	2.2572	3.3536	p a r o l e
+133	patologio	1	2.2572	3.3536	p a t o l o ɡ i o
+133	pelvo	1	2.2572	3.3536	p e l v o
+133	penetris	1	2.2572	3.3536	p e n e t r i s
+133	penetrita	1	2.2572	3.3536	p e n e t r i t a
+133	penetros	1	2.2572	3.3536	p e n e t r o s
+133	penetru	1	2.2572	3.3536	p e n e t r u
+133	pento	1	2.2572	3.3536	p e n t o
+133	perturbo	1	2.2572	3.3536	p e r t u r b o
+133	petita	1	2.2572	3.3536	p e t i t a
+133	pinarbo	1	2.2572	3.3536	p i n a r b o
+133	pipro	1	2.2572	3.3536	p i p r o
+133	pisas	1	2.2572	3.3536	p i s a s
+133	plastro	1	2.2572	3.3536	p l a s t r o
+133	platega	1	2.2572	3.3536	p l a t e ɡ a
+133	plejeble	1	2.2572	3.3536	p l e j e b l e
+133	pluva	1	2.2572	3.3536	p l u v a
+133	pornografio	1	2.2572	3.3536	p o r n o ɡ r a f i o
+133	praktikas	1	2.2572	3.3536	p r a k t i k a s
+133	preteriras	1	2.2572	3.3536	p r e t e r i r a s
+133	prezentisto	1	2.2572	3.3536	p r e z e n t i s t o
+133	priskribi	1	2.2572	3.3536	p r i s k r i b i
+133	priskribus	1	2.2572	3.3536	p r i s k r i b u s
+133	procedis	1	2.2572	3.3536	p r o t͡s e d i s
+133	procedo	1	2.2572	3.3536	p r o t͡s e d o
+133	procedu	1	2.2572	3.3536	p r o t͡s e d u
+133	prononco	1	2.2572	3.3536	p r o n o n t͡s o
+133	psikologie	1	2.2572	3.3536	p s i k o l o ɡ i e
+133	pulvo	1	2.2572	3.3536	p u l v o
+133	purgatorio	1	2.2572	3.3536	p u r ɡ a t o r i o
+133	puŝo	1	2.2572	3.3536	p u ʃ o
+133	rekomendata	1	2.2572	3.3536	r e k o m e n d a t a
+133	rekomendis	1	2.2572	3.3536	r e k o m e n d i s
+133	rekomendita	1	2.2572	3.3536	r e k o m e n d i t a
+133	rekomendite	1	2.2572	3.3536	r e k o m e n d i t e
+133	relikvo	1	2.2572	3.3536	r e l i k v o
+133	remetas	1	2.2572	3.3536	r e m e t a s
+133	rondo	1	2.2572	3.3536	r o n d o
+133	rubuso	1	2.2572	3.3536	r u b u s o
+133	sagaca	1	2.2572	3.3536	s a ɡ a t͡s a
+133	salamandro	1	2.2572	3.3536	s a l a m a n d r o
+133	salomonoj	1	2.2572	3.3536	s a l o m o n o j
+133	sandalon	1	2.2572	3.3536	s a n d a l o n
+133	sekurigo	1	2.2572	3.3536	s e k u r i ɡ o
+133	senbezona	1	2.2572	3.3536	s e n b e z o n a
+133	senhelpa	1	2.2572	3.3536	s e n h e l p a
+133	senhonte	1	2.2572	3.3536	s e n h o n t e
+133	serĉo	1	2.2572	3.3536	s e r t ʃ o
+133	silko	1	2.2572	3.3536	s i l k o
+133	sklavinoj	1	2.2572	3.3536	s k l a v i n o j
+133	sklavojn	1	2.2572	3.3536	s k l a v o j n
+133	skribinta	1	2.2572	3.3536	s k r i b i n t a
+133	sledo	1	2.2572	3.3536	s l e d o
+133	sobra	1	2.2572	3.3536	s o b r a
+133	solida	1	2.2572	3.3536	s o l i d a
+133	sonaro	1	2.2572	3.3536	s o n a r o
+133	starantan	1	2.2572	3.3536	s t a r a n t a n
+133	statuso	1	2.2572	3.3536	s t a t u s o
+133	studanto	1	2.2572	3.3536	s t u d a n t o
+133	substanco	1	2.2572	3.3536	s u b s t a n t͡s o
+133	surtera	1	2.2572	3.3536	s u r t e r a
+133	tajli	1	2.2572	3.3536	t a j l i
+133	takto	1	2.2572	3.3536	t a k t o
+133	taverno	1	2.2572	3.3536	t a v e r n o
+133	telegrafo	1	2.2572	3.3536	t e l e ɡ r a f o
+133	tuteco	1	2.2572	3.3536	t u t e t s o
+133	unuope	1	2.2572	3.3536	u n u o p e
+133	urinas	1	2.2572	3.3536	u r i n a s
+133	vakera	1	2.2572	3.3536	v a k e r a
+133	varmeta	1	2.2572	3.3536	v a r m e t a
+133	violento	1	2.2572	3.3536	v i o l e n t o
+133	viperon	1	2.2572	3.3536	v i p e r o n
+133	vizaĝa	1	2.2572	3.3536	v i z a d ʒ a
+133	volinta	1	2.2572	3.3536	v o l i n t a
+133	zorgante	1	2.2572	3.3536	z o r ɡ a n t e
+133	zorgus	1	2.2572	3.3536	z o r ɡ u s
+133	ĉ	1	2.2572	3.3536	t ʃ  |  t ʃ o
+133	ĉiuspeca	1	2.2572	3.3536	t͡ʃ i u s p e t͡s a
+133	ĉizas	1	2.2572	3.3536	t ʃ i z a s
+133	ĝenantan	1	2.2572	3.3536	d ʒ e n a n t a n
+133	ĝenita	1	2.2572	3.3536	d ʒ e n i t a
+133	ĥaosa	1	2.2572	3.3536	x a o s a
+133	ŝampuo	1	2.2572	3.3536	ʃ a m p u o
+133	ŝatu	1	2.2572	3.3536	ʃ a t u
+133	ŝercanta	1	2.2572	3.3536	ʃ e r t s a n t a
+133	ŝerci	1	2.2572	3.3536	ʃ e r t s i
+133	ŝiros	1	2.2572	3.3536	ʃ i r o s
+133	ŝŝ	1	2.2572	3.3536	ʃ ʃ

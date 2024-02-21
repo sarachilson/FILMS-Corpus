@@ -1,0 +1,1843 @@
+Rank	Word	Frequency	Frequency per million	Zipf value	IPA
+1	aku	3776814	36634.7708	7.5639	a k u
+2	kau	2721704	26400.2946	7.4216	k a u̯
+3	yang	2350576	22800.3849	7.3579	j a ŋ
+4	dan	1431623	13886.6199	7.1426	d a n
+5	di	1423293	13805.8196	7.1401	d i
+6	dia	1406680	13644.675	7.135	d i a
+7	akan	1380150	13387.3362	7.1267	a k a n
+8	apa	1342811	13025.1512	7.1148	a p a
+9	kita	1209037	11727.5549	7.0692	k i t a
+10	ada	781364	7579.1636	6.8796	a d a
+11	mereka	746619	7242.1401	6.8599	m ə r e k a
+12	tahu	680427	6600.0834	6.8195	t a h u  |  t a u
+13	dengan	663316	6434.1081	6.8085	d ə ŋ a n
+14	anda	608791	5905.2203	6.7712	a n d a
+15	dari	606387	5881.9017	6.7695	d a r i
+16	saya	570947	5538.1368	6.7434	s a j a
+17	ya	570893	5537.613	6.7433	j a
+18	kami	529083	5132.0596	6.7103	k a m i
+19	harus	489411	4747.2446	6.6764	h a r ʊ s
+20	orang	437391	4242.6551	6.6276	o r a ŋ
+21	saja	427206	4143.8614	6.6174	s a d ʒ a
+22	kamu	416661	4041.5758	6.6066	k a m u
+23	adalah	411112	3987.751	6.6007	a d a l a h
+24	ingin	382381	3709.0628	6.5693	i ŋ i n
+25	pergi	370101	3589.9479	6.5551	p ə r ɡ i
+26	semua	352933	3423.4197	6.5345	s ə m u a
+27	sini	349469	3389.8192	6.5302	s i n i
+28	hanya	346251	3358.6049	6.5262	h a ɲ a
+29	dalam	341412	3311.667	6.52	d a l a m
+30	jadi	334245	3242.1477	6.5108	d ʒ a d i
+31	jangan	312618	3032.3677	6.4818	d͡ʒ a ŋ a n
+32	kalian	275268	2670.0759	6.4265	k a l i a n
+33	sangat	248274	2408.2364	6.3817	s a ŋ a t
+34	ayo	227125	2203.093	6.343	a j o
+35	satu	225120	2183.6446	6.3392	s a t u
+36	pernah	219030	2124.5722	6.3273	p ə r n a h
+37	telah	207691	2014.5848	6.3042	t ə l a h
+38	apakah	206755	2005.5057	6.3022	a p a k a h
+39	saat	202110	1960.4496	6.2924	s a ʔ a t
+40	kenapa	196214	1903.2589	6.2795	k ə n a p a
+41	datang	194987	1891.3571	6.2768	d a t a ŋ
+42	hal	192403	1866.2925	6.271	h a l
+43	atau	188738	1830.7424	6.2626	a t a u̯
+44	banyak	185261	1797.0158	6.2546	b a ɲ a k
+45	terima	177667	1723.3546	6.2364	t ə r i m a
+46	seorang	164529	1595.9171	6.203	s ə o r a ŋ
+47	masih	159237	1544.5852	6.1888	m a s i h
+48	tentang	158993	1542.2184	6.1881	t ə n t a ŋ
+49	bahwa	154685	1500.4312	6.1762	b a h w a
+50	tempat	146419	1420.2517	6.1524	t ə m p a t
+51	mana	146397	1420.0383	6.1523	m a n a
+52	waktu	142108	1378.4354	6.1394	w a k t u
+53	oke	139873	1356.7561	6.1325	ɔ k e
+54	keluar	138495	1343.3896	6.1282	k ə l u a r
+55	sekali	134355	1303.2319	6.115	s ə k a l i
+56	anak	132355	1283.8321	6.1085	a n a k  |  a n a ʔ
+57	malam	132093	1281.2907	6.1076	m a l a m
+58	sedang	131889	1279.312	6.107	s ə d a ŋ
+59	sampai	130888	1269.6023	6.1037	s a m p a i̯
+60	tahun	130781	1268.5644	6.1033	t a h ʊ n
+61	ayah	130651	1267.3035	6.1029	a j a h
+62	hidup	121929	1182.7008	6.0729	h i d u p
+63	mengapa	115193	1117.3622	6.0482	m ə ŋ a p a
+64	sama	111694	1083.4222	6.0348	s a m a
+65	salah	108721	1054.5843	6.0231	s a l a h
+66	dengar	107542	1043.1481	6.0183	d ə ŋ a r
+67	ia	105708	1025.3585	6.0109	i a
+68	besar	105187	1020.3048	6.0087	b ə s a r
+69	mengatakan	100834	978.0811	5.9904	m ə ŋ a t a k a n
+70	belum	98446	954.9177	5.98	b ə l ʊ m
+71	pikir	95962	930.8231	5.9689	p i k ɪ r
+72	bicara	93714	909.0177	5.9586	b i t͡ʃ a r a
+73	suka	93036	902.4412	5.9554	s u k a
+74	selalu	92324	895.5349	5.9521	s ə l a l u
+75	tuhan	90785	880.6067	5.9448	t u h a n
+76	mengerti	86823	842.1756	5.9254	m ə ŋ ə r t i
+77	pria	85599	830.3029	5.9192	p r i a̯  |  p ə r i a̯
+78	dunia	83070	805.7719	5.9062	d u n i a
+79	berada	82400	799.2729	5.9027	b ə r a d a
+80	lama	82139	796.7412	5.9013	l a m a
+81	jalan	81081	786.4787	5.8957	d ʒ a l a n
+82	boleh	79671	772.8018	5.8881	b o l e h
+83	terlalu	79411	770.2799	5.8866	t ə r l a l u
+84	menemukan	79382	769.9986	5.8865	m ə n ə m u k a n
+85	makan	78986	766.1574	5.8843	m a k a n
+86	tinggal	78631	762.7139	5.8824	t ɪ ŋ ɡ a l
+87	kali	77444	751.2001	5.8758	k a l i
+88	berhenti	77131	748.1641	5.874	b ə r h ə n t i
+89	ku	76698	743.964	5.8716	k u
+90	wanita	75852	735.7579	5.8667	w a n i t a
+91	membunuh	75551	732.8382	5.865	m ə m b u n ʊ h
+92	luar	75495	732.295	5.8647	l u a r
+93	kecil	74683	724.4187	5.86	k ə t ʃ i l
+94	cara	73705	714.9322	5.8543	t͡ʃ a r a
+95	mulai	73646	714.3599	5.8539	m u l a i̯
+96	mari	73075	708.8212	5.8505	m a r i
+97	butuh	69098	670.2447	5.8262	b u t u h
+98	dulu	66518	645.2189	5.8097	d u l u
+99	mencari	66342	643.5117	5.8086	m ə n t͡ʃ a r i
+100	uang	64626	626.8666	5.7972	ʊ a̯ ŋ
+101	tanpa	64100	621.7645	5.7936	t a n p a
+102	buruk	60506	586.903	5.7686	b u r ʊ k̚
+103	membawa	59793	579.987	5.7634	m ə m b a w a
+104	berapa	59202	574.2543	5.7591	b ə r a p a
+105	pulang	55575	539.0727	5.7316	p u l a ŋ
+106	takut	55543	538.7623	5.7314	t a k u t
+107	mobil	54125	525.0078	5.7202	m o b i l
+108	tidur	54008	523.873	5.7192	t i d u r
+109	sakit	53130	515.3564	5.7121	s a k ɪ t̚
+110	kota	52242	506.7429	5.7048	k o t a
+111	bodoh	49852	483.5601	5.6845	b o d o h
+112	tiga	49142	476.6732	5.6782	t i ɡ a
+113	ambil	49015	475.4413	5.6771	a m b ɪ l
+114	rasa	48684	472.2306	5.6742	r a s a
+115	berbicara	48142	466.9733	5.6693	b ə r b i t͡ʃ a r a
+116	bagian	48121	466.7696	5.6691	b a ɡ iʲ a n
+117	air	46150	447.651	5.6509	a ʔ ɪ r
+118	sialan	46053	446.7101	5.65	s i a l a n
+119	tepat	45815	444.4016	5.6478	t ə p a t
+120	hai	45702	443.3055	5.6467	h a ɪ
+121	tangan	44102	427.7856	5.6312	t a ŋ a n
+122	mendengar	43781	424.6719	5.6281	m ə n d ə ŋ a r
+123	cuma	43616	423.0714	5.6264	t͡ʃ u m a
+124	nanti	43351	420.501	5.6238	n a n t i
+125	bagi	43055	417.6298	5.6208	b a ɡ i
+126	si	42075	408.1239	5.6108	s i
+127	mu	41508	402.624	5.6049	m u
+128	menit	41483	402.3815	5.6046	m ə n ɪ t
+129	tenang	40712	394.9029	5.5965	t ə n a ŋ
+130	coba	40386	391.7407	5.593	t͡ʃ o b a
+131	pekerjaan	40228	390.2081	5.5913	p ə k ə r d ʒ a ʔ a n
+132	aman	40173	389.6746	5.5907	a m a n
+133	tua	39926	387.2788	5.588	t u a
+134	khawatir	38705	375.4352	5.5745	k a w a t i r  |  x a w a t i r
+135	duduk	38095	369.5182	5.5676	d u d ʊ k̚
+136	memberikan	37676	365.454	5.5628	m ə m b ə r i k a n
+137	i	37473	363.4849	5.5605	i  |  ɪ
+138	bulan	36909	358.0141	5.5539	b u l a n
+139	diam	36637	355.3757	5.5507	d i a m
+140	hampir	36440	353.4649	5.5483	h a m p i r  |  h a m p ɪ r
+141	kawan	35984	349.0417	5.5429	k a w a n
+142	a	35661	345.9086	5.539	a
+143	cari	35181	341.2527	5.5331	t͡ʃ a r i
+144	pintu	35038	339.8656	5.5313	p ɪ n t u
+145	hati	34027	330.059	5.5186	h a t i
+146	kapan	33254	322.5609	5.5086	k a p a n
+147	dekat	33211	322.1438	5.508	d ə k a t
+148	memberi	32098	311.3478	5.4932	m ə m b ə r i
+149	mata	32063	311.0083	5.4928	m a t a
+150	cantik	31620	306.7113	5.4867	t͡ʃ a n t i k
+151	bunuh	31595	306.4688	5.4864	b u n ʊ h
+152	berubah	31069	301.3666	5.4791	b ə r ʊ b a h
+153	jelas	31058	301.2599	5.4789	d͡ʒ ə l a s
+154	perang	31002	300.7167	5.4782	p ə r a ŋ
+155	beri	30446	295.3236	5.4703	b ə r i
+156	kapal	30424	295.1102	5.47	k a p a l
+157	dokter	29995	290.9489	5.4638	d ɔ k t ə r
+158	bangun	29711	288.1941	5.4597	b a ŋ ʊ n
+159	keras	29591	287.0302	5.4579	k ə r a s
+160	awak	28982	281.1229	5.4489	a w a k  |  a w a ʔ
+161	kabar	28662	278.0189	5.4441	k a b a r
+162	tau	28317	274.6725	5.4388	t a ʊ
+163	amerika	27894	270.5694	5.4323	a m e r i k a
+164	ruang	27882	270.453	5.4321	r u a ŋ
+165	kapten	27879	270.4239	5.432	k a p̚ t ɛ n
+166	paham	27872	270.356	5.4319	p a h a m
+167	makanan	27399	265.7679	5.4245	m a k a n a n
+168	hilang	27339	265.1859	5.4236	h i l a ŋ
+169	buku	27264	264.4585	5.4224	b u k u
+170	nah	27198	263.8183	5.4213	n a h
+171	meninggal	26013	252.3239	5.402	m ə n ɪ ŋ ɡ a l
+172	belajar	25710	249.3848	5.3969	b ə l a d͡ʒ a r
+173	bajingan	25492	247.2702	5.3932	b a d͡ʒ i ŋ a n
+174	buka	25471	247.0665	5.3928	b u k a
+175	lupa	25214	244.5736	5.3884	l u p a
+176	muda	24878	241.3145	5.3826	m u d a
+177	menikah	24807	240.6258	5.3813	m ə n i k a h
+178	menang	24787	240.4318	5.381	m ə n a ŋ
+179	suara	24602	238.6373	5.3777	s u a r a
+180	tinggi	24372	236.4063	5.3737	t i ŋ ɡ i
+181	telepon	24347	236.1638	5.3732	t ɛ l ɛ p ɔ n
+182	guru	24061	233.3896	5.3681	ɡ u r u
+183	cerita	24059	233.3702	5.368	t͡ʃ ə r i t a
+184	tanah	23469	227.6473	5.3573	t a n a h
+185	lucu	22992	223.0204	5.3483	l u t͡ʃ u
+186	agen	22169	215.0374	5.3325	a ɡ ɛ n
+187	memilih	21782	211.2835	5.3249	m ə m i l i h
+188	kira	21779	211.2544	5.3248	k i r a
+189	bumi	21600	209.5181	5.3212	b u m i
+190	tembak	21530	208.8391	5.3198	t e m b a k
+191	kesalahan	20837	202.1171	5.3056	k ə s a l a h a n
+192	bahasa	20761	201.3799	5.304	b a h a s a
+193	terbang	20727	201.0501	5.3033	t ə r b a ŋ
+194	empat	20247	196.3942	5.2931	ə m p a t
+195	sementara	20234	196.2681	5.2928	s ə m ə n t a r a
+196	benda	20193	195.8704	5.292	b ə n d a
+197	jawab	19936	193.3775	5.2864	d͡ʒ a w a p̚
+198	sempurna	19889	192.9216	5.2854	s ə m p u r n a
+199	panas	19761	191.68	5.2826	p a n a s
+200	perintah	19720	191.2823	5.2817	p ə r ɪ n t a h
+201	setuju	19071	184.9871	5.2671	s ə t u d͡ʒ u
+202	film	18628	180.69	5.2569	f ɪ l ə m  |  p e l ə m
+203	permainan	18480	179.2544	5.2535	p ə r m a i n a n
+204	surat	18459	179.0507	5.253	s u r a t
+205	pembunuh	18405	178.5269	5.2517	p ə m b u n ʊ h
+206	berbahaya	18137	175.9273	5.2453	b ə r b a h a j a
+207	bila	18028	174.87	5.2427	b i l a
+208	tanda	17906	173.6867	5.2398	t a n d a
+209	kurang	17669	171.3878	5.234	k u r a ŋ
+210	dingin	17532	170.0589	5.2306	d i ŋ ɪ n
+211	menangkap	17246	167.2847	5.2235	m ə n a ŋ k a p̚
+212	tugas	16920	164.1225	5.2152	t u ɡ a s
+213	mengenai	16800	162.9586	5.2121	m ə ɲ ə n a i
+214	harap	16487	159.9225	5.2039	h a r a p
+215	membaca	16437	159.4375	5.2026	m ə m b a t ʃ a
+216	membeli	16424	159.3114	5.2022	m ə m b e l i
+217	saudara	16373	158.8167	5.2009	s a u̯ d a r a
+218	hadiah	16172	156.867	5.1955	h a d i j a h
+219	juta	16090	156.0716	5.1933	d͡ʒ u t a
+220	makhluk	16081	155.9843	5.1931	m a x l ʊ k̚
+221	bebas	15936	154.5778	5.1891	b ɛ b a s
+222	dewa	15729	152.5699	5.1835	d ɛ w a
+223	informasi	15678	152.0753	5.1821	i n f ɔ r m a s i
+224	merah	15636	151.6679	5.1809	m ə r a h  |  m ɛ r a h
+225	hukum	15635	151.6582	5.1809	h u k ʊ m
+226	siang	15590	151.2217	5.1796	s i a ŋ
+227	mengubah	15537	150.7076	5.1781	m ə ŋ u b a h
+228	bukti	15507	150.4166	5.1773	b u k t i
+229	mampu	15454	149.9025	5.1758	m a m p u
+230	lantai	15166	147.1089	5.1676	l a n t a i̯
+231	wajah	15114	146.6045	5.1661	w a d͡ʒ a h
+232	kakak	14951	145.0234	5.1614	k a k a ʔ
+233	tentara	14858	144.1213	5.1587	t ə n t a r a
+234	dolar	14825	143.8012	5.1578	d o l a r
+235	sadar	14652	142.1231	5.1527	s a d a r
+236	pribadi	14484	140.4936	5.1477	p r i b a d i
+237	utara	14368	139.3684	5.1442	u t a r a
+238	istri	14362	139.3102	5.144	i s t r i
+239	jaga	14271	138.4275	5.1412	d͡ʒ a ɡ a
+240	kabur	14011	135.9055	5.1332	k a b ʊ r
+240	pahlawan	14011	135.9055	5.1332	p a h l a w a n
+241	panjang	13993	135.7309	5.1327	p a n d͡ʒ a ŋ
+242	nyonya	13755	133.4223	5.1252	ɲ o ɲ a
+243	matahari	13577	131.6957	5.1196	m a t a h a r i
+244	kartu	13359	129.5812	5.1125	k a r t u
+245	utama	13117	127.2338	5.1046	u t a m a
+246	hutan	12998	126.0795	5.1006	h u t a n
+247	ahli	12615	122.3644	5.0877	a h l i
+248	ratu	12611	122.3256	5.0875	r a t u
+249	cahaya	12438	120.6475	5.0815	t͡ʃ a h a j a
+250	toko	12310	119.4059	5.077	t o k o
+251	perasaan	12220	118.5329	5.0738	p ə r a s a a n
+252	ditemukan	12142	117.7764	5.0711	d i t ə m u k a n
+253	tangkap	12110	117.466	5.0699	t a ŋ k a p̚
+254	bahaya	12033	116.7191	5.0671	b a h a j a
+255	alat	11887	115.3029	5.0618	a l a t
+256	main	11819	114.6433	5.0593	m a i n
+257	merupakan	11814	114.5948	5.0592	m ə r u p a k a n
+258	emas	11660	113.101	5.0535	ə m a s
+259	l	11475	111.3065	5.0465	l  |  ɛ l
+260	berangkat	11442	110.9864	5.0453	b ə r a ŋ k a t
+261	bank	11220	108.833	5.0368	b a ŋ
+262	pistol	11150	108.154	5.034	p ɪ s t ɔ l
+263	tanya	10992	106.6215	5.0278	t a ɲ a
+264	es	10991	106.6118	5.0278	ɛ s
+265	go	10986	106.5633	5.0276	ɡ o
+266	awas	10907	105.797	5.0245	a w a s
+267	ikan	10893	105.6612	5.0239	i k a n
+268	sampah	10774	104.5069	5.0191	s a m p a h
+269	bohong	10756	104.3323	5.0184	b o h o n ɡ
+270	keparat	10748	104.2547	5.0181	k ə p a r a t
+271	rusak	10735	104.1286	5.0176	r u s a k̚  |  r u s a ʔ
+272	bunga	10691	103.7018	5.0158	b u ŋ a
+273	kopi	10686	103.6533	5.0156	k o p i
+274	hancur	10596	102.7803	5.0119	h a n t͡ʃ ʊ r
+275	jiwa	10466	101.5193	5.0065	d͡ʒ i w a
+276	daerah	10448	101.3447	5.0058	d a ɛ r a h
+277	lubang	10396	100.8403	5.0036	l u b a ŋ
+278	membangun	10355	100.4426	5.0019	m ə m b a ŋ ʊ n
+279	mayat	10315	100.0546	5.0002	m a j a t̚
+280	lemah	10205	98.9876	4.9956	l ə m a h
+281	terkenal	10163	98.5802	4.9938	t ə r k ə n a l
+282	hewan	10123	98.1922	4.9921	h e w a n
+283	binatang	10017	97.164	4.9875	b i n a t a ŋ
+284	menjelaskan	9965	96.6596	4.9852	m ə n d͡ʒ ə l a s k a n
+285	langit	9688	93.9728	4.973	l ɑː ŋ ɪ t̚
+286	mengingat	9642	93.5266	4.9709	m ə ŋ ɪ ŋ a t̚
+287	tindakan	9326	90.4614	4.9565	t ɪ n d a k a n
+288	sungai	9312	90.3256	4.9558	s u ŋ a i̯
+289	negeri	9301	90.2189	4.9553	n ə ɡ ə r i
+290	harga	9253	89.7533	4.9531	h a r ɡ a
+291	sepatu	9186	89.1034	4.9499	s ə p a t u
+292	merusak	9184	89.084	4.9498	m ə r u s a ʔ
+293	timur	9166	88.9094	4.9489	t i m ʊ r
+294	menyimpan	9149	88.7445	4.9481	m ə ɲ i m p a n
+295	memukul	8995	87.2507	4.9408	m ə m u k ʊ l
+296	pelacur	8932	86.6396	4.9377	p ə l a t͡ʃ ʊ r
+297	adil	8833	85.6793	4.9329	a d i l
+298	target	8774	85.107	4.93	t a r ɡ ɛ t̚
+299	jantung	8733	84.7093	4.9279	d͡ʒ a n t ʊ ŋ
+300	b	8660	84.0013	4.9243	b  |  b e
+301	putus	8648	83.8849	4.9237	p u t ʊ s
+302	terbesar	8615	83.5648	4.922	t ə r b ə s a r
+303	kucing	8581	83.235	4.9203	k u t͡ʃ ɪ ŋ
+304	up	8516	82.6045	4.917	u p e
+305	tas	8376	81.2465	4.9098	t a s
+306	jerman	8273	80.2474	4.9044	d͡ʒ e r m a n
+307	jepang	8135	78.9088	4.8971	d͡ʒ ə p a ŋ
+308	suami	8111	78.676	4.8958	s u a̯ m i
+309	gigi	8048	78.0649	4.8925	ɡ i ɡ i
+310	beli	7976	77.3665	4.8886	b ə l i
+311	ayam	7941	77.027	4.8866	a j a m
+312	tukang	7819	75.8436	4.8799	t u k a ŋ
+313	sehat	7742	75.0967	4.8756	s ɛ h a t̚
+314	memakan	7736	75.0385	4.8753	m ə m a k a n
+315	teh	7603	73.7484	4.8678	t ɛ h
+316	rendah	7580	73.5253	4.8664	r ə n d a h
+317	kencan	7463	72.3905	4.8597	k ə n t͡ʃ a n
+318	natal	7450	72.2644	4.8589	n a t a l
+319	penyakit	7393	71.7115	4.8556	p ə ɲ a k ɪ t
+320	babi	7326	71.0616	4.8516	b a b i
+321	profesor	7232	70.1498	4.846	p r o f ɛ s ɔ r
+322	pemain	7226	70.0916	4.8457	p ə m a i n
+323	jari	7171	69.5581	4.8423	d ʒ a r i
+324	o	7157	69.4223	4.8415	o
+325	halaman	7135	69.2089	4.8402	h a l a m a n
+326	sumber	7073	68.6075	4.8364	s ʊ m b ə r
+327	baca	7053	68.4135	4.8351	b a t͡ʃ a
+328	mantan	7027	68.1613	4.8335	m a n t a n
+329	papa	7026	68.1516	4.8335	p a p a
+330	surga	6945	67.3659	4.8284	s u r ɡ a
+331	istimewa	6934	67.2592	4.8278	ɪ s t i m ɛ w a
+331	tahanan	6934	67.2592	4.8278	t a h a n a n
+332	angkasa	6923	67.1525	4.8271	a ŋ k a s a
+333	komandan	6913	67.0555	4.8264	k o m a n d a n
+334	ancaman	6906	66.9876	4.826	a n t͡ʃ a m a n
+335	seksi	6876	66.6966	4.8241	s ɛ k s i
+336	m	6850	66.4444	4.8225	m  |  ɛ m
+337	d	6786	65.8236	4.8184	d  |  d e
+338	masyarakat	6784	65.8042	4.8183	m a ʃ a r a k a t̚
+339	suci	6773	65.6975	4.8175	s u t͡ʃ i
+340	menyerahkan	6710	65.0864	4.8135	m ə ɲ ə r a h k a n
+341	allah	6668	64.679	4.8108	a l a h  |  a l l a h  |  a w l a h  |  ɑ l l ɑ h  |  ɑ w l o h
+342	lapangan	6657	64.5723	4.81	l a p a ŋ a n
+343	klub	6643	64.4365	4.8091	k l u p
+344	sore	6636	64.3686	4.8087	s o r e
+345	ponsel	6591	63.9321	4.8057	p o n s ɛ l
+346	kuno	6580	63.8254	4.805	k u n o
+347	mencium	6433	62.3995	4.7952	m ə ɲ t͡ʃ i u m
+348	daya	6424	62.3122	4.7946	d a j a
+349	ditangkap	6335	61.449	4.7885	d i t a ŋ k a p̚
+350	mengendalikan	6312	61.2259	4.7869	m ə ŋ ə n d a l i k a n
+351	hukuman	6252	60.6439	4.7828	h u k u m a n
+352	bersedia	6232	60.4499	4.7814	a b o n ə m ɛ n
+353	biaya	6129	59.4508	4.7742	b i a j a
+354	membakar	6110	59.2665	4.7728	m ə m b a k a r
+355	resmi	6088	59.0531	4.7712	r ə s m i
+356	budak	5985	58.054	4.7638	b u d a k  |  b u d a ʔ
+357	peta	5972	57.9279	4.7629	p ə t a
+358	kertas	5959	57.8018	4.7619	k ə r t a s
+359	hangat	5856	56.8027	4.7544	h a ŋ a t
+360	pertahanan	5833	56.5796	4.7527	p ə r t a h a n a n
+361	buta	5824	56.4923	4.752	b u t a
+362	dewan	5816	56.4147	4.7514	d ɛ w a n
+363	e	5761	55.8812	4.7473	e  |  ə  |  ɛ
+364	sabar	5712	55.4059	4.7436	s a b a r
+365	umur	5702	55.3089	4.7428	u m ʊ r
+366	menara	5697	55.2604	4.7424	m ə n a r a
+367	lawan	5629	54.6008	4.7372	l a w a n
+368	terburuk	5553	53.8636	4.7313	t ə r b u r ʊ k̚
+369	bus	5440	52.7675	4.7224	b ʊ s
+370	kuliah	5419	52.5638	4.7207	k u l i a h
+371	beruang	5368	52.0691	4.7166	b ə r u a̯ ŋ
+372	pekan	5346	51.8557	4.7148	p ə k a n
+373	menghasilkan	5301	51.4192	4.7111	m ə ŋ h a s i l k a n
+374	c	5248	50.9051	4.7068	s e  |  t ʃ  |  t͡ʃ e
+375	markas	5221	50.6433	4.7045	m a r k a s
+376	kebakaran	5162	50.071	4.6996	k ə b a k a r a n
+377	sma	5085	49.3241	4.6931	ɛ s ɛ m a  |  ɛ s ɛ m ʔ a
+378	pembohong	5011	48.6063	4.6867	p ə m b o h o n ɡ
+379	proyek	4990	48.4026	4.6849	p r o j ɛ k
+380	teori	4926	47.7818	4.6793	t e o r i
+381	bapa	4922	47.743	4.6789	b a p a
+382	dana	4912	47.646	4.678	d a n a
+383	sembuh	4910	47.6266	4.6778	s ə m b ʊ h
+384	pendeta	4876	47.2968	4.6748	p ə n d ɛ t a
+385	bandara	4867	47.2095	4.674	b a n d a r a
+386	x	4838	46.9282	4.6714	s , k s  |  ɛ k s
+387	bangsa	4828	46.8312	4.6705	b a ŋ s a
+388	kendaraan	4813	46.6857	4.6692	k ə n d a r a ʔ a n
+389	kebebasan	4808	46.6372	4.6687	k ə b ɛ b a s a n
+390	percobaan	4797	46.5305	4.6677	p ə r t͡ʃ o b a a n
+391	harta	4783	46.3947	4.6665	h a r t a
+392	hadir	4776	46.3268	4.6658	h a d i r  |  h a d ɪ r
+393	angka	4773	46.2977	4.6656	a ŋ k a
+394	gua	4760	46.1716	4.6644	ɡ u a
+395	toilet	4725	45.8321	4.6612	t o i̯ l ɛ t̚
+396	gudang	4721	45.7933	4.6608	ɡ u d a ŋ
+397	kekuasaan	4695	45.5411	4.6584	k ə k u a s a a n
+398	taksi	4634	44.9494	4.6527	t a k̚ s i
+399	siswa	4600	44.6196	4.6495	s ɪ s w a
+400	memasak	4599	44.6099	4.6494	m ə m a s a k̚
+401	ragu	4578	44.4062	4.6474	r a ɡ u
+402	kaisar	4534	43.9794	4.6432	k a i s a r
+403	bangsat	4487	43.5235	4.6387	b a ŋ s a t
+404	beliau	4485	43.5041	4.6385	b ə l i a u̯
+405	proses	4450	43.1646	4.6351	p r o s ɛ s
+406	pantat	4403	42.7087	4.6305	p a n t a t̚
+407	kaca	4398	42.6602	4.63	k a t͡ʃ a
+408	bapak	4361	42.3013	4.6264	b a p a ʔ
+409	komunikasi	4254	41.2634	4.6156	k o m u n i k a s i
+410	menyatakan	4230	41.0306	4.6131	m ə ɲ a t a k a n
+411	muka	4175	40.4971	4.6074	m u k a
+412	menjijikkan	4174	40.4874	4.6073	m ə n d͡ʒ i d͡ʒ ɪ ʔ k a n
+413	menyebar	4145	40.2061	4.6043	m ə ɲ ə b a r
+414	china	4142	40.177	4.604	t͡ʃ ɪ n a
+415	cuaca	4111	39.8763	4.6007	t͡ʃ u a t͡ʃ a
+416	abad	4089	39.6629	4.5984	a b a t̚
+417	kolam	4073	39.5077	4.5967	k o l a m
+418	kepolisian	4068	39.4592	4.5961	k ə p o l i s i a n
+419	lurus	4036	39.1489	4.5927	l u r u s
+420	arti	3975	38.5572	4.5861	a r t i
+421	sayap	3945	38.2662	4.5828	s a j a p̚
+422	kuil	3940	38.2177	4.5823	k u ɪ l
+423	aktif	3890	37.7327	4.5767	a k̚ t ɪ f  |  a k̚ t ɪ p
+424	kelinci	3865	37.4902	4.5739	k ə l ɪ n t͡ʃ i
+425	lompat	3862	37.4611	4.5736	l ɔ m p a t̚
+426	perut	3844	37.2865	4.5716	p ə r ʊ t̚
+427	pemeriksaan	3811	36.9664	4.5678	a b o n ə m ɛ n
+428	dokumen	3797	36.8306	4.5662	d o k u m ɛ n
+429	lengan	3788	36.7433	4.5652	l ə ŋ a n
+430	not	3773	36.5978	4.5635	n ɔ t
+431	danau	3729	36.171	4.5584	d a n a u̯
+432	kering	3701	35.8994	4.5551	k ə r ɪ ŋ
+433	medan	3655	35.4532	4.5497	m ɛ d a n
+434	beban	3650	35.4047	4.5491	b ə b a n
+435	menggali	3645	35.3562	4.5485	m ə ŋ ɡ a l i
+436	sepeda	3628	35.1913	4.5464	s ə p ɛ d a
+437	keturunan	3583	34.7548	4.541	k ə t u r u n a n
+438	perawat	3576	34.6869	4.5402	p ə r a w a t
+439	dansa	3574	34.6675	4.5399	d a n s a
+440	am	3535	34.2892	4.5352	a m
+441	pelatihan	3533	34.2698	4.5349	p ə l a t ɪ h a n
+442	n	3508	34.0273	4.5318	n  |  ɛ n
+443	dosa	3502	33.9691	4.5311	d o s a
+444	pelan	3491	33.8624	4.5297	p e l a n  |  p ə l a n
+445	kebun	3488	33.8333	4.5293	k ə b ʊ n
+446	memasang	3482	33.7751	4.5286	m ə m a s a ŋ
+447	g	3456	33.5229	4.5253	ɡ  |  ɡ e
+448	contoh	3455	33.5132	4.5252	t͡ʃ ɔ n t ɔ h
+448	sipil	3455	33.5132	4.5252	s i p ɪ l
+449	h	3453	33.4938	4.525	h  |  h a
+450	layanan	3420	33.1737	4.5208	l a j a n a n
+451	jadwal	3416	33.1349	4.5203	d͡ʒ a t̚ w a l
+452	mantra	3407	33.0476	4.5191	m a n t r a
+453	k	3405	33.0282	4.5189	k  |  k a
+454	karya	3379	32.776	4.5156	k a r i a  |  k a r j a
+455	geng	3376	32.7469	4.5152	ɡ ɛ ŋ
+456	dorong	3375	32.7372	4.515	d o r o ŋ
+457	permukaan	3373	32.7178	4.5148	p ə r m u k a a n  |  p ə r m u k a ʔ a n
+458	grup	3368	32.6693	4.5141	ɡ r ʊ p̚
+459	abu	3340	32.3977	4.5105	a b u
+460	makasih	3328	32.2813	4.509	m a k a s ɪ h
+461	persen	3323	32.2328	4.5083	p ə r s ɛ n
+462	waspada	3317	32.1746	4.5075	w a s p a d a
+463	dom	3315	32.1552	4.5073	d ɔ m
+464	tangguh	3314	32.1455	4.5071	t a ŋ ɡ ʊ h
+465	april	3275	31.7672	4.502	a p̚ r ɪ l
+466	rumput	3266	31.6799	4.5008	r ʊ m p ʊ t̚
+467	luas	3264	31.6605	4.5005	l u a s
+468	cakap	3255	31.5732	4.4993	t͡ʃ a k a p
+469	gay	3237	31.3986	4.4969	ɡ a y
+470	dimakan	3205	31.0882	4.4926	d i m a k a n
+471	engkau	3147	30.5256	4.4847	ə ŋ k a u̯
+472	efek	3144	30.4965	4.4842	ɛ f ɛ k
+473	tambah	3132	30.3801	4.4826	t a m b a h
+474	seharian	3094	30.0115	4.4773	s ə h a r i a n  |  s ə h a r i j a n
+475	kedatangan	3093	30.0018	4.4771	k ə d a t a ŋ a n
+476	baja	3091	29.9824	4.4769	b a d͡ʒ a
+477	perdana	3078	29.8563	4.475	p ə r d a n a
+478	bertambah	3063	29.7108	4.4729	b ə r t a m b a h
+479	kompetisi	3046	29.5459	4.4705	k ɔ m p ə t i s i
+480	rs	3014	29.2355	4.4659	ɛ r ɛ s
+481	mei	2981	28.9154	4.4611	m e i̯
+482	gula	2971	28.8184	4.4597	ɡ u l a
+483	y	2896	28.091	4.4486	j
+484	bijaksana	2844	27.5866	4.4407	b i d͡ʒ a k s a n a
+485	memaafkan	2831	27.4605	4.4387	m ə m a a f k a n
+485	udah	2831	27.4605	4.4387	u d a h
+486	internasional	2805	27.2083	4.4347	i n t ə r n a s i o n a l
+487	risiko	2801	27.1695	4.4341	r i s i k o
+488	ekor	2792	27.0822	4.4327	ɛ k o r  |  ɛ k ɔ r
+489	tank	2731	26.4905	4.4231	t a ŋ  |  t ɛ ŋ k
+490	bijak	2704	26.2286	4.4188	b i d͡ʒ a k
+491	ketinggalan	2703	26.2189	4.4186	k ə t i ŋ ɡ a l a n
+491	menuntut	2703	26.2189	4.4186	m ə n u n t ʊ t
+492	cowok	2700	26.1898	4.4181	t ʃ o w o ʔ
+493	j	2692	26.1122	4.4168	d͡ʒ  |  d͡ʒ e
+494	gubernur	2654	25.7436	4.4107	ɡ u b ə r n ʊ r
+495	jumat	2648	25.6854	4.4097	d͡ʒ u m a t
+496	huruf	2634	25.5496	4.4074	h u r ʊ f
+497	calon	2621	25.4235	4.4052	t͡ʃ a l o n
+498	ialah	2610	25.3168	4.4034	i a l a h
+499	masak	2608	25.2974	4.4031	m a s a k̚
+500	pemerintahan	2586	25.084	4.3994	p ə m ə r i n t a h a n
+501	industri	2585	25.0743	4.3992	ɪ n d ʊ s t r i
+502	mempengaruhi	2583	25.0549	4.3989	m ə m p ə ŋ a r u h i
+503	senin	2578	25.0064	4.3981	s ə n ɪ n
+504	maya	2569	24.9191	4.3965	m a j a
+505	langka	2564	24.8706	4.3957	l a ŋ k a
+506	laki	2559	24.8221	4.3948	l a k i
+507	produk	2553	24.7639	4.3938	p r o d a k  |  p r o d ʊ k
+508	hamba	2552	24.7542	4.3936	h a m b a
+509	sepupu	2551	24.7445	4.3935	s ə p u p u
+510	favorit	2541	24.6475	4.3918	f a v o r ɪ t̚
+511	unik	2519	24.4341	4.388	u n i k
+512	pengawasan	2506	24.308	4.3857	p ə ŋ a w a s a n
+513	pola	2480	24.0558	4.3812	p o l a
+514	pangkalan	2472	23.9782	4.3798	p a ŋ k a l a n
+515	bang	2448	23.7454	4.3756	b a ŋ
+516	pejabat	2446	23.726	4.3752	p ə d͡ʒ a b a t
+517	gang	2431	23.5805	4.3726	ɡ a ŋ
+518	tampil	2420	23.4738	4.3706	t a m p i l
+519	keempat	2416	23.435	4.3699	k ə ə m p a t
+520	amin	2409	23.3671	4.3686	a m ɪ n
+521	tempur	2403	23.3089	4.3675	t ə m p ʊ r
+522	indonesia	2380	23.0858	4.3633	i n d o n ɛ s j a  |  i n d o n ɛ ʃ a  |  ɛ n d o n ɛ s j a
+523	semalaman	2370	22.9888	4.3615	s ə m a l a m a n
+524	ajar	2369	22.9791	4.3613	a d͡ʒ a r
+524	gempa	2369	22.9791	4.3613	ɡ ə m p a
+525	harimau	2363	22.9209	4.3602	h a r i m a u̯
+526	karna	2356	22.853	4.3589	k a r n a
+527	tato	2342	22.7172	4.3564	t a t o
+528	menilai	2308	22.3874	4.35	m ə n i l a i
+529	bendera	2306	22.368	4.3496	b ə n d ɛ r a
+530	kacamata	2287	22.1837	4.346	k a t͡ʃ a m a t a
+531	cokelat	2281	22.1255	4.3449	t ʃ ɔ k ə l a t
+532	bagai	2271	22.0285	4.343	b a ɡ a i̯
+533	ranjang	2269	22.0091	4.3426	r a ɲ d ʒ a ŋ
+534	tamat	2259	21.9121	4.3407	t a m a t̚
+535	avatar	2255	21.8733	4.3399	a v a t a r
+536	staf	2252	21.8442	4.3393	s t a f
+537	atur	2242	21.7472	4.3374	a t ʊ r
+538	pujian	2219	21.5241	4.3329	p u j i a n
+539	meraih	2209	21.4271	4.331	m ə r a i h
+540	hendak	2206	21.398	4.3304	h ə n d a k̚
+541	sarung	2182	21.1652	4.3256	s a r ʊ ŋ
+542	pengawas	2180	21.1458	4.3252	p ə ŋ a w a s
+543	f	2175	21.0973	4.3242	f  |  ɛ f
+544	jarum	2167	21.0197	4.3226	d͡ʒ a r ʊ m
+545	tertinggal	2154	20.8936	4.32	t ə r t ɪ ŋ ɡ a l
+546	terkait	2134	20.6996	4.316	t ə r k a ɪ t̚
+547	suster	2115	20.5153	4.3121	s u s t ə r
+548	koper	2096	20.331	4.3082	k o p ə r
+549	bak	2083	20.2049	4.3055	b a k  |  b ɑ k
+550	bela	2073	20.1079	4.3034	b ɛ l a
+551	dicari	2042	19.8072	4.2968	d i t͡ʃ a r i
+552	celaka	2019	19.5841	4.2919	t͡ʃ ə l a k a
+553	ken	2007	19.4677	4.2893	k ɛ n
+553	orangtua	2007	19.4677	4.2893	o r a ŋ t u a
+554	menghadiri	1997	19.3707	4.2871	m ə ŋ h a d i r i
+555	bel	1996	19.361	4.2869	b ə l  |  b ɛ l
+556	gajah	1994	19.3416	4.2865	ɡ a d͡ʒ a h
+556	koneksi	1994	19.3416	4.2865	k o n ɛ k s i
+557	televisi	1982	19.2252	4.2839	t e l e v i s i
+558	kitab	1968	19.0894	4.2808	k i t a p̚
+559	kristen	1966	19.07	4.2804	k r ɪ s t ə n
+560	doa	1954	18.9536	4.2777	d o a
+561	juni	1951	18.9245	4.277	d͡ʒ u n i
+562	menambah	1950	18.9148	4.2768	m ə n a m b a h
+563	cairan	1941	18.8275	4.2748	t͡ʃ a ɪ r a n
+564	perawan	1940	18.8178	4.2746	p ə r a w a n
+565	cedera	1937	18.7887	4.2739	t͡ʃ ə d ə r a
+566	curi	1931	18.7305	4.2725	t ʃ u r i
+567	sepak	1930	18.7208	4.2723	s e p a k̚  |  s ə p a k̚
+568	upaya	1919	18.6141	4.2698	ʊ p a j a
+569	pemberontakan	1895	18.3813	4.2644	p ə m b ə r ɔ n t a k a n
+570	sofa	1889	18.3231	4.263	s o f a
+571	curiga	1884	18.2746	4.2618	t͡ʃ u r i ɡ a
+572	menghukum	1883	18.2649	4.2616	m ə ŋ h u k ʊ m
+573	menurun	1868	18.1194	4.2581	m ə n u r ʊ n
+574	lalat	1854	17.9836	4.2549	l a l a t̚
+575	budaya	1825	17.7023	4.248	b u d a j a
+576	koki	1816	17.615	4.2459	k o k i
+577	asrama	1812	17.5762	4.2449	a s r a m a
+578	resep	1794	17.4016	4.2406	r ə s ɛ p
+579	homo	1790	17.3628	4.2396	h o m o
+580	perkara	1786	17.324	4.2386	p ə r k a r a
+581	sopir	1780	17.2658	4.2372	s o p ɪ r
+582	kastil	1747	16.9457	4.2291	k a s t ɪ l
+583	belanja	1746	16.936	4.2288	b ə l a n d͡ʒ a
+584	efektif	1745	16.9263	4.2286	ɛ f ɛ k̚ t ɪ f
+585	rem	1738	16.8585	4.2268	r ɛ m
+586	bahu	1732	16.8003	4.2253	b a h u
+587	kedutaan	1716	16.6451	4.2213	k ə d u t a a n
+588	tangki	1714	16.6257	4.2208	t a ŋ k i
+589	pelajar	1713	16.616	4.2205	p ə l a d͡ʒ a r
+590	prioritas	1709	16.5772	4.2195	p r i o r i t a s
+590	subjek	1709	16.5772	4.2195	s u b d͡ʒ ɛ k
+591	konfirmasi	1706	16.5481	4.2187	k ɔ n f ɪ r m a s i
+592	kembang	1703	16.519	4.218	k ə m b a ŋ
+593	arab	1702	16.5093	4.2177	a r a p
+594	erat	1693	16.422	4.2154	ə r a t
+595	tersebar	1685	16.3444	4.2134	t ə r s ə b a r
+596	granat	1684	16.3347	4.2131	ɡ r a n a t̚
+597	juli	1672	16.2183	4.21	d͡ʒ u l i
+598	paduka	1671	16.2086	4.2097	p a d u k a
+599	nasi	1651	16.0146	4.2045	n a s i
+600	dijelaskan	1635	15.8594	4.2003	d i d͡ʒ ə l a s k a n
+601	berlibur	1634	15.8497	4.2	b ə r l i b ʊ r
+602	masakan	1599	15.5102	4.1906	m a s a k̚ a n
+603	membangunkan	1594	15.4617	4.1893	m ə m b a ŋ ʊ n k a n
+604	regu	1583	15.355	4.1862	r ə ɡ u
+605	biro	1566	15.1901	4.1816	b i r o
+606	struktur	1565	15.1804	4.1813	s t r ʊ k t ʊ r
+607	frekuensi	1563	15.161	4.1807	f r e k u ɛ n s i
+608	guna	1554	15.0737	4.1782	ɡ u n a
+609	mantel	1545	14.9864	4.1757	m a n t ə l
+610	iman	1540	14.9379	4.1743	i m a n
+611	kamis	1509	14.6372	4.1655	k a m ɪ s
+612	handuk	1507	14.6178	4.1649	h a n d ʊ k̚
+613	aktivitas	1503	14.579	4.1637	a k̚ t i f i t a s  |  a k̚ t i p i t a s  |  a k̚ t i v i t a s
+614	canggih	1502	14.5693	4.1634	t͡ʃ a ŋ ɡ i h
+615	ana	1492	14.4723	4.1605	a n a
+616	saudari	1487	14.4238	4.1591	s a u̯ d a r i
+617	bab	1486	14.4141	4.1588	b a b
+618	sim	1485	14.4044	4.1585	s ɪ m
+619	z	1484	14.3947	4.1582	s  |  z
+620	detail	1481	14.3656	4.1573	d ə t a ɪ l
+621	polis	1480	14.3559	4.157	p o l ɪ s
+622	jagung	1469	14.2492	4.1538	d͡ʒ a ɡ ʊ ŋ
+622	sa	1469	14.2492	4.1538	s a
+623	september	1456	14.1231	4.1499	s ɛ p̚ t ɛ m b ə r
+624	kombinasi	1449	14.0552	4.1478	k ɔ m b i n a s i
+625	kabut	1443	13.997	4.146	k a b ʊ t̚
+626	budi	1442	13.9873	4.1457	b u d i
+627	kuku	1440	13.9679	4.1451	k u k u
+627	oktober	1440	13.9679	4.1451	ɔ k̚ t o b ə r
+628	palu	1433	13.9	4.143	p a l u
+629	biksu	1432	13.8903	4.1427	b i k s u
+630	w	1424	13.8127	4.1403	w  |  w ɛ
+631	doktor	1423	13.803	4.14	d ɔ k t ɔ r
+631	tatap	1423	13.803	4.14	t a t a p̚
+632	skor	1419	13.7642	4.1388	s k o r
+633	swasta	1416	13.7351	4.1378	s w a s t a
+634	laksamana	1413	13.706	4.1369	l a k s a m a n a
+634	mitos	1413	13.706	4.1369	m i t o s
+634	seri	1413	13.706	4.1369	s e r i  |  s ə r i
+635	skala	1412	13.6963	4.1366	s ə̆ k a l a
+636	spesifik	1409	13.6672	4.1357	s p ɛ s i f ɪ k̚
+637	kontes	1401	13.5896	4.1332	k ɔ n t ɛ s
+638	lekas	1397	13.5508	4.132	l ə k a s
+639	prinsip	1383	13.415	4.1276	p r ɪ n s ɪ p̚
+640	akademi	1381	13.3956	4.127	a k a d e m i
+641	penyamaran	1364	13.2307	4.1216	p ə ɲ a m a r a n
+642	asam	1355	13.1434	4.1187	a s a m
+642	roman	1355	13.1434	4.1187	r o m a n
+643	sangka	1340	12.9979	4.1139	s a ŋ k a
+644	pr	1339	12.9882	4.1135	p ɛ ɛ r
+645	catur	1338	12.9785	4.1132	t͡ʃ a t u r
+646	banci	1322	12.8233	4.108	b a n t͡ʃ i
+647	batang	1321	12.8136	4.1077	b a t a ŋ
+648	komite	1320	12.8039	4.1073	k o m i t e
+649	jamur	1312	12.7263	4.1047	d͡ʒ a m ʊ r
+649	wali	1312	12.7263	4.1047	w a l i
+650	landasan	1294	12.5517	4.0987	l a n d a s a n
+651	penakut	1293	12.542	4.0984	p ə n a k u t
+651	samurai	1293	12.542	4.0984	s a m u r a i
+652	segel	1283	12.445	4.095	s ɛ ɡ ə l
+653	desember	1282	12.4353	4.0947	d e s ɛ m b ə r
+654	tabib	1276	12.3771	4.0926	t a b ɪ p̚
+655	kawasan	1274	12.3577	4.0919	k a w a s a n
+656	arsip	1257	12.1928	4.0861	a r s i p
+657	agustus	1256	12.1831	4.0858	a ɡ ʊ s t ʊ s
+658	bioskop	1255	12.1734	4.0854	b i o s k o p
+659	rabu	1249	12.1152	4.0833	r a b u
+660	pecahan	1241	12.0376	4.0805	p ə t͡ʃ a h a n
+661	surya	1236	11.9891	4.0788	s u r j a
+662	benih	1230	11.9309	4.0767	b ə n ɪ h
+663	duta	1226	11.8921	4.0753	d u t a
+664	biji	1214	11.7757	4.071	b i d͡ʒ i
+665	basket	1209	11.7272	4.0692	b a s k ɛ t̚
+666	mantap	1205	11.6884	4.0678	m a n t a p̚
+667	november	1203	11.669	4.067	n o p ɛ m b ə r  |  n o v ɛ m b ə r
+668	ibukota	1202	11.6593	4.0667	i b u k o t a
+669	seru	1200	11.6399	4.0659	s ə r u
+670	keponakan	1199	11.6302	4.0656	k ə p o n a k a n
+670	toh	1199	11.6302	4.0656	t o h
+671	psikiater	1195	11.5914	4.0641	p ə s i k iʲ a t ə r  |  s i k iʲ a t ə r
+672	mencatat	1188	11.5235	4.0616	m ə n t͡ʃ a t a t̚
+673	menyusun	1182	11.4653	4.0594	m ə ɲ u s ʊ n
+674	pendukung	1181	11.4556	4.059	p ə n d u k ʊ ŋ
+675	kandidat	1161	11.2616	4.0516	k a n d i d a t̚
+676	bangku	1157	11.2228	4.0501	b a ŋ k u
+677	maret	1152	11.1743	4.0482	m a r ə t̚
+678	analisis	1150	11.1549	4.0475	a n a l i s ɪ s
+679	dinyatakan	1149	11.1452	4.0471	d i ɲ a t a k a n
+680	subyek	1148	11.1355	4.0467	s u b j ə k  |  s u b j ɛ k
+681	bantal	1137	11.0288	4.0425	b a n t a l
+682	antik	1132	10.9803	4.0406	a n t i k
+683	bala	1123	10.893	4.0371	b a l a
+684	biara	1121	10.8736	4.0364	b i a r a
+685	karunia	1110	10.7669	4.0321	k a r u n i a̯
+686	padam	1099	10.6602	4.0278	p a d a m
+687	akar	1098	10.6505	4.0274	a k a r
+688	pita	1089	10.5632	4.0238	p i t a
+689	pura	1083	10.505	4.0214	p u r a
+690	wa	1082	10.4953	4.021	w e a  |  w e ʔ a
+691	duit	1081	10.4856	4.0206	d u i t
+692	menampilkan	1075	10.4274	4.0182	m ə n a m p i l k a n
+693	percuma	1073	10.408	4.0174	p ə r t͡ʃ u m a
+694	jati	1067	10.3498	4.0149	d͡ʒ a t i
+695	kedokteran	1062	10.3013	4.0129	k ə d o k t ə r a n
+696	asyik	1047	10.1558	4.0067	a s j ɪ k  |  a s ɪ k  |  a ʃ ɪ k
+697	lantas	1043	10.117	4.0051	l a n t a s
+697	wajib	1043	10.117	4.0051	w a d͡ʒ ɪ p
+698	berjudi	1042	10.1073	4.0046	b ə r d͡ʒ u d i
+699	sabun	1026	9.9521	3.9979	s a b u n
+700	banding	1021	9.9036	3.9958	b a n d i ŋ
+701	lomba	1020	9.8939	3.9954	l ɔ m b a
+702	cita	1019	9.8842	3.9949	t͡ʃ i t a
+703	praktek	1018	9.8745	3.9945	p r a k̚ t ɛ k̚
+704	baginda	1013	9.826	3.9924	b a ɡ i n d a
+705	komunis	1007	9.7678	3.9898	k o m u n ɪ s
+706	sutra	999	9.6902	3.9863	s u t r a
+707	beasiswa	995	9.6514	3.9846	b e a s ɪ s w a
+708	pastor	988	9.5835	3.9815	p a s t o r
+709	tipu	986	9.5641	3.9806	t i p u
+710	belanda	974	9.4477	3.9753	b ə l a n d a
+711	kartel	969	9.3992	3.9731	k a r t ɛ l
+712	lembar	957	9.2828	3.9677	l ə m b a r
+713	memantau	955	9.2634	3.9668	m ə m a n t a u̯
+714	paku	948	9.1955	3.9636	p a k u
+715	radius	947	9.1858	3.9631	r a d i ʊ s
+716	sal	942	9.1373	3.9608	s a l
+717	hina	933	9.05	3.9566	h i n a
+718	pelangi	923	8.953	3.952	p ə l a ŋ i
+719	formulir	919	8.9142	3.9501	f o r m u l ɪ r
+720	tinta	918	8.9045	3.9496	t i n t a
+721	editor	917	8.8948	3.9491	ɛ d i t ɔ r
+722	januari	914	8.8657	3.9477	d͡ʒ a n u a r i
+722	uskup	914	8.8657	3.9477	u s k ʊ p
+723	ceria	911	8.8366	3.9463	t͡ʃ ə r i a
+723	gali	911	8.8366	3.9463	ɡ a l i
+724	mula	909	8.8172	3.9453	m u l a
+724	persembahan	909	8.8172	3.9453	p ə r s ə m b a h a n
+725	unggul	903	8.759	3.9425	u ŋ ɡ ʊ l
+726	bungkus	900	8.7299	3.941	b ʊ ŋ k ʊ s
+727	segitiga	899	8.7202	3.9405	s ə ɡ i t i ɡ a
+728	raga	897	8.7008	3.9396	r a ɡ a
+729	duka	874	8.4777	3.9283	d u k a
+730	takhta	870	8.4389	3.9263	t a x t a
+731	bengkel	865	8.3904	3.9238	b ɛ ŋ k ɛ l
+731	unta	865	8.3904	3.9238	ʊ n t a
+732	lulusan	858	8.3225	3.9203	l u l ʊ s a n
+733	komisi	856	8.3031	3.9192	k o m i s i
+734	menyita	854	8.2837	3.9182	m ə ɲ i t a
+734	q	854	8.2837	3.9182	k  |  k i
+735	imam	853	8.274	3.9177	i m a m
+735	membantah	853	8.274	3.9177	m ə m b a n t a h
+736	pm	846	8.2061	3.9141	p e ɛ m
+737	tebusan	842	8.1673	3.9121	t ə b u s a n
+738	penjagaan	839	8.1382	3.9105	p ə n d͡ʒ a ɡ a a n  |  p ə n d͡ʒ a ɡ a ʔ a n
+739	puji	837	8.1188	3.9095	p u d͡ʒ i
+740	pengen	831	8.0606	3.9064	p ɛ ŋ ɛ n
+741	tempo	824	7.9927	3.9027	t e m p o
+742	henti	821	7.9636	3.9011	h ə n t i
+743	aliansi	819	7.9442	3.9001	a l i a n s i
+744	wol	815	7.9054	3.8979	w o l  |  w ɔ l
+745	tiri	811	7.8666	3.8958	t i r i
+746	bor	803	7.789	3.8915	b o r
+747	februari	801	7.7696	3.8904	f ɛ b r u a r i
+747	hambatan	801	7.7696	3.8904	h a m b a t a n
+748	uap	798	7.7405	3.8888	ʊ a p̚
+749	masturbasi	790	7.6629	3.8844	m a s t ʊ r b a s i
+750	pembaca	786	7.6241	3.8822	p ə m b a t͡ʃ a
+751	wortel	785	7.6144	3.8816	w o r t ə l
+752	arya	780	7.5659	3.8789	a r j a
+752	pangkat	780	7.5659	3.8789	p a ŋ k a t
+753	kelapa	772	7.4883	3.8744	k ə l a p a
+754	binasa	771	7.4786	3.8738	b i n a s a
+755	parade	770	7.4689	3.8733	p a r a d ə
+756	jijik	764	7.4107	3.8699	d͡ʒ i d͡ʒ ɪ ʔ
+757	massal	757	7.3428	3.8659	m a s s a l
+758	luang	753	7.304	3.8636	l u a ŋ
+759	sengsara	746	7.2361	3.8595	s ə ŋ s a r a
+759	usang	746	7.2361	3.8595	u s a ŋ
+760	keterangan	740	7.1779	3.856	k ə t ə r a ŋ a n
+760	paskah	740	7.1779	3.856	p a s k a h
+761	datar	739	7.1682	3.8554	d a t a r
+762	dicatat	734	7.1197	3.8525	d i t͡ʃ a t a t̚
+762	upah	734	7.1197	3.8525	ʊ p a h
+763	laku	732	7.1003	3.8513	l a k u
+764	penghancuran	731	7.0906	3.8507	p ə ŋ h a n t͡ʃ ʊ r a n
+765	iklim	730	7.0809	3.8501	i k l ɪ m
+766	realitas	729	7.0712	3.8495	r e a l i t a s
+767	pengguna	726	7.0421	3.8477	p ə ŋ ɡ u n a
+768	tumbuhan	717	6.9548	3.8423	t u m b u h a n
+769	lelang	713	6.916	3.8399	l ɛ l a ŋ
+770	perban	700	6.7899	3.8319	p ə r b a n
+771	pipi	699	6.7802	3.8312	p i p i
+771	yen	699	6.7802	3.8312	j e n  |  j ɛ n
+772	kardinal	693	6.722	3.8275	k a r d i n a l
+773	karate	688	6.6735	3.8244	k a r a t e
+774	asumsi	684	6.6347	3.8218	a s ʊ m s i
+775	senter	683	6.625	3.8212	s ɛ n t ə r
+776	parlemen	682	6.6153	3.8205	p a r l ə m ɛ n
+777	memindai	678	6.5765	3.818	m ə m i n d a i̯
+778	balai	676	6.5571	3.8167	b a l a i̯
+779	gerhana	674	6.5377	3.8154	ɡ ə r h a n a
+780	tahi	673	6.528	3.8148	t a h i  |  t a i
+781	faktor	666	6.4601	3.8102	f a k̚ t ɔ r
+782	lusin	664	6.4407	3.8089	l u s i n
+783	catat	658	6.3825	3.805	t͡ʃ a t a t̚
+784	adu	655	6.3534	3.803	a d u
+785	irama	653	6.334	3.8017	i r a m a
+786	lensa	647	6.2758	3.7977	l ɛ n s a
+787	isu	646	6.2661	3.797	ɪ s u
+788	sertifikat	645	6.2564	3.7963	s e r t i f i k a t  |  s e r t i p i k a t
+789	jenazah	644	6.2467	3.7957	d͡ʒ ə n a s a h  |  d͡ʒ ə n a z a h
+790	cerutu	643	6.237	3.795	t͡ʃ ə r u t u
+791	wafat	633	6.14	3.7882	w a f a t̚
+792	nyanyi	632	6.1303	3.7875	ɲ a ɲ i
+793	pokok	630	6.1109	3.7861	p o k ɔ k̚
+794	halusinasi	627	6.0818	3.784	h a l u s i n a s i
+795	musang	625	6.0624	3.7826	m u s a ŋ
+796	bon	623	6.043	3.7813	b ɔ n
+797	kompi	621	6.0236	3.7799	k ɔ m p i
+798	komet	618	5.9945	3.7778	k o m ɛ t̚
+799	penuntut	617	5.9848	3.777	p ə n u n t ʊ t
+800	bordil	610	5.9169	3.7721	b o r d ɪ l
+801	mutasi	601	5.8296	3.7656	m u t a s i
+801	ransel	601	5.8296	3.7656	r a n s ə l
+802	tanggapan	600	5.8199	3.7649	t a ŋ ɡ a p a n
+803	citra	598	5.8005	3.7635	t͡ʃ i t r a
+804	karma	597	5.7908	3.7627	k a r m a
+805	rehabilitasi	594	5.7617	3.7606	r e h a b i l i t a s i
+806	asma	593	5.752	3.7598	a s m a
+807	kek	580	5.626	3.7502	k e k  |  k e ʔ  |  k ɛ ʔ
+808	etika	578	5.6066	3.7487	ɛ t i k a
+808	taring	578	5.6066	3.7487	t a r ɪ ŋ
+809	altar	575	5.5775	3.7464	a l t a r
+809	pidana	575	5.5775	3.7464	p i d a n a
+810	ter	573	5.5581	3.7449	t ɛ r
+811	skema	570	5.529	3.7426	s ə k e m a
+812	kap	568	5.5096	3.7411	k a p̚
+813	penanda	565	5.4805	3.7388	p ə n a n d a
+814	aktifitas	563	5.4611	3.7373	a k̚ t i f i t a s
+814	arloji	563	5.4611	3.7373	a r l o d͡ʒ i
+814	mandiri	563	5.4611	3.7373	m a n d i r i
+815	kapas	561	5.4417	3.7357	k a p a s
+816	rusuk	559	5.4223	3.7342	r u s ʊ k
+817	akur	558	5.4126	3.7334	a k u r
+817	kerbau	558	5.4126	3.7334	k ə r b a u̯
+818	arak	557	5.4029	3.7326	a r a k
+819	menyiarkan	555	5.3835	3.7311	m ə ɲ i a r k a n
+819	tsunami	555	5.3835	3.7311	s u n a m i  |  t s u n a m i
+820	indra	552	5.3544	3.7287	i n d r a  |  i n d ə r a
+821	enggak	550	5.335	3.7271	ə ŋ ɡ a ʔ
+821	singapura	550	5.335	3.7271	s i ŋ a p u r a
+822	bea	549	5.3253	3.7263	b e a
+823	evaluasi	535	5.1895	3.7151	ɛ v a l u a s i
+823	injil	535	5.1895	3.7151	ɪ n d͡ʒ ɪ l
+824	rekayasa	531	5.1507	3.7119	r e k a j a s a
+825	hidrogen	524	5.0828	3.7061	h i d r o ɡ ɛ n
+826	aib	523	5.0731	3.7053	aʲ i b
+827	diberhentikan	522	5.0634	3.7044	d i b ə r h ə n t i k a n
+827	latih	522	5.0634	3.7044	l a t ɪ h
+828	mendobrak	521	5.0537	3.7036	m ə n d o b r a k
+829	firaun	518	5.0246	3.7011	f i r a u n
+830	bikini	517	5.0149	3.7003	b i k i n i
+831	sakti	516	5.0052	3.6994	s a k t i
+832	sensei	512	4.9664	3.696	s e n s e i
+833	kekosongan	511	4.9567	3.6952	k ə k o s o ŋ a n
+833	koroner	511	4.9567	3.6952	k o r o n ɛ r
+834	tawar	509	4.9373	3.6935	t a w a r
+835	beton	506	4.9082	3.6909	b ə t o n
+835	kokoh	506	4.9082	3.6909	k o k ɔ h
+836	aceh	505	4.8985	3.6901	a t͡ʃ e h
+837	lengket	502	4.8694	3.6875	l ɛ ŋ k ɛ t̚
+837	sake	502	4.8694	3.6875	s a k e
+838	tepung	499	4.8403	3.6849	t ə p ʊ ŋ
+839	asmara	498	4.8306	3.684	a s m a r a
+840	keripik	491	4.7627	3.6779	k ə r i p ɪ k̚
+841	alis	484	4.6948	3.6716	a l i s
+842	lobak	483	4.6851	3.6707	l o b a k
+843	zen	473	4.5881	3.6616	z ɛ n
+844	tuas	471	4.5687	3.6598	t u a s
+845	farmasi	470	4.559	3.6589	f a r m a s i
+846	gaul	467	4.5299	3.6561	ɡ a u l
+847	puja	466	4.5202	3.6552	p u d͡ʒ a
+848	independen	465	4.5105	3.6542	i n d ə p ɛ n d ə n
+848	semen	465	4.5105	3.6542	s ə m ɛ n  |  s ɛ m ɛ n
+849	tabel	455	4.4135	3.6448	t a b ə l  |  t a b ɛ l
+850	giat	453	4.3941	3.6429	ɡ i a t̚
+850	hop	453	4.3941	3.6429	h o p
+851	petrus	451	4.3747	3.6409	p ə t r ʊ s  |  p ɛ t r ʊ s
+851	step	451	4.3747	3.6409	s ə t ɛ p
+852	adat	449	4.3553	3.639	a d a t
+852	ongkos	449	4.3553	3.639	o ŋ k o s
+853	cakrawala	447	4.3359	3.6371	t͡ʃ a k r a w a l a
+853	tante	447	4.3359	3.6371	t a n t ə
+854	busana	446	4.3262	3.6361	b u s a n a
+855	sita	445	4.3165	3.6351	a b o n ə m ɛ n
+856	derita	442	4.2874	3.6322	d ə r i t a
+857	posting	441	4.2777	3.6312	p ɔ s t ɪ ŋ
+858	elektrik	437	4.2389	3.6273	ɛ l ɛ k t r ɪ k
+859	bacaan	436	4.2292	3.6263	b a t͡ʃ a a n
+859	pion	436	4.2292	3.6263	p i o n
+860	aspirin	431	4.1807	3.6212	a s p i r i n
+861	toto	430	4.171	3.6202	t o t o
+862	bahtera	429	4.1613	3.6192	b a h t ə r a
+862	potret	429	4.1613	3.6192	p o t r e t
+863	karaoke	428	4.1516	3.6182	k a r a o k e
+864	tanam	427	4.1419	3.6172	t a n a m
+865	finansial	426	4.1322	3.6162	f i n a n s i a l
+866	barikade	421	4.0837	3.6111	b a r i k a d ə
+867	meletus	420	4.074	3.61	m ə l ə t u s
+867	sekrup	420	4.074	3.61	s ə k r u p
+868	sri	419	4.0643	3.609	s ə r i
+869	kabinet	414	4.0158	3.6038	k a b i n ɛ t
+870	alur	413	4.0061	3.6027	a l ʊ r
+871	dokumenter	412	3.9964	3.6017	d o k u m ɛ n t ɛ r
+872	dojo	408	3.9576	3.5974	d o d͡ʒ o
+873	keramat	407	3.9479	3.5964	k ə r a m a t̚
+874	korps	405	3.9285	3.5942	k ɔ r p s
+874	maklumat	405	3.9285	3.5942	m a k̚ l u m a t̚
+874	merk	405	3.9285	3.5942	m ɛ r k
+875	kehausan	403	3.9091	3.5921	k ə h a ʊ s a n
+876	tar	402	3.8994	3.591	t a r
+877	kumpul	400	3.88	3.5888	k ʊ m p ʊ l
+878	penderita	393	3.8121	3.5812	p ə n d ə r i t a
+879	penggalian	391	3.7927	3.5789	p ə ŋ ɡ a l i a n
+879	tirani	391	3.7927	3.5789	t i r a n i
+880	puing	390	3.783	3.5778	p u ɪ ŋ
+880	temu	390	3.783	3.5778	t ə m u
+881	kidal	388	3.7636	3.5756	k i d a l
+882	dekan	386	3.7442	3.5734	d ə k a n  |  d ɛ k a n
+883	busa	385	3.7345	3.5722	b u s a
+884	memperburuk	383	3.7151	3.57	m ə m p ə r b u r ʊ k̚
+885	makmur	381	3.6957	3.5677	m a ʔ m ʊ r
+886	lumbung	371	3.5987	3.5561	l ʊ m b ʊ ŋ
+887	alas	368	3.5696	3.5526	a l a s
+888	galak	362	3.5114	3.5455	ɡ a l a k
+889	bangau	358	3.4726	3.5407	b a ŋ a u̯
+889	kait	358	3.4726	3.5407	k a ɪ t̚
+890	seminar	357	3.4629	3.5394	s ə m i n a r
+891	etik	355	3.4435	3.537	ɛ t ɪ k
+892	kecap	347	3.3659	3.5271	k ə t͡ʃ a p  |  k ɛ t͡ʃ a p
+893	survei	346	3.3562	3.5258	s ʊ r v e i̯
+894	kilang	344	3.3368	3.5233	k i l a ŋ
+895	tunjuk	343	3.3271	3.5221	t u n d͡ʒ ʊ ʔ
+895	wastafel	343	3.3271	3.5221	w a s t a f ə l
+896	bidadari	342	3.3174	3.5208	b i d a d a r i
+897	ketentuan	340	3.298	3.5183	k ə t ə n t u a n
+898	shogun	334	3.2398	3.5105	ʃ o ɡ u n
+899	iga	332	3.2204	3.5079	ɪ ɡ a
+900	psikolog	330	3.201	3.5053	p ə s i k o l ɔ k̚  |  s i k o l ɔ k̚
+900	tampar	330	3.201	3.5053	t a m p a r
+901	sarana	328	3.1816	3.5026	s a r a n a
+902	kelab	327	3.1719	3.5013	k ə l a b  |  k ə l a p
+903	tungku	326	3.1622	3.5	t ʊ ŋ k u
+904	kabupaten	325	3.1525	3.4987	k a b u p a t e n
+904	lada	325	3.1525	3.4987	l a d a
+905	dosen	324	3.1428	3.4973	d o s ɛ n
+905	ente	324	3.1428	3.4973	ɛ n t ɛ
+905	tren	324	3.1428	3.4973	t r ɛ n
+906	rongga	321	3.1137	3.4933	r ɔ ŋ ɡ a
+907	suvenir	320	3.104	3.4919	s u v ə n ɪ r
+908	aborsi	318	3.0846	3.4892	a b ɔ r s i
+908	akut	318	3.0846	3.4892	a k u t
+908	singgasana	318	3.0846	3.4892	s i ŋ ɡ a s a n a
+909	nanas	316	3.0652	3.4865	n a n a s
+910	ako	311	3.0167	3.4795	a k e o
+910	kamuflase	311	3.0167	3.4795	k a m u f l a s ə
+910	katedral	311	3.0167	3.4795	k a t ə d r a l
+911	plot	310	3.007	3.4781	p l ɔ t̚
+912	semangka	309	2.9973	3.4767	s ə m a ŋ k a
+913	duane	308	2.9876	3.4753	d u a n ə
+913	klinis	308	2.9876	3.4753	k l i n i s
+914	terpanjang	307	2.9779	3.4739	t ə r p a n d͡ʒ a ŋ
+915	tuntut	305	2.9585	3.4711	t u n t ʊ t
+916	bakso	300	2.91	3.4639	b a ʔ s o
+916	kolega	300	2.91	3.4639	k o l e ɡ a
+917	bilangan	298	2.8906	3.461	b i l a ŋ a n
+917	plan	298	2.8906	3.461	p l a n
+918	kuartal	295	2.8615	3.4566	k u a r t a l
+919	algojo	294	2.8518	3.4551	a l ɡ o d͡ʒ o
+920	ijazah	291	2.8227	3.4507	i d͡ʒ a z a h
+921	luncur	290	2.813	3.4492	l ʊ n t͡ʃ ʊ r
+921	penganiayaan	290	2.813	3.4492	p ə ŋ a n i a j a a n
+922	apotek	286	2.7742	3.4431	a p o t e k
+923	konsul	284	2.7548	3.4401	k ɔ n s ʊ l
+923	mengencingi	284	2.7548	3.4401	m ə ŋ e n c i ŋ i
+924	pangsit	283	2.7451	3.4386	p a ŋ s i t
+924	puri	283	2.7451	3.4386	p u r i
+925	sekunder	278	2.6966	3.4308	s ə k ʊ n d ɛ r
+926	berak	277	2.6869	3.4293	b ɛ r a k  |  b ɛ r a ʔ
+927	bungsu	275	2.6675	3.4261	b u ŋ s u
+928	bersenandung	270	2.619	3.4181	b ə r s ə n a n d ʊ ŋ
+929	memunculkan	268	2.5996	3.4149	m ə m u n t͡ʃ ʊ l k a n
+929	sabit	268	2.5996	3.4149	s a b ɪ t̚
+930	isap	263	2.5511	3.4067	i s a p
+931	agresi	262	2.5414	3.4051	a ɡ r ɛ s i
+931	majelis	262	2.5414	3.4051	m a d͡ʒ ə l ɪ s
+931	wahana	262	2.5414	3.4051	w a h a n a
+932	ibrani	261	2.5317	3.4034	i b r a n i
+932	jelata	261	2.5317	3.4034	d͡ʒ ə l a t a
+933	menghadirkan	260	2.522	3.4017	m ə ŋ h a d i r k a n
+934	selada	259	2.5123	3.4001	s a l a d a
+935	setrum	258	2.5026	3.3984	s ə t r ʊ m
+936	dupa	256	2.4832	3.395	d u p a
+936	shun	256	2.4832	3.395	ɛ s h a u ɛ n
+937	perpanjangan	255	2.4735	3.3933	p ə r p a n d͡ʒ a ŋ a n
+938	ibadah	253	2.4541	3.3899	i b a d a h
+939	romo	250	2.425	3.3847	r o m o
+940	gita	249	2.4153	3.383	ɡ i t a
+940	kebangsaan	249	2.4153	3.383	k ə b a ŋ s a a n  |  k ə b a ŋ s a ʔ a n
+940	lobang	249	2.4153	3.383	l o b a ŋ
+941	aspal	246	2.3862	3.3777	a s p a l
+942	etis	244	2.3668	3.3742	ɛ t ɪ s
+943	sr	239	2.3183	3.3652	ʔ ɛ s ʔ ɛ r
+944	tamil	238	2.3086	3.3633	t a m ɪ l
+944	vokal	238	2.3086	3.3633	v o k a l
+945	hibrida	236	2.2892	3.3597	h i b r i d a
+946	angkutan	235	2.2795	3.3578	a ŋ k ʊ t a n
+946	jakarta	235	2.2795	3.3578	d͡ʒ a k a r t a
+947	bima	233	2.2601	3.3541	b ī m ā
+948	donasi	231	2.2407	3.3504	d o n a s i
+948	keramik	231	2.2407	3.3504	k ə r a m ɪ k̚
+949	animasi	230	2.231	3.3485	a n i m a s i
+949	keluaran	230	2.231	3.3485	k ə l u a r a n
+949	menganiaya	230	2.231	3.3485	m ə ŋ a n i a j a
+949	pantau	230	2.231	3.3485	p a n t a u̯
+950	pelopor	229	2.2213	3.3466	p ə l o p ɔ r
+950	rektor	229	2.2213	3.3466	r ɛ k t o r
+951	baya	228	2.2116	3.3447	b a j a
+951	bedak	228	2.2116	3.3447	b ə d a k̚
+952	transformasi	225	2.1825	3.339	a b o n ə m ɛ n
+953	batangan	224	2.1728	3.337	b a t a ŋ a n
+954	digali	223	2.1631	3.3351	d i ɡ a l i
+954	jepun	223	2.1631	3.3351	d͡ʒ ə p ʊ n
+954	rawi	223	2.1631	3.3351	r a w i
+955	akta	221	2.1437	3.3312	a k̚ t a
+956	aparat	220	2.134	3.3292	a p a r a t
+957	cabai	218	2.1146	3.3252	t͡ʃ a b a i̯  |  t͡ʃ a b e  |  t͡ʃ a b e ʔ
+958	buron	217	2.1049	3.3232	b u r ɔ n
+959	waduh	215	2.0855	3.3192	u a d ʊ h  |  w a d ʊ h
+960	buncis	214	2.0758	3.3172	b u n t͡ʃ ɪ s
+960	silam	214	2.0758	3.3172	s i l a m
+961	asbak	209	2.0273	3.3069	a s b a k
+961	onani	209	2.0273	3.3069	o n a n i
+962	pelumas	207	2.0079	3.3027	p ə l u m a s
+963	bali	206	1.9982	3.3006	b a l i
+964	aktivis	203	1.9691	3.2943	a k̚ t i f ɪ s  |  a k̚ t i p ɪ s  |  a k̚ t i v ɪ s
+965	bodo	201	1.9497	3.29	b o d o
+966	amar	199	1.9303	3.2856	a m a r
+966	padi	199	1.9303	3.2856	p a d i
+966	publikasi	199	1.9303	3.2856	p u b l i k a s i
+966	sentral	199	1.9303	3.2856	s ɛ n t r a l
+967	bidak	198	1.9206	3.2834	b i d a k
+967	brigade	198	1.9206	3.2834	b r i ɡ a d ə
+967	sanksi	198	1.9206	3.2834	s a ŋ s i
+968	belanjaan	195	1.8915	3.2768	b ə l a n d͡ʒ a ʔ a n
+968	gading	195	1.8915	3.2768	ɡ a d i ŋ
+969	folder	193	1.8721	3.2723	f ɔ l d ə r
+969	iba	193	1.8721	3.2723	i b a
+969	kanji	193	1.8721	3.2723	k a n d͡ʒ i
+970	akte	192	1.8624	3.2701	a k̚ t ə
+970	karnivora	192	1.8624	3.2701	k a r n i v o r a
+970	mahakuasa	192	1.8624	3.2701	m a h a k u a s a
+971	cuka	190	1.843	3.2655	t͡ʃ u k a
+972	belantara	189	1.8333	3.2632	b ə l a n t a r a
+972	dokumentasi	189	1.8333	3.2632	d o k u m ɛ n t a s i
+972	serdadu	189	1.8333	3.2632	s ə r d a d u
+973	lisan	188	1.8236	3.2609	l i s a n
+974	datuk	187	1.8139	3.2586	d a t ʊ k̚
+974	mendung	187	1.8139	3.2586	m ə n d u ŋ
+974	pialang	187	1.8139	3.2586	p ɪ j a l a ŋ
+974	undur	187	1.8139	3.2586	u n d ʊ ɾ
+975	memberhentikan	185	1.7945	3.2539	m ə m b ə r h ə n t i k a n
+976	belom	183	1.7751	3.2492	b ə l o m  |  b ə l ʌ m
+976	judo	183	1.7751	3.2492	d͡ʒ u d o
+977	koordinasi	182	1.7654	3.2468	k o ɔ r d i n a s i
+977	reguler	182	1.7654	3.2468	r ɛ ɡ u l ɛ r
+978	senantiasa	180	1.746	3.242	s ə n a n t i a s a
+979	pencemaran	179	1.7363	3.2396	p ə n t͡ʃ ə m a r a n
+979	praktik	179	1.7363	3.2396	p r a k̚ t ɪ k̚
+980	abdi	178	1.7266	3.2372	a b d i
+981	pap	176	1.7072	3.2323	p a p
+982	timbal	175	1.6975	3.2298	t i m b a l
+983	cakra	173	1.6781	3.2248	t͡ʃ a k ə r a
+984	baki	172	1.6684	3.2223	b a k i
+985	bruder	171	1.6587	3.2198	b r u d ə r
+985	jadul	171	1.6587	3.2198	d͡ʒ a d ʊ l
+985	kendi	171	1.6587	3.2198	k ə n d i
+986	aktivasi	170	1.649	3.2172	a k̚ t i f a s i  |  a k̚ t i p a s i  |  a k̚ t i v a s i
+987	satwa	169	1.6393	3.2147	s a t̚ w a
+988	duk	168	1.6296	3.2121	d ʊ k̚
+988	merebus	168	1.6296	3.2121	m ə r ə b ʊ s
+988	waralaba	168	1.6296	3.2121	w a r a l a b a
+989	kuping	167	1.6199	3.2095	k u p ɪ ŋ
+990	map	166	1.6102	3.2069	m a p̚
+990	panekuk	166	1.6102	3.2069	p a n ə k u k
+990	silsilah	166	1.6102	3.2069	s ɪ l s i l a h
+991	empedu	165	1.6005	3.2043	ə m p ə d u
+992	granit	164	1.5908	3.2016	ɡ r a n ɪ t̚
+992	lapang	164	1.5908	3.2016	l a p a ŋ
+992	tempel	164	1.5908	3.2016	t ɛ m p ɛ l
+993	gugus	163	1.5811	3.199	ɡ u ɡ ʊ s
+994	mencela	162	1.5714	3.1963	m ə ŋ t͡ʃ ə l a
+994	nuansa	162	1.5714	3.1963	n u a n s a
+995	ikhlas	159	1.5423	3.1882	i x l a s
+995	indeks	159	1.5423	3.1882	ɪ n d ɛ k s
+996	meong	158	1.5326	3.1854	m ɛ o ŋ
+997	metana	157	1.5229	3.1827	m ɛ t a n a
+998	gap	156	1.5132	3.1799	ɡ a p  |  ɡ ɛ p
+998	seprai	156	1.5132	3.1799	s ə p r a i
+999	sangkut	154	1.4938	3.1743	s a ŋ k ʊ t
+1000	kelar	152	1.4744	3.1686	k ə l a r
+1001	bakpao	151	1.4647	3.1657	b a ʔ p a o
+1001	berontak	151	1.4647	3.1657	b ə r ɔ n t a k
+1001	waria	151	1.4647	3.1657	w a r i j a
+1002	administrator	149	1.4453	3.16	a t̚ m i n ɪ s t r a t ɔ r
+1003	saputangan	148	1.4356	3.157	s ä p u t ä ŋ a n
+1004	mag	147	1.4259	3.1541	m ɑ h  |  m ɑ x
+1005	balikan	146	1.4162	3.1511	b a l i k a n
+1006	resesi	145	1.4065	3.1481	r ɛ s ɛ s i
+1006	semir	145	1.4065	3.1481	s ə m i r
+1007	bagel	144	1.3968	3.1451	b a ɡ ə l
+1007	garansi	144	1.3968	3.1451	ɡ a r a n s i
+1008	spanduk	142	1.3774	3.1391	s ə p a n d ʊ k̚
+1009	gala	141	1.3677	3.136	ɡ a l a
+1009	ilustrasi	141	1.3677	3.136	ɪ l ʊ s t r a s i
+1009	puntung	141	1.3677	3.136	p ʊ n t ʊ ŋ
+1010	jagat	137	1.3289	3.1235	j a ɡ a t
+1010	kimono	137	1.3289	3.1235	k i m o n o
+1010	wasabi	137	1.3289	3.1235	w a s a b i
+1011	baling	136	1.3192	3.1203	b a l ɪ ŋ
+1011	kusta	136	1.3192	3.1203	k ʊ s t a
+1012	jala	135	1.3095	3.1171	d͡ʒ a l a
+1013	alpukat	134	1.2998	3.1139	a l p u k a t
+1013	katun	134	1.2998	3.1139	k a t u n
+1013	menayangkan	134	1.2998	3.1139	m ə n a j a ŋ k a n
+1014	amane	130	1.261	3.1007	a m a n ɛ
+1014	hentai	130	1.261	3.1007	h ɛ n t a i̯
+1014	isa	130	1.261	3.1007	i s a
+1014	laman	130	1.261	3.1007	l a m a n
+1015	lev	128	1.2416	3.094	l e p̚
+1015	satgas	128	1.2416	3.094	s a t ɡ a s
+1015	slalu	128	1.2416	3.094	s l a l u
+1016	cuek	124	1.2028	3.0802	c u e ʔ
+1016	sabo	124	1.2028	3.0802	s a b o
+1017	eka	123	1.1931	3.0767	e k a
+1017	silet	123	1.1931	3.0767	s i l ɛ t̚
+1018	arbor	122	1.1834	3.0731	a r b ɔ r
+1018	intip	122	1.1834	3.0731	ɪ n t ɪ p̚
+1018	manga	122	1.1834	3.0731	m a n ɡ a  |  m a ŋ a
+1018	pangkal	122	1.1834	3.0731	p a ŋ k a l
+1019	cela	120	1.164	3.066	t͡ʃ ə l a
+1020	pahala	117	1.1349	3.055	p a h a l a
+1021	sprei	116	1.1252	3.0512	s ə p r e i
+1022	bidan	115	1.1155	3.0475	b i d a n
+1022	lansia	115	1.1155	3.0475	l a n s i a
+1022	wayang	115	1.1155	3.0475	w a j a ŋ
+1023	kurikulum	114	1.1058	3.0437	k u r i k u l ʊ m
+1024	bendahara	113	1.0961	3.0399	b ə n d a h a r a
+1024	bintara	113	1.0961	3.0399	b i n t a r a
+1024	nirwana	113	1.0961	3.0399	n i r w a n a
+1025	hayat	112	1.0864	3.036	h a j a t̚
+1025	nori	112	1.0864	3.036	n o r i
+1026	malem	111	1.0767	3.0321	m a l ə m
+1027	meta	110	1.067	3.0282	a b o n ə m ɛ n
+1028	kencana	109	1.0573	3.0242	k ə n t͡ʃ a n a
+1029	esa	108	1.0476	3.0202	ə s a
+1029	mendiamkan	108	1.0476	3.0202	m ə n d i a m k a n
+1030	dipantau	107	1.0379	3.0162	d i p a n t a u̯
+1030	keruh	107	1.0379	3.0162	k ə r ʊ h
+1031	disebar	106	1.0282	3.0121	d i s ə b a r
+1031	masam	106	1.0282	3.0121	m a s a m
+1032	jasmani	105	1.0185	3.008	d͡ʒ a s m a n i
+1032	paroki	105	1.0185	3.008	p a r o k i
+1032	ritsleting	105	1.0185	3.008	r i t s l ə t i ŋ  |  r i t s s l ə t i ŋ
+1033	pala	104	1.0088	3.0038	p a l a
+1033	pembinaan	104	1.0088	3.0038	p ə m b i n a a n
+1033	piranti	104	1.0088	3.0038	p i r a n t i
+1033	sebar	104	1.0088	3.0038	s ə b a r
+1033	terpal	104	1.0088	3.0038	t ə r p a l
+1034	alkali	103	0.9991	2.9996	a l k a l i
+1035	hasta	102	0.9894	2.9954	h a s t a
+1035	kehujanan	102	0.9894	2.9954	k ə h u d͡ʒ a n a n
+1035	pariwisata	102	0.9894	2.9954	p a r i w i s a t a
+1036	lumut	100	0.97	2.9868	l u m ʊ t̚
+1036	seprei	100	0.97	2.9868	s ə p r e i
+1037	jawa	99	0.9603	2.9824	d͡ʒ a w a
+1037	sakelar	99	0.9603	2.9824	s a k ə l a r
+1038	pertiwi	98	0.9506	2.978	p ə r t i w i
+1038	ulama	98	0.9506	2.978	u l a m a
+1039	cakram	97	0.9409	2.9735	t͡ʃ a k r a m
+1039	ipa	97	0.9409	2.9735	i p a  |  i p e a
+1039	kosakata	97	0.9409	2.9735	k o s a k a t a
+1040	elektroda	94	0.9118	2.9599	ɛ l ɛ k t r o d a
+1040	giri	94	0.9118	2.9599	ɡ i r i
+1040	jelita	94	0.9118	2.9599	d͡ʒ ə l i t a
+1040	kukus	94	0.9118	2.9599	k u k ʊ s
+1040	laksana	94	0.9118	2.9599	l a k s a n a
+1040	palung	94	0.9118	2.9599	p a l ʊ ŋ
+1040	tinjau	94	0.9118	2.9599	t i n d͡ʒ a u̯
+1040	wira	94	0.9118	2.9599	w i r a
+1041	kisi	93	0.9021	2.9553	k i s i
+1042	banzai	92	0.8924	2.9506	b a n z a i̯
+1042	bia	92	0.8924	2.9506	b i a
+1042	khalifah	92	0.8924	2.9506	x a l i f a ʔ
+1042	obesitas	92	0.8924	2.9506	o b ɛ s i t a s
+1042	resleting	92	0.8924	2.9506	r e s l ɛ t i ŋ
+1042	segara	92	0.8924	2.9506	s ə ɡ a r a
+1043	kakus	91	0.8827	2.9458	k a k ʊ s
+1043	tabu	91	0.8827	2.9458	t a b u
+1044	jenasah	90	0.873	2.941	d͡ʒ ə n a s a h
+1044	negoisasi	90	0.873	2.941	n ɛ ɡ o s i a s i
+1045	genta	89	0.8633	2.9362	ɡ ə n t a
+1045	memperketat	89	0.8633	2.9362	m ə m p ə r k ə t a t
+1045	sasana	89	0.8633	2.9362	s a s a n a
+1046	kacung	88	0.8536	2.9313	k a t͡ʃ ʊ ŋ
+1046	penggiling	88	0.8536	2.9313	p ə ŋ ɡ ɪ l ɪ ŋ
+1047	akselerasi	85	0.8245	2.9162	a k s e l ə r a s i
+1047	ayun	85	0.8245	2.9162	a j ʊ n
+1047	bupati	85	0.8245	2.9162	b u p a t i
+1047	daring	85	0.8245	2.9162	d a r ɪ ŋ
+1047	fermentasi	85	0.8245	2.9162	f e r m e n t a s i
+1047	kebut	85	0.8245	2.9162	k ə b ʊ t̚
+1047	waduk	85	0.8245	2.9162	w a d ʊ k̚
+1048	onderdil	84	0.8148	2.9111	o n d ə r d i l
+1049	berteori	83	0.8051	2.9058	b ə r t e o r i
+1049	kicauan	83	0.8051	2.9058	k i t͡ʃ a u̯ a n
+1050	sangsi	82	0.7954	2.9006	s a ŋ s i
+1050	steker	82	0.7954	2.9006	a b o n ə m ɛ n
+1051	keuskupan	81	0.7857	2.8953	k ə u s k u p a n
+1052	huni	80	0.776	2.8899	h u n i
+1053	koperasi	78	0.7566	2.8789	k o p ə r a s i
+1053	kukuh	78	0.7566	2.8789	k u k ʊ h
+1053	sumo	78	0.7566	2.8789	s u m o
+1054	cadar	77	0.7469	2.8733	t͡ʃ a d a r
+1054	kk	77	0.7469	2.8733	k a k a
+1054	penguatan	77	0.7469	2.8733	p ə ŋ u a t̚ a n
+1055	kening	76	0.7372	2.8676	k ə n ɪ ŋ
+1055	pek	76	0.7372	2.8676	p ɛ k
+1056	ampul	74	0.7178	2.856	a m p ʊ l
+1056	basmi	74	0.7178	2.856	b a s m i
+1056	jangankan	74	0.7178	2.856	d͡ʒ a ŋ a n k a n
+1056	laskar	74	0.7178	2.856	l a s k a r
+1057	ngentot	73	0.7081	2.8501	ŋ ɛ n t o t
+1057	piket	73	0.7081	2.8501	p i k ɛ t̚
+1058	bakti	72	0.6984	2.8441	b a k t i
+1058	kamikaze	72	0.6984	2.8441	k a m i k a z e
+1058	ogah	72	0.6984	2.8441	o ɡ a h
+1058	sendawa	72	0.6984	2.8441	s ə n d a w a
+1059	apak	71	0.6887	2.838	a p a k  |  a p a ʔ
+1059	mur	71	0.6887	2.838	m u r
+1059	rezeki	71	0.6887	2.838	r ə z ə k i
+1060	astronaut	70	0.679	2.8319	a s t r o n a u̯ t̚  |  a s t r o n ɔ t̚
+1060	kama	70	0.679	2.8319	k a m a
+1061	coli	69	0.6693	2.8256	t͡ʃ o l i
+1061	keanekaragaman	69	0.6693	2.8256	k ə a n ɛ k a r a ɡ a m a n
+1061	losion	69	0.6693	2.8256	l o s i ɔ n
+1061	persneling	69	0.6693	2.8256	p ə r s n e l i ŋ  |  p ə r s ə n e l i ŋ
+1061	propana	69	0.6693	2.8256	p r o p a n a
+1061	torsi	69	0.6693	2.8256	t o r s i  |  t ɔ r s i
+1062	krusial	68	0.6596	2.8193	k r u s i a l
+1062	liana	68	0.6596	2.8193	l i a̯ n a
+1063	bajaj	67	0.6499	2.8128	b a d ʒ a i̯
+1063	lepra	67	0.6499	2.8128	l ɛ p r a
+1063	ramal	67	0.6499	2.8128	r a m a l
+1064	nakhoda	66	0.6402	2.8063	n a k o d a  |  n a x o d a
+1065	daku	65	0.6305	2.7997	d a k u
+1065	kabuki	65	0.6305	2.7997	k a b u k i
+1066	abk	64	0.6208	2.793	a b e k a
+1066	tofu	64	0.6208	2.793	t o f u
+1067	belalai	63	0.6111	2.7861	b ə l a l a i̯
+1067	stoples	63	0.6111	2.7861	s t ɔ p l ɛ s  |  s ə t ɔ p l ɛ s
+1067	yogyakarta	63	0.6111	2.7861	j o ɡ j a k a r t a
+1068	arbei	62	0.6014	2.7792	a r b e i̯
+1068	bunting	62	0.6014	2.7792	b ʊ n t ɪ ŋ
+1068	monarki	62	0.6014	2.7792	m o n a r k i
+1068	tertempel	62	0.6014	2.7792	t ə r t ɛ m p ɛ l
+1068	utan	62	0.6014	2.7792	u t a n
+1069	alot	61	0.5917	2.7721	a l ɔ t̚
+1069	elektris	61	0.5917	2.7721	ɛ l ɛ k t r ɪ s
+1069	menatapi	61	0.5917	2.7721	m ə n a t a p i
+1069	perdata	61	0.5917	2.7721	p ə r d a t a
+1069	soba	61	0.5917	2.7721	s o b a
+1070	belia	60	0.582	2.7649	b ə l i a̯
+1070	estafet	60	0.582	2.7649	ɛ s t a f ɛ t
+1070	garuda	60	0.582	2.7649	ɡ a r u d a
+1070	jamu	60	0.582	2.7649	d͡ʒ a m u
+1070	seminari	60	0.582	2.7649	s ɛ m i n a r i
+1071	introspeksi	59	0.5723	2.7576	ɪ n t r o s p ɛ k̚ s i
+1072	bundel	58	0.5626	2.7502	b ʊ n d ə l
+1072	pionir	58	0.5626	2.7502	p i o n ɪ r
+1073	bolu	57	0.5529	2.7426	b o l u
+1073	origami	57	0.5529	2.7426	o r i ɡ a m i
+1074	aritmatika	56	0.5432	2.735	a r i t m a t i k a
+1074	kaji	56	0.5432	2.735	k a d͡ʒ i
+1074	ketumbar	56	0.5432	2.735	k ə t ʊ m b a r
+1074	kolaborator	56	0.5432	2.735	k ɔ l a b ɔ r a t ɔ r
+1074	saka	56	0.5432	2.735	s a k a
+1075	aruna	55	0.5335	2.7271	a r u n a
+1075	bencong	55	0.5335	2.7271	b ɛ n t͡ʃ o ŋ
+1075	luak	55	0.5335	2.7271	l u a k̚
+1075	mantri	55	0.5335	2.7271	m a n t ə r i
+1075	memperkeruh	55	0.5335	2.7271	m ə m p ə r k ə r ʊ h
+1075	plafon	55	0.5335	2.7271	p l a f ɔ n  |  p ə̆ l a f ɔ n
+1076	gada	54	0.5238	2.7192	ɡ a d a
+1076	riskan	54	0.5238	2.7192	r i s k a n
+1077	emoji	53	0.5141	2.711	e m o d͡ʒ i
+1077	kedaluwarsa	53	0.5141	2.711	k ə d a l u w a r s a
+1077	plak	53	0.5141	2.711	p l a k
+1077	telaga	53	0.5141	2.711	t ə l a ɡ a
+1078	abi	52	0.5044	2.7028	a b i
+1078	gundik	52	0.5044	2.7028	ɡ u n d i ʔ
+1078	heng	52	0.5044	2.7028	h ɛ ŋ
+1078	kruk	52	0.5044	2.7028	k r ʊ k
+1078	ortu	52	0.5044	2.7028	o r t u
+1079	bazar	51	0.4947	2.6943	b a z a r
+1079	oto	51	0.4947	2.6943	o t o
+1079	peranti	51	0.4947	2.6943	p ə r a n t i
+1079	seka	51	0.4947	2.6943	s ə k a  |  s ɛ k a
+1080	aniaya	50	0.485	2.6857	a n i a j a
+1080	kendo	50	0.485	2.6857	k ɛ n d o
+1080	kop	50	0.485	2.6857	k o p
+1080	loket	50	0.485	2.6857	a b o n ə m ɛ n
+1081	budiman	49	0.4753	2.677	b u d i m a n
+1082	aksara	48	0.4656	2.668	a k s a r a
+1082	kabisat	48	0.4656	2.668	k a b i s a t̚
+1083	jujitsu	47	0.4559	2.6589	d ʒ u d ʒ ɪ t s u
+1083	teraniaya	47	0.4559	2.6589	t ə r a n i a j a
+1084	penganiaya	46	0.4462	2.6495	p ə ŋ a n i a j a
+1084	riba	46	0.4462	2.6495	r i b a
+1085	losmen	45	0.4365	2.64	l o s m ɛ n
+1085	provos	45	0.4365	2.64	p r o v ɔ s
+1085	slang	45	0.4365	2.64	s ə l a ŋ
+1086	aneka	44	0.4268	2.6302	a n ɛ k a
+1086	haiku	44	0.4268	2.6302	h a i k u
+1086	pengairan	44	0.4268	2.6302	p ə ŋ a ʔ ɪ r a n
+1086	sudoku	44	0.4268	2.6302	s u d o k u
+1086	tamtama	44	0.4268	2.6302	t a m t a m a
+1087	berpulang	43	0.4171	2.6202	b ə r p u l a ŋ
+1087	ciu	43	0.4171	2.6202	t͡ʃ i u
+1087	kapalan	43	0.4171	2.6202	k a p a l a n
+1087	menyanggah	43	0.4171	2.6202	m ə ɲ a ŋ ɡ a h
+1087	minder	43	0.4171	2.6202	m ɪ n d ə r
+1088	angkasawan	42	0.4074	2.61	a ŋ k a s a w a n
+1088	anumerta	42	0.4074	2.61	a n u m ə r t a
+1088	bakpau	42	0.4074	2.61	b a k p a ʊ̯
+1088	boikot	42	0.4074	2.61	b o i̯ k ɔ t̚
+1088	dadih	42	0.4074	2.61	d a d i h
+1088	sosialisme	42	0.4074	2.61	s o s i a l ɪ s m ə
+1088	tapas	42	0.4074	2.61	t a p a s
+1089	bushido	41	0.3977	2.5996	b u s h i d o  |  b u ʃ i d o
+1090	aikido	40	0.388	2.5888	a i̯ k i d o  |  aʲ i k i d o
+1090	erti	40	0.388	2.5888	ə r t i
+1090	hayati	40	0.388	2.5888	h a j a t i
+1090	informatif	40	0.388	2.5888	ɪ n f ɔ r m a t ɪ f
+1090	ronsen	40	0.388	2.5888	r ɔ n s ə n
+1090	taruna	40	0.388	2.5888	t a r u n a
+1090	udon	40	0.388	2.5888	u d o n
+1091	celaan	39	0.3783	2.5778	t͡ʃ ə l a a n
+1091	onsen	39	0.3783	2.5778	o n s ɛ n
+1092	bakmi	38	0.3686	2.5666	b a k m i
+1092	frekwensi	38	0.3686	2.5666	f r e k w ɛ n s i
+1092	rontgen	38	0.3686	2.5666	r ɔ n t ɡ ə n
+1092	skrin	38	0.3686	2.5666	s ə k r i n
+1092	tensi	38	0.3686	2.5666	t ɛ n s i
+1093	disposisi	37	0.3589	2.555	d i s p o s i s i
+1093	layan	37	0.3589	2.555	l a j a n
+1093	pandemi	37	0.3589	2.555	p a n d e m i
+1093	resusitasi	37	0.3589	2.555	r e s u s i t a s i
+1093	stasi	37	0.3589	2.555	s t a s i
+1093	surabaya	37	0.3589	2.555	s u r a b a j a
+1093	takoyaki	37	0.3589	2.555	t a k o j a k i
+1094	anta	36	0.3492	2.5431	a n t a
+1094	diakon	36	0.3492	2.5431	d i a k o n
+1094	gayung	36	0.3492	2.5431	ɡ a j u ŋ
+1094	kebo	36	0.3492	2.5431	k ə b o
+1094	kuitansi	36	0.3492	2.5431	k u i̯ t a n s i
+1094	proklamasi	36	0.3492	2.5431	p r o k l a m a s i
+1095	angpao	35	0.3395	2.5308	a ŋ p a o
+1095	klep	35	0.3395	2.5308	k l ɛ p
+1095	surakarta	35	0.3395	2.5308	s u r a k a r t a
+1096	karyawisata	34	0.3298	2.5183	k a r j a w i s a t a
+1096	nila	34	0.3298	2.5183	n i l a
+1096	skim	34	0.3298	2.5183	s ə k ɪ m
+1096	syah	34	0.3298	2.5183	ʃ a h
+1097	fiskal	33	0.3201	2.5053	f ɪ s k a l
+1097	gimnasium	33	0.3201	2.5053	ɡ ɪ m n a s i ʊ m
+1098	cerca	32	0.3104	2.4919	t͡ʃ ə r t͡ʃ a
+1098	ky	32	0.3104	2.4919	k a j e
+1098	tamatan	32	0.3104	2.4919	t a m a t̚ a n
+1099	amo	31	0.3007	2.4781	a m o
+1099	imamat	31	0.3007	2.4781	i m a m a t
+1099	kelambu	31	0.3007	2.4781	k ə l a m b u
+1099	ketombe	31	0.3007	2.4781	k ə t ɔ m b e
+1099	konsuler	31	0.3007	2.4781	k ɔ n s u l ɛ r
+1099	sulut	31	0.3007	2.4781	s u l u t
+1100	loper	30	0.291	2.4639	l o p ə r
+1100	meme	30	0.291	2.4639	m i m  |  m ɛ m ɛ
+1100	pemda	30	0.291	2.4639	p ə m d a
+1100	sandang	30	0.291	2.4639	s a n d a ŋ
+1100	sekring	30	0.291	2.4639	s e k r ɪ ŋ
+1101	kutang	29	0.2813	2.4492	k u t a ŋ
+1101	obi	29	0.2813	2.4492	o b i
+1101	oplosan	29	0.2813	2.4492	o p l o s a n
+1101	pagelaran	29	0.2813	2.4492	p a ɡ ə l a r a n
+1101	pengin	29	0.2813	2.4492	p ɛ ŋ i n
+1101	sporadis	29	0.2813	2.4492	s p o r a d ɪ s
+1102	alpa	28	0.2716	2.4339	a l p a
+1102	brankar	28	0.2716	2.4339	b r a n k a r
+1102	klem	28	0.2716	2.4339	k l ɛ m
+1102	nepotisme	28	0.2716	2.4339	n e p ɔ t̚ ɪ s m ə
+1102	peler	28	0.2716	2.4339	p ə l e r
+1102	rasuah	28	0.2716	2.4339	r a s u a h
+1102	sabung	28	0.2716	2.4339	s a b ʊ ŋ
+1103	ibadat	27	0.2619	2.4181	i b a d a t
+1103	janapada	27	0.2619	2.4181	d͡ʒ a n a p a d a
+1103	kor	27	0.2619	2.4181	k ɔ r
+1103	lokalisasi	27	0.2619	2.4181	l o k a l i s a s i
+1103	madrasah	27	0.2619	2.4181	m a d r a s a h
+1103	nasionalisme	27	0.2619	2.4181	n a s i o n a l i s m ə  |  n a s j o n a l i s m ə
+1103	sala	27	0.2619	2.4181	s a l a
+1103	shinto	27	0.2619	2.4181	ʃ i n t o
+1104	coker	26	0.2522	2.4017	t͡ʃ o k ə r
+1104	diperburuk	26	0.2522	2.4017	d i p ə r b u r ʊ k̚
+1104	menelaah	26	0.2522	2.4017	m ə n ə l a a h
+1104	onigiri	26	0.2522	2.4017	o n i ɡ i r i
+1104	selo	26	0.2522	2.4017	s ɛ l o
+1104	tempura	26	0.2522	2.4017	t ə m p u r a
+1105	fabrikasi	25	0.2425	2.3847	f a b r i k a s i
+1105	keranda	25	0.2425	2.3847	k ə r a n d a
+1105	nasrani	25	0.2425	2.3847	n a s r a n i
+1105	toge	25	0.2425	2.3847	t o ɡ e
+1106	hierarki	24	0.2328	2.367	h i e r a r k i
+1106	kanta	24	0.2328	2.367	k a n t a
+1106	kolusi	24	0.2328	2.367	k o l u s i
+1106	menyunting	24	0.2328	2.367	m ə ɲ u n t i ŋ
+1106	perpeloncoan	24	0.2328	2.367	p ə r p ə l ɔ n t͡ʃ o a n
+1106	teriyaki	24	0.2328	2.367	t ɛ r i j a k i
+1107	adaptif	23	0.2231	2.3485	a d a p t ɪ f
+1107	berakhiran	23	0.2231	2.3485	b ə r a x ɪ r a n
+1107	cendana	23	0.2231	2.3485	t͡ʃ ə n d a n a
+1107	cetera	23	0.2231	2.3485	t͡ʃ ə t ə r a
+1107	hijrah	23	0.2231	2.3485	h i d͡ʒ r a h
+1107	kampai	23	0.2231	2.3485	k a m p a i̯
+1107	kdrt	23	0.2231	2.3485	k a d e ɛ r t e
+1107	kecamatan	23	0.2231	2.3485	k ə t͡ʃ a m a t a n
+1107	zakat	23	0.2231	2.3485	z a k a t
+1108	arat	22	0.2134	2.3292	a r a t̚
+1108	arit	22	0.2134	2.3292	a r i t
+1108	damkar	22	0.2134	2.3292	d a m k a r
+1108	habel	22	0.2134	2.3292	h a b e l
+1108	idih	22	0.2134	2.3292	ʔ i d i h
+1108	telaah	22	0.2134	2.3292	t ə l a a h
+1109	arugula	21	0.2037	2.309	a b o n ə m ɛ n
+1109	borang	21	0.2037	2.309	b ɔ r a ŋ
+1109	detoksifikasi	21	0.2037	2.309	d e t ɔ k̚ s i f i k a s i
+1109	khatam	21	0.2037	2.309	h a t a m  |  k a t a m  |  x a t a m
+1109	satori	21	0.2037	2.309	s a t o r i
+1109	sein	21	0.2037	2.309	s e ɪ̯ n
+1110	bariton	20	0.194	2.2878	b a r i t ɔ n
+1110	bnn	20	0.194	2.2878	b e ɛ n ɛ n
+1110	bukak	20	0.194	2.2878	b u k a k̚  |  b u k a ʔ
+1110	ikonik	20	0.194	2.2878	i k o n ɪ k
+1110	insaf	20	0.194	2.2878	i n s a f
+1110	menggarisbawahi	20	0.194	2.2878	m ə ŋ ɡ a r i s b a w a h i
+1110	pelonco	20	0.194	2.2878	p ə l ɔ n t͡ʃ o
+1110	performer	20	0.194	2.2878	p ə r f ɔ r m ə r
+1110	twit	20	0.194	2.2878	tʷ ɪ t̚
+1110	wihara	20	0.194	2.2878	w i h a r a
+1111	materai	19	0.1843	2.2655	m a t ə r a i
+1111	rektum	19	0.1843	2.2655	r ɛ k̚ t ʊ m
+1111	tindas	19	0.1843	2.2655	t ɪ n d a s
+1111	yakitori	19	0.1843	2.2655	j a k i t o r i
+1112	aplaus	18	0.1746	2.242	a p l a u s
+1112	bianglala	18	0.1746	2.242	b i a ŋ l a l a
+1112	bibel	18	0.1746	2.242	b i b ə l
+1112	dikau	18	0.1746	2.242	d i k a u̯
+1112	ekskursi	18	0.1746	2.242	ɛ k s k ʊ r s i
+1112	intonasi	18	0.1746	2.242	ɪ n t o n a s i
+1112	kailan	18	0.1746	2.242	k a i l a n
+1112	oktan	18	0.1746	2.242	o k t a n
+1112	prabu	18	0.1746	2.242	p r a b u
+1112	semalem	18	0.1746	2.242	s ə m a l ə m
+1113	akang	17	0.1649	2.2172	a k a ŋ
+1113	apek	17	0.1649	2.2172	a p ə k  |  a p ɛ k
+1113	bakwan	17	0.1649	2.2172	b a ʔ w a n
+1113	butana	17	0.1649	2.2172	b u t a n a
+1113	kerosin	17	0.1649	2.2172	k e r o s ɪ n
+1113	mengetatkan	17	0.1649	2.2172	m ə ŋ ə t a t̚ k a n
+1113	reksa	17	0.1649	2.2172	r ə k s a
+1113	senandung	17	0.1649	2.2172	s ə n a n d ʊ ŋ
+1113	syuriken	17	0.1649	2.2172	ʃ u r i k ɛ n
+1114	kenceng	16	0.1552	2.1909	k ə n t͡ʃ ə ŋ
+1114	mapel	16	0.1552	2.1909	m a p ə l
+1114	punia	16	0.1552	2.1909	p u n i a̯
+1114	standardisasi	16	0.1552	2.1909	s t a n d a r d i s a s i
+1115	ajo	15	0.1455	2.1629	a d͡ʒ o
+1115	aliah	15	0.1455	2.1629	a l i a h
+1115	ankara	15	0.1455	2.1629	a n k a r a
+1115	daster	15	0.1455	2.1629	d a s t ɛ ɾ
+1115	hadis	15	0.1455	2.1629	h a d ɪ s
+1115	katoda	15	0.1455	2.1629	k a t o d a
+1115	kredo	15	0.1455	2.1629	k r e d o
+1115	lasik	15	0.1455	2.1629	l a s i k
+1115	menorah	15	0.1455	2.1629	m e n o r a h
+1115	sanggul	15	0.1455	2.1629	s a ŋ ɡ ʊ l
+1115	sempoa	15	0.1455	2.1629	s ə m p o a
+1116	cendera	14	0.1358	2.1329	t͡ʃ ə n d ə r a
+1116	fonetik	14	0.1358	2.1329	f o n ɛ t ɪ k̚
+1116	kastel	14	0.1358	2.1329	k a s t ɛ l
+1116	kitas	14	0.1358	2.1329	k i t a s
+1116	lancia	14	0.1358	2.1329	l a n t͡ʃ i a̯
+1116	nestapa	14	0.1358	2.1329	n ə s t a p a
+1116	woles	14	0.1358	2.1329	w ɔ l ə s
+1117	ancok	13	0.1261	2.1007	a n t͡ʃ ɔ k̚
+1117	duli	13	0.1261	2.1007	d u l i
+1117	juag	13	0.1261	2.1007	d͡ʒ u a k̚
+1117	kenken	13	0.1261	2.1007	k e n k e n
+1117	laksmana	13	0.1261	2.1007	l a k s m a n a
+1117	swatantra	13	0.1261	2.1007	s ʋ a t a n t r a
+1118	abstain	12	0.1164	2.066	a p̚ s t a i n
+1118	bakiak	12	0.1164	2.066	b a k i a k
+1118	sange	12	0.1164	2.066	s a ŋ ɛ  |  s a ŋ ɛ ʔ
+1118	seremoni	12	0.1164	2.066	s e r e m o n i
+1118	seterika	12	0.1164	2.066	s ə t ə r i k a
+1118	sijil	12	0.1164	2.066	s i d͡ʒ ɪ l
+1118	standarisasi	12	0.1164	2.066	s t a n d a r i s a s i
+1118	tapa	12	0.1164	2.066	t a p a
+1118	wagyu	12	0.1164	2.066	w a ɡʲ u
+1119	anglo	11	0.1067	2.0282	a ŋ l o
+1119	cula	11	0.1067	2.0282	t͡ʃ u l a
+1119	gapura	11	0.1067	2.0282	ɡ a p u r a
+1119	keseruan	11	0.1067	2.0282	k ə s ə r u a n
+1119	klinikal	11	0.1067	2.0282	k l i n i k a l
+1119	konfeti	11	0.1067	2.0282	k o n f e t i
+1119	kusuma	11	0.1067	2.0282	k u s u m a
+1119	mengabsen	11	0.1067	2.0282	m ə ŋ a b s e n
+1119	mengumpamakan	11	0.1067	2.0282	m ə ŋ u m p a m a k a n
+1119	weker	11	0.1067	2.0282	w ɛ k ə r
+1120	aci	10	0.097	1.9868	a t͡ʃ i
+1120	ekaristi	10	0.097	1.9868	ɛ k a r i s t i
+1120	kartografer	10	0.097	1.9868	k a r t o ɡ r a f ə r
+1120	laksmi	10	0.097	1.9868	l a k s m i
+1120	retensi	10	0.097	1.9868	r ə t ɛ n s i
+1120	sekak	10	0.097	1.9868	s ə k a k
+1120	sepang	10	0.097	1.9868	s ə p a ŋ
+1120	tuai	10	0.097	1.9868	t u a i̯
+1121	hedonisme	9	0.0873	1.941	h e d o n i s m ə
+1121	jentera	9	0.0873	1.941	d͡ʒ ə n t ə r a
+1121	kaf	9	0.0873	1.941	k a f
+1121	kerepek	9	0.0873	1.941	k ə r ɛ p ə k̚
+1121	kolon	9	0.0873	1.941	k o l ɔ n
+1121	kumulatif	9	0.0873	1.941	k u m u l a t ɪ f
+1121	kuntit	9	0.0873	1.941	k ʊ n t ɪ t̚
+1121	mencekoki	9	0.0873	1.941	m ə ɲ t͡ʃ ə k o k i  |  m ə ɲ t͡ʃ ə k o ʔ i
+1121	pandemik	9	0.0873	1.941	p a n d e m ɪ k
+1121	rase	9	0.0873	1.941	r a s e
+1121	situasional	9	0.0873	1.941	s i t u a s i o n a l
+1121	takar	9	0.0873	1.941	t a k a r
+1121	tekor	9	0.0873	1.941	t ə k o r
+1121	tepar	9	0.0873	1.941	t ɛ p a r
+1121	wicara	9	0.0873	1.941	w i t͡ʃ a r a
+1122	agape	8	0.0776	1.8899	a ɡ a p e
+1122	angpau	8	0.0776	1.8899	a ŋ p a u̯
+1122	bihun	8	0.0776	1.8899	b i h u n
+1122	cuitan	8	0.0776	1.8899	t͡ʃ u ɪ t̚ a n
+1122	dirgahayu	8	0.0776	1.8899	d i r ɡ a h a j u
+1122	heiho	8	0.0776	1.8899	h e i h o
+1122	intensi	8	0.0776	1.8899	i n t ɛ n s i
+1122	karateka	8	0.0776	1.8899	k a r a t e k a
+1122	karkas	8	0.0776	1.8899	k a r k a s
+1122	karnivor	8	0.0776	1.8899	k a r n i v ɔ r
+1122	lepasan	8	0.0776	1.8899	l ə p a s a n
+1122	loji	8	0.0776	1.8899	l o d͡ʒ i
+1122	netra	8	0.0776	1.8899	n ə t r a
+1122	parlementer	8	0.0776	1.8899	p a r l ə m ɛ n t ɛ r
+1122	sandar	8	0.0776	1.8899	s a n d a r
+1122	sanggah	8	0.0776	1.8899	s a ŋ ɡ a h
+1122	seko	8	0.0776	1.8899	s e k o  |  s ə k o  |  s ɛ k o
+1122	slank	8	0.0776	1.8899	s l ɑ ŋ k
+1122	swasembada	8	0.0776	1.8899	s w a s ə m b a d a
+1122	vulkanologi	8	0.0776	1.8899	f u l k a n o l o ɡ i
+1123	absolusi	7	0.0679	1.8319	a b s o l u s i
+1123	agraris	7	0.0679	1.8319	a ɡ r a r ɪ s
+1123	antok	7	0.0679	1.8319	a n t ɔ k̚
+1123	darma	7	0.0679	1.8319	d a r m a
+1123	defenisi	7	0.0679	1.8319	d e f e n i s i
+1123	digdaya	7	0.0679	1.8319	d i ɡ d a j a
+1123	duktus	7	0.0679	1.8319	d ʊ k̚ t ʊ s
+1123	gampar	7	0.0679	1.8319	ɡ a m p a r
+1123	habil	7	0.0679	1.8319	h a b ɪ l
+1123	kapitan	7	0.0679	1.8319	k a p i t a n
+1123	keker	7	0.0679	1.8319	k e k ə r  |  k ɛ k ɛ r
+1123	kring	7	0.0679	1.8319	k r ɪ ŋ
+1123	lgbt	7	0.0679	1.8319	ɛ l ɡ e b e t e
+1123	luring	7	0.0679	1.8319	l u r ɪ ŋ
+1123	malat	7	0.0679	1.8319	m a l a t̚
+1123	meninggali	7	0.0679	1.8319	m ə n i ŋ ɡ a l i
+1123	sangga	7	0.0679	1.8319	s a ŋ ɡ a
+1123	sentosa	7	0.0679	1.8319	s ə n t o s a
+1123	skalar	7	0.0679	1.8319	s k a l a r
+1124	apsara	6	0.0582	1.7649	a p s a r a
+1124	barongsai	6	0.0582	1.7649	b a r o ŋ s a i̯
+1124	batau	6	0.0582	1.7649	b a t a ʊ̯
+1124	batik	6	0.0582	1.7649	b a t ɪ k
+1124	beha	6	0.0582	1.7649	b e h a
+1124	devosi	6	0.0582	1.7649	d e v o s i
+1124	ikebana	6	0.0582	1.7649	i k e b a n a
+1124	kirana	6	0.0582	1.7649	k i r a n a
+1124	klop	6	0.0582	1.7649	k l ɔ p̚
+1124	kosmonaut	6	0.0582	1.7649	k ɔ s m o n a u̯ t̚
+1124	kuintal	6	0.0582	1.7649	k w i n t a l
+1124	mangaka	6	0.0582	1.7649	m a n ɡ a k a
+1124	menggarisi	6	0.0582	1.7649	m ə ŋ ɡ a r i s i
+1124	mengiler	6	0.0582	1.7649	m ə ŋ i l ə r
+1124	nira	6	0.0582	1.7649	n i r a
+1124	pemkot	6	0.0582	1.7649	p ə m k ɔ t̚
+1124	risoto	6	0.0582	1.7649	r i s o t o
+1124	syahbandar	6	0.0582	1.7649	ʃ a h b a n d a r
+1124	takal	6	0.0582	1.7649	t a k a l
+1125	afa	5	0.0485	1.6857	a f a
+1125	amah	5	0.0485	1.6857	a m a h
+1125	anido	5	0.0485	1.6857	a n i d o
+1125	awat	5	0.0485	1.6857	a w a t
+1125	basmati	5	0.0485	1.6857	b a s m a t i
+1125	berketombe	5	0.0485	1.6857	b ə r k ə t ɔ m b e
+1125	buana	5	0.0485	1.6857	b u a̯ n a
+1125	edamame	5	0.0485	1.6857	e d a m a m e
+1125	kadaster	5	0.0485	1.6857	k a d a s t ə r
+1125	kartika	5	0.0485	1.6857	k a r t i k a
+1125	kpk	5	0.0485	1.6857	k a p e k a
+1125	memerban	5	0.0485	1.6857	m ə m ə r b a n
+1125	memproklamasikan	5	0.0485	1.6857	m ə m p r o k l a m a s i k a n
+1125	meraja	5	0.0485	1.6857	m ə r a d͡ʒ a
+1125	perambah	5	0.0485	1.6857	p ə r a m b a h
+1125	terwelu	5	0.0485	1.6857	t ə r w ɛ l u
+1125	timbel	5	0.0485	1.6857	t i m b ə l
+1126	afirmasi	4	0.0388	1.5888	a f ɪ r m a s i
+1126	algoritmik	4	0.0388	1.5888	a l ɡ o r ɪ t̚ m ɪ k̚
+1126	antariksawan	4	0.0388	1.5888	a n t a r ɪ k s a w a n
+1126	aritmetika	4	0.0388	1.5888	a r i t m ɛ t i k a
+1126	asat	4	0.0388	1.5888	a s a t̚
+1126	bendel	4	0.0388	1.5888	b ə n d ə l
+1126	candra	4	0.0388	1.5888	t͡ʃ a n d r a
+1126	diaken	4	0.0388	1.5888	d i a k ə n
+1126	entot	4	0.0388	1.5888	ɛ n t o t
+1126	flan	4	0.0388	1.5888	f l a n
+1126	frater	4	0.0388	1.5888	f r a t ə r
+1126	graha	4	0.0388	1.5888	ɡ r a h a
+1126	keik	4	0.0388	1.5888	k ɛ i k
+1126	kers	4	0.0388	1.5888	k ɛ r s
+1126	khilafah	4	0.0388	1.5888	x i l a f a ʔ
+1126	klaver	4	0.0388	1.5888	k l a v ə r
+1126	lemper	4	0.0388	1.5888	l ə m p ə r
+1126	literasi	4	0.0388	1.5888	l i t ə r a s i
+1126	losin	4	0.0388	1.5888	l o s i n
+1126	marhaban	4	0.0388	1.5888	m a r h a b a n
+1126	minaret	4	0.0388	1.5888	m i n a r ɛ t
+1126	ompol	4	0.0388	1.5888	o m p o l
+1126	oplos	4	0.0388	1.5888	o p̚ l o s
+1126	otomobil	4	0.0388	1.5888	o t o m o b i l
+1126	padri	4	0.0388	1.5888	p a d r i
+1126	prei	4	0.0388	1.5888	p r e i
+1126	radikalisasi	4	0.0388	1.5888	r a d i k a l ɪ s a s i
+1126	sahaya	4	0.0388	1.5888	s a h a j a
+1126	sandung	4	0.0388	1.5888	s a n d ʊ ŋ
+1126	spesifisitas	4	0.0388	1.5888	s p e s i f i s i t a s
+1126	swafoto	4	0.0388	1.5888	s w a f o t o
+1126	voucer	4	0.0388	1.5888	v o u̯ t͡ʃ ə r
+1126	waja	4	0.0388	1.5888	w a d͡ʒ a
+1126	wana	4	0.0388	1.5888	w a n a
+1127	akil	3	0.0291	1.4639	a k ɪ l
+1127	amuk	3	0.0291	1.4639	a m ʊ k̚
+1127	anoda	3	0.0291	1.4639	a n o d a
+1127	balo	3	0.0291	1.4639	b a l o
+1127	banji	3	0.0291	1.4639	b a n d͡ʒ i
+1127	bayu	3	0.0291	1.4639	b a j u
+1127	berjibaku	3	0.0291	1.4639	b ə r d͡ʒ i b a k u
+1127	camat	3	0.0291	1.4639	t͡ʃ a m a t̚
+1127	daksina	3	0.0291	1.4639	d a k s i n a
+1127	gaharu	3	0.0291	1.4639	ɡ a h a r u
+1127	ggl	3	0.0291	1.4639	ɡ e ɡ e ɛ l
+1127	gulana	3	0.0291	1.4639	ɡ u l a n a
+1127	hijriah	3	0.0291	1.4639	h i d͡ʒ r i a h
+1127	indekos	3	0.0291	1.4639	i n d ə k ɔ s
+1127	intipan	3	0.0291	1.4639	ɪ n t ɪ p̚ a n
+1127	kolik	3	0.0291	1.4639	k o l ɪ k
+1127	komplot	3	0.0291	1.4639	k o m p l o t
+1127	konsiderasi	3	0.0291	1.4639	k ɔ n s i d ə r a s i
+1127	kurawa	3	0.0291	1.4639	k u r a w a
+1127	leger	3	0.0291	1.4639	l ɛ ɡ ə r
+1127	mager	3	0.0291	1.4639	m a ɡ ə r
+1127	memberantakkan	3	0.0291	1.4639	m ə m b ə r a n t a k k a n
+1127	memodernkan	3	0.0291	1.4639	m ə m o d ɛ r n k a n
+1127	mencacat	3	0.0291	1.4639	m ə n t͡ʃ a t͡ʃ a t
+1127	pentana	3	0.0291	1.4639	p ɛ n t a n a
+1127	sampir	3	0.0291	1.4639	s a m p ɪ r
+1127	sintas	3	0.0291	1.4639	s ɪ n t a s
+1127	terjelas	3	0.0291	1.4639	d͡ʒ ə l a s
+1127	usada	3	0.0291	1.4639	u s a d a
+1127	videografer	3	0.0291	1.4639	v i d e o ɡ r a f ə r
+1127	warsa	3	0.0291	1.4639	w a r s a
+1127	wreda	3	0.0291	1.4639	w r ə d a
+1128	adikarya	2	0.0194	1.2878	a d i k a r j a
+1128	administratur	2	0.0194	1.2878	a t̚ m i n ɪ s t r a t ʊ r
+1128	aksa	2	0.0194	1.2878	a k̚ s a
+1128	aktivisme	2	0.0194	1.2878	a k̚ t i f ɪ s m ə  |  a k̚ t i p ɪ s m ə  |  a k̚ t i v ɪ s m ə
+1128	ampa	2	0.0194	1.2878	a m p a
+1128	anjar	2	0.0194	1.2878	a n d͡ʒ a r
+1128	anjer	2	0.0194	1.2878	a n d͡ʒ ə r
+1128	antarbangsa	2	0.0194	1.2878	a n t a r b a ŋ s a
+1128	arta	2	0.0194	1.2878	a r t a
+1128	atma	2	0.0194	1.2878	a t m a
+1128	avtur	2	0.0194	1.2878	a f t ʊ r  |  a p̚ t ʊ r
+1128	baiduri	2	0.0194	1.2878	b a i̯ d u r i
+1128	batavia	2	0.0194	1.2878	b a t a v i a̯
+1128	berbaterai	2	0.0194	1.2878	b ə r b a t ə r a i̯
+1128	betawi	2	0.0194	1.2878	b ə t a w i
+1128	bingar	2	0.0194	1.2878	b i ŋ a r
+1128	cogan	2	0.0194	1.2878	t͡ʃ o ɡ a n
+1128	datu	2	0.0194	1.2878	d a t u
+1128	difabel	2	0.0194	1.2878	d i f a b ə l
+1128	diperkeruh	2	0.0194	1.2878	d i p ə r k ə r ʊ h
+1128	ensiklik	2	0.0194	1.2878	e n s i k l i k
+1128	falseto	2	0.0194	1.2878	f a l s é t o
+1128	gandu	2	0.0194	1.2878	ɡ a n d u
+1128	grahita	2	0.0194	1.2878	ɡ r a h i t a
+1128	hatta	2	0.0194	1.2878	h a t t a
+1128	idep	2	0.0194	1.2878	ɪ d ə p̚
+1128	jelma	2	0.0194	1.2878	d͡ʒ ə l m a
+1128	kadaver	2	0.0194	1.2878	k a d a v ə r
+1128	kelarutan	2	0.0194	1.2878	k ə l a r u t a n
+1128	keraton	2	0.0194	1.2878	k ə r a t ɔ n
+1128	kersen	2	0.0194	1.2878	k ɛ r s ə n
+1128	kinoa	2	0.0194	1.2878	k i n o a̯
+1128	kuna	2	0.0194	1.2878	k u n a
+1128	laher	2	0.0194	1.2878	l a h ə r
+1128	laksa	2	0.0194	1.2878	l a k s a
+1128	lekong	2	0.0194	1.2878	l e k o ŋ
+1128	mancanegara	2	0.0194	1.2878	m a n t͡ʃ a n ə ɡ a r a
+1128	mantul	2	0.0194	1.2878	m a n t ʊ l
+1128	matpel	2	0.0194	1.2878	m a t p ə l
+1128	mengoplos	2	0.0194	1.2878	m ə ŋ o p l o s
+1128	naufal	2	0.0194	1.2878	n a u f a l
+1128	oktana	2	0.0194	1.2878	o k t a n a
+1128	pabrikasi	2	0.0194	1.2878	p a b r i k a s i  |  p a p̚ r i k a s i
+1128	padus	2	0.0194	1.2878	p a d u s
+1128	radikalisme	2	0.0194	1.2878	r a d i k a l ɪ s m ə
+1128	reanimasi	2	0.0194	1.2878	r e a n i m a s i
+1128	salpeter	2	0.0194	1.2878	s a l p ɛ t ə r
+1128	samcan	2	0.0194	1.2878	s a m t͡ʃ a n
+1128	susyi	2	0.0194	1.2878	s u ʃ i
+1128	syahadat	2	0.0194	1.2878	ʃ a h a d a t̚
+1128	takraw	2	0.0194	1.2878	t a k̚ r a u̯  |  t a k̚ r a w
+1128	verano	2	0.0194	1.2878	v e r a n o
+1128	yudisium	2	0.0194	1.2878	j u d i s i ʊ m
+1129	advis	1	0.0097	0.9868	a t̚ f i s  |  a t̚ v i s
+1129	ancak	1	0.0097	0.9868	a n t͡ʃ a k̚
+1129	anggi	1	0.0097	0.9868	a ŋ ɡ i
+1129	angkar	1	0.0097	0.9868	a ŋ k a r
+1129	angko	1	0.0097	0.9868	a ŋ k o
+1129	anjal	1	0.0097	0.9868	a n d͡ʒ a l
+1129	anjeng	1	0.0097	0.9868	a n d͡ʒ ɛ ŋ
+1129	antarpemain	1	0.0097	0.9868	a n t a r p ə m a ɪ n
+1129	apang	1	0.0097	0.9868	a p a ŋ
+1129	apologi	1	0.0097	0.9868	a p o l o ɡ i
+1129	apostolik	1	0.0097	0.9868	a b o n ə m ɛ n
+1129	arid	1	0.0097	0.9868	a r ɪ t̚
+1129	asesmen	1	0.0097	0.9868	a s ɛ s m ə n
+1129	astana	1	0.0097	0.9868	a s t a n a
+1129	autokrat	1	0.0097	0.9868	a u t o k r a t̚
+1129	bacang	1	0.0097	0.9868	b a t͡ʃ a ŋ
+1129	bakeri	1	0.0097	0.9868	b a k ə r i
+1129	bakpia	1	0.0097	0.9868	b a ʔ p i a̯
+1129	balot	1	0.0097	0.9868	b a l ɔ t̚
+1129	batara	1	0.0097	0.9868	b a t a r a
+1129	bblr	1	0.0097	0.9868	b e b e ɛ l ɛ r
+1129	bestari	1	0.0097	0.9868	b ə s t a r i
+1129	biku	1	0.0097	0.9868	b i k u
+1129	blangko	1	0.0097	0.9868	b ə̆ l a ŋ k o
+1129	cempaka	1	0.0097	0.9868	t͡ʃ ə m p a k a
+1129	cengkerama	1	0.0097	0.9868	t͡ʃ ə ŋ k ə r a m a
+1129	cerana	1	0.0097	0.9868	t͡ʃ ə r a n a
+1129	cupido	1	0.0097	0.9868	t͡ʃ u p i d o
+1129	dosin	1	0.0097	0.9868	d o s i n
+1129	etana	1	0.0097	0.9868	e t a n a
+1129	gempita	1	0.0097	0.9868	ɡ ə m p i t a
+1129	gerha	1	0.0097	0.9868	ɡ ə r h a
+1129	hosti	1	0.0097	0.9868	h o s t i
+1129	ikonis	1	0.0097	0.9868	i k o n ɪ s
+1129	imamah	1	0.0097	0.9868	i m a m a h
+1129	influen	1	0.0097	0.9868	ɪ n f l u ɛ n
+1129	inset	1	0.0097	0.9868	i n s ɛ t
+1129	jataka	1	0.0097	0.9868	d͡ʒ a t a k a
+1129	judoka	1	0.0097	0.9868	d͡ʒ u d o k a
+1129	kanit	1	0.0097	0.9868	k a n i t
+1129	kanonis	1	0.0097	0.9868	k a n o n ɪ s
+1129	karakuri	1	0.0097	0.9868	k a r a k u r i
+1129	kempetai	1	0.0097	0.9868	k e m p e t a i̯
+1129	kenek	1	0.0097	0.9868	k ə n ɛ k
+1129	kkn	1	0.0097	0.9868	k a k a ɛ n
+1129	konpers	1	0.0097	0.9868	k ɔ n p ɛ r s
+1129	kuap	1	0.0097	0.9868	k u a p̚
+1129	kultivasi	1	0.0097	0.9868	k ʊ l t i v a s i
+1129	labah	1	0.0097	0.9868	l a b a h
+1129	langau	1	0.0097	0.9868	l a ŋ a u̯
+1129	lanjar	1	0.0097	0.9868	l a n d͡ʒ a r
+1129	lektor	1	0.0097	0.9868	l ɛ k t o r
+1129	lelangit	1	0.0097	0.9868	l ə l ɑː ŋ ɪ t̚
+1129	lipur	1	0.0097	0.9868	l i p ʊ r
+1129	luap	1	0.0097	0.9868	l u a p̚
+1129	malingsia	1	0.0097	0.9868	m ä l ɪ ŋ s i a
+1129	memperkokoh	1	0.0097	0.9868	m ə m p ə r k o k ɔ h
+1129	memutakhirkan	1	0.0097	0.9868	m ə m u t a x i r k a n
+1129	mendoa	1	0.0097	0.9868	m ə n d o a
+1129	meragu	1	0.0097	0.9868	m ə r a ɡ u
+1129	micin	1	0.0097	0.9868	m i t͡ʃ i n
+1129	moksa	1	0.0097	0.9868	m o k s a
+1129	mudra	1	0.0097	0.9868	m u d r a
+1129	persada	1	0.0097	0.9868	p ə r s a d a
+1129	renten	1	0.0097	0.9868	r ɛ n t ə n
+1129	residensial	1	0.0097	0.9868	a b o n ə m ɛ n
+1129	romusa	1	0.0097	0.9868	r o m u s a
+1129	s'lalu	1	0.0097	0.9868	s l a l u
+1129	sedawa	1	0.0097	0.9868	s ə d a w a
+1129	sendratari	1	0.0097	0.9868	s ə n d r a t a r i
+1129	sepur	1	0.0097	0.9868	s ə p u r
+1129	serdawa	1	0.0097	0.9868	s ə r d a w a
+1129	sirkuler	1	0.0097	0.9868	s ɪ r k u l ɛ r
+1129	songket	1	0.0097	0.9868	s o ŋ k ɛ̀ t
+1129	swarga	1	0.0097	0.9868	s w a r ɡ a
+1129	tsuru	1	0.0097	0.9868	ʃ u r u
+1129	wanprestasi	1	0.0097	0.9868	w a n p r e s t a s i
+1129	wibu	1	0.0097	0.9868	w i b u

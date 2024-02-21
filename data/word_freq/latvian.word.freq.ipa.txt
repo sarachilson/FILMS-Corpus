@@ -1,0 +1,921 @@
+Rank	Word	Frequency	Frequency per million	Zipf value	IPA
+1	ir	68628	26782.5992	7.4279	i r
+2	es	65034	25380.0133	7.4045	ɛ s
+3	tu	44811	17487.8337	7.2427	t u
+4	un	39678	15484.6414	7.1899	ù n
+5	tas	29964	11693.679	7.068	t a s
+6	ka	28848	11258.1515	7.0515	k a
+7	vai	24763	9663.9492	6.9852	v a î  |  v à i  |  v ā ī
+8	tā	20949	8175.5067	6.9125	t àː  |  t âː  |  t āː
+9	kā	20143	7860.959	6.8955	k âː  |  k āː
+10	viņš	19546	7627.9752	6.8824	v i ɲ ʃ
+11	jā	17444	6807.6537	6.833	j àː
+12	mēs	16472	6428.3233	6.8081	m ɛ̄ː s
+13	jūs	13910	5428.4833	6.7347	j ūː s
+14	bet	13874	5414.4341	6.7336	b ɛ t
+15	lai	13068	5099.8864	6.7076	l a î
+16	arī	7061	2755.609	6.4402	a ɾ îː  |  a ɾ īː
+17	viss	6930	2704.4852	6.4321	v i s
+18	kur	6822	2662.3374	6.4253	k ù ɾ  |  k û ɾ  |  k ū ɾ
+19	vēl	5851	2283.3973	6.3586	v ɛ̂ l
+20	jau	5812	2268.1772	6.3557	j à w
+21	tur	5768	2251.0059	6.3524	t ù ɾ
+22	tagad	5329	2079.6828	6.318	t a ɡ a t
+23	šeit	5221	2037.535	6.3091	ʃ ɛ î t  |  ʃ ɛ̄ ī t
+24	pēc	5211	2033.6324	6.3083	p ɛ ː̂ t s
+25	kāpēc	5009	1954.8004	6.2911	k âː p êː t s
+26	ļoti	4596	1793.624	6.2537	ʎ ù o t i
+27	mūsu	4184	1632.8378	6.2129	m uː s u
+28	taču	4183	1632.4476	6.2128	t a t ʃ u
+29	daudz	3618	1411.952	6.1498	d ā ū d z
+30	būt	3026	1180.9195	6.0722	b ûː t
+31	viens	2895	1129.7958	6.053	v i ɛ̂ n s
+32	kopā	2542	992.0348	5.9965	k u ō p aː
+33	dievs	2480	967.8389	5.9858	d ì ɛ w s
+34	šis	2324	906.9587	5.9576	ʃ i s
+35	iet	1873	730.9525	5.8639	i ɛ̂ t  |  i ɛ̄ t
+36	sveiks	1647	642.7543	5.808	s v ɛ̀ j k s
+37	zināt	1566	611.1434	5.7861	z i n âː t
+38	laiks	1495	583.4351	5.766	l ā ī k s
+38	trīs	1495	583.4351	5.766	t r îː s
+39	darīt	1424	555.7268	5.7449	d a r îː t
+40	draugs	1361	531.1406	5.7252	d r à w k s
+41	velns	1341	523.3355	5.7188	v ǣ l n s
+42	cilvēks	1322	515.9206	5.7126	t s ì l v æ̀ː k s
+43	tēvs	1297	506.1641	5.7043	t ǣː w s
+44	skaidrs	1276	497.9687	5.6972	s k ā ī d r s
+45	teikt	1206	470.6507	5.6727	t ɛ̀ i k t
+46	redzēt	1082	422.2587	5.6256	ɾ ɛ d z ɛ̂ː t
+47	palīdzēt	1053	410.9413	5.6138	p a l īː d z ɛ̂ː t
+48	joprojām	1042	406.6484	5.6092	j ù o p ɾ u ô j âː m  |  j ù o p ɾ u ô j āː m
+49	gatavs	1023	399.2335	5.6012	ɡ a t a w s
+50	dēls	883	344.5975	5.5373	d æ̂ː l s
+51	starp	880	343.4267	5.5358	s t a ɾ p
+52	aiz	844	329.3774	5.5177	à j s
+53	rīt	822	320.7918	5.5062	r îː t  |  r īː t
+54	vārds	798	311.4256	5.4934	v àː ɾ d s
+55	liels	797	311.0353	5.4928	l i ɛ̂ l s  |  l ī ɛ̄ l s
+56	vīrs	729	284.4978	5.4541	v īː ɾ s
+57	abi	718	280.205	5.4475	a b i
+57	darbs	718	280.205	5.4475	d â r p s
+58	atrast	703	274.3511	5.4383	a t ɾ a s t
+59	vēlreiz	634	247.4233	5.3934	v ɛ̂ l r e ī z
+60	nauda	609	237.6669	5.376	n â w d a
+61	meitene	602	234.9351	5.3709	m ɛ̂ j t ɛ n ɛ
+62	prieks	556	216.9832	5.3364	p ɾ i ɛ̂ k s
+63	bērns	521	203.3242	5.3082	b æ̀ː ɾ n s
+64	sieva	520	202.934	5.3074	s ī ɛ̄ v a
+65	dabūt	495	193.1775	5.286	d a b ûː t
+66	tētis	493	192.397	5.2842	t ɛ̄ː t i s
+67	māte	476	185.7626	5.269	m āː t ɛ
+68	ūdens	473	184.5918	5.2662	ûː d ɛ n s
+69	dzīvot	471	183.8113	5.2644	d z îː vʷ ô t
+70	puisis	461	179.9088	5.2551	p ū ī s i s
+71	drošs	450	175.6159	5.2446	d ɾ ù o ʃ
+72	sirds	442	172.4939	5.2368	s î ɾ t s
+73	brālis	424	165.4692	5.2187	b r āː l i s
+74	labrīt	418	163.1277	5.2125	l a b ɾ îː t
+75	dzīvs	393	153.3712	5.1857	d z îː w s
+76	o	392	152.981	5.1846	o  |  oː  |  u ə̯
+77	plāns	386	150.6394	5.1779	p l âː n s  |  p l āː n s
+78	dzirdēt	376	146.7369	5.1665	d z ì ɾ d ɛ̂ː t
+79	vakar	374	145.9563	5.1642	v a k a r
+80	vaina	372	145.1758	5.1619	v ā ī n a
+81	caur	368	143.6148	5.1572	t s ā ū ɾ
+82	nakts	363	141.6635	5.1513	n a k t s
+83	jauns	355	138.5415	5.1416	j a û n s
+84	pār	352	137.3707	5.1379	p āː r
+85	valsts	349	136.1999	5.1342	v à l s t s
+85	ģimene	349	136.1999	5.1342	ɟ i m ɛ n ɛ
+86	jauks	340	132.6876	5.1228	j â w k s
+86	īsts	340	132.6876	5.1228	īː s t s
+87	māja	334	130.346	5.1151	m aː j a
+88	desmit	329	128.3948	5.1085	d ɛ s m i t
+89	braukt	327	127.6142	5.1059	b ɾ à w k t
+90	asinis	324	126.4435	5.1019	a s i n i s
+91	daudzi	302	117.8578	5.0714	d ā ū d z i
+92	a	300	117.0773	5.0685	a
+93	pieci	298	116.2968	5.0656	p ì ɛ t s i
+93	strādāt	298	116.2968	5.0656	s t ɾ àː d âː t
+93	stāsts	298	116.2968	5.0656	s t âː s t s
+94	gulēt	294	114.7357	5.0597	ɡ u l ɛ̂ː t
+95	sākt	291	113.565	5.0552	s âː k t
+96	bail	280	109.2721	5.0385	b â j l
+97	traks	279	108.8819	5.037	t ɾ a k s
+98	ļaudis	277	108.1014	5.0338	ʎ à w d i s
+99	kļūt	275	107.3208	5.0307	k ʎ ûː t
+99	meita	275	107.3208	5.0307	m ɛ̂ j t a
+100	dažreiz	264	103.028	5.013	d a ʒ ɾ ɛ ī z
+101	veids	260	101.467	5.0063	v ɛ̄ ī t s
+102	kuģis	257	100.2962	5.0013	k u ɟ i s
+103	ceļš	256	99.9059	4.9996	t s ɛ ʎ ʃ
+104	karš	254	99.1254	4.9962	k à ɾ ʃ
+105	četri	253	98.7352	4.9945	t s æ t r i  |  t ʃ ɛ t r i
+106	meklēt	248	96.7839	4.9858	m ɛ k l ɛ̂ː t
+107	nāve	246	96.0034	4.9823	n âː v ɛ
+108	arvien	244	95.2229	4.9787	a ɾ v î ɛ n
+108	zēns	244	95.2229	4.9787	z ǣː n s
+109	vecs	239	93.2716	4.9697	v æ t s
+110	vīrietis	238	92.8813	4.9679	v īː ɾ i e t i s
+111	ciet	237	92.4911	4.9661	t s i ɛ̂ t
+112	virs	235	91.7105	4.9624	v ì r s
+113	dot	224	87.4177	4.9416	d u ɔ̯ t
+114	ēst	221	86.2469	4.9357	ɛ̂ː s t
+115	zaudēt	210	81.9541	4.9136	z à w d ɛ̂ː t
+116	glābt	204	79.6126	4.901	ɡ l âː p t
+117	nākt	203	79.2223	4.8988	n āː k t
+118	vakariņas	200	78.0515	4.8924	v a k a ɾ i ɲ a s
+119	mirt	199	77.6613	4.8902	m î ɾ t  |  m ī ɾ t
+120	ierocis	196	76.4905	4.8836	ì ɛ ɾ u ô t s i s
+121	balss	191	74.5392	4.8724	b à l s
+121	joks	191	74.5392	4.8724	j u ō k s
+122	brīvs	190	74.1489	4.8701	b r īː w s
+122	m	190	74.1489	4.8701	m
+123	turpināt	184	71.8074	4.8562	t ù ɾ p i n âː t
+124	zeme	182	71.0269	4.8514	z ɛ m ɛ
+125	skaists	181	70.6366	4.849	s k ā ī s t s
+126	atbilde	180	70.2464	4.8466	a t b i l d ɛ
+127	tīrs	179	69.8561	4.8442	t īː ɾ s
+128	laimīgs	177	69.0756	4.8393	l ā ī m îː ɡ s
+129	slepkava	173	67.5146	4.8294	s l æ p k a v a
+130	bailes	171	66.7341	4.8243	b â j l ɛ s
+131	uzdevums	170	66.3438	4.8218	u z d ɛ v u m s
+132	grāmata	166	64.7828	4.8115	ɡ ɾ āː m a t a
+132	īpašs	166	64.7828	4.8115	īː p a ʃ
+133	kļūda	165	64.3925	4.8088	k ʎ ûː d a
+134	labvakar	162	63.2217	4.8009	l a b v a k a ɾ
+135	roka	161	62.8315	4.7982	ɾ ù o k a
+136	bumba	160	62.4412	4.7955	b ū m b a
+136	saule	160	62.4412	4.7955	s ā ū l e
+137	spēks	159	62.051	4.7927	s p æ̀ː k s
+138	aizmirst	158	61.6607	4.79	à j z m ì ɾ s t
+138	i	158	61.6607	4.79	i
+138	seši	158	61.6607	4.79	s ɛ ʃ i
+139	bikses	156	60.8802	4.7845	b i k s ɛ s
+140	uguns	155	60.4899	4.7817	u ɡ u n s
+141	b	153	59.7094	4.776	b
+142	t	152	59.3192	4.7732	t
+143	lidot	150	58.5386	4.7674	l i d u ô t
+144	pusdienas	148	57.7581	4.7616	p u s d ì ɛ n a
+145	alus	147	57.3679	4.7587	a l u s
+146	vakars	146	56.9776	4.7557	v a k a ɾ s
+147	dziesma	144	56.1971	4.7497	d z i ɛ̂ s m a
+147	dīvains	144	56.1971	4.7497	d īː v a j n s
+147	galva	144	56.1971	4.7497	ɡ â l v a
+148	muļķis	143	55.8068	4.7467	m û ʎ c i s
+149	lietus	141	55.0263	4.7406	l i ɛ̂ t u s
+149	maks	141	55.0263	4.7406	m a k s
+149	ņemt	141	55.0263	4.7406	ɲ ɛ̂ m t  |  ɲ ɛ̄ m̄ t
+150	atslēga	140	54.6361	4.7375	a t s l æ̂ː ɡ a
+151	mainīt	138	53.8556	4.7312	m ā ī n îː t
+152	c	137	53.4653	4.7281	t s
+153	ledus	136	53.075	4.7249	l æ d u s
+154	d	134	52.2945	4.7185	d
+155	septiņi	133	51.9043	4.7152	s ɛ p t i ɲ i
+156	priecīgs	130	50.7335	4.7053	p ɾ i ɛ̂ k s îː ɡ s
+157	vesels	129	50.3432	4.7019	v æ s æ l s
+158	armija	128	49.953	4.6986	a ɾ m i j a
+159	pulkstenis	127	49.5627	4.6952	p ù l k s t ɛ n i s
+160	g	125	48.7822	4.6883	ɡ
+161	ā	124	48.3919	4.6848	aː
+161	ārsts	124	48.3919	4.6848	āː r s t s
+162	pilns	122	47.6114	4.6777	p ī l n s
+162	saukt	122	47.6114	4.6777	s à w k t
+162	turēt	122	47.6114	4.6777	t u ɾ ɛ̂ː t
+163	atvērt	121	47.2212	4.6741	a t v ɛ̄ː ɾ t
+163	lasīt	121	47.2212	4.6741	l a s îː t
+163	vējš	121	47.2212	4.6741	v ɛ̄ː j ʃ
+164	dzert	120	46.8309	4.6705	d z ɛ ɾ̂ t
+165	jēga	119	46.4407	4.6669	j ǣ ɡ a
+166	atbildēt	117	45.6601	4.6595	a t b î l d ɛ ː̂ t
+167	tēvocis	113	44.0991	4.6444	t ǣː v u ô t͡s i s
+168	krāsa	111	43.3186	4.6367	k r āː s a
+168	ēdiens	111	43.3186	4.6367	êː d i e n s
+169	ticēt	110	42.9283	4.6327	t i t s ɛ̂ː t
+170	brokastis	109	42.5381	4.6288	b ɾ ū ō k a s t i s
+170	gredzens	109	42.5381	4.6288	ɡ ɾ æ d z æ n s
+170	jautāt	109	42.5381	4.6288	j ā ū t â t
+170	l	109	42.5381	4.6288	l
+170	sekss	109	42.5381	4.6288	s ɛ k s
+170	stāstīt	109	42.5381	4.6288	s t âː s t îː t
+171	acs	107	41.7576	4.6207	a t s
+171	stulbs	107	41.7576	4.6207	s t ù l p s
+172	tirgus	106	41.3673	4.6167	t ì ɾ ɡ u s
+172	zaglis	106	41.3673	4.6167	z a ɡ l i s
+173	lācis	105	40.977	4.6125	l âː t s i s
+173	miers	105	40.977	4.6125	m i ɛ̂ ɾ s
+174	zivs	103	40.1965	4.6042	z i w s
+175	r	102	39.8063	4.6	ɾ
+176	nākotne	100	39.0258	4.5914	n āː k u ô t n ɛ
+176	zelts	100	39.0258	4.5914	z æ̀ l t s
+177	astoņi	98	38.2452	4.5826	a s t u ô ɲ i
+177	kauns	98	38.2452	4.5826	k à w n s
+177	s	98	38.2452	4.5826	s
+177	zirgs	98	38.2452	4.5826	z î ɾ k s
+178	stiprs	97	37.855	4.5781	s t i p ɾ s
+178	ķermenis	97	37.855	4.5781	c ɛ̄ ɾ m ɛ n i s
+179	kaķis	96	37.4647	4.5736	k a c i s
+180	vētra	94	36.6842	4.5645	v ǣː t ɾ a
+181	auksts	93	36.294	4.5598	ā ū k s t s
+181	roze	93	36.294	4.5598	r ū ō z ɛ
+182	deviņi	91	35.5134	4.5504	d ɛ v i ɲ i
+183	koks	89	34.7329	4.5407	k ù o k s
+184	dejot	88	34.3427	4.5358	d ɛ j u ô t
+184	zobens	88	34.3427	4.5358	z ù o b æ n s  |  z ù o b ɛ n s
+185	līķis	87	33.9524	4.5309	l īː c i s
+186	ilgs	85	33.1719	4.5208	ī l ɡ s
+186	sala	85	33.1719	4.5208	s a l a
+186	ziema	85	33.1719	4.5208	z ì ɛ m a
+187	vilciens	82	32.0011	4.5052	v ì l c i e n s
+188	dziedāt	81	31.6109	4.4998	d z i ɛ̂ d âː t
+188	lode	81	31.6109	4.4998	l ū ō d ɛ
+188	profesors	81	31.6109	4.4998	p ɾ o f ɛ s o ɾ s
+189	viesnīca	79	30.8304	4.489	v ì e s n īː t s a
+190	pavēle	78	30.4401	4.4834	p a v ɛ̄ː l ɛ
+190	vilks	78	30.4401	4.4834	v ì l k s
+191	amerika	75	29.2693	4.4664	a m ɛ ɾ i k a
+192	fakts	74	28.8791	4.4606	f a k t s
+192	gals	74	28.8791	4.4606	ɡ a l s
+192	maksāt	74	28.8791	4.4606	m a k s âː t
+192	vēsture	74	28.8791	4.4606	v æ̀ː s t u ɾ ɛ
+193	e	73	28.4888	4.4547	æ  |  ɛ
+193	rakstīt	73	28.4888	4.4547	ɾ a k s t îː t
+194	brilles	71	27.7083	4.4426	b ɾ ī l l ɛ s
+194	norma	71	27.7083	4.4426	n o ɾ m a
+194	tumšs	71	27.7083	4.4426	t ù m ʃ
+195	dzelzs	70	27.318	4.4364	d z ɛ̀ l s
+195	iekļūt	70	27.318	4.4364	ì ɛ k ʎ ûː t
+195	zvaigzne	70	27.318	4.4364	z v à j ɡ z n ɛ
+196	melot	69	26.9278	4.4302	m æ l u ô t
+197	kāja	68	26.5375	4.4239	k āː j a
+197	n	68	26.5375	4.4239	n
+197	vēzis	68	26.5375	4.4239	v ɛ̂ː z i s
+198	gulta	67	26.1473	4.4174	ɡ ù l t a
+199	klints	66	25.757	4.4109	k l ī n t s
+200	brālēns	65	25.3667	4.4043	b r āː l æ n s
+200	raudāt	65	25.3667	4.4043	ɾ a û d â t
+200	soma	65	25.3667	4.4043	s ū ō m a
+201	atmiņa	64	24.9765	4.3975	a t m i ɲ a
+201	kalns	64	24.9765	4.3975	k â l n s
+201	karsts	64	24.9765	4.3975	k â ɾ s t s
+201	pagātne	64	24.9765	4.3975	p a ɡ āː t n ɛ
+201	stāvoklis	64	24.9765	4.3975	s t āː v u o k l i s
+202	brauciens	63	24.5862	4.3907	b r à w t s i ɛ n s
+202	just	63	24.5862	4.3907	j u s t
+202	vājš	63	24.5862	4.3907	v âː j ʃ
+202	šausmas	63	24.5862	4.3907	ʃ ā ū s m a s
+203	kareivis	62	24.196	4.3837	k a ɾ ɛ̄ ī v i s
+203	vēls	62	24.196	4.3837	v æ̂ l s
+204	k	61	23.8057	4.3767	k
+204	mērs	61	23.8057	4.3767	m eː r s  |  m æː r s
+205	smags	60	23.4155	4.3695	s m a k s
+205	vasara	60	23.4155	4.3695	v a s a ɾ a
+205	āda	60	23.4155	4.3695	âː d a
+206	izteikt	59	23.0252	4.3622	i s t ɛ̀ i k t
+206	kails	59	23.0252	4.3622	k a î l s
+206	melns	59	23.0252	4.3622	m ǣ l n s
+206	vēstule	59	23.0252	4.3622	v æ̀ː s t u l ɛ
+207	nedēļa	58	22.6349	4.3548	n ɛ d ɛ̄ː ʎ a
+208	laiva	57	22.2447	4.3472	l ā ī v a
+208	rīts	57	22.2447	4.3472	ɾ îː t s
+208	sods	57	22.2447	4.3472	s ù o t s
+208	viesis	57	22.2447	4.3472	v ì e s i s
+209	dzīvoklis	56	21.8544	4.3395	d z īː v u o k l i s
+209	sacīt	56	21.8544	4.3395	s a t s îː t
+210	gaļa	55	21.4642	4.3317	ɡ a ʎ a
+211	ass	54	21.0739	4.3237	a s
+211	izcils	54	21.0739	4.3237	i s t s i l s
+211	laipns	54	21.0739	4.3237	l ā ī p n s
+211	mute	54	21.0739	4.3237	m u t ɛ
+211	simbols	54	21.0739	4.3237	s i m b ɔ l s
+211	v	54	21.0739	4.3237	v
+212	bagāts	53	20.6837	4.3156	b a ɡ āː t s
+212	veikals	53	20.6837	4.3156	v ē ī k a l s
+213	akls	52	20.2934	4.3074	a k l s
+213	bilde	52	20.2934	4.3074	b i lː d e
+213	kluss	52	20.2934	4.3074	k l u s
+214	adrese	51	19.9031	4.2989	a d ɾ ɛ s ɛ
+214	dārgs	51	19.9031	4.2989	d àː ɾ ɡ s
+214	mēsli	51	19.9031	4.2989	m æ̂ː s l i
+214	peldēt	51	19.9031	4.2989	p ɛ̄ l d ɛ̂ː t
+214	ļauns	51	19.9031	4.2989	ʎ ā ū n s
+215	pūķis	49	19.1226	4.2815	p ūː c i s
+215	sniegs	49	19.1226	4.2815	s n ì ɛ k s
+215	ātrs	49	19.1226	4.2815	āː t ɾ s
+216	direktors	48	18.7324	4.2726	d i ɾ ɛ k t oː ɾ s
+216	dzīvnieks	48	18.7324	4.2726	d z î u n ì ɛ k s
+216	prasīt	48	18.7324	4.2726	p r a s îː t
+216	rakt	48	18.7324	4.2726	ɾ a k t
+217	apspriest	47	18.3421	4.2634	a p s p ɾ i ɛ̂ s t
+217	iela	47	18.3421	4.2634	ì ɛ l a
+217	trakums	47	18.3421	4.2634	t ɾ a k u m s
+218	biedrs	46	17.9519	4.2541	b ì ɛ d r s
+218	drosme	46	17.9519	4.2541	d ɾ ù o s m e
+219	h	45	17.5616	4.2446	x
+219	kalps	45	17.5616	4.2446	k ā l p s
+219	laime	45	17.5616	4.2446	l ā ī m ɛ
+219	miesa	45	17.5616	4.2446	m ì ɛ s a
+219	z	45	17.5616	4.2446	z
+219	žurka	45	17.5616	4.2446	ʒ ù r k a  |  ʒ ū r k a
+220	pirkt	44	17.1713	4.2348	p ì ɾ k t
+220	resns	44	17.1713	4.2348	r æ s n s
+220	sarkans	44	17.1713	4.2348	s â ɾ k a n s
+220	skūpsts	44	17.1713	4.2348	s k ûː p s t s
+221	gatavot	43	16.7811	4.2248	ɡ a t a v u ô t
+221	tauta	43	16.7811	4.2248	t à w t a
+221	upuris	43	16.7811	4.2248	u p u ɾ i s
+222	el	42	16.3908	4.2146	ɛ l
+222	jūra	42	16.3908	4.2146	j ūː ɾ a
+222	stāvēt	42	16.3908	4.2146	s t āː v ɛ̂ː t
+222	traucēt	42	16.3908	4.2146	t r à w t s ɛ̂ː t
+222	zāle	42	16.3908	4.2146	z âː l ɛ  |  z āː l ɛ
+222	čūska	42	16.3908	4.2146	t ʃ ū s k a
+223	aizstāvēt	41	16.0006	4.2041	a j s t āː v ɛ̂ː t
+223	milti	41	16.0006	4.2041	m i l t i
+223	zvērs	41	16.0006	4.2041	z v æ̂ː ɾ s
+223	āķis	41	16.0006	4.2041	āː c i s
+224	govs	40	15.6103	4.1934	ɡ ù o w s
+224	gribēt	40	15.6103	4.1934	ɡ ɾ i b ɛ̂ː t
+224	inde	40	15.6103	4.1934	ī n d ɛ
+224	līdzēt	40	15.6103	4.1934	l īː d z ɛ̂ː t
+224	mīļš	40	15.6103	4.1934	m īː ʎ ʃ
+224	pusnakts	40	15.6103	4.1934	p u s n a k t s
+225	cūka	39	15.22	4.1824	t s uːː k a
+225	em	39	15.22	4.1824	ɛ m
+225	stīvs	39	15.22	4.1824	s t īː w s
+226	aste	38	14.8298	4.1711	a s t ɛ
+226	lapsa	38	14.8298	4.1711	l a p s a
+226	lepns	38	14.8298	4.1711	l æ p n s
+226	p	38	14.8298	4.1711	p
+226	raksts	38	14.8298	4.1711	ɾ a k s t s
+226	siena	38	14.8298	4.1711	s i ê n a
+226	valoda	38	14.8298	4.1711	v a l u ô d a
+227	silts	37	14.4395	4.1596	s ī l t s
+227	vīns	37	14.4395	4.1596	v īː n s
+228	jautrs	36	14.0493	4.1477	j à w t ɾ s
+228	logs	36	14.0493	4.1477	l u ô k s
+228	š	36	14.0493	4.1477	ʃ
+229	amerikānis	35	13.659	4.1354	a m ɛ ɾ i k āː n i s
+229	gāze	35	13.659	4.1354	ɡ âː z e  |  ɡ āː z e
+229	zinātne	35	13.659	4.1354	z i n âː t n ɛ
+229	ēna	35	13.659	4.1354	ǣː n a
+230	nepareizs	34	13.2688	4.1228	p a ɾ ɛ̄ ī s
+231	dvīņi	33	12.8785	4.1099	d v ìː n i s
+231	krēsla	33	12.8785	4.1099	k r ǣː s l a
+231	skumjas	33	12.8785	4.1099	s k ù m j a s
+231	zaļš	33	12.8785	4.1099	z a ʎ ʃ
+232	baznīca	32	12.4882	4.0965	b a z n ìː t s a
+232	bruņas	32	12.4882	4.0965	b r u ɲ ɑ s
+232	censties	32	12.4882	4.0965	t s ɛ̀ n s t i ɛ̂ s
+232	grūts	32	12.4882	4.0965	ɡ ɾ ūː t s
+232	pamats	32	12.4882	4.0965	p a m a t s
+232	piens	32	12.4882	4.0965	p ī ɛ̄ n s
+232	rupjš	32	12.4882	4.0965	r u pʲ ʃ
+232	slēpt	32	12.4882	4.0965	s l ɛ̀ː p t
+232	tornis	32	12.4882	4.0965	t ū ō r n i s
+232	zagle	32	12.4882	4.0965	z a ɡ l ɛ
+233	pāvests	31	12.098	4.0827	p āː v ɛ s t s
+233	siers	31	12.098	4.0827	s ī ɛ̄ ɾ s
+233	smaids	31	12.098	4.0827	s m ā ī t s
+233	viegls	31	12.098	4.0827	v ì ɛ ɡ l s
+234	cerēt	30	11.7077	4.0685	t s ɛ ɾ ɛ̂ː t
+234	f	30	11.7077	4.0685	f
+234	gaume	30	11.7077	4.0685	ɡ ā ū m e
+234	krēsls	30	11.7077	4.0685	k r ǣː s l s
+234	čoms	30	11.7077	4.0685	t ʃ o m s
+234	ē	30	11.7077	4.0685	æː  |  ɛː
+235	kurls	29	11.3175	4.0538	k û ɾ l s  |  k ū ɾ l s
+235	lauva	29	11.3175	4.0538	l ā w v a
+235	pilsonis	29	11.3175	4.0538	p ì l s u o n i s
+236	augs	28	10.9272	4.0385	â w k s
+236	cilts	28	10.9272	4.0385	t s î l t s
+236	j	28	10.9272	4.0385	j
+236	kūka	28	10.9272	4.0385	k uːː k a
+236	maksa	28	10.9272	4.0385	m a k s a
+236	profesore	28	10.9272	4.0385	p ɾ o f ɛ s o ɾ ɛ
+236	zoss	28	10.9272	4.0385	z ù o s
+237	glīts	27	10.537	4.0227	ɡ l îː t s
+237	kārts	27	10.537	4.0227	k āː ɾ t s
+237	loks	27	10.537	4.0227	l ù ɔ̯ k s  |  l û ɔ̯ k s  |  l ū ɔ̯ k s
+237	pareizs	27	10.537	4.0227	p a ɾ ɛ̄ ī s
+237	priesteris	27	10.537	4.0227	p ɾ ī ɛ̄ s t ɛ ɾ i s
+237	īss	27	10.537	4.0227	îː s
+238	jumts	26	10.1467	4.0063	j ù m t s
+238	karogs	26	10.1467	4.0063	k a ɾ u ō k s
+238	kurt	26	10.1467	4.0063	k û r t  |  k ū r t
+238	netīrs	26	10.1467	4.0063	n ɛ t īː ɾ s
+238	sviests	26	10.1467	4.0063	s v i ɛ̂ s t s
+238	tilts	26	10.1467	4.0063	t ī l t s
+238	ēzelis	26	10.1467	4.0063	ɛ̄ː z ɛ l i s
+239	anglija	25	9.7564	3.9893	ā ŋ ɡ l i j a
+239	augsts	25	9.7564	3.9893	a û ɡ s t s
+239	bārda	25	9.7564	3.9893	b àː ɾ d a
+239	sāls	25	9.7564	3.9893	s àː l s
+239	sīks	25	9.7564	3.9893	s îː k s
+239	ziepes	25	9.7564	3.9893	z i ɛ̃ p ɛ s
+240	bulta	24	9.3662	3.9716	b ū l t a
+240	dārzs	24	9.3662	3.9716	d àː ɾ s
+240	garša	24	9.3662	3.9716	ɡ â ɾ ʃ a
+240	maiss	24	9.3662	3.9716	m à j s
+240	stingrs	24	9.3662	3.9716	s t î ŋ ɡ ɾ s  |  s t ī ŋ ɡ ɾ s
+240	tuvs	24	9.3662	3.9716	t u w s
+240	zupa	24	9.3662	3.9716	z u p a
+240	ķēniņš	24	9.3662	3.9716	c ɛ̄ː n i ɲ ʃ
+241	art	23	8.9759	3.9531	â ɾ t
+241	maize	23	8.9759	3.9531	m à j z ɛ
+241	sargāt	23	8.9759	3.9531	s â r ɡ āː t
+241	šķēres	23	8.9759	3.9531	ʃ c ɛ̄ː ɾ ɛ s
+242	atgriezt	22	8.5857	3.9338	a t ɡ r i ɛ̂ s t  |  a t ɡ r ī ɛ̄ s t
+242	balts	22	8.5857	3.9338	b ā l t s
+242	dzeltens	22	8.5857	3.9338	d z æ̀ l t æ n s
+242	griezt	22	8.5857	3.9338	ɡ r i ɛ̂ s t  |  ɡ r ī ɛ̄ s t
+242	intuīcija	22	8.5857	3.9338	i n t u ī c i j a
+242	miegs	22	8.5857	3.9338	m ì ɛ k s
+242	pļāpāt	22	8.5857	3.9338	p ʎ āː p â t
+242	spriedums	22	8.5857	3.9338	s p ɾ i ɛ̂ d u m s
+243	biezs	21	8.1954	3.9136	b ì ɛ s
+243	briedis	21	8.1954	3.9136	b ɾ i ɛ̂ d i s
+243	kost	21	8.1954	3.9136	k u ô s t
+243	mežs	21	8.1954	3.9136	m ɛ̄ ʃː
+243	rets	21	8.1954	3.9136	ɾ æ t s
+243	rīks	21	8.1954	3.9136	ɾ ì k s
+243	skaitīt	21	8.1954	3.9136	s k à j t îː t
+244	atoms	20	7.8052	3.8924	a t oː m s  |  aː t oː m s
+244	celt	20	7.8052	3.8924	t s ɛ̂ l t
+244	fantastisks	20	7.8052	3.8924	f a n t a s t i s k s
+244	lauks	20	7.8052	3.8924	l ā ū k s
+244	neglīts	20	7.8052	3.8924	n ɛ ɡ l îː t s
+244	raksturs	20	7.8052	3.8924	ɾ a k s t u ɾ s
+244	telts	20	7.8052	3.8924	t ē l t s
+245	aknas	19	7.4149	3.8701	a k n a s
+245	akts	19	7.4149	3.8701	a k t s
+245	apmaiņa	19	7.4149	3.8701	a p m ā ī ɲ a
+245	apziņa	19	7.4149	3.8701	a p z i ɲ a
+245	augt	19	7.4149	3.8701	â w k t
+245	auss	19	7.4149	3.8701	à w s
+245	dzīt	19	7.4149	3.8701	d z îː t  |  d z īː t
+245	galds	19	7.4149	3.8701	ɡ â l t s
+245	rītdiena	19	7.4149	3.8701	ɾ îː d d ì ɛ n a
+245	varde	19	7.4149	3.8701	v â r d e
+245	zems	19	7.4149	3.8701	z æ m s
+245	šķērslis	19	7.4149	3.8701	ʃ c ɛ̀ː ɾ s l i s
+246	gards	18	7.0246	3.8466	ɡ â ɾ t s
+246	gādāt	18	7.0246	3.8466	ɡ āː d âː t
+246	mēle	18	7.0246	3.8466	m ɛ̀ː l ɛ
+246	ola	18	7.0246	3.8466	u ō l a
+246	paslēpt	18	7.0246	3.8466	p a s l ɛ̀ː p t
+246	rinda	18	7.0246	3.8466	ɾ ī n d a
+246	slapjš	18	7.0246	3.8466	s l a pʲ ʃ
+246	smuks	18	7.0246	3.8466	s m u k s
+246	tinte	18	7.0246	3.8466	t ī n t e
+246	vilnis	18	7.0246	3.8466	v î l n i s
+246	šķērsot	18	7.0246	3.8466	ʃ c ɛ̀ː ɾ s u ô t
+247	aicināt	17	6.6344	3.8218	a î t s i n âː t  |  ā ī t s i n âː t
+247	akcents	17	6.6344	3.8218	a k t s ɛ n t s
+247	ala	17	6.6344	3.8218	a l a
+247	burts	17	6.6344	3.8218	b ū r t s
+247	ciets	17	6.6344	3.8218	t s i ɛ̂ t s
+247	kurpe	17	6.6344	3.8218	k û ɾ p ɛ  |  k ū ɾ p ɛ
+247	lēns	17	6.6344	3.8218	l æ̀ː n s
+247	pavasaris	17	6.6344	3.8218	p a v a s a ɾ i s
+247	pludmale	17	6.6344	3.8218	p l u d m a l ɛ
+247	pērn	17	6.6344	3.8218	p ǣː ɾ n
+247	pīle	17	6.6344	3.8218	p īː l ɛ
+247	u	17	6.6344	3.8218	u
+247	ķ	17	6.6344	3.8218	c
+247	ļ	17	6.6344	3.8218	ʎ
+248	ezers	16	6.2441	3.7955	æ z æ ɾ s
+248	kronis	16	6.2441	3.7955	k ɾ ū ō n i s
+248	medus	16	6.2441	3.7955	m æ d u s
+248	milzis	16	6.2441	3.7955	m î l z i s
+248	pasts	16	6.2441	3.7955	p a s t s
+248	spogulis	16	6.2441	3.7955	s p ū ō ɡ u l i s
+248	vads	16	6.2441	3.7955	v a t s
+249	diennakts	15	5.8539	3.7674	d ì ɛ n n a k t s
+249	eiro	15	5.8539	3.7674	ɛ ì ɾ o
+249	jods	15	5.8539	3.7674	j oː t s  |  j u o t s
+249	oma	15	5.8539	3.7674	u ō m a
+249	skuķis	15	5.8539	3.7674	s k u c i s
+249	slinks	15	5.8539	3.7674	s l ī n k s
+249	stādīt	15	5.8539	3.7674	s t āː d îː t
+249	svešs	15	5.8539	3.7674	s v ɛ ʃ
+249	tabaka	15	5.8539	3.7674	t a b a k a
+249	ērglis	15	5.8539	3.7674	ɛ̀ː r ɡ l i s
+249	ī	15	5.8539	3.7674	iː
+250	fantastika	14	5.4636	3.7375	f a n t a s t i k a
+250	josta	14	5.4636	3.7375	j u ô s t a
+250	laizīt	14	5.4636	3.7375	l a i z iː t
+250	lēts	14	5.4636	3.7375	l ǣː t s
+250	mats	14	5.4636	3.7375	m a t s
+250	mīts	14	5.4636	3.7375	m îː t s  |  m īː t s
+250	pulkstens	14	5.4636	3.7375	p ù l k s t æ n s
+250	rags	14	5.4636	3.7375	ɾ a k s
+250	rast	14	5.4636	3.7375	ɾ a s t
+250	smaidīt	14	5.4636	3.7375	s m ā ī d îː t
+250	tievs	14	5.4636	3.7375	t i ê w s
+250	vēss	14	5.4636	3.7375	v ǣː s
+250	zīmulis	14	5.4636	3.7375	z ìː m u l i s
+250	āmurs	14	5.4636	3.7375	āː m u ɾ s
+250	īpašība	14	5.4636	3.7375	īː p a ʃ ìː b a
+251	apvienot	13	5.0733	3.7053	a p v i ɛ̂ n u ô t
+251	bārenis	13	5.0733	3.7053	b àː ɾ ɛ n i s
+251	bīties	13	5.0733	3.7053	b îː t i ɛ̂ s
+251	cepums	13	5.0733	3.7053	t s æ p u m s
+251	cālis	13	5.0733	3.7053	t s āː l i s
+251	dalīt	13	5.0733	3.7053	d a l îː t
+251	lops	13	5.0733	3.7053	l ū ō p s
+251	mīksts	13	5.0733	3.7053	m îː k s t s
+251	pelnīt	13	5.0733	3.7053	p ɛ̀ l n îː t
+251	skūpstīt	13	5.0733	3.7053	s k ûː p s t īː t
+251	spriest	13	5.0733	3.7053	s p ɾ i ɛ̂ s t
+251	veikls	13	5.0733	3.7053	v ē ī k l s
+251	vāks	13	5.0733	3.7053	v âː k s
+251	zobs	13	5.0733	3.7053	z ù o p s
+251	āzis	13	5.0733	3.7053	âː z i s
+252	muša	12	4.6831	3.6705	m u ʃ a
+252	paklājs	12	4.6831	3.6705	p a k l âː j s
+252	salds	12	4.6831	3.6705	s â l t s
+252	skumjš	12	4.6831	3.6705	s k ù mʲ ʃ
+252	tapt	12	4.6831	3.6705	t a p t
+252	tāls	12	4.6831	3.6705	t âː l s
+252	šķēps	12	4.6831	3.6705	ʃ c æ̀ p s
+253	anglis	11	4.2928	3.6327	ā ŋ ɡ l i s
+253	apmainīt	11	4.2928	3.6327	a p m ā ī n îː t
+253	auglis	11	4.2928	3.6327	â w ɡ l i s
+253	bads	11	4.2928	3.6327	b a t s
+253	dāsns	11	4.2928	3.6327	d âː s n s  |  d āː s n s
+253	glāze	11	4.2928	3.6327	ɡ l āː z ɛ
+253	iedvesma	11	4.2928	3.6327	ì ɛ d v ɛ s m a
+253	jē	11	4.2928	3.6327	j ɛː
+253	krievs	11	4.2928	3.6327	k ɾ ì e w s
+253	krāsns	11	4.2928	3.6327	k ɾ âː s n s
+253	mazgāt	11	4.2928	3.6327	m a z ɡ âː t
+253	mezgls	11	4.2928	3.6327	m æ z ɡ l s
+253	modrs	11	4.2928	3.6327	m u ô d ɾ s
+253	parīt	11	4.2928	3.6327	p a ɾ îː t
+253	pelēks	11	4.2928	3.6327	p æ l æ̂ː k s
+253	purvs	11	4.2928	3.6327	p ù ɾ v s
+253	spalva	11	4.2928	3.6327	s p ā l v a
+253	varavīksne	11	4.2928	3.6327	v a ɾ a v îː k s n ɛ
+253	ābols	11	4.2928	3.6327	âː b u o l s
+254	direktore	10	3.9026	3.5914	d i ɾ ɛ k t oː ɾ ɛ
+254	dzīsla	10	3.9026	3.5914	d z îː s l a
+254	gadsimts	10	3.9026	3.5914	ɡ a t s ì m t s
+254	josla	10	3.9026	3.5914	j u ô s l a
+254	odze	10	3.9026	3.5914	u ô d z ɛ
+254	pēcpusdiena	10	3.9026	3.5914	p ɛ ː̂ t s p u s d ì ɛ n a
+254	pūt	10	3.9026	3.5914	p ūː t
+254	siekalas	10	3.9026	3.5914	s ī ɛ̄ k a l a s
+254	skate	10	3.9026	3.5914	s k a t ɛ
+254	studēt	10	3.9026	3.5914	s t u d ɛ̂ː t
+254	zilonis	10	3.9026	3.5914	z i l u ò n i s
+255	agrs	9	3.5123	3.5456	a ɡ ɾ s
+255	aploksne	9	3.5123	3.5456	a p l ù o k s n e
+255	aukla	9	3.5123	3.5456	à w k l a
+255	ciems	9	3.5123	3.5456	t s ì e m s
+255	cipars	9	3.5123	3.5456	t s i p a r s
+255	cēls	9	3.5123	3.5456	t s eː l s
+255	gaišs	9	3.5123	3.5456	ɡ à j ʃ
+255	jokot	9	3.5123	3.5456	j u ō k u ô t
+255	kaza	9	3.5123	3.5456	k a z a
+255	mape	9	3.5123	3.5456	m a p ɛ
+255	miets	9	3.5123	3.5456	m ì ɛ t s
+255	plašs	9	3.5123	3.5456	p l a ʃ
+255	sauss	9	3.5123	3.5456	s à w s
+255	sega	9	3.5123	3.5456	s æ ɡ a
+255	skatīt	9	3.5123	3.5456	s k a t îː t
+255	skaļš	9	3.5123	3.5456	s k a ʎ ʃ
+255	spainis	9	3.5123	3.5456	s p ā ī n i s
+255	valis	9	3.5123	3.5456	v a l i s
+255	zaķis	9	3.5123	3.5456	z a c i s
+255	zvejot	9	3.5123	3.5456	z v e j u ô t
+255	ķēde	9	3.5123	3.5456	c ɛ̄ː d ɛ
+256	aita	8	3.1221	3.4944	à j t a
+256	apspriede	8	3.1221	3.4944	a p s p ɾ i ɛ̂ d ɛ
+256	austrumi	8	3.1221	3.4944	à w s t r u m i
+256	aut	8	3.1221	3.4944	à w t
+256	bēda	8	3.1221	3.4944	b æ̀ː d a
+256	cept	8	3.1221	3.4944	t s ɛ p t
+256	gā	8	3.1221	3.4944	ɡ aː
+256	klosteris	8	3.1221	3.4944	k l u o s t ɛ ɾ i s
+256	lakstīgala	8	3.1221	3.4944	l a k s t îː ɡ a l a  |  l a k s t īː ɡ a l a
+256	liegt	8	3.1221	3.4944	l i ɛ̂ k t
+256	maiznīca	8	3.1221	3.4944	m à i z n ìː t s a
+256	moderns	8	3.1221	3.4944	m o d æ ɾ n s
+256	oža	8	3.1221	3.4944	u ô ʒ a
+256	pavēlēt	8	3.1221	3.4944	p a v ɛ̄ː l ɛ̂ː t
+256	riet	8	3.1221	3.4944	r i ɛ̂ t
+256	skuķe	8	3.1221	3.4944	s k u c ɛ
+256	spārns	8	3.1221	3.4944	s p àː ɾ n s
+256	tuksnesis	8	3.1221	3.4944	t u k s n ɛ s i s
+256	turpinājums	8	3.1221	3.4944	t ù ɾ p i n âː j u m s
+256	ū	8	3.1221	3.4944	uː
+257	aust	7	2.7318	3.4364	à w s t  |  â w s t
+257	avokado	7	2.7318	3.4364	a v o k a d oː  |  a v o k aː d oː
+257	celis	7	2.7318	3.4364	t s ɛ l i s
+257	cepetis	7	2.7318	3.4364	t s ɛ p ɛ t i s
+257	cukurs	7	2.7318	3.4364	t s u k u ɾ s
+257	knābis	7	2.7318	3.4364	k n àː b i s
+257	kāsis	7	2.7318	3.4364	k àː s i s
+257	mango	7	2.7318	3.4364	m a ŋ ɡ oː
+257	slaukt	7	2.7318	3.4364	s l à w k t
+257	spilvens	7	2.7318	3.4364	s p ì l v æ n s
+257	sērs	7	2.7318	3.4364	s ǣː r s
+257	valūta	7	2.7318	3.4364	v a l ùː t a
+257	vāvere	7	2.7318	3.4364	v aː v ɛ ɾ ɛ
+257	vērsis	7	2.7318	3.4364	v ɛ̀ː r s i s
+257	zars	7	2.7318	3.4364	z ā ɾ s
+257	zābaks	7	2.7318	3.4364	z àː b a k s
+258	aborts	6	2.3415	3.3695	a b o ɾ t s
+258	augsne	6	2.3415	3.3695	â w k s n ɛ
+258	bebrs	6	2.3415	3.3695	b æ b ɾ s
+258	biedre	6	2.3415	3.3695	b ì ɛ d ɾ ɛ
+258	biežs	6	2.3415	3.3695	b ì ɛ ʃ
+258	brūns	6	2.3415	3.3695	b ɾ ū n s
+258	bāls	6	2.3415	3.3695	b āː l s
+258	ciešs	6	2.3415	3.3695	t s i ɛ̂ ʃ
+258	daile	6	2.3415	3.3695	d ā ī l ɛ
+258	dzērve	6	2.3415	3.3695	d z ɛ̄ː ɾ v ɛ
+258	grūtniecība	6	2.3415	3.3695	ɡ ɾ ūː t n ì ɛ t s īː b a
+258	klepus	6	2.3415	3.3695	k l æ p u s
+258	kreilis	6	2.3415	3.3695	k ɾ ē ī l i s
+258	kvieši	6	2.3415	3.3695	k v ì ɛ ʃ i
+258	mūks	6	2.3415	3.3695	m ūː k s
+258	nerātns	6	2.3415	3.3695	n æ ɾ āː t n s
+258	prāvs	6	2.3415	3.3695	p r à w s
+258	pē	6	2.3415	3.3695	p ɛː
+258	runcis	6	2.3415	3.3695	ɾ ū n t s i s
+258	skaidrot	6	2.3415	3.3695	s k ā ī d r u ô t
+258	svārki	6	2.3415	3.3695	s v àː ɾ k i  |  s v āː ɾ k i
+258	tulks	6	2.3415	3.3695	t ū l k s
+258	tē	6	2.3415	3.3695	t ɛː
+258	vasks	6	2.3415	3.3695	v a s k s
+258	vē	6	2.3415	3.3695	v ɛː
+258	čakarēt	6	2.3415	3.3695	t͡ʃ ɑ kː ɑ r eːˀ t
+258	īstens	6	2.3415	3.3695	īː s t ɛ n s
+258	ķirzaka	6	2.3415	3.3695	c ī r z a k a
+259	aka	5	1.9513	3.2903	a k a
+259	amerikāniete	5	1.9513	3.2903	a m ɛ ɾ i k āː n i ɛ t ɛ
+259	apvidus	5	1.9513	3.2903	a p v i d u s
+259	binoklis	5	1.9513	3.2903	b ì n o k l i s
+259	brazīlija	5	1.9513	3.2903	b ɾ a z īː l i j a
+259	ceptuve	5	1.9513	3.2903	t s æ p t u v ɛ
+259	daiļš	5	1.9513	3.2903	d ā ī ʎ ʃ
+259	degt	5	1.9513	3.2903	d e k t
+259	dvielis	5	1.9513	3.2903	d v ī ē l i s
+259	eja	5	1.9513	3.2903	ɛ j a
+259	eņ	5	1.9513	3.2903	ɛ ɲ
+259	grezns	5	1.9513	3.2903	ɡ ɾ æ z n s
+259	grīva	5	1.9513	3.2903	ɡ ɾ īː v a
+259	iekša	5	1.9513	3.2903	ì ɛ k ʃ a
+259	karote	5	1.9513	3.2903	k a r u ô t e
+259	krāšņs	5	1.9513	3.2903	k ɾ àː ʃ ɲ s
+259	krūms	5	1.9513	3.2903	k ɾ ūː m s
+259	kārs	5	1.9513	3.2903	k āː r s
+259	kūts	5	1.9513	3.2903	k ūː t s
+259	mitrs	5	1.9513	3.2903	m i t ɾ s
+259	monako	5	1.9513	3.2903	m o n a k oː  |  m o n aː k oː
+259	panna	5	1.9513	3.2903	p ā n n a
+259	spļaut	5	1.9513	3.2903	s p ʎ ā w t
+259	straujš	5	1.9513	3.2903	s t ɾ à u j ʃ
+259	vārdnīca	5	1.9513	3.2903	v ɑː r d n iː t s ɑ
+259	vēsturnieks	5	1.9513	3.2903	v æ̀ː s t u ɾ n i ɛ k s
+259	šūt	5	1.9513	3.2903	ʃ ūː t
+259	žē	5	1.9513	3.2903	ʒ ɛː
+260	aids	4	1.561	3.1934	â j t s
+260	aizvakar	4	1.561	3.1934	à j z v a k a r
+260	blīvs	4	1.561	3.1934	b l īː w s
+260	buča	4	1.561	3.1934	b u t ʃ a
+260	debils	4	1.561	3.1934	d e b i l s  |  d e b iː l s
+260	desa	4	1.561	3.1934	d æ s a
+260	dvīnis	4	1.561	3.1934	d v ìː n i s
+260	dzimta	4	1.561	3.1934	d z ì m t a
+260	dzimšana	4	1.561	3.1934	d z î m ʃ a n a  |  d z ī m ʃ a n a
+260	en	4	1.561	3.1934	ɛ n
+260	hā	4	1.561	3.1934	x aː
+260	iztulkot	4	1.561	3.1934	i s t ū l k u ô t
+260	jērs	4	1.561	3.1934	j ǣː ɾ s
+260	kartupelis	4	1.561	3.1934	k ā r t u p e l i s
+260	klepot	4	1.561	3.1934	k l æ p u ô t
+260	krona	4	1.561	3.1934	k r ōː n a
+260	miršana	4	1.561	3.1934	m î ɾ ʃ a n a  |  m ī ɾ ʃ a n a
+260	mundrs	4	1.561	3.1934	m ū n d ɾ s
+260	mūķene	4	1.561	3.1934	m ūː c ɛ n ɛ
+260	ozols	4	1.561	3.1934	u ô z u o l s
+260	paprika	4	1.561	3.1934	p a p ɾ i k a
+260	paradokss	4	1.561	3.1934	p a ɾ a d o k s
+260	piere	4	1.561	3.1934	p ì ɛ ɾ ɛ
+260	plīts	4	1.561	3.1934	p l īː t s
+260	raža	4	1.561	3.1934	ɾ a ʒ a
+260	rūgts	4	1.561	3.1934	ɾ ûː k t
+260	slaids	4	1.561	3.1934	s l a î t s
+260	slaucīt	4	1.561	3.1934	s l ā w t s îː t
+260	sliņķis	4	1.561	3.1934	s l ī ɲ c i s
+260	slota	4	1.561	3.1934	s l u ô t a
+260	svece	4	1.561	3.1934	s v ɛ t s ɛ
+260	sēne	4	1.561	3.1934	s ɛ̄ː n ɛ
+260	uzcept	4	1.561	3.1934	i s t s ɛ p t
+260	vabole	4	1.561	3.1934	v a b ù o l ɛ
+260	vakardiena	4	1.561	3.1934	v a k a ɾ d ì ɛ n a
+260	varēt	4	1.561	3.1934	v a ɾ ɛ̂ː t
+260	vāverēns	4	1.561	3.1934	v āː v ɛ ɾ ɛ̄ː n s
+260	znots	4	1.561	3.1934	z n u ō t s
+260	zāģis	4	1.561	3.1934	z āː ɟ i s
+260	čiekurs	4	1.561	3.1934	t ʃ i ē k u r s
+260	ērts	4	1.561	3.1934	æ̀ː ɾ t s
+260	žoklis	4	1.561	3.1934	ʒ u ô k l i s
+261	abatija	3	1.1708	3.0685	a b a t i j a
+261	adata	3	1.1708	3.0685	a d a t a
+261	adīt	3	1.1708	3.0685	a d îː t
+261	afrikānis	3	1.1708	3.0685	a f ɾ i k āː n i s  |  āː f ɾ i k āː n i s
+261	auns	3	1.1708	3.0685	à w n s
+261	bārene	3	1.1708	3.0685	b àː ɾ ɛ n ɛ
+261	cimds	3	1.1708	3.0685	t s ì m t s
+261	cūkgaļa	3	1.1708	3.0685	t s ūː k ɡ a ʎ a
+261	dusēt	3	1.1708	3.0685	d u s ɛ̂ː t
+261	elkonis	3	1.1708	3.0685	æ̀ l k ù o n i s
+261	gaist	3	1.1708	3.0685	ɡ à j s t  |  ɡ â j s t  |  ɡ ā j s t
+261	izcept	3	1.1708	3.0685	i s t s ɛ p t
+261	kalt	3	1.1708	3.0685	k ā l t
+261	komats	3	1.1708	3.0685	k o m a t s
+261	kukainis	3	1.1708	3.0685	k u k â j n i s
+261	kustēt	3	1.1708	3.0685	k u s t ɛ̂ː t
+261	lāpsta	3	1.1708	3.0685	l âː p s t a
+261	lūpa	3	1.1708	3.0685	l ūː p a
+261	mirstīgs	3	1.1708	3.0685	m î ɾ s t iː k s  |  m ī ɾ s t iː k s
+261	piemirst	3	1.1708	3.0685	p ì ɛ m ì ɾ s t
+261	plats	3	1.1708	3.0685	p l a t s
+261	prievārds	3	1.1708	3.0685	p ɾ i e v àː ɾ d s
+261	punšs	3	1.1708	3.0685	p u n ʃ
+261	rats	3	1.1708	3.0685	ɾ a t s
+261	siens	3	1.1708	3.0685	s ì e n s
+261	spuldze	3	1.1708	3.0685	s p û l d z ɛ
+261	stops	3	1.1708	3.0685	s t ū ō p s
+261	stumt	3	1.1708	3.0685	s t ù m t  |  s t ū m t
+261	svainis	3	1.1708	3.0685	s v â j n i s
+261	sūkt	3	1.1708	3.0685	s ùː k t
+261	vilna	3	1.1708	3.0685	v ī l n a
+261	virsus	3	1.1708	3.0685	v ì r s u s
+261	vārna	3	1.1708	3.0685	v āː ɾ n a
+261	vēsturniece	3	1.1708	3.0685	v æ̀ː s t u ɾ n i ɛ t s ɛ
+261	zeņķis	3	1.1708	3.0685	z ɛ̄ ɲ c i s
+261	zirnis	3	1.1708	3.0685	z ī ɾ n i s
+261	zvirbulis	3	1.1708	3.0685	z v ī ɾ b u l i s
+261	āpsis	3	1.1708	3.0685	âː p s i s
+261	ērce	3	1.1708	3.0685	ɛ̄ː ɾ t s ɛ
+261	ģ	3	1.1708	3.0685	ɟ
+261	ķauķis	3	1.1708	3.0685	c a u c i s
+261	šaurs	3	1.1708	3.0685	ʃ à u ɾ s
+261	šķīsts	3	1.1708	3.0685	ʃ c îː s t s
+261	šķīvis	3	1.1708	3.0685	ʃ c īː v i s
+261	žogs	3	1.1708	3.0685	ʒ ù o ɡ s
+262	abstrakts	2	0.7805	2.8924	a b s t ɾ a k t s
+262	airis	2	0.7805	2.8924	ā ī ɾ i s
+262	aklums	2	0.7805	2.8924	a k l u m s
+262	amerikānisks	2	0.7805	2.8924	a m ɛ ɾ i k āː n i s k s
+262	anatomija	2	0.7805	2.8924	a n a t ōː m i j a
+262	antropoloģija	2	0.7805	2.8924	ā n t ɾ o p o l o ɟ i j a
+262	atvere	2	0.7805	2.8924	a t v ɛ ɾ ɛ
+262	baidīt	2	0.7805	2.8924	b â j d îː t  |  b ā ī d îː t
+262	bikls	2	0.7805	2.8924	b i k l s
+262	cepeškrāsns	2	0.7805	2.8924	t s ɛ p ɛ ʃ k ɾ âː s n s
+262	citrons	2	0.7805	2.8924	t s i t ɾ oː n s
+262	dobjš	2	0.7805	2.8924	d u ô bʲ ʃ
+262	dobs	2	0.7805	2.8924	d u ô b s
+262	dvīne	2	0.7805	2.8924	d v ìː n ɛ
+262	dzelt	2	0.7805	2.8924	d z ɛ̂ l t
+262	er	2	0.7805	2.8924	ɛ ɾ
+262	esamība	2	0.7805	2.8924	æ s a m īː b a
+262	folklora	2	0.7805	2.8924	f o l k l oː ɾ a
+262	gurķis	2	0.7805	2.8924	ɡ û ɾ c i s
+262	intonācija	2	0.7805	2.8924	i n t o n āː t s i j a
+262	jēls	2	0.7805	2.8924	j æ̂ː l s
+262	kuņģis	2	0.7805	2.8924	k ū ɲ ɟ i s
+262	lēca	2	0.7805	2.8924	l ǣː t s a
+262	maisiņš	2	0.7805	2.8924	m à j s i ɲ ʃ
+262	maksts	2	0.7805	2.8924	m a k s t s
+262	manuskripts	2	0.7805	2.8924	m a n u s k ɾ i p t s
+262	mežāzis	2	0.7805	2.8924	m ɛ ʒ âː z i s
+262	ods	2	0.7805	2.8924	u ô t s
+262	ost	2	0.7805	2.8924	u ô s t
+262	ota	2	0.7805	2.8924	ū ō t a
+262	parītdiena	2	0.7805	2.8924	p a ɾ îː d d ì ɛ n a
+262	pergaments	2	0.7805	2.8924	p ɛ ɾ ɡ a m ɛ n t s
+262	pipars	2	0.7805	2.8924	p i p a ɾ s
+262	pārtulkot	2	0.7805	2.8924	p āː ɾ t ū l k u ô t
+262	pātaga	2	0.7805	2.8924	p àː t a ɡ a
+262	raize	2	0.7805	2.8924	r a î z ɛ
+262	rits	2	0.7805	2.8924	ɾ i t s
+262	skumt	2	0.7805	2.8924	s k ù m t
+262	stings	2	0.7805	2.8924	s t ī ŋ ɡ s
+262	stirna	2	0.7805	2.8924	s t ī ɾ n a
+262	sīpols	2	0.7805	2.8924	s īː p u o l s
+262	trūkt	2	0.7805	2.8924	t ɾ ūː k t
+262	tāfele	2	0.7805	2.8924	t āː f ɛ l ɛ
+262	ubagot	2	0.7805	2.8924	u b a ɡ u ô t
+262	vedekla	2	0.7805	2.8924	v æ d æ k l a
+262	vingrs	2	0.7805	2.8924	v ī ŋ ɡ ɾ s
+262	vārīt	2	0.7805	2.8924	v àː ɾ îː t  |  v āː ɾ îː t
+262	zaldāts	2	0.7805	2.8924	z ā l d āː t s
+262	zviegt	2	0.7805	2.8924	z v ì ɛ k t
+262	zīlīte	2	0.7805	2.8924	z īː l ìː t ɛ
+262	čakls	2	0.7805	2.8924	t ʃ a k l s
+262	īgns	2	0.7805	2.8924	î ɡ n s
+262	ķemme	2	0.7805	2.8924	c ɛ̄ m m ɛ
+262	ķirbis	2	0.7805	2.8924	c ī r b i s
+262	ķēve	2	0.7805	2.8924	c ɛ̄ː v ɛ
+262	švaks	2	0.7805	2.8924	ʃ v a k s̪
+262	šķidrs	2	0.7805	2.8924	ʃ c i d ɾ s
+262	žirgts	2	0.7805	2.8924	ʒ ī ɾ k t s
+263	abstrakcija	1	0.3903	2.5914	a b s t ɾ a k t s i j a
+263	adenīns	1	0.3903	2.5914	a d ɛ n iː n s
+263	administrators	1	0.3903	2.5914	a d m i n i s t ɾ a t o ɾ s
+263	aizparīt	1	0.3903	2.5914	à j z p a ɾ îː t
+263	albānija	1	0.3903	2.5914	a l b āː n i j a
+263	alnis	1	0.3903	2.5914	â l n i s
+263	ananass	1	0.3903	2.5914	a n a n a s
+263	anatomisks	1	0.3903	2.5914	a n a t ōː m i s k s
+263	antropologs	1	0.3903	2.5914	ā n t ɾ o p o l o ɡ s
+263	apinis	1	0.3903	2.5914	a p i n i s  |  a p īː n i s
+263	aplikācija	1	0.3903	2.5914	a p l i k aː t s i j a
+263	apstāklis	1	0.3903	2.5914	a p s t àː k l i s  |  a p s t âː k l i s
+263	ašs	1	0.3903	2.5914	a ʃ
+263	baigs	1	0.3903	2.5914	b a î ɡ s
+263	bildēt	1	0.3903	2.5914	b i lˀ d eːˀ t  |  b i lː d eːˀ t
+263	blāvs	1	0.3903	2.5914	b l āː w s
+263	bors	1	0.3903	2.5914	b ɔː r s
+263	bārdains	1	0.3903	2.5914	b àː ɾ d ā j n s
+263	bē	1	0.3903	2.5914	b ɛː
+263	bļoda	1	0.3903	2.5914	b ʎ ū ō d a
+263	drakons	1	0.3903	2.5914	d ɾ a k oː n s
+263	drēgns	1	0.3903	2.5914	d r ǣː ɡ n s
+263	drīkstēt	1	0.3903	2.5914	d ɾ ìː k s t ɛ̂ː t
+263	dundurs	1	0.3903	2.5914	d ū n d u ɾ s
+263	dzīšana	1	0.3903	2.5914	d z î ʃ a n a  |  d z ī ʃ a n a
+263	ef	1	0.3903	2.5914	ɛ f
+263	ezis	1	0.3903	2.5914	ɛ z i s
+263	griešana	1	0.3903	2.5914	ɡ r i ê ʃː a n a  |  ɡ r ī ē ʃː a n a
+263	iecept	1	0.3903	2.5914	i ɛ t s ɛ p t
+263	izkapts	1	0.3903	2.5914	i s k a p t s
+263	kaija	1	0.3903	2.5914	k ā ī j a
+263	kapibara	1	0.3903	2.5914	k a p i b a ɾ a
+263	kaķe	1	0.3903	2.5914	k a c ɛ
+263	kija	1	0.3903	2.5914	k i j a
+263	kivi	1	0.3903	2.5914	k i v i  |  k i v iː
+263	klade	1	0.3903	2.5914	k l a d e
+263	klons	1	0.3903	2.5914	k l o n s  |  k l ū ō n s
+263	klēts	1	0.3903	2.5914	k l ɛ̄ː t s
+263	kreile	1	0.3903	2.5914	k ɾ ɛ̄ ī l ɛ
+263	kult	1	0.3903	2.5914	k ū l t
+263	kustonis	1	0.3903	2.5914	k u s t u ô n i s
+263	labība	1	0.3903	2.5914	l a b ìː b a
+263	latvija	1	0.3903	2.5914	l a t v i j a
+263	lielpilsēta	1	0.3903	2.5914	l ī ɛ̄ l p i l s ǣː t a
+263	liet	1	0.3903	2.5914	l i ɛ̂ t
+263	lokans	1	0.3903	2.5914	l ù o k a n s
+263	lācene	1	0.3903	2.5914	l âː t s ɛ n ɛ
+263	lāpstiņa	1	0.3903	2.5914	l âː p s t i ɲ a
+263	maurs	1	0.3903	2.5914	m ā ū r s
+263	meija	1	0.3903	2.5914	m ē ī j a
+263	menca	1	0.3903	2.5914	m ǣ n t s a
+263	mirstība	1	0.3903	2.5914	m î ɾ s t iː b a  |  m ī ɾ s t iː b a
+263	paduse	1	0.3903	2.5914	p a d u s ɛ
+263	pastmarka	1	0.3903	2.5914	p a s t m a ɾ k a
+263	pierobeža	1	0.3903	2.5914	p ì ɛ ɾ u ò b ɛ ʒ a
+263	post	1	0.3903	2.5914	p u ô s t
+263	prast	1	0.3903	2.5914	p ɾ a s t
+263	producēt	1	0.3903	2.5914	p ɾ o d u t s ɛ̂ː t
+263	pēkšņs	1	0.3903	2.5914	p ɛ̀ː k ʃ ɲ s
+263	pļaujmašīna	1	0.3903	2.5914	p ʎ ā w m a ʃ īː n a
+263	pļaut	1	0.3903	2.5914	p ʎ ā w t
+263	pļava	1	0.3903	2.5914	p ʎ a v a
+263	raupjš	1	0.3903	2.5914	r à w pʲ ʃ
+263	rātns	1	0.3903	2.5914	ɾ āː t n s
+263	rīga	1	0.3903	2.5914	ɾ īː ɡ a
+263	segli	1	0.3903	2.5914	s æ ɡ l i
+263	skaļrunis	1	0.3903	2.5914	s k a ʎ ɾ u n i s
+263	skābs	1	0.3903	2.5914	s k âː b s
+263	soms	1	0.3903	2.5914	s ū ō m s
+263	speķis	1	0.3903	2.5914	s p ɛ c i s
+263	sportisks	1	0.3903	2.5914	s p o ɾ t i s k s
+263	stirnāzis	1	0.3903	2.5914	s t i ɾ n âː z i s
+263	strēle	1	0.3903	2.5914	s t ɾ ɛ̂ː l ɛ
+263	stārķis	1	0.3903	2.5914	s t āː ɾ ɟ i s
+263	svaine	1	0.3903	2.5914	s v â j n ɛ
+263	sēklis	1	0.3903	2.5914	s ɛ̀ː k l i s  |  s ɛ̄ː k l i s
+263	uzsvars	1	0.3903	2.5914	u s v a ɾ s
+263	vālodze	1	0.3903	2.5914	v āː l u ô d z ɛ
+263	vēdeklis	1	0.3903	2.5914	v ɛ̄ː d ɛ k l i s
+263	vēsma	1	0.3903	2.5914	v ǣː s m a
+263	vīle	1	0.3903	2.5914	v ìː l ɛ  |  v īː l ɛ
+263	zvīņa	1	0.3903	2.5914	z v īː ɲ a
+263	zāģēt	1	0.3903	2.5914	z āː ɟ ɛ̂ː t
+263	zē	1	0.3903	2.5914	z ɛː
+263	ābele	1	0.3903	2.5914	âː b ɛ l e
+263	č	1	0.3903	2.5914	t ʃ
+263	ērkšķis	1	0.3903	2.5914	êː r k ʃ t͡ʃ i s  |  ɛ̄ː ɾ k ʃ t͡ʃ i s
+263	ķerra	1	0.3903	2.5914	c æ rː a
+263	ņ	1	0.3903	2.5914	ɲ
+263	šašliks	1	0.3903	2.5914	ʃ a ʃ l i k s
+263	ūdrs	1	0.3903	2.5914	ûː d r s
+263	žigls	1	0.3903	2.5914	ʒ i ɡ l s

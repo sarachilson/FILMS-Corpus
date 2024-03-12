@@ -18,7 +18,7 @@ The data is organised in the following way:
 The files contain the frequency rank, the raw frequency, the frequency per million and the Zipf value of each word, as well as their IPA transcription in the IPA files. 
 Note that different IPA transcriptions for the same word are separated by double-space | double-space rather than a single space for the sake of improving readability.
 
-You can also find statistics information about the data in the directory `stats`.
+You can also find statistics information about the data in the directory [`stats`](https://github.com/sarachilson/FILMS-Corpus/tree/main/stats).
 
 The statistics information includes:
 - the average word length within the text of the corpus

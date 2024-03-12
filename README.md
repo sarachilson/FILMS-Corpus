@@ -30,7 +30,7 @@ The statistics information includes:
 
 ## Code
 
-Run `main.py` to produce frequency files.
+Run [`main.py`](https://github.com/sarachilson/FILMS-Corpus/blob/main/main.py) to produce frequency files.
 `main.py` takes the following arguments that allow you to modify the frequency data output:
 
 | Argument | Full argument name | Description |

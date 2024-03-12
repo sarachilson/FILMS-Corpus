@@ -1,0 +1,4 @@
+serbian.word.freq.txt filter=lfs diff=lfs merge=lfs -text
+turkish.word.freq.txt filter=lfs diff=lfs merge=lfs -text
+hungarian.word.freq.txt filter=lfs diff=lfs merge=lfs -text
+arabic.word.freq.txt filter=lfs diff=lfs merge=lfs -text

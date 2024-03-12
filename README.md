@@ -11,9 +11,9 @@ Sara Chilson, Elizaveta Sineva, Xenia Schmalz (2024).
 The corpus contain frequency data for 52 languages in `txt` and Excel (`xlsx`) formats. Note that for languages that have more than 100k unique words, the Excel version is reduced to the top 100k. You can see the full version in the corresponding `txt` file. All files are tab separated.  
 
 The data is organised in the following way:
-* `data/word_freq`: the word frequencies for all languages, the full corpus version (named `[language name].word.freq`) as well as the version with the IPA information (named `[language name].word.freq.ipa`)
-* `data/character_freq`: the word character frequencies for all languages (named `[language name].character.freq`)
-* `data/bigram_freq`: the bigram frequencies for all languages (named `[language name].bigram.freq`). Note that the bigrams were extracted from within the word and not from within the sentence.
+* [`data/word_freq`](https://github.com/sarachilson/FILMS-Corpus/tree/main/data/word_freq): the word frequencies for all languages, the full corpus version (named `[language name].word.freq`) as well as the version with the IPA information (named `[language name].word.freq.ipa`)
+* [`data/character_freq`](https://github.com/sarachilson/FILMS-Corpus/tree/main/data/character_freq): the word character frequencies for all languages (named `[language name].character.freq`)
+* [`data/bigram_freq`](https://github.com/sarachilson/FILMS-Corpus/tree/main/data/bigram_freq): the bigram frequencies for all languages (named `[language name].bigram.freq`). Note that the bigrams were extracted from within the word and not from within the sentence.
 
 The files contain the frequency rank, the raw frequency, the frequency per million and the Zipf value of each word, as well as their IPA transcription in the IPA files. 
 Note that different IPA transcriptions for the same word are separated by double-space | double-space rather than a single space for the sake of improving readability.

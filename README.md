@@ -1,8 +1,8 @@
-# Subtlex Multilingual Frequency Corpus (SMFC)
+# Subtlex Multilingual IPA Corpus (SMIC)
 
-Subtlex Multilingual Frequency Corpus (SMFC) is a frequency corpus based on the movie subtitles data.
-The basis for SMFC is [OpenSubtitles corpus](https://opus.nlpl.eu/OpenSubtitles-v2018.php).
-SMFC also provides a shortened version of the data containing the IPA information from the [Wikipron corpus](https://github.com/CUNY-CL/wikipron/tree/master/data/scrape/tsv).
+Subtlex Multilingual IPA Corpus (SMIC) is a frequency corpus based on the movie subtitles data.
+The basis for SMIC is [OpenSubtitles corpus](https://opus.nlpl.eu/OpenSubtitles-v2018.php).
+SMIC also provides a shortened version of the data containing the IPA information from the [Wikipron corpus](https://github.com/CUNY-CL/wikipron/tree/master/data/scrape/tsv).
 
 Sara Chilson, Elizaveta Sineva, Xenia Schmalz (2024). 
 

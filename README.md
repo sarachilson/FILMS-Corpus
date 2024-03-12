@@ -1,4 +1,4 @@
-# Word Frequency IPA Multilingual Subtitles Corpus (FILMS Corpus)
+# Word Frequency IPA MultiLingual Subtitles Corpus (FILMS Corpus)
 
 Word Frequency IPA Multilingual Subtitles Corpus (FILMS Corpus) is a frequency corpus based on the movie subtitles data.
 The basis for FILMS is [OpenSubtitles corpus](https://opus.nlpl.eu/OpenSubtitles-v2018.php).

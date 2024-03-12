@@ -1,14 +1,14 @@
-# LMU Subtitles Word Frequency Corpus (LSWFC)
+# Subtlex Multilingual Frequency Corpus (SMFC)
 
-LSWFC is a frequency corpus based on the movie subtitles data.
-The basis for LSWFC is [OpenSubtitles corpus](https://opus.nlpl.eu/OpenSubtitles-v2018.php).
-LSWFC also provides a shortened version of the data containing the IPA information from the [Wikipron corpus](https://github.com/CUNY-CL/wikipron/tree/master/data/scrape/tsv).
+Subtlex Multilingual Frequency Corpus (SMFC) is a frequency corpus based on the movie subtitles data.
+The basis for SMFC is [OpenSubtitles corpus](https://opus.nlpl.eu/OpenSubtitles-v2018.php).
+SMFC also provides a shortened version of the data containing the IPA information from the [Wikipron corpus](https://github.com/CUNY-CL/wikipron/tree/master/data/scrape/tsv).
 
 Sara Chilson, Elizaveta Sineva, Xenia Schmalz (2024). 
 
 ## Data
 
-The corpus contain frequency data for 52 languages in `txt` and Excel (`xlsx`) formats. Note that for languages that have more than 100k unique words, the Excel version is reduced to the top 100k. You can see the full version in the corresponding `txt` file.
+The corpus contain frequency data for 52 languages in `txt` and Excel (`xlsx`) formats. Note that for languages that have more than 100k unique words, the Excel version is reduced to the top 100k. You can see the full version in the corresponding `txt` file. All files are tab separated.  
 
 The data is organised in the following way:
 * `data/word_freq`: the word frequencies for all languages, the full corpus version (named `[language name].word.freq`) as well as the version with the IPA information (named `[language name].word.freq.ipa`)

@@ -1,17 +1,23 @@
 # Word <ins>F</ins>requency <ins>I</ins>PA <ins>M</ins>ulti<ins>L</ins>ingual <ins>S</ins>ubtitles Corpus (FILMS Corpus)
 
-Word <ins>F</ins>requency <ins>I</ins>PA <ins>M</ins>ulti<ins>L</ins>ingual <ins>S</ins>ubtitles Corpus (FILMS Corpus) is a frequency corpus based on the movie subtitles data.
-The basis for FILMS is [OpenSubtitles corpus](https://opus.nlpl.eu/OpenSubtitles/corpus/version/OpenSubtitles).
-FILMS also provides a shortened version of the data containing the IPA information from the [Wikipron corpus](https://github.com/CUNY-CL/wikipron/tree/master/data/scrape/tsv).
+Word <ins>F</ins>requency <ins>I</ins>PA <ins>M</ins>ulti<ins>L</ins>ingual <ins>S</ins>ubtitles Corpus (FILMS Corpus) is a frequency corpus based on the movie subtitles data taken from [OpenSubtitles corpus](https://opus.nlpl.eu/OpenSubtitles/corpus/version/OpenSubtitles).
+FILMS includes a full length version of all frequency count, as well as a smaller subset of the data contianing only words for which IPA transcriptions were avaliabe in Wikipedia [Wikipron corpus](https://github.com/CUNY-CL/wikipron/tree/master/data/scrape/tsv).
 
 Sara Chilson, Elizaveta Sineva, Xenia Schmalz (2024). 
 
 ## Data
 
-The corpus contain frequency data for 52 languages in `txt` and Excel (`xlsx`) formats. Note that for languages that have more than 100k unique words, the Excel version is reduced to the top 100k. You can see the full version in the corresponding `txt` file. All files are tab separated.  
+The corpus contain frequency data for 52 languages in `txt` and Excel (`xlsx`) formats. Note that for languages that have more than 100k unique words, the Excel version is reduced to the top 100k. You can see the full version in the corresponding `txt` file. All `txt` files are tab separated.  
 
-The data is organised in the following way:
-* [`data/word_freq`](https://github.com/sarachilson/FILMS-Corpus/tree/main/data/word_freq): the word frequencies for all languages, the full corpus version (named `[language name].word.freq`) as well as the version with the IPA information (named `[language name].word.freq.ipa`)
+The data is organised into three main directories in the following way:
+
+* [`data/word_freq`](https://github.com/sarachilson/FILMS-Corpus/tree/main/data/word_freq): contians four files for each language in the corpus. 
+
+1) a text file of the full-length unfiltered version (named `[language name].word.freq.txt`)
+2) a txt file of the IPA filtered data (named `[language name].word.freq.ipa.txt`)
+3) an excel file of the full-length unfiltered version (named `[language name].word.freq.xlsx`)
+4) a txt file of the IPA filtered data  (named `[language name].word.freq.ipa.xlsx`)
+
 * [`data/character_freq`](https://github.com/sarachilson/FILMS-Corpus/tree/main/data/character_freq): the word character frequencies for all languages (named `[language name].character.freq`)
 * [`data/bigram_freq`](https://github.com/sarachilson/FILMS-Corpus/tree/main/data/bigram_freq): the bigram frequencies for all languages (named `[language name].bigram.freq`). Note that the bigrams were extracted from within the word and not from within the sentence.
 

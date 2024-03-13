@@ -13,18 +13,18 @@ The data is organised into three main directories in the following way:
 
 * [`data/word_freq`](https://github.com/sarachilson/FILMS-Corpus/tree/main/data/word_freq): contians four files for each language in the corpus. 
 
-1) a text file of the full-length unfiltered version (named `[language name].word.freq.txt`)
-2) a txt file of the IPA filtered data (named `[language name].word.freq.ipa.txt`)
-3) an excel file of the full-length unfiltered version (named `[language name].word.freq.xlsx`)
-4) a txt file of the IPA filtered data  (named `[language name].word.freq.ipa.xlsx`)
+1) txt file of the full-length unfiltered version (named `[language name].word.freq.txt`)
+2) txt file of the IPA filtered data (named `[language name].word.freq.ipa.txt`)
+3) excel file of the full-length unfiltered version (named `[language name].word.freq.xlsx`)
+4) excel file of the IPA filtered data  (named `[language name].word.freq.ipa.xlsx`)
 
-* [`data/character_freq`](https://github.com/sarachilson/FILMS-Corpus/tree/main/data/character_freq): the word character frequencies for all languages (named `[language name].character.freq`)
+* [`data/character_freq`](https://github.com/sarachilson/FILMS-Corpus/tree/main/data/character_freq): the word character frequencies for all languages (named `[language name].character.freq`) both as a `txt` file and as a `xlsx` file
 * [`data/bigram_freq`](https://github.com/sarachilson/FILMS-Corpus/tree/main/data/bigram_freq): the bigram frequencies for all languages (named `[language name].bigram.freq`). Note that the bigrams were extracted from within the word and not from within the sentence.
 
 The files contain the frequency rank, the raw frequency, the frequency per million and the Zipf value of each word, as well as their IPA transcription in the IPA files. 
 Note that different IPA transcriptions for the same word are separated by double-space | double-space rather than a single space for the sake of improving readability.
 
-You can also find statistics information about the data in the directory [`stats`](https://github.com/sarachilson/FILMS-Corpus/tree/main/stats).
+You can also find statistics information about each language in the directory [`stats`](https://github.com/sarachilson/FILMS-Corpus/tree/main/stats).
 
 The statistics information includes:
 - the average word length within the text of the corpus

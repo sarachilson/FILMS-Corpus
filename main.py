@@ -74,12 +74,20 @@ ABBR2FULL = {'af': 'afrikaans',
              'te': 'telugu', 
              'tr': 'turkish', 
              'uk': 'ukrainian', 
-             'ur': 'urdu'}                                                                                           
+             'ur': 'urdu'}                                                     
+
+
+NOT_IN_ASPELL = ['albanian', 'basque', 'georgian', 'icelandic', 'kazakh',
+                 'norwegian', 'urdu']
+
+ABBR2ASPELL = {'pt':    'pt_PT', 
+               'pt_br': 'pt_BR'}
 
 
 
 def main(gz_data_file, file_types="txt|xlsx", ipa_dir="",
-         count_character=False, count_bigram=False, stats=False):
+         count_character=False, count_bigram=False, spell_check=False,
+         stats=False):
     """
     Collects frequencies from the OpenSubtitles data in a given language.
 
@@ -102,6 +110,9 @@ def main(gz_data_file, file_types="txt|xlsx", ipa_dir="",
     count_bigram : bool, optional
         Set to True if the information about bigram frequency within a word
             is to be added. The default is False.
+    spell_check : bool, optional
+        Set to True to filter the words using Aspell spell checker.
+        You can find the spell checker at aspell.net.
     stats : bool, optional
         Set to True to have some statistical information about the corpus 
             printed out. The default is False.
@@ -117,6 +128,10 @@ def main(gz_data_file, file_types="txt|xlsx", ipa_dir="",
     lang = ABBR2FULL[lang_abbr]
     
     print(f"Language: {lang.capitalize()}\n")
+    
+    if spell_check:
+        assert lang not in NOT_IN_ASPELL, f"You have added the option of using a spell checker; however, there is no spell checker for {lang.capitalize()}"
+        spell_check = ABBR2ASPELL.get(lang_abbr, lang_abbr)
     
     # Extract the raw data from the file
     data_lines = extract_data(gz_data_file)
@@ -145,11 +160,13 @@ def main(gz_data_file, file_types="txt|xlsx", ipa_dir="",
         # Organize the data
         ordered_freq = order_data(data_types[data_type], ipa_dir=ipa_info, 
                                   lang=lang, unit_name=data_type.capitalize(),
-                                  stats=stats)
+                                  spell_check=spell_check, stats=stats)
                 
         # Export word frequency data in a file
         folder_name = f"data/{data_type}_freq/"
         file_name = folder_name + lang + f".{data_type}.freq"
+        if spell_check:
+            file_name += ".spell_checked"
         if ipa_info:
             file_name += ".ipa"        
         export_data(ordered_freq, file_name, file_types=file_types)
@@ -173,6 +190,9 @@ if __name__ == "__main__":
     argparser.add_argument("-b", "--bigram", default=False,
                             action=argparse.BooleanOptionalAction,
                             help="use to extract bigram frequency information (bigrams within a word)")
+    argparser.add_argument("-a", "--aspell", default=False,
+                            action=argparse.BooleanOptionalAction,
+                            help="filter the words using the Aspell spell checker")
     argparser.add_argument("-s", "--stats", default=False,
                             action=argparse.BooleanOptionalAction,
                             help="use to print out statistics about the data")
@@ -185,7 +205,7 @@ if __name__ == "__main__":
     
     gz_data_file = args.file
     main(gz_data_file, ipa_dir=args.ipa, count_character=args.character,
-          count_bigram=args.bigram, stats=args.stats)
+          count_bigram=args.bigram, spell_check=args.aspell, stats=args.stats)
 
 
     ### Run the script without using arguments

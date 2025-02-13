@@ -1,6 +1,6 @@
 # Word <ins>F</ins>requency <ins>I</ins>PA <ins>M</ins>ulti<ins>L</ins>ingual <ins>S</ins>ubtitles Corpus (FILMS Corpus)
 
-Word <ins>F</ins>requency <ins>I</ins>PA <ins>M</ins>ulti<ins>L</ins>ingual <ins>S</ins>ubtitles Corpus (FILMS Corpus) is a frequency corpus based on the movie subtitles data taken from [OpenSubtitles corpus](https://opus.nlpl.eu/OpenSubtitles/corpus/version/OpenSubtitles).
+Word <ins>F</ins>requency <ins>I</ins>PA <ins>M</ins>ulti<ins>L</ins>ingual <ins>S</ins>ubtitles Corpus (FILMS Corpus) is a frequency corpus based on the movie subtitles data taken from [OpenSubtitles corpus](https://opus.nlpl.eu/OpenSubtitles/corpus/version/OpenSubtitles) (v2018).
 FILMS includes a full length version of all frequency count, as well as a smaller subset of the data contianing only words for which IPA transcriptions were avaliabe in Wikipedia [Wikipron corpus](https://github.com/CUNY-CL/wikipron/tree/master/data/scrape/tsv).
 
 Sara Chilson, Elizaveta Sineva, Xenia Schmalz (2024). 
@@ -47,6 +47,7 @@ Run [`main.py`](https://github.com/sarachilson/FILMS-Corpus/blob/main/main.py) t
 | `-i IPA` | `--ipa IPA` | The path to the directory containing the files with the IPA information from the Wikipron corpus. The IPA information will only be added to the data if the directory is provided. |
 | `-c` | `--character` | Use to extract word character frequency information. |
 | `-b` | `--bigram` | Use to extract bigram frequency information. |
+| `-a` | `--aspell` | Use to filter the words via the [Aspell](http://aspell.net/) spell checker. |
 | `-s` | `--stats` | Use to print out statistics about the data. |
 
 _Usage_ _example_: 
